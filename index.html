@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#090b10">
+  <meta name="description" content="Biblioteca de distinciones de Umbral. Explorá el material en fichas deslizables.">
+  <title>Biblioteca de distinciones · Umbral</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./library.css">
+  <link rel="stylesheet" href="./app.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main class="micro-shell">
+    <header class="micro-nav">
+      <a class="micro-brand" href="./" aria-label="Umbral, inicio"><span>U</span><strong>UMBRAL</strong></a>
+      <button class="install-button" id="install">Tener en mi celular</button>
+    </header>
+    <section class="micro-intro">
+      <div><p class="micro-eyebrow">✦ Biblioteca de distinciones</p><h1>Una mirada.<br><em>Todo el material.</em></h1></div>
+      <p class="micro-intro-copy">Las 24 distinciones del coloquio, cruzadas con distinciones, plenarias e hitos de la base. Esta versión reúne el material antes de resumirlo.</p>
+    </section>
+    <section class="micro-controls" aria-label="Buscar y filtrar distinciones">
+      <label class="micro-search"><span aria-hidden="true">⌕</span><span class="sr-only">Buscar distinción</span><input id="search" type="search" placeholder="¿Qué querés entender?"></label>
+      <div id="filters" class="micro-filters" role="group" aria-label="Filtrar por dominio"></div>
+    </section>
+    <section id="grid" class="micro-grid" aria-label="Distinciones"><p>Cargando biblioteca…</p></section>
+    <p id="count" class="micro-count" aria-live="polite"></p>
+    <p id="offline-status" class="micro-count" role="status"></p>
+    <noscript>Activá JavaScript para recorrer las fichas de la biblioteca.</noscript>
+  </main>
+  <dialog id="reel" class="reel-dialog" aria-labelledby="reel-title">
+    <div class="reel-phone">
+      <header class="reel-header"><button id="close" aria-label="Volver a la biblioteca">‹</button><div><span id="domain"></span><strong id="reel-title"></strong></div><span id="position" class="reel-position"></span></header>
+      <div class="reel-progress"><span id="progress"></span></div>
+      <div id="track" class="native-track" aria-label="Fichas deslizables"></div>
+      <footer class="reel-footer"><button id="previous">← Anterior</button><span>Deslizá para seguir</span><button id="next">Siguiente →</button></footer>
+    </div>
+  </dialog>
+  <dialog id="install-help" class="install-help" aria-labelledby="install-title">
+    <h2 id="install-title">Umbral en tu celular</h2>
+    <p><strong>iPhone:</strong> abrí este enlace en Safari, tocá Compartir y elegí “Agregar a pantalla de inicio”.</p>
+    <p><strong>Android:</strong> en el menú del navegador buscá “Instalar aplicación” o “Agregar a pantalla principal”.</p>
+    <p>Esperá el mensaje “Biblioteca disponible sin conexión” antes de desconectarte. El navegador puede liberar los datos descargados si falta espacio.</p>
+    <form method="dialog"><button class="install-button">Entendido</button></form>
+  </dialog>
+</body>
+</html>

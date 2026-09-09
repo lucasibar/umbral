@@ -1,0 +1,35 @@
+:root { color-scheme: dark; --font-serif: Georgia, 'Times New Roman', serif; --font-mono: Consolas, monospace; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', sans-serif; background: #090b10; }
+button,input { font: inherit; }
+a { color: inherit; text-decoration: none; }
+button:focus-visible,a:focus-visible { outline: 2px solid #ff9f43; outline-offset: 4px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }
+.install-button { padding: 10px 14px; border: 1px solid #5d6370; border-radius: 999px; background: #191c25; color: #f6f7fb; cursor: pointer; font-size: .875rem; }
+.micro-card-hook { font-size: 1rem; }
+.micro-card-domain,.micro-card-footer { font-size: .8125rem; }
+.micro-filters button { font-size: .875rem; }
+.micro-card-footer { justify-content: space-between; }
+.micro-count { font-size: .875rem; color: #a6aab4; }
+.reel-dialog { padding: 0; border: 0; background: transparent; width: min(430px,100vw); max-width: 100vw; max-height: 100dvh; color: white; }
+.reel-dialog::backdrop,.install-help::backdrop { background: #030407db; backdrop-filter: blur(16px); }
+.reel-phone { height: min(860px, calc(100dvh - 24px)); min-height: 0; }
+.reel-header { grid-template-columns: 44px minmax(0,1fr) 52px; }
+.reel-header button { font-size: 2rem; }
+.reel-header div span,.reel-position { font-size: .75rem; }
+.reel-header div strong { font-size: .875rem; }
+.native-track { display: flex; overflow-x: auto; overflow-y: hidden; scroll-snap-type: x mandatory; scrollbar-width: none; min-height: 0; }
+.native-track::-webkit-scrollbar { display: none; }
+.reel-slide { flex: 0 0 100%; width: 100%; min-width: 0; height: 100%; scroll-snap-align: start; scroll-snap-stop: always; }
+.reel-slide article { display: block; overflow-y: auto; padding: 32px 26px; overscroll-behavior-y: contain; }
+.reel-slide article > p { font-size: .75rem; line-height: 1.6; }
+.reel-slide h2 { font-size: clamp(1.75rem, 4.3vh, 2.9rem); overflow-wrap: anywhere; }
+.reel-body { max-width: none; padding: 0; overflow: visible; font-size: 1rem; }
+.reel-rule { min-height: 2px; }
+.reel-watermark { display: none; }
+.reel-footer button { font-size: .875rem; min-height: 44px; }
+.reel-footer span { font-size: .75rem; }
+.reel-next-topic { font-size: .875rem; }
+.install-help { max-width: min(460px,calc(100% - 28px)); border: 1px solid #4e5360; border-radius: 22px; background: #151821; padding: 28px; color: white; }
+.install-help p { line-height: 1.6; color: #c5c8d0; }
+@media(max-width:560px) { .reel-dialog { margin: 0; width: 100%; height: 100dvh; } .reel-phone { height: 100dvh; width: 100%; } .reel-footer { gap: 3px; } }
