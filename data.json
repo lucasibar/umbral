@@ -611,38 +611,56 @@
     "officialTitle": "12) Confianza",
     "domain": "Ontología",
     "color": "#4895ef",
-    "hook": "La confianza no es magia: es una evaluación de 4 pilares.",
-    "minutes": 5,
+    "hook": "La confianza no es un sentimiento difuso: es un juicio de 4 pilares sobre la conducta futura.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · LA CONFIANZA COMO JUICIO",
-        "title": "Evaluación de Comportamiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hipótesis Futura:</span><span class=\"croquis-desc\">La confianza es la evaluación sobre si podemos vulnerarnos ante el accionar futuro de otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construible y Reparable:</span><span class=\"croquis-desc\">Al ser un juicio compuesto de pilares, se puede diagnosticar y reparar con conversaciones precisas.</span></div>\n          </div>\n        ",
+        "kicker": "01 · FUNDAMENTO ONTOLÓGICO",
+        "title": "Apuesta Sobre el Futuro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hipótesis Futura:</span><span class=\"croquis-desc\">La confianza (Cornu/Maturana/Flores) es una evaluación sobre la conducta futura de un otro en la que decidimos no inquietarnos por la falta de control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cimiento Fundamental:</span><span class=\"croquis-desc\">Sin confianza no hay posibilidad de vulnerabilidad, coordinación ni construcción de relaciones sustentables.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
-        "kicker": "02 · LOS 4 PILARES",
-        "title": "Anatomía de la Confianza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Sinceridad:</span><span class=\"croquis-desc\">Coherencia entre lo que dice, piensa y promete.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Competencia:</span><span class=\"croquis-desc\">Habilidad técnica y capacidad observada para cumplir el trabajo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Fiabilidad:</span><span class=\"croquis-desc\">Historial impecable de promesas cumplidas a lo largo del tiempo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Cuidado:</span><span class=\"croquis-desc\">Evaluación de que al otro le importa tu bienestar e inquietud.</span></div>\n          </div>\n        ",
+        "kicker": "02 · COHERENCIA EN LOS 3 DOMINIOS",
+        "title": "Confianza en Cuerpo, Lenguaje y Emoción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje (Juicio):</span><span class=\"croquis-desc\">Evaluación fundada que determina si decidimos o no coordinar acciones con alguien.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción (Tranquilidad vs. Miedo):</span><span class=\"croquis-desc\">Predisposición de serenidad y certeza. La falta de confianza se manifiesta como <strong>miedo o resentimiento</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo (Apertura y Centramiento):</span><span class=\"croquis-desc\">Disposición corporal erguida, receptiva y estable que transmite seguridad.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
-        "kicker": "03 · REPARACIÓN",
-        "title": "Estructura Relacional (ECR)",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diagnóstico:</span><span class=\"croquis-desc\">Identificar en cuál de los 4 pilares específicos ocurrió la quiebra de confianza.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratación:</span><span class=\"croquis-desc\">Pedir y coordinar compromisos verificables para reconstruir la credibilidad.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LOS 4 PILARES (1/2)",
+        "title": "Sinceridad y Competencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Sinceridad:</span><span class=\"croquis-desc\">Coherencia entre la conversación pública (lo que digo afuera) y la conversación privada (lo que pienso por dentro).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Competencia:</span><span class=\"croquis-desc\">Poseer el saber hacer, las habilidades técnicas y la capacidad operativa para cumplir el compromiso.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
-        "kicker": "04 · AUTOCONFIANZA",
+        "kicker": "04 · LOS 4 PILARES (2/2)",
+        "title": "Credibilidad e Involucramiento",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Credibilidad (Historial):</span><span class=\"croquis-desc\">El registro histórico impecable de promesas cumplidas a lo largo del tiempo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Involucramiento:</span><span class=\"croquis-desc\">Actitud de <em>\"jugarse\"</em> al 100%. Demostrar que lo que le importa al otro es valioso e importante para mí.</span></div>\n          </div>\n        ",
+        "source": "12) Confianza"
+      },
+      {
+        "kicker": "05 · EL EDIFICIO DE RESULTADOS",
+        "title": "Pirámide del Logro Ontológico",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estructura ELAC:</span><span class=\"croquis-desc\"><strong>CONFIANZA $\\rightarrow$ Relaciones $\\rightarrow$ Compromiso $\\rightarrow$ Acciones $\\rightarrow$ RESULTADOS</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Vulnerabilidad de la Base:</span><span class=\"croquis-desc\">Si el cimiento de la confianza falla, todo el edificio de resultados del equipo termina colapsando.</span></div>\n          </div>\n        ",
+        "source": "12) Confianza"
+      },
+      {
+        "kicker": "06 · LA AUTOCONFIANZA",
         "title": "Confianza en Uno Mismo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cumplirse a Uno Mismo:</span><span class=\"croquis-desc\">La autoconfianza nace de sostener las promesas y compromisos que te hacés a vos mismo.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autocoherencia:</span><span class=\"croquis-desc\">El juicio de confianza sobre vos mismo. Nace de honrar las promesas que te hacés a solas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptar Incompetencias:</span><span class=\"croquis-desc\">Reconocer honestamente tus límites sin destruirte abre el espacio para aprender e incorporar ayuda.</span></div>\n          </div>\n        ",
+        "source": "12) Confianza"
+      },
+      {
+        "kicker": "07 · REPARACIÓN DE LA CONFIANZA",
+        "title": "Reconstruir el Vínculo Roto",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diagnóstico de Pilar:</span><span class=\"croquis-desc\">Identificar con precisión si la quiebra fue de sinceridad, competencia, historial o involucramiento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratar el Futuro:</span><span class=\"croquis-desc\">Pedir disculpas sinceras, reparar los costos causados y sostener promesas impecables a futuro.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "12) Confianza"
       }
     ]
