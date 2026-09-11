@@ -1,6 +1,98 @@
 const $ = (id) => document.getElementById(id);
 const normalize = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 let topics = [], category = 'Todas', selected = null, current = 0, installPrompt;
+let userReflections = new Map();
+
+// --- INDEXEDDB HELPER FUNCTIONS ---
+const DB_NAME = 'umbral-db';
+const DB_VERSION = 1;
+const STORE_NAME = 'reflections';
+let dbPromise = null;
+
+function getDB() {
+  if (dbPromise) return dbPromise;
+  dbPromise = new Promise((resolve, reject) => {
+    const request = indexedDB.open(DB_NAME, DB_VERSION);
+    request.onupgradeneeded = (e) => {
+      const db = e.target.result;
+      if (!db.objectStoreNames.contains(STORE_NAME)) {
+        db.createObjectStore(STORE_NAME, { keyPath: 'slug' });
+      }
+    };
+    request.onsuccess = (e) => resolve(e.target.result);
+    request.onerror = (e) => reject(e.target.error);
+  });
+  return dbPromise;
+}
+
+async function loadAllReflections() {
+  try {
+    const db = await getDB();
+    return new Promise((resolve) => {
+      const tx = db.transaction(STORE_NAME, 'readonly');
+      const store = tx.objectStore(STORE_NAME);
+      const req = store.getAll();
+      req.onsuccess = () => {
+        userReflections.clear();
+        (req.result || []).forEach(item => {
+          if (item.lenguaje || item.cuerpo || item.emocion) {
+            userReflections.set(item.slug, item);
+          }
+        });
+        resolve(userReflections);
+      };
+      req.onerror = () => resolve(userReflections);
+    });
+  } catch {
+    return userReflections;
+  }
+}
+
+async function getReflection(slug) {
+  try {
+    const db = await getDB();
+    return new Promise((resolve) => {
+      const tx = db.transaction(STORE_NAME, 'readonly');
+      const store = tx.objectStore(STORE_NAME);
+      const req = store.get(slug);
+      req.onsuccess = () => resolve(req.result || null);
+      req.onerror = () => resolve(null);
+    });
+  } catch {
+    return null;
+  }
+}
+
+async function saveReflection(slug, data) {
+  try {
+    const db = await getDB();
+    return new Promise((resolve, reject) => {
+      const tx = db.transaction(STORE_NAME, 'readwrite');
+      const store = tx.objectStore(STORE_NAME);
+      const payload = {
+        slug,
+        lenguaje: data.lenguaje || '',
+        cuerpo: data.cuerpo || '',
+        emocion: data.emocion || '',
+        updatedAt: new Date().toISOString()
+      };
+      const req = store.put(payload);
+      req.onsuccess = () => {
+        if (payload.lenguaje || payload.cuerpo || payload.emocion) {
+          userReflections.set(slug, payload);
+        } else {
+          userReflections.delete(slug);
+        }
+        renderGrid(); // update badge on home cards
+        resolve(true);
+      };
+      req.onerror = (e) => reject(e.target.error);
+    });
+  } catch (err) {
+    console.error('Error guardando en IndexedDB:', err);
+    return false;
+  }
+}
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -15,9 +107,17 @@ function renderGrid() {
   $('grid').replaceChildren(...visible.map(t => {
     const card = node('button', 'micro-card');
     card.style.setProperty('--micro-color', t.color);
+    
+    const hasNote = userReflections.has(t.slug);
+    const domainSpan = node('span', 'micro-card-domain', t.domain);
+    if (hasNote) {
+      const noteTag = node('span', 'micro-card-note-badge', ' 📝 Con tus notas');
+      domainSpan.append(noteTag);
+    }
+
     card.append(
       node('span', 'micro-card-number', String(topics.indexOf(t) + 1).padStart(2, '0')),
-      node('span', 'micro-card-domain', t.domain),
+      domainSpan,
       node('strong', '', t.title),
       node('span', 'micro-card-hook', t.hook),
       node('span', 'micro-card-footer', `${t.minutes} min · ${t.slides.length} filminas →`)
@@ -47,8 +147,13 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   wrapper.setAttribute('aria-label', `Ficha ${index + 1} de ${totalSlides}: Registro Ontológico`);
   
   const article = node('article');
+  
+  const statusSpan = node('span', 'reflection-status', '✓ Guardado localmente');
+  const kickerContainer = node('div', 'reflection-header-row');
+  kickerContainer.append(node('p', 'reel-slide-kicker', slide.kicker), statusSpan);
+
   article.append(
-    node('p', 'reel-slide-kicker', slide.kicker),
+    kickerContainer,
     node('h2', '', slide.title),
     node('div', 'reel-rule'),
     node('p', 'reel-reflection-subtitle', slide.body)
@@ -88,6 +193,41 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
 
   form.append(groupLenguaje, groupCuerpo, groupEmocion);
   article.append(form);
+
+  // Load existing reflection from IndexedDB
+  getReflection(topic.slug).then(savedData => {
+    if (savedData) {
+      if (savedData.lenguaje) textLenguaje.value = savedData.lenguaje;
+      if (savedData.cuerpo) textCuerpo.value = savedData.cuerpo;
+      if (savedData.emocion) textEmocion.value = savedData.emocion;
+      statusSpan.textContent = '✓ Guardado localmente';
+    } else {
+      statusSpan.textContent = 'Sin notas guardadas';
+    }
+  });
+
+  // Auto-save debounced handler
+  let saveTimer = null;
+  const triggerSave = () => {
+    statusSpan.textContent = 'Guardando...';
+    clearTimeout(saveTimer);
+    saveTimer = setTimeout(async () => {
+      const ok = await saveReflection(topic.slug, {
+        lenguaje: textLenguaje.value.trim(),
+        cuerpo: textCuerpo.value.trim(),
+        emocion: textEmocion.value.trim()
+      });
+      if (ok) {
+        statusSpan.textContent = (textLenguaje.value.trim() || textCuerpo.value.trim() || textEmocion.value.trim()) 
+          ? '✓ Guardado sin conexión' 
+          : 'Sin notas guardadas';
+      }
+    }, 400);
+  };
+
+  textLenguaje.addEventListener('input', triggerSave);
+  textCuerpo.addEventListener('input', triggerSave);
+  textEmocion.addEventListener('input', triggerSave);
 
   const nextBtn = node('button', 'reel-next-topic', 'Siguiente distinción →');
   nextBtn.onclick = () => openTopic(topics[(topics.indexOf(topic) + 1) % topics.length]);
@@ -172,7 +312,9 @@ async function start() {
   try {
     const response = await fetch('./data.json');
     if (!response.ok) throw new Error('No se pudo cargar el contenido');
-    topics = await response.json(); renderGrid();
+    topics = await response.json();
+    await loadAllReflections(); // Load user notes from IndexedDB
+    renderGrid();
     if ('serviceWorker' in navigator && window.isSecureContext) {
       try {
         await navigator.serviceWorker.register('./sw.js');

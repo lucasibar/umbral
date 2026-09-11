@@ -74,6 +74,10 @@ body.micro-reel-open { overflow: hidden; }
 
 /* Registro Ontológico (Inputs de Reflexión) */
 .reel-slide-reflection article { overflow-y: auto; }
+.reflection-header-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.reflection-header-row > p { margin: 0 !important; }
+.reflection-status { font-size: 0.66rem; color: #34d399; font-weight: 600; background: rgba(52, 211, 153, 0.12); padding: 2px 7px; border-radius: 6px; border: 1px solid rgba(52, 211, 153, 0.25); }
+.micro-card-note-badge { font-size: 0.62rem; color: #34d399; font-weight: 700; margin-left: 6px; text-transform: none; }
 .reel-reflection-subtitle { margin: -10px 0 16px; font-size: .82rem; color: #a6aab4; line-height: 1.45; }
 .reel-reflection-form { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; width: 100%; }
 .reflection-group { display: flex; flex-direction: column; gap: 4px; }
