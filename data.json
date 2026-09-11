@@ -1150,39 +1150,63 @@
     "title": "Control vs. Soltar",
     "officialTitle": "21) Del Modo control al Compromiso con el Control.",
     "domain": "Ontología",
-    "color": "#0077b6",
-    "hook": "Querer controlarlo todo agota; confiar en tu capacidad de respuesta libera.",
-    "minutes": 5,
+    "color": "#e07a5f",
+    "hook": "El Modo Control busca dominar la realidad por miedo; el Compromiso con el Control pone la verificación al servicio de una visión.",
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · ILUSIÓN DE CONTROL",
-        "title": "El Desgaste del Controlador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Modo Control:</span><span class=\"croquis-desc\">Ansiedad por querer dominar personas y factores externos fuera de nuestro alcance.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rigidez:</span><span class=\"croquis-desc\">Resistencia defensiva cuando las cosas no salen exactamente según el plan.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LA MEGA DISTINCIÓN ONTOLÓGICA",
+        "title": "La Ilusión Cartesiana del Control",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fantasía de Dominio:</span><span class=\"croquis-desc\">Creer que podemos controlar a las personas, las situaciones y el futuro desde nuestros propios juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Colapso Ontológico:</span><span class=\"croquis-desc\">Nace de asumir que <em>\"lo que percibo ES la verdad\"</em>, confundiendo nuestras interpretaciones con afirmaciones indiscutibles.</span></div>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
-        "kicker": "02 · SOLTAR Y ACCIONAR",
-        "title": "Foco de Influencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Círculo de Influencia:</span><span class=\"croquis-desc\">Enfocar la energía únicamente en lo que SÍ depende de vos: tus decisiones y conductas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Confianza Interna:</span><span class=\"croquis-desc\">Confiar en tu capacidad para responder ante lo impredecible en lugar de intentar controlarlo todo.</span></div>\n          </div>\n        ",
+        "kicker": "02 · ANATOMÍA DEL MODO CONTROL",
+        "title": "Reacción e Inefectividad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Accionar Reactivo:</span><span class=\"croquis-desc\">El Modo Control busca que los demás actúen exactamente como pretendemos, reaccionando cuando la realidad no encaja con nuestro mapa.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emociones Disfuncionales:</span><span class=\"croquis-desc\">Genera miedo, ansiedad, enojo, angustia y culpa, cerrando posibilidades de acción y alimentando la manipulación.</span></div>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
-        "kicker": "03 · ACEPTACIÓN",
-        "title": "Danzar con la Incertidumbre",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fluidez Ontológica:</span><span class=\"croquis-desc\">Aceptar la imperfección y la impredecibilidad como parte de la vida.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA PRISIÓN DEL PASADO",
+        "title": "El Sistema de Creencias Cartesiano",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Caja Causa-Efecto:</span><span class=\"croquis-desc\">Pensamiento lineal centrado en el <em>\"Yo SOY así\"</em>, justificando la inmovilidad en la historia personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Futuro Determinado:</span><span class=\"croquis-desc\">Si apoyás tu identidad en el paradigma cartesiano, tu futuro estará históricamente determinado por tu pasado.</span></div>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
-        "kicker": "04 · PAZ Y EFECTIVIDAD",
-        "title": "Liberar la Mente",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ahorro de Energía:</span><span class=\"croquis-desc\">Soltar la carga de controlar a los demás genera serenidad y alta efectividad.</span></div>\n          </div>\n        ",
+        "kicker": "04 · LA TRANSFORMACIÓN ONTOLÓGICA",
+        "title": "Del Modo Control al Compromiso",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Modo Control (Reacción):</span><span class=\"croquis-desc\">Acciones impulsadas por juicios reactivos ante la incertidumbre.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso con el Control (Creación):</span><span class=\"croquis-desc\">Acciones que nacen de una <strong>VISIÓN DECLARADA</strong> y coordinan promesas impecables (pedidos y ofertas).</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "05 · CONTROL AL SERVICIO DE LA VISIÓN",
+        "title": "Verificaciones Impecables",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Control Funcional:</span><span class=\"croquis-desc\">Verificar la llave de gas antes de viajar para proteger el hogar; revisar fondos para abonar a término.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Tiranía:</span><span class=\"croquis-desc\">El control deja de ser una fijación neurótica y se convierte en un mecanismo riguroso para honrar un compromiso.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "06 · PARADOJA DE CARL ROGERS",
+        "title": "Aceptar-me para Poder Cambiar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación Incondicional:</span><span class=\"croquis-desc\"><em>\"La curiosa paradoja es que cuando me acepto tal cual soy, entonces puedo cambiar\"</em> (Carl Rogers).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Punto de Partida:</span><span class=\"croquis-desc\">La autoaceptación sincera es el requisito indispensable para aceptar genuinamente a los demás y soltar la exigencia.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "07 · EL ARTE DE RENDIRSE",
+        "title": "Soltar el Control para Diseñar Futuro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rendición vs. Resignación:</span><span class=\"croquis-desc\">Rendirse no es rendir las armas, es <strong>soltar la ilusión de controlar lo incontrolable</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habitar la Incertidumbre:</span><span class=\"croquis-desc\">Al dejar de luchar contra lo que es, liberás energía creadora para diseñar futuro desde la posibilidad.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "08 · EL COACH COMO FACILITADOR",
+        "title": "Desarticular el Modo Control",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuestionar la Certeza:</span><span class=\"croquis-desc\">Invitar al coachee a soltar el juicio de cómo <em>\"deberían\"</em> ser las cosas y las personas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reconectar con la Visión:</span><span class=\"croquis-desc\">Transformar la exigencia reactiva en promesas claras y acciones orientadas al propósito elegido.</span></div>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "21) Del Modo control al Compromiso con el Control."
       }
     ]
