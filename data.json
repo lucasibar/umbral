@@ -378,37 +378,49 @@
     "domain": "Lenguaje",
     "color": "#00f5d4",
     "hook": "Si no sabés pedir u ofrecer, tus sueños quedan en ilusiones.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · ESTRUCTURA DEL PEDIDO",
-        "title": "El Pedido Efectivo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Orador y Oyente:</span><span class=\"croquis-desc\">Declarados y presentes en la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Acción Futura:</span><span class=\"croquis-desc\">Especificar claramente QUÉ se necesita que ocurra.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Condiciones de Satisfacción:</span><span class=\"croquis-desc\">Detallar la calidad, forma y estándar requerido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Tiempo Límite:</span><span class=\"croquis-desc\">Definir el plazo o fecha de entrega concreta.</span></div>\n          </div>\n        ",
+        "kicker": "01 · COORDINACIÓN EN RED",
+        "title": "Las 2 Llaves del Futuro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Pedido:</span><span class=\"croquis-desc\">Nace cuando declarás que algo <strong>TE FALTA</strong> para lograr un resultado y buscás la acción de un tercero.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Oferta:</span><span class=\"croquis-desc\">Nace del juicio de que algo <strong>LE FALTA</strong> al otro y ponés tus competencias al servicio de su necesidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coordinación Efectiva:</span><span class=\"croquis-desc\">Son las herramientas ontológicas fundamentales para hacer que las cosas pasen en los equipos.</span></div>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "02 · LA OFERTA",
-        "title": "Ser Oferta para el Mundo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Valor de Ofrecer:</span><span class=\"croquis-desc\">Poner tus competencias y talentos al servicio de resolver inquietudes ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Valor:</span><span class=\"croquis-desc\">Quien solo pide resulta demandante; quien ofrece constantemente genera atracción.</span></div>\n          </div>\n        ",
+        "kicker": "02 · PEDIDO VS. EXIGENCIA",
+        "title": "La Posibilidad Real del NO",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Regla de Oro en ELAC:</span><span class=\"croquis-desc\">Si no habilitás la posibilidad real de recibir un <strong>NO</strong> como respuesta, no estás pidiendo: estás <strong>exigiendo u ordenando</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía del Oyente:</span><span class=\"croquis-desc\">Un pedido auténtico respeta la libertad del otro para decir SÍ, NO, negociar o pedir tiempo.</span></div>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "03 · LA TRAMPA HABITUAL",
-        "title": "Esperar Telepatía",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Supuesto Ciego:</span><span class=\"croquis-desc\">Asumir que el otro 'debería saber lo que necesito' sin habérselo pedido es la causa #1 de conflicto.</span></div>\n          </div>\n        ",
+        "kicker": "03 · ANATOMÍA DEL POP (1/2)",
+        "title": "Visión, Roles y Confianza",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Visión & Para Qué:</span><span class=\"croquis-desc\">Tener claro el objetivo y sentido del pedido u oferta antes de iniciar la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Orador y Oyente:</span><span class=\"croquis-desc\">Personas explícitas y comprometidas en la interacción.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Juicio de Confianza:</span><span class=\"croquis-desc\">Evaluar sinceridad, competencia e historial de cumplimiento de las partes.</span></div>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "04 · CICLO DE COORDINACIÓN",
-        "title": "Fase de Negociación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación o Contraoferta:</span><span class=\"croquis-desc\">El oyente puede aceptar, rechazar o negociar condiciones hasta llegar a un acuerdo.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ANATOMÍA DEL POP (2/2)",
+        "title": "Condiciones de Satisfacción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Expresar en HECHOS:</span><span class=\"croquis-desc\">Detallar claramente el cómo, cuánto, dónde y la calidad esperada del resultado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">5. Tiempo Límite Concreto:</span><span class=\"croquis-desc\">Fijar fecha y hora precisa (eliminar frases como <em>\"cuanto antes\"</em> o <em>\"cuando puedas\"</em>).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">6. Chequeo de Escucha:</span><span class=\"croquis-desc\">Confirmar que ambas partes interpretaron exactamente lo mismo antes de cerrar.</span></div>\n          </div>\n        ",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
+        "kicker": "05 · ÉTICA Y COMPROMISO SOCIAL",
+        "title": "Sinceridad y Competencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Capacidad de Ejecución:</span><span class=\"croquis-desc\">Pedir u ofrecer exige la sinceridad de intención y contar con las competencias requeridas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aviso Ante Quiebres:</span><span class=\"croquis-desc\">Si surge un obstáculo imprevisto, tenés la responsabilidad de avisar <strong>antes del vencimiento del plazo</strong> y renegociar.</span></div>\n          </div>\n        ",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
+        "kicker": "06 · PODER EN RED",
+        "title": "Del Aislamiento a la Sinergia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Nadie se Realiza Solo:</span><span class=\"croquis-desc\">Superar la ilusión de autosuficiencia y aprender a pedir u ofrecer con efectividad multiplica tus resultados.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construir Ofertas Poderosas:</span><span class=\"croquis-desc\">Transformarte en una oferta atractiva te posiciona como un líder clave en tu comunidad.</span></div>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       }
     ]
