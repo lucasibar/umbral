@@ -551,38 +551,56 @@
     "officialTitle": "11) De la Escucha Previa a la Escucha Comprometida",
     "domain": "Lenguaje",
     "color": "#4361ee",
-    "hook": "Escuchar comprometidamente es vaciar la mente para alojar al otro.",
-    "minutes": 5,
+    "hook": "Escuchar comprometidamente es vaciar la mente para alojar la posibilidad en el otro.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · ESCUCHA PREVIA",
-        "title": "El Diálogo de Sordos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escucha Recreativa / Previa:</span><span class=\"croquis-desc\">Escuchamos buscando confirmar lo que ya pensábamos o preparando nuestra respuesta mientras el otro habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Consecuencia:</span><span class=\"croquis-desc\">No hay aprendizaje ni encuentro verdadero; solo repetición de viejos juicios.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LOS 3 NIVELES DE ESCUCHA",
+        "title": "Profundidad en la Comunicación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Escucha Previa:</span><span class=\"croquis-desc\">Automática y reactiva, dominada por juicios pasados e interferencia interna.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Escucha Recreativa:</span><span class=\"croquis-desc\">Empática, busca reconstruir y comprender el mundo del interlocutor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Escucha Comprometida:</span><span class=\"croquis-desc\">Generativa, orientada a la posibilidad, el compromiso y la acción compartida.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
-        "kicker": "02 · ESCUCHA COMPROMETIDA",
-        "title": "Alojar al Otro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Presencia Plena:</span><span class=\"croquis-desc\">Suspender temporalmente nuestros juicios para alojar la inquietud real del interlocutor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escuchar la Inquietud:</span><span class=\"croquis-desc\">Preguntarse: <em>\"¿Qué le preocupa o qué cuida el otro al decirme esto?\"</em></span></div>\n          </div>\n        ",
+        "kicker": "02 · LA ESCUCHA PREVIA O AUTOMÁTICA",
+        "title": "El Casete Puesto",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falta de Presencia:</span><span class=\"croquis-desc\">Escuchamos buscando únicamente confirmar lo que ya sabemos o armando nuestra respuesta mientras el otro habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Clausura de Aprendizaje:</span><span class=\"croquis-desc\">La trampa del <em>\"yo ya sé qué me va a decir\"</em> destruye la novedad y estanca las relaciones.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
-        "kicker": "03 · NIVELES DE PRESENCIA",
-        "title": "Profundidad en el Vínculo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estar Presente:</span><span class=\"croquis-desc\">Dedicar cuerpo, atención y emoción completa al diálogo sin distracciones.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA COLUMNA IZQUIERDA EN LA ESCUCHA",
+        "title": "El Ruido Interno Ensordecedor",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diálogo Interno:</span><span class=\"croquis-desc\">Los pensamientos, juicios y sospechas que no expresamos actúan como interferencia permanente sobre la voz ajena.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hacer Silencio Interno:</span><span class=\"croquis-desc\">La escucha impecable exige bajar el volumen de la columna izquierda para dar lugar a la palabra del otro.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
-        "kicker": "04 · TRANSFORMACIÓN",
-        "title": "El Impacto de la Escucha",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disolver el Conflicto:</span><span class=\"croquis-desc\">Cuando alguien se siente verdaderamente escuchado, la resistencia defensiva se desvanece.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ESCUCHA RECREATIVA",
+        "title": "Comprender el Observador Ajeno",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Legitimidad Ontológica:</span><span class=\"croquis-desc\">Reconocer que el otro es un Observador diferente con una historia que hace válida su manera de ver el mundo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ponerse en sus Zapatos:</span><span class=\"croquis-desc\">No exige estar de acuerdo: significa otorgar respeto ontológico y comprensión a su marco de referencia.</span></div>\n          </div>\n        ",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "05 · ESCUCHA COMPROMETIDA",
+        "title": "Escuchar las Inquietudes",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Detrás de las Palabras:</span><span class=\"croquis-desc\">El oyente comprometido se pregunta: <em>\"¿Qué inquietud o valor intenta cuidar el otro al decirme esto?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descubrir el Compromiso:</span><span class=\"croquis-desc\">Identificar qué futuro busca construir la persona más allá de la torpeza de sus explicaciones.</span></div>\n          </div>\n        ",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "06 · ESCUCHAR LA POSIBILIDAD",
+        "title": "Transformar Queja en Acción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hacer Emerger la Oferta:</span><span class=\"croquis-desc\">Convertir reclamos o frustraciones en pedidos u ofertas que abran caminos de solución.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coinvención del Futuro:</span><span class=\"croquis-desc\">La escucha comprometida genera alianzas donde dos o más observadores coordinan acciones transformadoras.</span></div>\n          </div>\n        ",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "07 · LA MATRIZ DE ESCUCHA DEL COACH",
+        "title": "Escuchar lo No Dicho",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebres Implicitos:</span><span class=\"croquis-desc\">Detectar los dolores, resignaciones o deseos que el cliente no logra articular con palabras.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hospedar el Aprendizaje:</span><span class=\"croquis-desc\">Ofrecer un contenedor seguro donde la persona pueda mirarse en el espejo de su propio lenguaje.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       }
     ]
