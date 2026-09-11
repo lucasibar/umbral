@@ -1216,39 +1216,57 @@
     "title": "Corporalidad: Apertura y Flexibilidad",
     "officialTitle": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad.",
     "domain": "Cuerpo",
-    "color": "#0096c7",
-    "hook": "Un cuerpo rígido no puede recibir ideas nuevas ni adaptarse al cambio.",
-    "minutes": 5,
+    "color": "#e07a5f",
+    "hook": "La corporalidad modela al Observador: la Apertura te dispone a acoger al otro y la Flexibilidad a fluir con el cambio.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · EL CUERPO COMO DOMINIO",
-        "title": "Corporalidad del Observador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Biología e Identidad:</span><span class=\"croquis-desc\">Tu cuerpo sostiene a tu Observador. Cada postura abre o cierra posibilidades de acción.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EL CUERPO COMO DOMINIO ONTOLÓGICO",
+        "title": "Coherencia Somática",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Dominio Indisociable:</span><span class=\"croquis-desc\">En la Tríada Ontológica (GEC: Lenguaje, Emoción y Cuerpo), el cuerpo no es un simple envase: es la base biológica que sostiene tu Observador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aprender con el Cuerpo:</span><span class=\"croquis-desc\">No podés cambiar tu manera de pensar ni tus emociones si no transformás la postura física que las sostiene.</span></div>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
-        "kicker": "02 · APERTURA",
-        "title": "La Disposición a Recibir",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disposición Corporal:</span><span class=\"croquis-desc\">Pecho disponible, brazos sueltos y mirada acogedora.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Efecto en la Escucha:</span><span class=\"croquis-desc\">Permite recibir al otro, alojar nuevas ideas y empatizar.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LAS DISPOSICIONES CORPORALES (GEC)",
+        "title": "Posturas que Abren Mundos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disposición para la Acción:</span><span class=\"croquis-desc\">Patrones biológicos y musculares predisponen a habitar ciertas emociones y realizar ciertos actos del lenguaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuatro Disposiciones Básicas:</span><span class=\"croquis-desc\">Apertura (Agua), Flexibilidad (Aire), Resolución (Fuego) y Estabilidad (Tierra).</span></div>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
-        "kicker": "03 · FLEXIBILIDAD",
-        "title": "La Disposición a Adaptarse",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Movimiento Fluido:</span><span class=\"croquis-desc\">Columna suelta y articulaciones disponibles para danzar con el cambio.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar la Rigidez:</span><span class=\"croquis-desc\">Permite cambiar de perspectiva y abandonar la obstinación de tener razón.</span></div>\n          </div>\n        ",
+        "kicker": "03 · DISPOSICIÓN DE APERTURA (AGUA)",
+        "title": "Acoger y Recibir al Otro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Pecho receptivo, brazos relajados, respiración pausada y mirada acogedora sin juicios defensivos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Permite habitar la empatía, escuchar la brecha del otro y declararlo un <strong>legítimo otro en la convivencia</strong>.</span></div>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
-        "kicker": "04 · PRÁCTICA DE CENTRAMIENTO",
-        "title": "Integración Somática",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Práctica GEC & PNL:</span><span class=\"croquis-desc\">Usar la respiración y el movimiento corporal para modificar el estado emocional.</span></div>\n          </div>\n        ",
+        "kicker": "04 · MATRICES DE APERTURA",
+        "title": "Excesos y Déficits de Apertura",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Apertura:</span><span class=\"croquis-desc\">Blindaje emocional, desconfianza reactiva, inhabilidad para escuchar e insensibilidad hacia el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Apertura:</span><span class=\"croquis-desc\">Permeabilidad extrema, falta de límites personales, porosidad afectiva y pérdida de la propia identidad.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "05 · DISPOSICIÓN DE FLEXIBILIDAD (AIRE)",
+        "title": "Adaptarse y Soltar la Certeza",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Movimiento fluido, articulaciones sueltas, columna flexible y respiración liviana que acompaña el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Soltar la terquedad de <em>\"tener razón\"</em>, cambiar de perspectiva y danzar con lo imprevisto sin rigidez.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "06 · MATRICES DE FLEXIBILIDAD",
+        "title": "Excesos y Déficits de Flexibilidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Flexibilidad:</span><span class=\"croquis-desc\">Dogmatismo, rigidez física y mental, resistencia obstinada ante los cambios y parálisis defensiva.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Flexibilidad:</span><span class=\"croquis-desc\">Volatilidad, inconstancia, dispersión y dificultad para enraizarse y cumplir compromisos de largo plazo.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "07 · APLICACIÓN EN COACHING",
+        "title": "Intervención Somática del Coach",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lectura de la Armadura:</span><span class=\"croquis-desc\">Observar si la postura del coachee bloquea su aprendizaje antes de trabajar con sus juicios verbales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseño de Prácticas:</span><span class=\"croquis-desc\">Invitar a estiramientos, aperturas de pecho y respiración conscientes para desbloquear nuevas emociones.</span></div>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       }
     ]
