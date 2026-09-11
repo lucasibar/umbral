@@ -6,7 +6,7 @@ assert.equal(topics.length,24);
 assert.equal(new Set(topics.map(x=>x.slug)).size,24);
 assert(topics.every(x=>x.slides.length&&x.slides.every(s=>s.body&&s.source)));
 const html=fs.readFileSync('index.html','utf8');
-for(const [,asset] of html.matchAll(/(?:href|src)="(\.\/[^"#]+)"/g)) assert(fs.existsSync(asset),asset);
+for(const [,asset] of html.matchAll(/(?:href|src)="(\.\/[^"#?]+)/g)) assert(fs.existsSync(asset),asset);
 const manifest=JSON.parse(fs.readFileSync('manifest.webmanifest','utf8'));
 assert.equal(manifest.start_url,'./'); assert.equal(manifest.scope,'./');
 for(const icon of manifest.icons) assert(fs.existsSync(icon.src));
