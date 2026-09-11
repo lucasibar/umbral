@@ -6,30 +6,30 @@
     "domain": "Ontología",
     "color": "#e76f51",
     "hook": "No vemos el mundo como es, sino como somos nosotros.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
         "kicker": "01 · PREMISA FUNDAMENTAL",
         "title": "La Realidad no es Objetiva",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ Rafael Echeverría:</span><span class=\"croquis-desc\">\"No sabemos cómo las cosas son. Solo sabemos cómo las observamos o las interpretamos.\"</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ Construcción Presente:</span><span class=\"croquis-desc\">La \"realidad\" es una interpretación viva construida desde el tipo de Observador que estás siendo en el presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ El Núcleo Atómico:</span><span class=\"croquis-desc\">Comprender a tu Observador es la llave maestra para intervenir y transformar cualquier área de tu vida.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rafael Echeverría:</span><span class=\"croquis-desc\">\"No sabemos cómo las cosas son. Solo sabemos cómo las observamos o las interpretamos.\"</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construcción Presente:</span><span class=\"croquis-desc\">La \"realidad\" es una interpretación viva construida desde el tipo de Observador que estás siendo en el presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Núcleo Atómico:</span><span class=\"croquis-desc\">Comprender a tu Observador es la llave maestra para intervenir y transformar cualquier área de tu vida.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "kicker": "02 · LA DISTINCIÓN CLAVE",
         "title": "Hechos vs. Juicios",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">📌 HECHO (Afirmación):</span><span class=\"croquis-desc\">Comprobable y consensuado por la comunidad. Verdadero o Falso. <em>Ej: \"La reunión duró 45 minutos.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💬 JUICIO (Declaración):</span><span class=\"croquis-desc\">Valoración personal de quien mira. Fundamentado o Infundado. <em>Ej: \"La reunión fue una pérdida de tiempo.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ La Trampa Cotidiana:</span><span class=\"croquis-desc\">Confundir juicios personales con hechos objetivos genera sufrimiento, discusiones estériles y sufrimiento.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hecho (Afirmación):</span><span class=\"croquis-desc\">Comprobable y consensuado por la comunidad. Verdadero o Falso. <em>Ej: \"La reunión duró 45 minutos.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio (Declaración):</span><span class=\"croquis-desc\">Valoración personal de quien mira. Fundamentado o Infundado. <em>Ej: \"La reunión fue una pérdida de tiempo.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Trampa Cotidiana:</span><span class=\"croquis-desc\">Confundir juicios personales con hechos objetivos genera sufrimiento y discusiones estériles.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "kicker": "03 · COHERENCIA ONTOLÓGICA",
         "title": "La Tríada del Ser",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🗣️ Lenguaje:</span><span class=\"croquis-desc\">Historias que te contás, juicios que emitís y conversaciones que sostenés u omitís.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❤️ Emoción:</span><span class=\"croquis-desc\">Estados de ánimo de fondo (resentimiento, resignación, paz, ambición) que tiñen tu mirada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🧘 Cuerpo:</span><span class=\"croquis-desc\">Biología, postura física, nivel de tensión y predisposición corporal ante el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔄 Intervención:</span><span class=\"croquis-desc\">Alterar un solo dominio (ej. postura física) transforma inmediatamente a todo el Observador.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje:</span><span class=\"croquis-desc\">Historias que te contás, juicios que emitís y conversaciones que sostenés u omitís.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Estados de ánimo de fondo (resentimiento, resignación, paz, ambición) que tiñen tu mirada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo:</span><span class=\"croquis-desc\">Biología, postura física, nivel de tensión y predisposición corporal ante el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Intervención:</span><span class=\"croquis-desc\">Alterar un solo dominio (ej. postura física) transforma inmediatamente a todo el Observador.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "kicker": "04 · APRENDIZAJE DE 2º ORDEN",
         "title": "Ecuación del Resultado",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">📐 Fórmula Ontológica:</span><span class=\"croquis-desc\"><strong>OBSERVADOR + ACCIÓN = RESULTADO</strong> (Ser + Hacer = Tener).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔄 1er Orden:</span><span class=\"croquis-desc\">Cambiar solo las acciones haciendo más de lo mismo. Produce cambios superficiales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 2do Orden:</span><span class=\"croquis-desc\">Transformar quién estás SIENDO. Al cambiar tu Observador, nacen acciones totalmente nuevas por defecto.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\"><strong>OBSERVADOR + ACCIÓN = RESULTADO</strong> (Ser + Hacer = Tener).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1er Orden:</span><span class=\"croquis-desc\">Cambiar solo las acciones haciendo más de lo mismo. Produce cambios superficiales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2do Orden:</span><span class=\"croquis-desc\">Transformar quién estás SIENDO. Al cambiar tu Observador, nacen acciones totalmente nuevas por defecto.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
@@ -59,7 +59,7 @@
       {
         "kicker": "01 · ANATOMÍA DEL JUICIO",
         "title": "Los Juicios Hablan de Vos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🪞 El Espejo Lingüístico:</span><span class=\"croquis-desc\">Los juicios no describen las cosas: revelan los estándares y la estructura de quien habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚖️ Evaluación:</span><span class=\"croquis-desc\">Un juicio no es verdadero ni falso: es <strong>FUNDAMENTADO</strong> o <strong>NO FUNDAMENTADO</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 La Ceguera del Juicio:</span><span class=\"croquis-desc\">Tratar un juicio como un hecho paraliza el aprendizaje e impide ver la realidad.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Espejo Lingüístico:</span><span class=\"croquis-desc\">Los juicios no describen las cosas: revelan los estándares y la estructura de quien habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evaluación:</span><span class=\"croquis-desc\">Un juicio no es verdadero ni falso: es <strong>FUNDAMENTADO</strong> o <strong>NO FUNDAMENTADO</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Ceguera del Juicio:</span><span class=\"croquis-desc\">Tratar un juicio como un hecho paraliza el aprendizaje e impide ver la realidad.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
@@ -77,7 +77,7 @@
       {
         "kicker": "04 · DISEÑO DE FUTURO",
         "title": "Juicio e Inercia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚫 Juicio Infundado:</span><span class=\"croquis-desc\"><em>\"No sirvo para emprender.\"</em> Cierra opciones antes de intentar y se vuelve profecía autocumplida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✅ Juicio Fundamentado:</span><span class=\"croquis-desc\"><em>\"Hoy me faltan conocimientos en costos.\"</em> Abre la oportunidad de capacitarme.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Infundado:</span><span class=\"croquis-desc\"><em>\"No sirvo para emprender.\"</em> Cierra opciones antes de intentar y se vuelve profecía autocumplida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Fundamentado:</span><span class=\"croquis-desc\"><em>\"Hoy me faltan conocimientos en costos.\"</em> Abre la oportunidad de capacitarme.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
@@ -101,13 +101,13 @@
       {
         "kicker": "01 · EL GIRO ONTOLÓGICO",
         "title": "Describir vs. Generar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">📜 Descriptivo (Pasivo):</span><span class=\"croquis-desc\">Cree que el lenguaje solo habla de cosas que ya existen fuera de nosotros. Rol de espectador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ Generativo (Activo):</span><span class=\"croquis-desc\">Crea realidades, relaciones, identidades y oportunidades que no existían antes de hablar.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descriptivo (Pasivo):</span><span class=\"croquis-desc\">Cree que el lenguaje solo habla de cosas que ya existen fuera de nosotros. Rol de espectador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generativo (Activo):</span><span class=\"croquis-desc\">Crea realidades, relaciones, identidades y oportunidades que no existían antes de hablar.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
         "kicker": "02 · COLUMNA IZQUIERDA",
         "title": "La Conversación Oculta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💬 Columna Derecha:</span><span class=\"croquis-desc\">Lo que decimos explícitamente en la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💭 Columna Izquierda:</span><span class=\"croquis-desc\">Lo que pensamos y sentimos pero nos callamos por miedo, supuestos o juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ Gestión Productiva:</span><span class=\"croquis-desc\">Procesar la columna izquierda para transformarla en pedidos y reclamos transparentes.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Columna Derecha:</span><span class=\"croquis-desc\">Lo que decimos explícitamente en la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Columna Izquierda:</span><span class=\"croquis-desc\">Lo que pensamos y sentimos pero nos callamos por miedo, supuestos o juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Gestión Productiva:</span><span class=\"croquis-desc\">Procesar la columna izquierda para transformarla en pedidos y reclamos transparentes.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
@@ -119,7 +119,7 @@
       {
         "kicker": "04 · EL COMPROMISO",
         "title": "Hacerse Cargo de la Palabra",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">😩 La Queja Pasiva:</span><span class=\"croquis-desc\">Describir la frustración buscando culpables pero sin asumir el riesgo de actuar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 El Acto Generativo:</span><span class=\"croquis-desc\">Asumir la responsabilidad de hablar para transformar el futuro.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Queja Pasiva:</span><span class=\"croquis-desc\">Describir la frustración buscando culpables pero sin asumir el riesgo de actuar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Acto Generativo:</span><span class=\"croquis-desc\">Asumir la responsabilidad de hablar para transformar el futuro.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
@@ -143,7 +143,7 @@
       {
         "kicker": "01 · PODER DECLARATIVO",
         "title": "La Declaración como Acto",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">👑 Autoridad Otorgada:</span><span class=\"croquis-desc\">La validez de una declaración depende de la autoridad que te concedés a vos mismo para sostenerla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ Ruptura de Transparencia:</span><span class=\"croquis-desc\">La declaración marca un hito. A partir de ser pronunciada, el mundo ya no es el mismo.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoridad Otorgada:</span><span class=\"croquis-desc\">La validez de una declaración depende de la autoridad que te concedés a vos mismo para sostenerla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ruptura de Transparencia:</span><span class=\"croquis-desc\">La declaración marca un hito. A partir de ser pronunciada, el mundo ya no es el mismo.</span></div>\n          </div>\n        ",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
@@ -153,14 +153,20 @@
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "03 · COHERENCIA EN EL TIEMPO",
+        "kicker": "03 · ACCIÓN DECLARATIVA",
+        "title": "Diseño Activo de Futuro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Crear lo Inexistente:</span><span class=\"croquis-desc\">La declaración no espera las circunstancias ideales: funda la realidad ideal desde la palabra.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Visión Soberana:</span><span class=\"croquis-desc\">Declarar la realidad buscada más allá de los juicios de factibilidad iniciales.</span></div>\n          </div>\n        ",
+        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
+      },
+      {
+        "kicker": "04 · COHERENCIA EN EL TIEMPO",
         "title": "Sostener la Declaración",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💬 La Palabra Vacía:</span><span class=\"croquis-desc\">Declarar sin alinear las acciones posteriores destruye la autoridad del orador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🛡️ Sostener el Poder:</span><span class=\"croquis-desc\">Acompañar la declaración con decisiones, límites y coordinación diaria.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Palabra Vacía:</span><span class=\"croquis-desc\">Declarar sin alinear las acciones posteriores destruye la autoridad del orador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sostener el Poder:</span><span class=\"croquis-desc\">Acompañar la declaración con decisiones, límites y coordinación diaria.</span></div>\n          </div>\n        ",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
@@ -178,19 +184,31 @@
     "slides": [
       {
         "kicker": "01 · DIGNIDAD Y LÍMITES",
-        "title": "La Declaración del NO / BASTA",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🛡️ Espacio Vital:</span><span class=\"croquis-desc\">El NO define los límites de tu identidad y autonomía personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ La Declaración del BASTA:</span><span class=\"croquis-desc\">Pone fin a una situación de abuso, desgaste o incoherencia insostenible.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔑 Regla de Oro:</span><span class=\"croquis-desc\">Quien no sabe decir NO, tampoco puede dar un SÍ auténtico.</span></div>\n          </div>\n        ",
+        "title": "La Declaración del NO",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Espacio Vital:</span><span class=\"croquis-desc\">El NO define los límites de tu identidad y autonomía personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Regla de Oro:</span><span class=\"croquis-desc\">Quien no sabe decir NO, tampoco puede dar un SÍ auténtico.</span></div>\n          </div>\n        ",
         "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
       },
       {
-        "kicker": "02 · EL COMPROMISO",
+        "kicker": "02 · EL LIMITE DE SOBREVIVENCIA",
+        "title": "La Declaración del BASTA",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Detener el Desgaste:</span><span class=\"croquis-desc\">Pone fin a una situación de abuso, incoherencia o sufrimiento insostenible.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reclamar la Dignidad:</span><span class=\"croquis-desc\">El BASTA corta la inercia del sometimiento y recupera el control de tu vida.</span></div>\n          </div>\n        ",
+        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+      },
+      {
+        "kicker": "03 · EL COMPROMISO",
         "title": "La Declaración del SÍ",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🤝 Entrega Plena:</span><span class=\"croquis-desc\">Decir SÍ implica asumir la responsabilidad y los costos de la elección.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❌ El Sí Complaciente:</span><span class=\"croquis-desc\">Decir 'Sí' por miedo al rechazo erosiona la autoestima y genera resentimiento interno.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Entrega Plena:</span><span class=\"croquis-desc\">Decir SÍ implica asumir la responsabilidad y los costos de la elección.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Sí Complaciente:</span><span class=\"croquis-desc\">Decir 'Sí' por miedo al rechazo erosiona la autoestima y genera resentimiento interno.</span></div>\n          </div>\n        ",
+        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+      },
+      {
+        "kicker": "04 · AUTOESTIMA Y LIBERTAD",
+        "title": "Recuperar el Poder",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoestima Ontológica:</span><span class=\"croquis-desc\">Decir NO o BASTA cuando corresponde preserva la autovaloración.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Personal:</span><span class=\"croquis-desc\">Ser dueño de tus respuestas frente al entorno.</span></div>\n          </div>\n        ",
         "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
@@ -209,18 +227,30 @@
       {
         "kicker": "01 · APRENDIZAJE ONTOLÓGICO",
         "title": "Declarar 'No Sé'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Humildad Cognoscitiva:</span><span class=\"croquis-desc\">Declarar NO SÉ es la puerta de entrada a cualquier espacio de aprendizaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 La Ceguera del 'Sabelotodo':</span><span class=\"croquis-desc\">Aparentar saberlo todo por miedo a quedar vulnerable invalida el desarrollo personal.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humildad Cognoscitiva:</span><span class=\"croquis-desc\">Declarar NO SÉ es la puerta de entrada a cualquier espacio de aprendizaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ceguera Cognoscitiva:</span><span class=\"croquis-desc\">No sabemos que no sabemos. Reconocer la ignorancia rompe el punto ciego.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "02 · RECONOCIMIENTO",
+        "kicker": "02 · ENEMIGOS DEL APRENDIZAJE",
+        "title": "La Ceguera del 'Sabelotodo'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Saber Aparente:</span><span class=\"croquis-desc\">Aparentar saberlo todo por miedo a quedar vulnerable invalida el desarrollo personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Aprendiz Ontológico:</span><span class=\"croquis-desc\">Asume la vulnerabilidad de no saber para construir nuevas competencias.</span></div>\n          </div>\n        ",
+        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
+      },
+      {
+        "kicker": "03 · RECONOCIMIENTO",
         "title": "Declarar 'Gracias'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🙏 Celebrar al Otro:</span><span class=\"croquis-desc\">Decir GRACIAS reconoce la generosidad y el aporte del otro a nuestra vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔗 Tejido Relacional:</span><span class=\"croquis-desc\">La gratitud genera cercanía y fortalece la confianza mutua.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celebrar al Otro:</span><span class=\"croquis-desc\">Decir GRACIAS reconoce la generosidad y el aporte del otro a nuestra vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Interdependencia:</span><span class=\"croquis-desc\">Reconocer que nadie se realiza en soledad sin la ayuda del entorno.</span></div>\n          </div>\n        ",
+        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
+      },
+      {
+        "kicker": "04 · TEJIDO RELACIONAL",
+        "title": "Nutrir los Vínculos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Cercanía:</span><span class=\"croquis-desc\">La gratitud sincera fortalece la confianza mutua y abre canales de cooperación.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
@@ -239,18 +269,30 @@
       {
         "kicker": "01 · LIBERACIÓN EMOCIONAL",
         "title": "El Poder del Perdón",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🕊️ Soltar el Resentimiento:</span><span class=\"croquis-desc\">El perdón no libera al ofensor de su falta: te libera a VOS de la cadena del dolor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">📐 Las 3 Dimensiones:</span><span class=\"croquis-desc\">1. Pedir perdón.<br>2. Otorgar perdón.<br>3. Perdonarse a uno mismo.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar el Resentimiento:</span><span class=\"croquis-desc\">El perdón no libera al ofensor de su falta: te libera a VOS de la cadena del dolor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rediseño del Pasado:</span><span class=\"croquis-desc\">Cambiar la historia dolorosa que te contás sobre lo que ocurrió.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "02 · VALIDACIÓN Y AFECTO",
+        "kicker": "02 · LAS 3 DIMENSIONES",
+        "title": "Anatomía del Perdón",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Pedir Perdón:</span><span class=\"croquis-desc\">Reconocer el daño ocasionado a otro y asumir la falta.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Otorgar Perdón:</span><span class=\"croquis-desc\">Declarar cancelada la deuda emocional con el ofensor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Perdonarse a Uno Mismo:</span><span class=\"croquis-desc\">Soltar el juicio despiadado sobre tus errores pasados.</span></div>\n          </div>\n        ",
+        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
+      },
+      {
+        "kicker": "03 · VALIDACIÓN Y AFECTO",
         "title": "Declarar Amor",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❤️ \"Te Quiero / Te Amo\":</span><span class=\"croquis-desc\">Declaración lingüística que construye el refugio afectivo donde habitan las relaciones humanas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Expresión Oportuna:</span><span class=\"croquis-desc\">Guardarse el afecto por miedo a la vulnerabilidad enfría y empobrece los vínculos.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">\"Te Quiero / Te Amo\":</span><span class=\"croquis-desc\">Declaración lingüística que construye el refugio afectivo donde habitan las relaciones humanas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Validar la Existencia:</span><span class=\"croquis-desc\">Reconocer al otro como un legítimo otro en convivencia.</span></div>\n          </div>\n        ",
+        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
+      },
+      {
+        "kicker": "04 · SANAR VÍNCULOS",
+        "title": "Paz Interna",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Oportuna:</span><span class=\"croquis-desc\">Guardarse el afecto por miedo a la vulnerabilidad enfría y empobrece los vínculos.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
@@ -275,12 +317,24 @@
       {
         "kicker": "02 · LA OFERTA",
         "title": "Ser Oferta para el Mundo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🎁 El Valor de Ofrecer:</span><span class=\"croquis-desc\">Poner tus competencias y talentos al servicio de resolver inquietudes ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❌ La Telepatía:</span><span class=\"croquis-desc\">Asumir que el otro 'debería saber lo que necesito' sin habérselo pedido es la causa #1 de conflicto relacional.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Valor de Ofrecer:</span><span class=\"croquis-desc\">Poner tus competencias y talentos al servicio de resolver inquietudes ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Valor:</span><span class=\"croquis-desc\">Quien solo pide resulta demandante; quien ofrece constantemente genera atracción.</span></div>\n          </div>\n        ",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
+        "kicker": "03 · LA TRAMPA HABITUAL",
+        "title": "Esperar Telepatía",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Supuesto Ciego:</span><span class=\"croquis-desc\">Asumir que el otro 'debería saber lo que necesito' sin habérselo pedido es la causa #1 de conflicto.</span></div>\n          </div>\n        ",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
+        "kicker": "04 · CICLO DE COORDINACIÓN",
+        "title": "Fase de Negociación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación o Contraoferta:</span><span class=\"croquis-desc\">El oyente puede aceptar, rechazar o negociar condiciones hasta llegar a un acuerdo.</span></div>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
@@ -299,13 +353,13 @@
       {
         "kicker": "01 · LA PROMESA",
         "title": "Formalizar el Acuerdo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🤝 Pedido/Oferta + Aceptación:</span><span class=\"croquis-desc\">Una promesa solo existe cuando la contraparte acepta explícitamente el compromiso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🏛️ Tejido de Confianza:</span><span class=\"croquis-desc\">Las promesas cumplidas constituyen la reputación y la solidez de cualquier equipo.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedido/Oferta + Aceptación:</span><span class=\"croquis-desc\">Una promesa solo existe cuando la contraparte acepta explícitamente el compromiso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Tejido de Confianza:</span><span class=\"croquis-desc\">Las promesas cumplidas constituyen la reputación y la solidez de cualquier equipo.</span></div>\n          </div>\n        ",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
         "kicker": "02 · RECLAMO PRODUCTIVO",
         "title": "Reclamo vs. Queja",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🗣️ Queja Impotente:</span><span class=\"croquis-desc\">Descarga emocional sin acuerdo previo que busca culpables y desquita frustración.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚖️ Reclamo Productivo:</span><span class=\"croquis-desc\">Basado en una promesa previa rota. Busca reparar el daño y recontratar el futuro.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Queja Impotente:</span><span class=\"croquis-desc\">Descarga emocional sin acuerdo previo que busca culpables y desquita frustración.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reclamo Productivo:</span><span class=\"croquis-desc\">Basado en una promesa previa rota. Busca reparar el daño y recontratar el futuro.</span></div>\n          </div>\n        ",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
@@ -315,8 +369,14 @@
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
+        "kicker": "04 · CUIDAR EL VÍNCULO",
+        "title": "Restaurar la Relación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fortalecer la Confianza:</span><span class=\"croquis-desc\">Un reclamo bien gestionado no destruye la relación: la vuelve más madura y sólida.</span></div>\n          </div>\n        ",
+        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
+      },
+      {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
@@ -335,24 +395,30 @@
       {
         "kicker": "01 · CONCEPTO ATÓMICO",
         "title": "Escuchar $\\neq$ Oír",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">👂 Oír:</span><span class=\"croquis-desc\">Fenómeno biológico involuntario de percibir ondas de sonido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🧠 ESCUCHAR:</span><span class=\"croquis-desc\"><strong>OÍR + INTERPRETAR</strong>. Le asignamos un significado a las palabras del otro.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Oír:</span><span class=\"croquis-desc\">Fenómeno biológico involuntario de percibir ondas de sonido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">ESCUCHAR:</span><span class=\"croquis-desc\"><strong>OÍR + INTERPRETAR</strong>. Le asignamos un significado a las palabras del otro.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
         "kicker": "02 · LOS FILTROS DE ESCUCHA",
         "title": "Con Qué Escuchamos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ Filtro Histórico:</span><span class=\"croquis-desc\">Nuestra historia de vida y experiencias pasadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ Filtro Emocional:</span><span class=\"croquis-desc\">El estado de ánimo en el que estamos en el momento de escuchar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">✦ Filtro de Intención:</span><span class=\"croquis-desc\">Nuestros propios intereses y agendas personales.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Histórico:</span><span class=\"croquis-desc\">Nuestra historia de vida y experiencias pasadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Emocional:</span><span class=\"croquis-desc\">El estado de ánimo en el que estamos en el momento de escuchar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro de Intención:</span><span class=\"croquis-desc\">Nuestros propios intereses y agendas personales.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
         "kicker": "03 · HERRAMIENTA CLAVE",
         "title": "Verificar la Escucha",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔍 Chequeo de Escucha:</span><span class=\"croquis-desc\">Dado que siempre interpretamos, es vital validar: <em>\"¿Lo que me estás diciendo es X?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Indagación:</span><span class=\"croquis-desc\">Hacer preguntas para comprender el mundo del otro en lugar de asumir certezas sobre lo escuchado.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Chequeo de Escucha:</span><span class=\"croquis-desc\">Dado que siempre interpretamos, es vital validar: <em>\"¿Lo que me estás diciendo es X?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Indagación:</span><span class=\"croquis-desc\">Hacer preguntas para comprender el mundo del otro en lugar de asumir certezas sobre lo escuchado.</span></div>\n          </div>\n        ",
+        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
+      },
+      {
+        "kicker": "04 · LA MITAD DEL LENGUAJE",
+        "title": "Escucha e Integración",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Validar la Diferencia:</span><span class=\"croquis-desc\">Comprender que la interpretación del otro es tan legítima como la nuestra.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
@@ -371,18 +437,30 @@
       {
         "kicker": "01 · ESCUCHA PREVIA",
         "title": "El Diálogo de Sordos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🤖 Escucha Recreativa / Previa:</span><span class=\"croquis-desc\">Escuchamos buscando confirmar lo que ya pensábamos o preparando nuestra respuesta mientras el otro habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 Consecuencia:</span><span class=\"croquis-desc\">No hay aprendizaje ni encuentro verdadero; solo repetición de viejos juicios.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escucha Recreativa / Previa:</span><span class=\"croquis-desc\">Escuchamos buscando confirmar lo que ya pensábamos o preparando nuestra respuesta mientras el otro habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Consecuencia:</span><span class=\"croquis-desc\">No hay aprendizaje ni encuentro verdadero; solo repetición de viejos juicios.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
         "kicker": "02 · ESCUCHA COMPROMETIDA",
         "title": "Alojar al Otro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💎 Presencia Plena:</span><span class=\"croquis-desc\">Suspender temporalmente nuestros juicios para escuchar la inquietud real del interlocutor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Escuchar la Inquietud:</span><span class=\"croquis-desc\">Preguntarse: <em>\"¿Qué le preocupa o qué cuida el otro al decirme esto?\"</em></span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Presencia Plena:</span><span class=\"croquis-desc\">Suspender temporalmente nuestros juicios para alojar la inquietud real del interlocutor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escuchar la Inquietud:</span><span class=\"croquis-desc\">Preguntarse: <em>\"¿Qué le preocupa o qué cuida el otro al decirme esto?\"</em></span></div>\n          </div>\n        ",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "03 · NIVELES DE PRESENCIA",
+        "title": "Profundidad en el Vínculo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estar Presente:</span><span class=\"croquis-desc\">Dedicar cuerpo, atención y emoción completa al diálogo sin distracciones.</span></div>\n          </div>\n        ",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "04 · TRANSFORMACIÓN",
+        "title": "El Impacto de la Escucha",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disolver el Conflicto:</span><span class=\"croquis-desc\">Cuando alguien se siente verdaderamente escuchado, la resistencia defensiva se desvanece.</span></div>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
@@ -401,7 +479,7 @@
       {
         "kicker": "01 · LA CONFIANZA COMO JUICIO",
         "title": "Evaluación de Comportamiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚖️ Hipótesis Futura:</span><span class=\"croquis-desc\">La confianza es la evaluación sobre si podemos vulnerarnos ante el accionar futuro de otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🛠️ Construible y Reparable:</span><span class=\"croquis-desc\">Al ser un juicio compuesto de pilares, se puede diagnosticar y reparar con conversaciones precisas.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hipótesis Futura:</span><span class=\"croquis-desc\">La confianza es la evaluación sobre si podemos vulnerarnos ante el accionar futuro de otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construible y Reparable:</span><span class=\"croquis-desc\">Al ser un juicio compuesto de pilares, se puede diagnosticar y reparar con conversaciones precisas.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
@@ -413,12 +491,18 @@
       {
         "kicker": "03 · REPARACIÓN",
         "title": "Estructura Relacional (ECR)",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔍 Diagnóstico:</span><span class=\"croquis-desc\">Identificar en cuál de los 4 pilares específicos ocurrió la quiebra de confianza.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🤝 Recontratación:</span><span class=\"croquis-desc\">Pedir y coordinar compromisos verificables para reconstruir la credibilidad.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diagnóstico:</span><span class=\"croquis-desc\">Identificar en cuál de los 4 pilares específicos ocurrió la quiebra de confianza.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratación:</span><span class=\"croquis-desc\">Pedir y coordinar compromisos verificables para reconstruir la credibilidad.</span></div>\n          </div>\n        ",
+        "source": "12) Confianza"
+      },
+      {
+        "kicker": "04 · AUTOCONFIANZA",
+        "title": "Confianza en Uno Mismo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cumplirse a Uno Mismo:</span><span class=\"croquis-desc\">La autoconfianza nace de sostener las promesas y compromisos que te hacés a vos mismo.</span></div>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "12) Confianza"
@@ -437,18 +521,30 @@
       {
         "kicker": "01 · PARADIGMA OBLIGACIÓN",
         "title": "El Desgaste del 'Tengo Que'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">😩 Sometimiento:</span><span class=\"croquis-desc\">Vivir en el <em>\"Tengo que hacer X\"</em> te posiciona como víctima sin opción de las circunstancias.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔋 Agotamiento:</span><span class=\"croquis-desc\">Drena la motivación interna y produce resentimiento silencioso con la tarea.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sometimiento:</span><span class=\"croquis-desc\">Vivir en el <em>\"Tengo que hacer X\"</em> te posiciona como víctima sin opción de las circunstancias.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Agotamiento:</span><span class=\"croquis-desc\">Drena la motivación interna y produce resentimiento silencioso con la tarea.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
         "kicker": "02 · PARADIGMA COMPROMISO",
         "title": "El Poder del 'Elijo'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 Autonomía Soberana:</span><span class=\"croquis-desc\">Reemplazar \"Tengo que\" por <em>\"ELIJO hacer esto para lograr Y\"</em> reconecta con tu poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚖️ Asumir Costos:</span><span class=\"croquis-desc\">Elegir implica hacerse cargo libremente de las consecuencias y sacrificios de la elección.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía Soberana:</span><span class=\"croquis-desc\">Reemplazar \"Tengo que\" por <em>\"ELIJO hacer esto para lograr Y\"</em> reconecta con tu poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir Costos:</span><span class=\"croquis-desc\">Elegir implica hacerse cargo libremente de las consecuencias y sacrificios de la elección.</span></div>\n          </div>\n        ",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
+        "kicker": "03 · RECONTRATAR O DECLARAR NO",
+        "title": "Sincerar la Elección",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar la Incoherencia:</span><span class=\"croquis-desc\">Si no estás dispuesto a elegir algo ni pagar sus costos, declará un NO rotundo.</span></div>\n          </div>\n        ",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
+        "kicker": "04 · ENERGÍA Y PASIÓN",
+        "title": "Vivir desde el Propósito",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza Interna:</span><span class=\"croquis-desc\">El compromiso genera entusiamo y constancia natural en lugar de desgaste forzado.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
@@ -467,18 +563,30 @@
       {
         "kicker": "01 · PARADIGMA PROBLEMA",
         "title": "El Bloqueo del Problema",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🪨 Carga Externa:</span><span class=\"croquis-desc\">El \"Problema\" se percibe como una masa objetiva externa ante la cual no tenemos control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 Parálisis:</span><span class=\"croquis-desc\">Nos lleva a buscar culpables o lamentarnos por la realidad dada.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Carga Externa:</span><span class=\"croquis-desc\">El \"Problema\" se percibe como una masa objetiva externa ante la cual no tenemos control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Parálisis:</span><span class=\"croquis-desc\">Nos lleva a buscar culpables o lamentarnos por la realidad dada.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
         "kicker": "02 · DECLARACIÓN DE QUIEBRE",
         "title": "Ruptura de Transparencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ El Quiebre es una Declaración:</span><span class=\"croquis-desc\">Ocurre cuando el Observador dice: <em>\"Esto que ocurre no es transparente para mí, exijo una acción.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Quiebres Positivos y Negativos:</span><span class=\"croquis-desc\">Ganar un premio o sufrir una pérdida son quiebres que exigen reinventar la conducta.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Quiebre es una Declaración:</span><span class=\"croquis-desc\">Ocurre cuando el Observador dice: <em>\"Esto que ocurre no es transparente para mí, exijo una acción.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebres Positivos y Negativos:</span><span class=\"croquis-desc\">Ganar un premio o sufrir una pérdida son quiebres que exigen reinventar la conducta.</span></div>\n          </div>\n        ",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
+        "kicker": "03 · HERRAMIENTAS DE GESTIÓN",
+        "title": "Del Quiebre a la Acción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Declarar el Quiebre:</span><span class=\"croquis-desc\">Ponerle nombre al quiebre para sacarlo de la queja y pasarlo a la mesa de trabajo.</span></div>\n          </div>\n        ",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
+        "kicker": "04 · REINVENCIÓN",
+        "title": "Oportunidad de Crecimiento",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Innovación Ontológica:</span><span class=\"croquis-desc\">Todo aprendizaje relevante en la vida nace de haber declarado y atravesado un quiebre.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
@@ -497,18 +605,30 @@
       {
         "kicker": "01 · LA DISTINCIÓN",
         "title": "Emoción vs. Estado de Ánimo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ Emoción:</span><span class=\"croquis-desc\">Reacción biológica corta gatillada por un evento puntual observable del presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌧️ Estado de Ánimo:</span><span class=\"croquis-desc\">Clima emocional de fondo recurrente desde el cual habitamos el mundo.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Reacción biológica corta gatillada por un evento puntual observable del presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estado de Ánimo:</span><span class=\"croquis-desc\">Clima emocional de fondo recurrente desde el cual habitamos el mundo.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
         "kicker": "02 · LOS 4 ESTADOS BÁSICOS",
         "title": "Matriz Ontológica",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">😤 Resentimiento:</span><span class=\"croquis-desc\">Oposición a los hechos del pasado que no se pueden cambiar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🕊️ Aceptación / Paz:</span><span class=\"croquis-desc\">Paz con lo que fue en el pasado. Abre espacio para el futuro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">😩 Resignación:</span><span class=\"croquis-desc\">Oposición al futuro; creer que nada va a cambiar jamás.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 Ambición / Entusiasmo:</span><span class=\"croquis-desc\">Apertura hacia las posibilidades del futuro.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resentimiento:</span><span class=\"croquis-desc\">Oposición a los hechos del pasado que no se pueden cambiar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación / Paz:</span><span class=\"croquis-desc\">Paz con lo que fue en el pasado. Abre espacio para el futuro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resignación:</span><span class=\"croquis-desc\">Oposición al futuro; creer que nada va a cambiar jamás.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ambición / Entusiasmo:</span><span class=\"croquis-desc\">Apertura hacia las posibilidades del futuro.</span></div>\n          </div>\n        ",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "03 · ANATOMÍA DEL RESENTIMIENTO",
+        "title": "El Veneno Silencioso",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Re-sentir:</span><span class=\"croquis-desc\">Volver a sentir el dolor de una promesa rota no reclamada ni perdonada.</span></div>\n          </div>\n        ",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "04 · REDISEÑO EMOCIONAL",
+        "title": "Transformar el Clima",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cambio de Historia:</span><span class=\"croquis-desc\">Revisar los juicios que sostienen el estado de ánimo para rediseñar la disposición al futuro.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "15) Emociones y Estados de ánimo"
@@ -527,18 +647,30 @@
       {
         "kicker": "01 · LA FUNCIÓN DEL ENOJO",
         "title": "Energía para Defender",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔥 Evaluación de Injusticia:</span><span class=\"croquis-desc\">El enojo surge cuando juzgamos que se ha violado un estándar o límite personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚡ Furia Destructiva:</span><span class=\"croquis-desc\">Descarga reactiva para agredir, castigar o culpar. Rompe las relaciones.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evaluación de Injusticia:</span><span class=\"croquis-desc\">El enojo surge cuando juzgamos que se ha violado un estándar o límite personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Furia Destructiva:</span><span class=\"croquis-desc\">Descarga reactiva para agredir, castigar o culpar. Rompe las relaciones.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
         "kicker": "02 · ENOJO FUNCIONAL",
         "title": "Canalizar la Fuerza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🎯 Reclamo Productivo:</span><span class=\"croquis-desc\">Usar la energía del enojo para comunicar el impacto, defender la dignidad y pedir reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🛡️ Recontratación:</span><span class=\"croquis-desc\">Transformar la frustración en acuerdos claros para el futuro.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reclamo Productivo:</span><span class=\"croquis-desc\">Usar la energía del enojo para comunicar el impacto, defender la dignidad y pedir reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratación:</span><span class=\"croquis-desc\">Transformar la frustración en acuerdos claros para el futuro.</span></div>\n          </div>\n        ",
+        "source": "16) Enojo"
+      },
+      {
+        "kicker": "03 · CIRCUITO PROACTIVO",
+        "title": "Procesar la Frustración",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pausa Ontológica:</span><span class=\"croquis-desc\">Separar los hechos de los juicios destructivos antes de emitir palabra.</span></div>\n          </div>\n        ",
+        "source": "16) Enojo"
+      },
+      {
+        "kicker": "04 · CUIDADO DE LOS VÍNCULOS",
+        "title": "Enojo con Respeto",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza sin Violencia:</span><span class=\"croquis-desc\">Sostener el límite personal sin destruir la dignidad de la otra persona.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "16) Enojo"
@@ -557,18 +689,30 @@
       {
         "kicker": "01 · FUNCIÓN DEL MIEDO",
         "title": "Protección y Alerta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⚠️ Evaluación de Amenaza:</span><span class=\"croquis-desc\">Se activa ante la percepción de peligro a nuestros recursos, estatus o integridad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 Parálisis Fantasma:</span><span class=\"croquis-desc\">Confundir la incertidumbre con peligro real inmoviliza y destruye oportunidades.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evaluación de Amenaza:</span><span class=\"croquis-desc\">Se activa ante la percepción de peligro a nuestros recursos, estatus o integridad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Parálisis Fantasma:</span><span class=\"croquis-desc\">Confundir la incertidumbre con peligro real inmoviliza y destruye oportunidades.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
         "kicker": "02 · MIEDO FUNCIONAL",
         "title": "Preparación y Cobertura",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🛡️ Diseñar Cobertura:</span><span class=\"croquis-desc\">Escuchar al miedo para capacitarse, pedir ayuda y mitigar riesgos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 Actuar con Incertidumbre:</span><span class=\"croquis-desc\">El coraje no es ausencia de miedo, es accionar a pesar de él.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseñar Cobertura:</span><span class=\"croquis-desc\">Escuchar al miedo para capacitarse, pedir ayuda y mitigar riesgos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actuar con Incertidumbre:</span><span class=\"croquis-desc\">El coraje no es ausencia de miedo, es accionar a pesar de él.</span></div>\n          </div>\n        ",
+        "source": "17) Miedo"
+      },
+      {
+        "kicker": "03 · EVALUACIÓN RIGUROSA",
+        "title": "Desarmar la Fantasía",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Medir el Riesgo Real:</span><span class=\"croquis-desc\">¿Qué es lo peor que puede pasar y qué recursos tengo si ocurre?</span></div>\n          </div>\n        ",
+        "source": "17) Miedo"
+      },
+      {
+        "kicker": "04 · ACCIÓN CORAJUDA",
+        "title": "Avanzar con la Señal",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Uso de la Energía:</span><span class=\"croquis-desc\">Convertir la adrenalina del miedo en foco y prudencia estratégica.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "17) Miedo"
@@ -587,12 +731,30 @@
       {
         "kicker": "01 · TIRANO VS EXCELENCIA",
         "title": "El Tirano Interno",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">⛓️ Autoexigencia Tóxica:</span><span class=\"croquis-desc\">Pone una vara inalcanzable de perfección que castiga y erosiona la autoestima.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🏆 Excelencia:</span><span class=\"croquis-desc\">Compromiso con la mejora continua disfrutando el proceso y aprendiendo del error.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoexigencia Tóxica:</span><span class=\"croquis-desc\">Pone una vara inalcanzable de perfección que castiga y erosiona la autoestima.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Excelencia:</span><span class=\"croquis-desc\">Compromiso con la mejora continua disfrutando el proceso y aprendiendo del error.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "02 · IMPACTO EN LA SALUD",
+        "title": "Erosión Personal",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo Tensionado:</span><span class=\"croquis-desc\">La autoexigencia genera tensión crónica en hombros, mandíbula y respiración.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Insatisfacción Permanente:</span><span class=\"croquis-desc\">Imposibilidad de celebrar los logros obtenidos por foco exclusivo en el detalle faltante.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "03 · PARADIGMA EXCELENCIA",
+        "title": "Amor al Proceso",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Progreso Gradual:</span><span class=\"croquis-desc\">Medir el avance respecto al punto de partida y no respecto al ideal inalcanzable.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "04 · SOLTAR LA PERFECCIÓN",
+        "title": "Aceptar la Falibilidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Error como Lección:</span><span class=\"croquis-desc\">Tratar las equivocaciones como datos valiosos de aprendizaje sin autoflagelación.</span></div>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "18) Exigencia – Autoexigencia"
@@ -609,14 +771,32 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · DEL CASTIGO AL RESARCIMIENTO",
-        "title": "Culpa vs. Responsabilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🩸 Culpa Estéril:</span><span class=\"croquis-desc\">Autoflagelación y castigo interno que no resuelve el daño ocasionado al otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌱 Responsabilidad:</span><span class=\"croquis-desc\">Asumir la falta, pedir disculpas sinceras y ejecutar acciones de reparación concreta.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ORIGEN DE LA CULPA",
+        "title": "Juicio de Incumplimiento",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falta a un Valor:</span><span class=\"croquis-desc\">La culpa surge al evaluar que hemos violado un compromiso ético o valor propio.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpa Estéril:</span><span class=\"croquis-desc\">Autoflagelación y castigo interno que no resuelve el daño ocasionado al otro.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "02 · PASO A LA RESPONSABILIDAD",
+        "title": "Resarcimiento Activo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir la Falta:</span><span class=\"croquis-desc\">Reconocer el impacto sin victimizarse ni buscar excusas tranquilizadoras.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción Reparadora:</span><span class=\"croquis-desc\">Pedir disculpas sinceras y ejecutar acciones de reparación concreta.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "03 · LIBERACIÓN Y PERDÓN",
+        "title": "Perdonarse a Uno Mismo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Comprensión Ontológica:</span><span class=\"croquis-desc\">Aceptar que hiciste lo mejor que podías con el nivel de conciencia de aquel momento.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "04 · INTEGRIDAD PERSONAL",
+        "title": "Restaurar la Coherencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso Futuro:</span><span class=\"croquis-desc\">Cerrar el capítulo pasado recontratando estándares de conducta para adelante.</span></div>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "19) Culpa"
@@ -633,14 +813,32 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · TRANSPARENCIA RELACIONAL",
-        "title": "Manipulación vs. Autenticidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🎭 Modo Manipulador:</span><span class=\"croquis-desc\">Usar chantaje emocional o victimización para conseguir fines ocultos sin pedir abiertamente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💎 Autenticidad:</span><span class=\"croquis-desc\">Pedidos transparentes y directos, respetando la libertad de respuesta del otro.</span></div>\n          </div>\n        ",
+        "kicker": "01 · MODO MANIPULADOR",
+        "title": "Control Indirecto",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fines Ocultos:</span><span class=\"croquis-desc\">Usar chantaje emocional o victimización para conseguir que otros hagan lo que queremos sin pedirlo explícitamente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Erosión del Vínculo:</span><span class=\"croquis-desc\">La manipulación destruye la confianza genuina a mediano plazo.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "02 · AUTENTICIDAD ONTOLÓGICA",
+        "title": "Transparencia Relacional",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedidos Directos:</span><span class=\"croquis-desc\">Expresar abiertamente lo que necesitás sin estrategias solapadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Respeto a la Libertad:</span><span class=\"croquis-desc\">Aceptar el NO o la respuesta del otro con madurez ontológica.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "03 · LIDERAZGO TRANSPARENTE",
+        "title": "Vínculos de Confianza",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coherencia Ética:</span><span class=\"croquis-desc\">Construir acuerdos basados en la sinceridad y la legitimidad mutua.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "04 · DECONSTRUCCIÓN",
+        "title": "Desactivar la Manipulación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poner en Palabras:</span><span class=\"croquis-desc\">Hacer explícita la intención oculta para traer la conversación a la transparencia.</span></div>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "20) Manipulación"
@@ -657,14 +855,32 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · FOCO DE INFLUENCIA",
-        "title": "Control vs. Soltar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🎮 Modo Control:</span><span class=\"croquis-desc\">Ansiedad por querer dominar variables externas incontrolables.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🌊 Soltar y Accionar:</span><span class=\"croquis-desc\">Enfocar la energía únicamente en tu capacidad de respuesta e influencia personal.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ILUSIÓN DE CONTROL",
+        "title": "El Desgaste del Controlador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Modo Control:</span><span class=\"croquis-desc\">Ansiedad por querer dominar personas y factores externos fuera de nuestro alcance.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rigidez:</span><span class=\"croquis-desc\">Resistencia defensiva cuando las cosas no salen exactamente según el plan.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "02 · SOLTAR Y ACCIONAR",
+        "title": "Foco de Influencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Círculo de Influencia:</span><span class=\"croquis-desc\">Enfocar la energía únicamente en lo que SÍ depende de vos: tus decisiones y conductas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Confianza Interna:</span><span class=\"croquis-desc\">Confiar en tu capacidad para responder ante lo impredecible en lugar de intentar controlarlo todo.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "03 · ACEPTACIÓN",
+        "title": "Danzar con la Incertidumbre",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fluidez Ontológica:</span><span class=\"croquis-desc\">Aceptar la imperfección y la impredecibilidad como parte de la vida.</span></div>\n          </div>\n        ",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
+        "kicker": "04 · PAZ Y EFECTIVIDAD",
+        "title": "Liberar la Mente",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ahorro de Energía:</span><span class=\"croquis-desc\">Soltar la carga de controlar a los demás genera serenidad y alta efectividad.</span></div>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "21) Del Modo control al Compromiso con el Control."
@@ -681,14 +897,32 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · DISPOSICIONES CORPORALES 1",
-        "title": "Apertura y Flexibilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🤗 Apertura:</span><span class=\"croquis-desc\">Pecho disponible, brazos sueltos. Permite recibir al otro y empatizar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💃 Flexibilidad:</span><span class=\"croquis-desc\">Cuerpo fluido y adaptable. Permite cambiar de perspectiva y danzar con la vida.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EL CUERPO COMO DOMINIO",
+        "title": "Corporalidad del Observador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Biología e Identidad:</span><span class=\"croquis-desc\">Tu cuerpo sostiene a tu Observador. Cada postura abre o cierra posibilidades de acción.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "02 · APERTURA",
+        "title": "La Disposición a Recibir",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disposición Corporal:</span><span class=\"croquis-desc\">Pecho disponible, brazos sueltos y mirada acogedora.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Efecto en la Escucha:</span><span class=\"croquis-desc\">Permite recibir al otro, alojar nuevas ideas y empatizar.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "03 · FLEXIBILIDAD",
+        "title": "La Disposición a Adaptarse",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Movimiento Fluido:</span><span class=\"croquis-desc\">Columna suelta y articulaciones disponibles para danzar con el cambio.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar la Rigidez:</span><span class=\"croquis-desc\">Permite cambiar de perspectiva y abandonar la obstinación de tener razón.</span></div>\n          </div>\n        ",
+        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+      },
+      {
+        "kicker": "04 · PRÁCTICA DE CENTRAMIENTO",
+        "title": "Integración Somática",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Práctica GEC & PNL:</span><span class=\"croquis-desc\">Usar la respiración y el movimiento corporal para modificar el estado emocional.</span></div>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
@@ -705,14 +939,32 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · DISPOSICIONES CORPORALES 2",
-        "title": "Resolución y Centramiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🏃 Resolución:</span><span class=\"croquis-desc\">Cuerpo hacia adelante, paso firme. Disposición para avanzar y tomar decisiones.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🧘 Centramiento GEC:</span><span class=\"croquis-desc\">Eje vertical y pies enraizados. Estabilidad emocional en medio de la tormenta.</span></div>\n          </div>\n        ",
+        "kicker": "01 · RESOLUCIÓN",
+        "title": "La Disposición a Avanzar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza de Concreción:</span><span class=\"croquis-desc\">Cuerpo inclinado levemente hacia adelante, mirada fija y paso decidido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Tomar Decisiones:</span><span class=\"croquis-desc\">Disposición corporal indispensable para ejecutar, cortar y avanzar.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "02 · ESTABILIDAD",
+        "title": "La Disposición a Sostener",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pies Enraizados:</span><span class=\"croquis-desc\">Centro de gravedad bajo y buena base de sustentación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sostener Compromisos:</span><span class=\"croquis-desc\">Brinda la solidez para no ser arrastrado por vendavales emocionales.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "03 · CENTRAMIENTO GEC",
+        "title": "El Eje en la Tormenta",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje Vertical:</span><span class=\"croquis-desc\">Respiración profunda, presencia alineada entre cabeza, corazón y pelvis.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "04 · SOLIDEZ PERSONAL",
+        "title": "Coherencia en Acción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Presencia del Coach:</span><span class=\"croquis-desc\">Habitar el cuerpo con centramiento permite acompañar a otros desde la serenidad.</span></div>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
         "type": "reflection",
-        "kicker": "02 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
@@ -726,29 +978,41 @@
     "domain": "Ontología",
     "color": "#c95555",
     "hook": "La víctima busca culpables para justificar su impotencia; el responsable busca respuestas para accionar.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
         "kicker": "01 · EL OBSERVADOR VÍCTIMA",
         "title": "La Inocencia Impotente",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🥺 Explicaciones Tranquilizadoras:</span><span class=\"croquis-desc\">Busca historias externas convincentes para justificar su inacción.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">💥 Beneficio vs Costo:</span><span class=\"croquis-desc\">Gana la \"inocencia\" de no ser culpable, pero paga con la pérdida absoluta de su libertad.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Explicaciones Tranquilizadoras:</span><span class=\"croquis-desc\">Busca historias externas convincentes (el gobierno, el clima, los otros) para justificar su inacción.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Beneficio vs Costo:</span><span class=\"croquis-desc\">Gana la \"inocencia\" de no ser culpable, pero paga con la pérdida absoluta de su libertad y poder.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "02 · EL OBSERVADOR RESPONSABLE",
         "title": "Soberanía sobre tu Vida",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🚀 Responsa-habilidad:</span><span class=\"croquis-desc\">Habilidad para Responder. Comprende que no controla los eventos, pero sí su respuesta ante ellos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">🔑 Dueño de la Brecha:</span><span class=\"croquis-desc\">No busca culpar: se pregunta <em>\"¿Qué me faltó aportar a MÍ para lograr el resultado?\"</em></span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Responsa-habilidad:</span><span class=\"croquis-desc\">Habilidad para Responder. Comprende que no controla los eventos, pero sí su respuesta ante ellos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Dueño de la Brecha:</span><span class=\"croquis-desc\">No busca culpar: se pregunta <em>\"¿Qué me faltó aportar a MÍ para lograr el resultado?\"</em></span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
-        "kicker": "03 · CUESTIONARIO DE CHOQUE",
+        "kicker": "03 · EL LENGUAJE DEL PROTAGONISTA",
+        "title": "Herramientas de Acción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Explicación a la Declaración:</span><span class=\"croquis-desc\">En lugar de justificarse, declara quiebres y posibilidades.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Queja a los Pedidos:</span><span class=\"croquis-desc\">Realiza pedidos y ofertas concretas para mover el futuro.</span></div>\n          </div>\n        ",
+        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+      },
+      {
+        "kicker": "04 · CUESTIONARIO DE CHOQUE",
         "title": "Preguntas del Protagonista",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❓ Pregunta 1:</span><span class=\"croquis-desc\">¿Dado el daño o problema, qué puedo hacer AHORA para reparar?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❓ Pregunta 2:</span><span class=\"croquis-desc\">¿Estoy dispuesto a soltar mi deseo de 'tener razón' para generar resultados?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">❓ Pregunta Dorada:</span><span class=\"croquis-desc\">¿Quién necesito ESTAR SIENDO hoy para lograr lo que anhelo mañana?</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pregunta 1:</span><span class=\"croquis-desc\">¿Dado el daño o problema, qué puedo hacer AHORA para reparar?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pregunta 2:</span><span class=\"croquis-desc\">¿Estoy dispuesto a soltar mi deseo de 'tener razón' para generar resultados?</span></div>\n          </div>\n        ",
+        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+      },
+      {
+        "kicker": "05 · LA PREGUNTA DORADA",
+        "title": "Autoconvocatoria",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Elección Diaria:</span><span class=\"croquis-desc\">¿Quién necesito ESTAR SIENDO hoy para lograr lo que anhelo mañana?</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "06 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"

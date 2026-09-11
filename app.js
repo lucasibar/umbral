@@ -111,7 +111,7 @@ function renderGrid() {
     const hasNote = userReflections.has(t.slug);
     const domainSpan = node('span', 'micro-card-domain', t.domain);
     if (hasNote) {
-      const noteTag = node('span', 'micro-card-note-badge', ' 📝 Con tus notas');
+      const noteTag = node('span', 'micro-card-note-badge', ' · Con notas');
       domainSpan.append(noteTag);
     }
 
@@ -148,7 +148,7 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   
   const article = node('article');
   
-  const statusSpan = node('span', 'reflection-status', '✓ Guardado localmente');
+  const statusSpan = node('span', 'reflection-status', 'Guardado localmente');
   const kickerContainer = node('div', 'reflection-header-row');
   kickerContainer.append(node('p', 'reel-slide-kicker', slide.kicker), statusSpan);
 
@@ -163,7 +163,7 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   
   // Field 1: Lenguaje
   const groupLenguaje = node('div', 'reflection-group');
-  const labelLenguaje = node('label', 'reflection-label', '💬 Lenguaje');
+  const labelLenguaje = node('label', 'reflection-label', 'Lenguaje');
   const textLenguaje = node('textarea', 'reflection-input reflection-textarea');
   textLenguaje.id = `reflection-lenguaje-${topic.slug}`;
   textLenguaje.name = 'reflection_lenguaje';
@@ -173,7 +173,7 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   
   // Field 2: Cuerpo
   const groupCuerpo = node('div', 'reflection-group');
-  const labelCuerpo = node('label', 'reflection-label', '🧘 Cuerpo');
+  const labelCuerpo = node('label', 'reflection-label', 'Cuerpo');
   const textCuerpo = node('textarea', 'reflection-input reflection-textarea');
   textCuerpo.id = `reflection-cuerpo-${topic.slug}`;
   textCuerpo.name = 'reflection_cuerpo';
@@ -183,7 +183,7 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
 
   // Field 3: Emoción
   const groupEmocion = node('div', 'reflection-group');
-  const labelEmocion = node('label', 'reflection-label', '❤️ Emoción');
+  const labelEmocion = node('label', 'reflection-label', 'Emoción');
   const textEmocion = node('textarea', 'reflection-input reflection-textarea');
   textEmocion.id = `reflection-emocion-${topic.slug}`;
   textEmocion.name = 'reflection_emocion';
@@ -199,9 +199,9 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
       if (savedData.lenguaje) textLenguaje.value = savedData.lenguaje;
       if (savedData.cuerpo) textCuerpo.value = savedData.cuerpo;
       if (savedData.emocion) textEmocion.value = savedData.emocion;
-      statusSpan.textContent = '✓ Guardado localmente';
+      statusSpan.textContent = 'Guardado localmente';
     } else {
-      statusSpan.textContent = 'Sin notas guardadas';
+      statusSpan.textContent = 'Sin notas';
     }
   });
 
@@ -217,8 +217,8 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
       });
       if (ok) {
         statusSpan.textContent = (textLenguaje.value.trim() || textCuerpo.value.trim() || textEmocion.value.trim()) 
-          ? '✓ Guardado sin conexión' 
-          : 'Sin notas guardadas';
+          ? 'Guardado sin conexión' 
+          : 'Sin notas';
       }
     }, 400);
   };
