@@ -35,7 +35,7 @@ async function loadAllReflections() {
       req.onsuccess = () => {
         userReflections.clear();
         (req.result || []).forEach(item => {
-          if (item.lenguaje || item.cuerpo || item.emocion) {
+          if (item.text || item.lenguaje || item.cuerpo || item.emocion) {
             userReflections.set(item.slug, item);
           }
         });
@@ -71,14 +71,12 @@ async function saveReflection(slug, data) {
       const store = tx.objectStore(STORE_NAME);
       const payload = {
         slug,
-        lenguaje: data.lenguaje || '',
-        cuerpo: data.cuerpo || '',
-        emocion: data.emocion || '',
+        text: data.text || '',
         updatedAt: new Date().toISOString()
       };
       const req = store.put(payload);
       req.onsuccess = () => {
-        if (payload.lenguaje || payload.cuerpo || payload.emocion) {
+        if (payload.text) {
           userReflections.set(slug, payload);
         } else {
           userReflections.delete(slug);
@@ -144,62 +142,39 @@ function goTo(index, behavior = 'smooth') {
 
 function createReflectionSlide(slide, topic, index, totalSlides) {
   const wrapper = node('section', 'reel-slide reel-slide-reflection');
-  wrapper.setAttribute('aria-label', `Ficha ${index + 1} de ${totalSlides}: Registro Ontológico`);
+  wrapper.setAttribute('aria-label', `Ficha ${index + 1} de ${totalSlides}: Reflexión`);
   
   const article = node('article');
   
   const statusSpan = node('span', 'reflection-status', 'Guardado localmente');
   const kickerContainer = node('div', 'reflection-header-row');
-  kickerContainer.append(node('p', 'reel-slide-kicker', slide.kicker), statusSpan);
+  kickerContainer.append(node('p', 'reel-slide-kicker', slide.kicker || 'REGISTRO DE REFLEXIÓN'), statusSpan);
 
   article.append(
     kickerContainer,
-    node('h2', '', slide.title),
-    node('div', 'reel-rule'),
-    node('p', 'reel-reflection-subtitle', slide.body)
+    node('h2', '', 'Reflexión'),
+    node('div', 'reel-rule')
   );
 
   const form = node('div', 'reel-reflection-form');
   
-  // Field 1: Lenguaje
-  const groupLenguaje = node('div', 'reflection-group');
-  const labelLenguaje = node('label', 'reflection-label', 'Lenguaje');
-  const textLenguaje = node('textarea', 'reflection-input reflection-textarea');
-  textLenguaje.id = `reflection-lenguaje-${topic.slug}`;
-  textLenguaje.name = 'reflection_lenguaje';
-  textLenguaje.rows = 2;
-  textLenguaje.placeholder = '¿Qué te decís a vos mismo, qué decís a otros o qué te dicen sobre esto?';
-  groupLenguaje.append(labelLenguaje, textLenguaje);
+  const textarea = node('textarea', 'reflection-input reflection-textarea-full');
+  textarea.id = `reflection-text-${topic.slug}`;
+  textarea.name = 'reflection_text';
+  textarea.placeholder = 'Escribí tu reflexión o aprendizajes sobre esta distinción...';
   
-  // Field 2: Cuerpo
-  const groupCuerpo = node('div', 'reflection-group');
-  const labelCuerpo = node('label', 'reflection-label', 'Cuerpo');
-  const textCuerpo = node('textarea', 'reflection-input reflection-textarea');
-  textCuerpo.id = `reflection-cuerpo-${topic.slug}`;
-  textCuerpo.name = 'reflection_cuerpo';
-  textCuerpo.rows = 2;
-  textCuerpo.placeholder = '¿Qué postura, tensión o sensación física registrás al pensar en esto?';
-  groupCuerpo.append(labelCuerpo, textCuerpo);
-
-  // Field 3: Emoción
-  const groupEmocion = node('div', 'reflection-group');
-  const labelEmocion = node('label', 'reflection-label', 'Emoción');
-  const textEmocion = node('textarea', 'reflection-input reflection-textarea');
-  textEmocion.id = `reflection-emocion-${topic.slug}`;
-  textEmocion.name = 'reflection_emocion';
-  textEmocion.rows = 2;
-  textEmocion.placeholder = '¿Qué emoción o estado de ánimo identificás que surge?';
-  groupEmocion.append(labelEmocion, textEmocion);
-
-  form.append(groupLenguaje, groupCuerpo, groupEmocion);
+  form.append(textarea);
   article.append(form);
 
   getReflection(topic.slug).then(savedData => {
     if (savedData) {
-      if (savedData.lenguaje) textLenguaje.value = savedData.lenguaje;
-      if (savedData.cuerpo) textCuerpo.value = savedData.cuerpo;
-      if (savedData.emocion) textEmocion.value = savedData.emocion;
-      statusSpan.textContent = 'Guardado localmente';
+      const textVal = savedData.text || [savedData.lenguaje, savedData.cuerpo, savedData.emocion].filter(Boolean).join('\n\n');
+      if (textVal) {
+        textarea.value = textVal;
+        statusSpan.textContent = 'Guardado localmente';
+      } else {
+        statusSpan.textContent = 'Sin notas';
+      }
     } else {
       statusSpan.textContent = 'Sin notas';
     }
@@ -211,21 +186,17 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
     clearTimeout(saveTimer);
     saveTimer = setTimeout(async () => {
       const ok = await saveReflection(topic.slug, {
-        lenguaje: textLenguaje.value.trim(),
-        cuerpo: textCuerpo.value.trim(),
-        emocion: textEmocion.value.trim()
+        text: textarea.value.trim()
       });
       if (ok) {
-        statusSpan.textContent = (textLenguaje.value.trim() || textCuerpo.value.trim() || textEmocion.value.trim()) 
-          ? 'Guardado sin conexión' 
-          : 'Sin notas';
+        statusSpan.textContent = textarea.value.trim() ? 'Guardado sin conexión' : 'Sin notas';
+      } else {
+        statusSpan.textContent = 'Error al guardar';
       }
     }, 400);
   };
 
-  textLenguaje.addEventListener('input', triggerSave);
-  textCuerpo.addEventListener('input', triggerSave);
-  textEmocion.addEventListener('input', triggerSave);
+  textarea.addEventListener('input', triggerSave);
 
   const nextBtn = node('button', 'reel-next-topic', 'Siguiente distinción →');
   nextBtn.onclick = () => openTopic(topics[(topics.indexOf(topic) + 1) % topics.length]);
