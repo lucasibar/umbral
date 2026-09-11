@@ -791,38 +791,56 @@
     "officialTitle": "15) Emociones y Estados de ánimo",
     "domain": "Emoción",
     "color": "#f72585",
-    "hook": "La emoción es una reacción a un evento; el estado de ánimo es el clima donde vivís.",
-    "minutes": 5,
+    "hook": "Las emociones gatillan acciones; los estados de ánimo constituyen el clima desde donde habitás la vida.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · LA DISTINCIÓN",
-        "title": "Emoción vs. Estado de Ánimo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Reacción biológica corta gatillada por un evento puntual observable del presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estado de Ánimo:</span><span class=\"croquis-desc\">Clima emocional de fondo recurrente desde el cual habitamos el mundo.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ENFOQUE ONTOLÓGICO Y MATURANA",
+        "title": "Ni Buenas ni Malas",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundamento Maturana:</span><span class=\"croquis-desc\">El prejuicio cultural de \"controlar o reprimir\" emociones genera ceguera. Las emociones no son buenas ni malas: son señales biológico-relacionales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Espacio Reflexivo:</span><span class=\"croquis-desc\">En lugar de juzgar la emoción, la propuesta ontológica de ELAC es: <em>\"Mirá tu emocionar y actuá consciente de él\"</em>.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "02 · LOS 4 ESTADOS BÁSICOS",
-        "title": "Matriz Ontológica",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resentimiento:</span><span class=\"croquis-desc\">Oposición a los hechos del pasado que no se pueden cambiar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación / Paz:</span><span class=\"croquis-desc\">Paz con lo que fue en el pasado. Abre espacio para el futuro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resignación:</span><span class=\"croquis-desc\">Oposición al futuro; creer que nada va a cambiar jamás.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ambición / Entusiasmo:</span><span class=\"croquis-desc\">Apertura hacia las posibilidades del futuro.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LA EMOCIÓN (E-MOVERE)",
+        "title": "Impulso Transitorio a la Acción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Gatillador Concreto:</span><span class=\"croquis-desc\">La emoción (del latín <em>e-movere</em>) nace como respuesta a un acontecimiento específico e identificable del presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Temporalidad Corta:</span><span class=\"croquis-desc\">Es un impulso biológico transitorio que altera puntualmente nuestra predisposición a la acción.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "03 · ANATOMÍA DEL RESENTIMIENTO",
-        "title": "El Veneno Silencioso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Re-sentir:</span><span class=\"croquis-desc\">Volver a sentir el dolor de una promesa rota no reclamada ni perdonada.</span></div>\n          </div>\n        ",
+        "kicker": "03 · EL ESTADO DE ÁNIMO",
+        "title": "El Clima Emocional de Trasfondo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transparencia Recurrente:</span><span class=\"croquis-desc\">No \"tenemos\" un estado de ánimo: <strong>el estado de ánimo nos tiene</strong>. Vivimos habitando en él sin notarlo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Horizonte de Posibilidades:</span><span class=\"croquis-desc\">Determina el tipo de Observador que estamos siendo y limita o expande lo que juzgamos posible a futuro.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "04 · REDISEÑO EMOCIONAL",
-        "title": "Transformar el Clima",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cambio de Historia:</span><span class=\"croquis-desc\">Revisar los juicios que sostienen el estado de ánimo para rediseñar la disposición al futuro.</span></div>\n          </div>\n        ",
+        "kicker": "04 · LA MATRIZ DE LOS 4 ESTADOS BÁSICOS",
+        "title": "Facticidad y Posibilidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ante la Facticidad (Lo inmodificable):</span><span class=\"croquis-desc\"><strong>Resentimiento</strong> (oponerse a lo que fue) VS. <strong>Paz / Aceptación</strong> (aceptar lo dado).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ante la Posibilidad (Lo futuro):</span><span class=\"croquis-desc\"><strong>Resignación</strong> (juzgar que nada cambiará) VS. <strong>Serena Ambición / Entusiasmo</strong> (apertura a crear).</span></div>\n          </div>\n        ",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "05 · LOS 4 PASOS DE GESTIÓN EN ELAC",
+        "title": "Ruta de Aprendizaje Emocional",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Distinguir:</span><span class=\"croquis-desc\">Identificar si estás habitando una emoción puntual o un estado de ánimo recurrente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Aceptar:</span><span class=\"croquis-desc\">Alojar el sentir sin culparte ni resistir lo que estás sintiendo en tu cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Intervenir Lenguaje y Cuerpo:</span><span class=\"croquis-desc\">Fundamentar los juicios de trasfondo y modificar la postura física y respiratoria.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Generar la Emocionalidad Requerida:</span><span class=\"croquis-desc\">Comprometerte con la emoción que abre el futuro que declaraste.</span></div>\n          </div>\n        ",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "06 · CONTAGIO Y CLIMA COLECTIVO",
+        "title": "La Emocionalidad de los Equipos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Phenómeno Social:</span><span class=\"croquis-desc\">Los estados de ánimo son altamente contagiosos. Una familia, empresa o país comparte climas emocionales invisibles.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Liderazgo Emocional:</span><span class=\"croquis-desc\">El líder transformacional no cambia a la gente: cambia las conversaciones de trasfondo para transformar el clima grupal.</span></div>\n          </div>\n        ",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "07 · RECONSTRUCCIÓN LINGÜÍSTICA",
+        "title": "Cambiar la Historia de Trasfondo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarmar la Narrativa:</span><span class=\"croquis-desc\">Todo estado de ánimo se sostiene en juicios sobre el pasado o el futuro. Al fundamentar o disolver esos juicios, el clima cambia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseñar Nuevas Emociones:</span><span class=\"croquis-desc\">Generar declaraciones, promesas y acciones concretas para salir del resentimiento o la resignación.</span></div>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "15) Emociones y Estados de ánimo"
       }
     ]
