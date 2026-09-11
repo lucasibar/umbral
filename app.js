@@ -83,7 +83,7 @@ async function saveReflection(slug, data) {
         } else {
           userReflections.delete(slug);
         }
-        renderGrid(); // update badge on home cards
+        renderGrid();
         resolve(true);
       };
       req.onerror = (e) => reject(e.target.error);
@@ -194,7 +194,6 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   form.append(groupLenguaje, groupCuerpo, groupEmocion);
   article.append(form);
 
-  // Load existing reflection from IndexedDB
   getReflection(topic.slug).then(savedData => {
     if (savedData) {
       if (savedData.lenguaje) textLenguaje.value = savedData.lenguaje;
@@ -206,7 +205,6 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
     }
   });
 
-  // Auto-save debounced handler
   let saveTimer = null;
   const triggerSave = () => {
     statusSpan.textContent = 'Guardando...';
@@ -291,6 +289,7 @@ $('reel').addEventListener('close', () => document.body.classList.remove('micro-
 $('reel').addEventListener('click', e => { if (e.target === $('reel')) $('reel').close(); });
 $('previous').onclick = () => goTo(current - 1);
 $('next').onclick = () => goTo(current + 1);
+$('go-reflection').onclick = () => { if (selected) goTo(selected.slides.length - 1); };
 $('track').addEventListener('scroll', updatePosition, { passive: true });
 
 $('reel').addEventListener('keydown', e => {
@@ -313,7 +312,7 @@ async function start() {
     const response = await fetch('./data.json');
     if (!response.ok) throw new Error('No se pudo cargar el contenido');
     topics = await response.json();
-    await loadAllReflections(); // Load user notes from IndexedDB
+    await loadAllReflections();
     renderGrid();
     if ('serviceWorker' in navigator && window.isSecureContext) {
       try {
