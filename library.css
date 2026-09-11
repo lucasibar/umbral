@@ -59,17 +59,45 @@ body.micro-reel-open { overflow: hidden; }
 .reel-header div { display: flex; flex-direction: column; text-align: center; }
 .reel-header div span { color: var(--micro-color); text-transform: uppercase; letter-spacing: .12em; font-size: .57rem; font-weight: 800; }
 .reel-header div strong { margin-top: 3px; font-size: .83rem; }
+.reel-official-title { font-size: .62rem; color: #8e95a3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 240px; margin: 2px auto 0; }
 .reel-position { color: #777e8b; font-family: var(--font-mono); font-size: .65rem; text-align: right; }
 .reel-progress { height: 3px; margin: 0 18px 4px; overflow: hidden; border-radius: 999px; background: rgba(255,255,255,.13); }
 .reel-progress span { display: block; height: 100%; border-radius: inherit; background: var(--micro-color); transition: width 180ms ease; }
 .reel-carousel, .reel-carousel [data-slot="carousel-content"], .reel-track, .reel-slide { height: 100%; min-height: 0; }
 .reel-track { margin-left: 0 !important; }
 .reel-slide { padding-left: 0 !important; }
-.reel-slide article { height: 100%; display: flex; flex-direction: column; padding: clamp(38px, 7vh, 72px) 32px 28px; overflow: hidden; position: relative; }
-.reel-slide article > p { margin: 0 0 18px; color: var(--micro-color); text-transform: uppercase; letter-spacing: .14em; font-size: .65rem; font-weight: 800; }
-.reel-slide h2 { max-width: 355px; margin: 0; font-family: var(--font-serif); font-size: clamp(2.15rem, 5.2vh, 3.5rem); font-weight: 400; line-height: .98; letter-spacing: -.045em; }
-.reel-rule { width: 42px; height: 2px; margin: 24px 0; background: var(--micro-color); }
-.reel-body { max-width: 350px; min-height: 0; overflow-y: auto; padding-right: 8px; color: #c5c8d0; font-size: clamp(.94rem, 2vh, 1.04rem); line-height: 1.62; white-space: pre-line; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--micro-color) 55%, transparent) transparent; position: relative; z-index: 1; }
+.reel-slide article { height: 100%; display: flex; flex-direction: column; padding: clamp(32px, 5vh, 60px) 28px 24px; overflow-y: auto; position: relative; }
+.reel-slide article > p { margin: 0 0 14px; color: var(--micro-color); text-transform: uppercase; letter-spacing: .14em; font-size: .65rem; font-weight: 800; }
+.reel-slide h2 { max-width: 355px; margin: 0; font-family: var(--font-serif); font-size: clamp(1.9rem, 4.5vh, 3.2rem); font-weight: 400; line-height: .98; letter-spacing: -.045em; }
+.reel-rule { width: 42px; height: 2px; margin: 18px 0; background: var(--micro-color); }
+.reel-body { max-width: 350px; min-height: 0; overflow-y: auto; padding-right: 8px; color: #c5c8d0; font-size: clamp(.92rem, 1.9vh, 1.02rem); line-height: 1.62; white-space: pre-line; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--micro-color) 55%, transparent) transparent; position: relative; z-index: 1; }
+
+/* Registro Ontológico (Inputs de Reflexión) */
+.reel-slide-reflection article { overflow-y: auto; }
+.reel-reflection-subtitle { margin: -10px 0 16px; font-size: .82rem; color: #a6aab4; line-height: 1.45; }
+.reel-reflection-form { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; width: 100%; }
+.reflection-group { display: flex; flex-direction: column; gap: 4px; }
+.reflection-label { font-size: .78rem; font-weight: 700; color: #e2e4e9; display: flex; align-items: center; gap: 6px; }
+.reflection-input {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+  font-size: .84rem;
+  font-family: inherit;
+  line-height: 1.4;
+  resize: vertical;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+.reflection-input::placeholder { color: #6b7280; font-size: .78rem; }
+.reflection-input:focus {
+  outline: none;
+  border-color: var(--micro-color);
+  background: rgba(255, 255, 255, 0.08);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 25%, transparent);
+}
 .reel-slide blockquote { margin: 22px 0 0; padding: 14px 16px; border-left: 2px solid var(--micro-color); background: rgba(255,255,255,.045); color: #f1f2f5; font-family: var(--font-serif); font-size: .96rem; font-style: italic; line-height: 1.5; }
 .reel-watermark { position: absolute; right: -9px; bottom: -30px; color: color-mix(in srgb, var(--micro-color) 10%, transparent); font-family: var(--font-serif); font-size: 10rem; line-height: 1; pointer-events: none; }
 .reel-next-topic { width: max-content; min-height: 44px; margin-top: 24px; display: flex; align-items: center; gap: 10px; padding: 0 17px; border: 0; border-radius: 999px; background: var(--micro-color); color: #0b0d12; font-weight: 800; font-size: .76rem; cursor: pointer; position: relative; z-index: 1; }
