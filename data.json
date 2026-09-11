@@ -270,37 +270,49 @@
     "domain": "Lenguaje",
     "color": "#f15bb5",
     "hook": "Reconocer que no sabés es la puerta de entrada a todo aprendizaje.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · APRENDIZAJE ONTOLÓGICO",
-        "title": "Declarar 'No Sé'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humildad Cognoscitiva:</span><span class=\"croquis-desc\">Declarar NO SÉ es la puerta de entrada a cualquier espacio de aprendizaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ceguera Cognoscitiva:</span><span class=\"croquis-desc\">No sabemos que no sabemos. Reconocer la ignorancia rompe el punto ciego.</span></div>\n          </div>\n        ",
+        "kicker": "01 · UMBRAL DE APRENDIZAJE",
+        "title": "La Declaración del 'NO SÉ'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Primer Paso:</span><span class=\"croquis-desc\">El primer paso del aprendizaje es declarar <em>\"Yo no sé\"</em>. Salir de la trampa del <em>\"yo ya sé todo\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Temor a la Vulnerabilidad:</span><span class=\"croquis-desc\">Muchos prefieren fingir conocimiento por cuidar la imagen o miedo a parecer lentos o incompetentes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Abrir la Posibilidad:</span><span class=\"croquis-desc\">Sin la declaración de ignorancia no existe espacio de aprendizaje posible.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "02 · ENEMIGOS DEL APRENDIZAJE",
-        "title": "La Ceguera del 'Sabelotodo'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Saber Aparente:</span><span class=\"croquis-desc\">Aparentar saberlo todo por miedo a quedar vulnerable invalida el desarrollo personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Aprendiz Ontológico:</span><span class=\"croquis-desc\">Asume la vulnerabilidad de no saber para construir nuevas competencias.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LA CEGUERA COGNOSCITIVA",
+        "title": "Lo que No Sé que No Sé",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Zonas de Ceguera:</span><span class=\"croquis-desc\">Existe una inmensa área donde no sabemos que no sabemos. Reconocerla destruye la arrogancia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humildad Cognoscitiva:</span><span class=\"croquis-desc\">Aceptar que nuestro Observador tiene límites y que el mundo contiene posibilidades invisibles para nosotros.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "03 · RECONOCIMIENTO",
-        "title": "Declarar 'Gracias'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celebrar al Otro:</span><span class=\"croquis-desc\">Decir GRACIAS reconoce la generosidad y el aporte del otro a nuestra vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Interdependencia:</span><span class=\"croquis-desc\">Reconocer que nadie se realiza en soledad sin la ayuda del entorno.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA TRAMPA DEL CONTROL",
+        "title": "Tolerar la Incertidumbre",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Saberlo Todo Ya:</span><span class=\"croquis-desc\">Pretender entender todo de inmediato refleja miedo y necesidad obsesiva de control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Proceso de Aprendizaje:</span><span class=\"croquis-desc\">Aprender requiere habitar la confusión temporal con liviandad y respeto por los propios tiempos.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "04 · TEJIDO RELACIONAL",
-        "title": "Nutrir los Vínculos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Cercanía:</span><span class=\"croquis-desc\">La gratitud sincera fortalece la confianza mutua y abre canales de cooperación.</span></div>\n          </div>\n        ",
+        "kicker": "04 · LA DECLARACIÓN DE GRATITUD",
+        "title": "El Poder del 'GRACIAS'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Más que Educación:</span><span class=\"croquis-desc\">Declarar GRACIAS no es un cliché formal: es el reconocimiento ontológico del valor del otro en tu vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reconocer el Aporte:</span><span class=\"croquis-desc\">Es la acción lingüística que celebra las ofertas, promesas y la mera presencia del interlocutor.</span></div>\n          </div>\n        ",
+        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
+      },
+      {
+        "kicker": "05 · OBSERVADOR DE ABUNDANCIA",
+        "title": "Escasez vs. Gratitud",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Queja de Escasez:</span><span class=\"croquis-desc\">Quien vive en la queja permanente habita en un Observador enfocado obsesivamente en lo que falta.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Gratitud Activa:</span><span class=\"croquis-desc\">Construye un Observador de la abundancia que reconoce y celebra los recursos y logros presentes.</span></div>\n          </div>\n        ",
+        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
+      },
+      {
+        "kicker": "06 · CELEBRACIÓN DE VÍNCULOS",
+        "title": "Honrar las Relaciones",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Clima Emocional:</span><span class=\"croquis-desc\">Agradecer genera un estado de ánimo de paz, serenidad, legitimidad y cercanía en los equipos y vínculos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundar la Confianza:</span><span class=\"croquis-desc\">La gratitud constante fortalece la autoestima mutua y consolida relaciones saludables a largo plazo.</span></div>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       }
     ]
