@@ -66,41 +66,44 @@ body.micro-reel-open { overflow: hidden; }
 .reel-carousel, .reel-carousel [data-slot="carousel-content"], .reel-track, .reel-slide { height: 100%; min-height: 0; }
 .reel-track { margin-left: 0 !important; }
 .reel-slide { padding-left: 0 !important; }
-.reel-slide article { height: 100%; display: flex; flex-direction: column; padding: clamp(32px, 5vh, 60px) 28px 24px; overflow-y: auto; position: relative; }
+.reel-slide article { height: 100%; display: block; overflow-y: auto; padding: clamp(24px, 4vh, 48px) 24px 28px; position: relative; box-sizing: border-box; }
 .reel-slide article > p { margin: 0 0 14px; color: var(--micro-color); text-transform: uppercase; letter-spacing: .14em; font-size: .65rem; font-weight: 800; }
-.reel-slide h2 { max-width: 355px; margin: 0; font-family: var(--font-serif); font-size: clamp(1.9rem, 4.5vh, 3.2rem); font-weight: 400; line-height: .98; letter-spacing: -.045em; }
-.reel-rule { width: 42px; height: 2px; margin: 18px 0; background: var(--micro-color); }
-.reel-body { max-width: 350px; min-height: 0; overflow-y: auto; padding-right: 8px; color: #c5c8d0; font-size: clamp(.92rem, 1.9vh, 1.02rem); line-height: 1.62; white-space: pre-line; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--micro-color) 55%, transparent) transparent; position: relative; z-index: 1; }
+.reel-slide h2 { max-width: 355px; margin: 0; font-family: var(--font-serif); font-size: clamp(1.8rem, 4.2vh, 2.8rem); font-weight: 400; line-height: 1; letter-spacing: -.04em; }
+.reel-rule { width: 42px; height: 2px; margin: 16px 0; background: var(--micro-color); }
+.reel-body { max-width: 350px; min-height: 0; padding-right: 4px; color: #c5c8d0; font-size: clamp(.92rem, 1.9vh, 1.02rem); line-height: 1.62; white-space: pre-line; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--micro-color) 55%, transparent) transparent; position: relative; z-index: 1; }
 
 /* Registro Ontológico (Inputs de Reflexión) */
-.reel-slide-reflection article { overflow-y: auto; }
-.reflection-header-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.reel-slide-reflection article { display: block !important; overflow-y: auto !important; }
+.reel-slide-reflection h2 { font-size: clamp(1.5rem, 3.8vh, 2.4rem) !important; margin-bottom: 4px !important; }
+.reel-slide-reflection .reel-rule { margin: 12px 0 !important; }
+.reflection-header-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
 .reflection-header-row > p { margin: 0 !important; }
-.reflection-status { font-size: 0.66rem; color: #34d399; font-weight: 600; background: rgba(52, 211, 153, 0.12); padding: 2px 7px; border-radius: 6px; border: 1px solid rgba(52, 211, 153, 0.25); }
+.reflection-status { font-size: 0.68rem; color: #34d399; font-weight: 600; background: rgba(52, 211, 153, 0.12); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(52, 211, 153, 0.25); }
 .micro-card-note-badge { font-size: 0.62rem; color: #34d399; font-weight: 700; margin-left: 6px; text-transform: none; }
-.reel-reflection-subtitle { margin: -10px 0 16px; font-size: .82rem; color: #a6aab4; line-height: 1.45; }
-.reel-reflection-form { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; width: 100%; }
-.reflection-group { display: flex; flex-direction: column; gap: 4px; }
-.reflection-label { font-size: .78rem; font-weight: 700; color: #e2e4e9; display: flex; align-items: center; gap: 6px; }
+.reel-reflection-subtitle { margin: -6px 0 14px; font-size: .84rem; color: #a6aab4; line-height: 1.45; }
+.reel-reflection-form { display: flex; flex-direction: column; gap: 14px; margin: 16px 0 24px; width: 100%; }
+.reflection-group { display: flex; flex-direction: column; gap: 5px; }
+.reflection-label { font-size: 0.82rem; font-weight: 700; color: var(--micro-color); display: flex; align-items: center; gap: 6px; }
 .reflection-input {
   width: 100%;
-  padding: 8px 12px;
-  border-radius: 12px;
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  background: rgba(255, 255, 255, 0.05);
+  padding: 10px 14px;
+  border-radius: 14px;
+  border: 1px solid color-mix(in srgb, var(--micro-color) 40%, rgba(255, 255, 255, 0.2));
+  background: rgba(18, 20, 29, 0.85);
   color: #ffffff;
-  font-size: .84rem;
+  font-size: 0.88rem;
   font-family: inherit;
-  line-height: 1.4;
+  line-height: 1.45;
   resize: vertical;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-.reflection-input::placeholder { color: #6b7280; font-size: .78rem; }
+.reflection-input::placeholder { color: #8b92a0; font-size: 0.82rem; }
 .reflection-input:focus {
   outline: none;
   border-color: var(--micro-color);
-  background: rgba(255, 255, 255, 0.08);
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 25%, transparent);
+  background: #191c27;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 35%, transparent);
 }
 
 /* Micro-cards de contenido en Filminas */
