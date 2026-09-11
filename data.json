@@ -324,37 +324,49 @@
     "domain": "Lenguaje",
     "color": "#00bbf9",
     "hook": "El perdón no borra el pasado: libera tu futuro.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · LIBERACIÓN EMOCIONAL",
-        "title": "El Poder del Perdón",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar el Resentimiento:</span><span class=\"croquis-desc\">El perdón no libera al ofensor de su falta: te libera a VOS de la cadena del dolor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rediseño del Pasado:</span><span class=\"croquis-desc\">Cambiar la historia dolorosa que te contás sobre lo que ocurrió.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LIBERACIÓN SOBERANA",
+        "title": "El Acto Declarativo del Perdón",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto de Liberación:</span><span class=\"croquis-desc\">Perdonar no libera al ofensor de su falta: te libera a VOS de la cadena emocional que te ata al dolor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Romper la Víctima:</span><span class=\"croquis-desc\">Al perdonar ponés fin al proceso abierto que sigue reproduciendo el daño original en tu presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía Emocional:</span><span class=\"croquis-desc\">Reconocés que tu bienestar futuro depende de tu propia elección y no de las acciones del otro.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "02 · LAS 3 DIMENSIONES",
-        "title": "Anatomía del Perdón",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Pedir Perdón:</span><span class=\"croquis-desc\">Reconocer el daño ocasionado a otro y asumir la falta.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Otorgar Perdón:</span><span class=\"croquis-desc\">Declarar cancelada la deuda emocional con el ofensor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Perdonarse a Uno Mismo:</span><span class=\"croquis-desc\">Soltar el juicio despiadado sobre tus errores pasados.</span></div>\n          </div>\n        ",
+        "kicker": "02 · REDISEÑO TEMPORAL",
+        "title": "Perdonar no es Olvidar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Mirada al Futuro:</span><span class=\"croquis-desc\">Perdonar no cambia lo que ocurrió en el pasado, pero abre posibilidades inéditas para el futuro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No usar en Contra:</span><span class=\"croquis-desc\">Perdonar no implica amnesia: es el compromiso explícito de no usar lo sucedido como arma contra el otro.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "03 · VALIDACIÓN Y AFECTO",
-        "title": "Declarar Amor",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">\"Te Quiero / Te Amo\":</span><span class=\"croquis-desc\">Declaración lingüística que construye el refugio afectivo donde habitan las relaciones humanas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Validar la Existencia:</span><span class=\"croquis-desc\">Reconocer al otro como un legítimo otro en convivencia.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA TRAMPA DE LA CONDICIÓN",
+        "title": "Independencia del Perdón",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Arrepentimiento Ajeno:</span><span class=\"croquis-desc\">Condicionar tu perdón a que el otro se disculpe te mantiene prisionero de la voluntad ajena.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Andar con Frenos:</span><span class=\"croquis-desc\">No perdonar es como andar en bicicleta con los frenos apretados: agota, frustra e impide avanzar.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "04 · SANAR VÍNCULOS",
-        "title": "Paz Interna",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Oportuna:</span><span class=\"croquis-desc\">Guardarse el afecto por miedo a la vulnerabilidad enfría y empobrece los vínculos.</span></div>\n          </div>\n        ",
+        "kicker": "04 · LAS 3 DIMENSIONES",
+        "title": "Anatomía de la Tríada",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Pedir Perdón:</span><span class=\"croquis-desc\">Reconocer el daño ocasionado, asumir la responsabilidad y buscar la reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Otorgar Perdón:</span><span class=\"croquis-desc\">Declarar cancelada la deuda emocional retenida contra el ofensor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Perdonarse a Uno Mismo:</span><span class=\"croquis-desc\">Soltar el juicio implacable, la culpa y el castigo interno sobre los propios errores.</span></div>\n          </div>\n        ",
+        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
+      },
+      {
+        "kicker": "05 · LA DECLARACIÓN DEL AMOR",
+        "title": "El Legítimo Otro (Maturana)",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humberto Maturana:</span><span class=\"croquis-desc\">El amor es la emoción fundante que constituye al otro como un <strong>legítimo otro</strong> en la convivencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Trama Humana:</span><span class=\"croquis-desc\">Se manifiesta concretamente como respeto, solidaridad, aceptación y cuidado mutuo.</span></div>\n          </div>\n        ",
+        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
+      },
+      {
+        "kicker": "06 · QUIÉN ELIJO SER",
+        "title": "La Declaración de Selman",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Jim Selman:</span><span class=\"croquis-desc\"><em>\"Te amo no es la descripción de un sentimiento, sino una declaración de quién elijo ser yo con vos.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso Activo:</span><span class=\"croquis-desc\">El amor ontológico no es pasivo: es la decisión consciente de cuidar y honrar la relación.</span></div>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       }
     ]
