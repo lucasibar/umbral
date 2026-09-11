@@ -911,38 +911,56 @@
     "officialTitle": "17) Miedo",
     "domain": "Emoción",
     "color": "#e07a5f",
-    "hook": "El miedo cuida tus recursos o te paraliza si lo escuchás sin filtro.",
-    "minutes": 5,
+    "hook": "El miedo no es cobardía: es un radar que te avisa que necesitás construir o pedir recursos.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · FUNCIÓN DEL MIEDO",
-        "title": "Protección y Alerta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evaluación de Amenaza:</span><span class=\"croquis-desc\">Se activa ante la percepción de peligro a nuestros recursos, estatus o integridad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Parálisis Fantasma:</span><span class=\"croquis-desc\">Confundir la incertidumbre con peligro real inmoviliza y destruye oportunidades.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ECUACIÓN DEL MIEDO (DR. NORBERTO LEVY)",
+        "title": "La Brecha Amenaza / Recursos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\">El miedo surge de la brecha entre la <strong>AMENAZA percibida</strong> y los <strong>RECURSOS disponibles</strong> para afrontarla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falta de Equilibrio:</span><span class=\"croquis-desc\">Cuando juzgamos que el peligro futuro supera nuestra capacidad actual, la emoción de angustia se dispara.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
-        "kicker": "02 · MIEDO FUNCIONAL",
-        "title": "Preparación y Cobertura",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseñar Cobertura:</span><span class=\"croquis-desc\">Escuchar al miedo para capacitarse, pedir ayuda y mitigar riesgos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actuar con Incertidumbre:</span><span class=\"croquis-desc\">El coraje no es ausencia de miedo, es accionar a pesar de él.</span></div>\n          </div>\n        ",
+        "kicker": "02 · SEÑAL DE ALERTA VS. COBARDÍA",
+        "title": "Desarmar el Prejuicio Cultural",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desacreditar el Mandato:</span><span class=\"croquis-desc\">Decir <em>\"No tengas miedo\"</em> o juzgarlo como cobardía induce a reprimir la emoción y perder el juicio de prudencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Radar de Protección:</span><span class=\"croquis-desc\">El miedo es una valiosa señal de alerta que nos invita a cuidar nuestra integridad y prepararnos mejor.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
-        "kicker": "03 · EVALUACIÓN RIGUROSA",
-        "title": "Desarmar la Fantasía",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Medir el Riesgo Real:</span><span class=\"croquis-desc\">¿Qué es lo peor que puede pasar y qué recursos tengo si ocurre?</span></div>\n          </div>\n        ",
+        "kicker": "03 · MANIFESTACIÓN EN LOS 3 DOMINIOS",
+        "title": "El Miedo en Cuerpo, Emoción y Lenguaje",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo (Reacción Biológica):</span><span class=\"croquis-desc\">Párpados levantados, labios estirados horizontalmente, mandíbula abierta, aceleración cardíaca y parálisis.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje (Juicios Catastróficos):</span><span class=\"croquis-desc\">Conversaciones privadas de desprotección: <em>\"no voy a poder\"</em>, <em>\"va a salir todo mal\"</em>.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
-        "kicker": "04 · ACCIÓN CORAJUDA",
-        "title": "Avanzar con la Señal",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Uso de la Energía:</span><span class=\"croquis-desc\">Convertir la adrenalina del miedo en foco y prudencia estratégica.</span></div>\n          </div>\n        ",
+        "kicker": "04 · MIEDO DISFUNCIONAL",
+        "title": "El Círculo Vicioso del Pánico",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Presión Exigente:</span><span class=\"croquis-desc\">El aspecto atemorizador interno que reta o desprecia al aspecto atemorizado: <em>\"no seas débil\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Suma de Amenazas:</span><span class=\"croquis-desc\">Exigir valor sin otorgar recursos agrava la angustia y conduce al pánico o la inhibición total.</span></div>\n          </div>\n        ",
+        "source": "17) Miedo"
+      },
+      {
+        "kicker": "05 · MIEDO FUNCIONAL",
+        "title": "De la Parálisis a la Prudencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escuchar la Señal:</span><span class=\"croquis-desc\">Validar al aspecto asustado y preguntarse: <em>\"¿Qué amenaza real hay aquí y qué recursos me están faltando?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundamentar el Peligro:</span><span class=\"croquis-desc\">Separar las fantasías catastróficas exageradas de los riesgos reales observables.</span></div>\n          </div>\n        ",
+        "source": "17) Miedo"
+      },
+      {
+        "kicker": "06 · ADQUIRIR Y PEDIR RECURSOS",
+        "title": "Construir la Cobertura",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Incorporar Competencias:</span><span class=\"croquis-desc\">Estudiar, ensayar, preparar planes de contingencia y capacitarse para igualar la amenaza.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedir Ayuda en Red:</span><span class=\"croquis-desc\">Hacer pedidos de apoyo y acompañamiento a personas que sí poseen el recurso que te falta.</span></div>\n          </div>\n        ",
+        "source": "17) Miedo"
+      },
+      {
+        "kicker": "07 · LA VALENTÍA ONTOLÓGICA",
+        "title": "Accionar Llevando el Miedo de la Mano",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Valentía no es Temeridad:</span><span class=\"croquis-desc\">El ignorar el peligro es inconsciencia. La verdadera valentía es avanzar hacia la Visión respetando la prudencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar el Observador:</span><span class=\"croquis-desc\">Al incorporar los recursos necesarios, la brecha se cierra y el miedo se disuelve en confianza.</span></div>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "17) Miedo"
       }
     ]
