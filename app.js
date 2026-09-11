@@ -114,9 +114,12 @@ function openTopic(topic) {
     article.append(
       node('p', '', slide.kicker),
       node('h2', '', slide.title),
-      node('div', 'reel-rule'),
-      node('div', 'reel-body', slide.body)
+      node('div', 'reel-rule')
     );
+    const bodyDiv = node('div', 'reel-body');
+    bodyDiv.innerHTML = slide.body;
+    article.append(bodyDiv);
+
     if (index === topic.slides.length - 1) {
       const next = node('button', 'reel-next-topic', 'Siguiente distinción →');
       next.onclick = () => openTopic(topics[(topics.indexOf(topic) + 1) % topics.length]);

@@ -98,6 +98,56 @@ body.micro-reel-open { overflow: hidden; }
   background: rgba(255, 255, 255, 0.08);
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 25%, transparent);
 }
+
+/* Micro-cards de contenido en Filminas */
+.reel-concept-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(10px);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+.reel-concept-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(255, 255, 255, 0.2);
+}
+.reel-card-badge {
+  align-self: flex-start;
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border-radius: 6px;
+  text-transform: uppercase;
+}
+.badge-orange { background: rgba(255, 107, 70, 0.18); color: #ff8567; border: 1px solid rgba(255, 107, 70, 0.35); }
+.badge-blue { background: rgba(72, 149, 239, 0.18); color: #70a9ff; border: 1px solid rgba(72, 149, 239, 0.35); }
+.badge-green { background: rgba(0, 245, 212, 0.18); color: #40f5d4; border: 1px solid rgba(0, 245, 212, 0.35); }
+.badge-purple { background: rgba(155, 93, 229, 0.18); color: #b77eff; border: 1px solid rgba(155, 93, 229, 0.35); }
+.badge-cyan { background: rgba(0, 180, 216, 0.18); color: #48cae4; border: 1px solid rgba(0, 180, 216, 0.35); }
+.badge-red { background: rgba(217, 4, 41, 0.18); color: #ff5d73; border: 1px solid rgba(217, 4, 41, 0.35); }
+.badge-yellow { background: rgba(255, 183, 3, 0.18); color: #ffd166; border: 1px solid rgba(255, 183, 3, 0.35); }
+.badge-emerald { background: rgba(16, 185, 129, 0.18); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.35); }
+
+.reel-card-text {
+  margin: 0;
+  font-size: 0.86rem;
+  line-height: 1.42;
+  color: #e2e4e9;
+}
+.reel-card-text strong {
+  color: #ffffff;
+}
+.reel-card-text em {
+  color: #a6aab4;
+  font-style: italic;
+}
+
 .reel-slide blockquote { margin: 22px 0 0; padding: 14px 16px; border-left: 2px solid var(--micro-color); background: rgba(255,255,255,.045); color: #f1f2f5; font-family: var(--font-serif); font-size: .96rem; font-style: italic; line-height: 1.5; }
 .reel-watermark { position: absolute; right: -9px; bottom: -30px; color: color-mix(in srgb, var(--micro-color) 10%, transparent); font-family: var(--font-serif); font-size: 10rem; line-height: 1; pointer-events: none; }
 .reel-next-topic { width: max-content; min-height: 44px; margin-top: 24px; display: flex; align-items: center; gap: 10px; padding: 0 17px; border: 0; border-radius: 999px; background: var(--micro-color); color: #0b0d12; font-weight: 800; font-size: .76rem; cursor: pointer; position: relative; z-index: 1; }

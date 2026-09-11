@@ -9,40 +9,34 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · CONCEPTO CLAVE",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
         "title": "La Realidad no es Objetiva",
-        "body": "• \"No sabemos cómo las cosas son. Sólo sabemos cómo las observamos o las interpretamos.\" — Rafael Echeverría.\n\n• Lo que llamás \"realidad\" no es una verdad absoluta: es una interpretación viva construida desde tu propio Observador.",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-orange\">💡 CONCEPTO ATÓMICO</span>\n            <p class=\"reel-card-text\">\"No sabemos cómo las cosas son. Solo sabemos cómo las observamos.\" — <strong>Rafael Echeverría</strong></p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-blue\">🔍 TU OBSERVADOR</span>\n            <p class=\"reel-card-text\">Lo que llamás \"realidad\" es una <strong>interpretación viva</strong> dictada por la persona que estás siendo hoy.</p>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "kicker": "02 · LA DISTINCIÓN",
         "title": "Hechos vs. Juicios",
-        "body": "• HECHO: Afirmación comprobable y consensuada (Ej: \"El informe tiene 5 páginas\").\n\n• JUICIO: Valoración personal dependiente de quien mira (Ej: \"El informe es larguísimo\").\n\n• La trampa: Confundir juicios con hechos genera sufrimiento e incomprensión.",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">📌 HECHO (Aceptado)</span>\n            <p class=\"reel-card-text\">Afirmación comprobable y verdadera/falsa.<br><em>\"La reunión duró 45 minutos.\"</em></p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">💬 JUICIO (Interpretación)</span>\n            <p class=\"reel-card-text\">Valoración personal de quien mira.<br><em>\"La reunión fue una pérdida de tiempo.\"</em></p>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "kicker": "03 · COHERENCIA ONTOLÓGICA",
-        "title": "La Tríada del Observador",
-        "body": "Tu Observador habita en la interacción constante de 3 dominios:\n\n💬 Lenguaje: Historias, juicios y conversaciones.\n❤️ Emoción: Estado de ánimo desde el cual miras.\n🧘 Cuerpo: Postura, tensión y predisposición física.\n\n• Si cambiás tu cuerpo o tu palabra, cambiás tu forma de ver el mundo.",
+        "title": "La Tríada del Ser",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">⚡ LENGUAJE · EMOCIÓN · CUERPO</span>\n            <p class=\"reel-card-text\">Tu Observador vive en la interacción constante de <strong>palabras</strong>, <strong>estados de ánimo</strong> y <strong>postura física</strong>.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">🔄 CAMBIO DE COHERENCIA</span>\n            <p class=\"reel-card-text\">Si modificás tu cuerpo o tu palabra, transformás automáticamente lo que tu mente puede ver.</p>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "04 · APRENDIZAJE DE 2º ORDEN",
+        "kicker": "04 · EL CAMBIO DE OBSERVADOR",
         "title": "Ser + Hacer = Tener",
-        "body": "• La mayoría intenta cambiar resultados haciendo más de lo mismo (Aprendizaje de 1er Orden).\n\n• El Coaching Ontológico transforma quién estás SIENDO (Aprendizaje de 2do Orden).\n\n• Al transformar tu Observador, las posibilidades y acciones cambian solas.",
-        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
-      },
-      {
-        "kicker": "05 · PREGUNTA DISRUPTIVA",
-        "title": "Chequeo del Protagonista",
-        "body": "Ante una dificultad o frustración, preguntate:\n\n• ¿Desde qué Observador estoy mirando este problema?\n• ¿Qué juicios estoy dando por verdades absolutas?\n• ¿Quién necesito ESTAR SIENDO hoy para ver una salida?",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">💥 TRAMPA HABITUAL</span>\n            <p class=\"reel-card-text\">Queremos resultados distintos haciendo lo mismo de siempre (Aprendizaje de 1er Orden).</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🚀 GIRO ONTOLÓGICO</span>\n            <p class=\"reel-card-text\">Al transformar quién estás <strong>SIENDO</strong>, descubrís posibilidades que antes eran invisibles.</p>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO ONTOLÓGICO",
+        "kicker": "05 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
-        "body": "Tomate 1 minuto para pasar este concepto por tu cuerpo, emoción y palabra.",
+        "body": "Pasá esta distinción por tus 3 dominios.",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       }
     ]
@@ -57,32 +51,26 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · CONCEPTO CLAVE",
-        "title": "Los Juicios no son Inocentes",
-        "body": "• Los juicios no describen el mundo: nos describen a NOSOTROS frente al mundo.\n\n• Un juicio no es verdadero ni falso: es FUNDAMENTADO o NO FUNDAMENTADO.\n\n• Vivir en juicios infundados es construir un futuro sobre ilusiones o miedos irracionales.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Los Juicios Hablan de Vos",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-blue\">💡 LA VERDADERO / FALSO TRAMPA</span>\n            <p class=\"reel-card-text\">Un juicio no es verdadero ni falso: es <strong>FUNDAMENTADO</strong> o <strong>NO FUNDAMENTADO</strong>.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">🎯 EL ESPEJO</span>\n            <p class=\"reel-card-text\">Cuando opinás sobre otro o sobre una situación, estás revelando tus propios estándares y miedos.</p>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "02 · ANATOMÍA DEL JUICIO",
+        "kicker": "02 · LOS 5 PASOS",
         "title": "Cómo Fundamentar un Juicio",
-        "body": "Para que un juicio tenga poder y te sirva, debe cumplir 5 pasos:\n\n1. Estándar: ¿Con qué parámetro lo mido?\n2. Dominio: ¿En qué área específica aplica?\n3. Hechos: ¿Qué evidencias concretas lo respaldan?\n4. Contra-evidencia: ¿Qué hechos dicen lo opuesto?\n5. Para qué: ¿Qué futuro busco abrir con este juicio?",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">📋 ANATOMÍA DEL JUICIO</span>\n            <p class=\"reel-card-text\">1. <strong>Estándar</strong> (parámetro de medida).<br>2. <strong>Dominio</strong> (área específica).<br>3. <strong>Hechos</strong> (evidencias a favor).<br>4. <strong>Contra-evidencias</strong> (hechos en contra).<br>5. <strong>Para qué</strong> (futuro que busco abrir).</p>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
         "kicker": "03 · IMPACTO EN EL FUTURO",
-        "title": "Diseño vs. Inercia",
-        "body": "• Juicio Infundado: \"Nunca voy a poder hablar en público\" $\\rightarrow$ Cierra posibilidades antes de intentar.\n\n• Juicio Fundamentado: \"Hoy carezco de técnica de oratoria\" $\\rightarrow$ Abre la acción de formarme y entrenar.",
-        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
-      },
-      {
-        "kicker": "04 · PREGUNTA DISRUPTIVA",
-        "title": "Desarmando Certezas",
-        "body": "Elegí una limitación que sientas hoy en tu vida y preguntate:\n\n• ¿Tengo hechos concretos que demuestren que esto es así?\n• ¿O es un juicio antiguo que me acostumbré a repetir sin verificar?",
+        "title": "Cerrar o Abrir Futuro",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">🚫 JUICIO INFUNDADO</span>\n            <p class=\"reel-card-text\"><em>\"No sirvo para esto\"</em> $\\rightarrow$ Cierra la puerta antes de arrancar.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">✅ JUICIO FUNDAMENTADO</span>\n            <p class=\"reel-card-text\"><em>\"Me faltan horas de práctica en X\"</em> $\\rightarrow$ Abre el plan de acción concreto.</p>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
+        "kicker": "04 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Pasá esta distinción por tus 3 dominios.",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
@@ -91,40 +79,28 @@
   },
   {
     "slug": "lenguaje-generativo",
-    "title": "Lenguaje Descriptivo vs. Generativo",
+    "title": "Lenguaje Generativo",
     "officialTitle": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno.",
     "domain": "Lenguaje",
     "color": "#ffe66d",
-    "hook": "El lenguaje no solo habla de las cosas: hace que las cosas pasen.",
+    "hook": "El lenguaje no solo describe: hace que las cosas pasen.",
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · PARADIGMA TRADICIONAL",
-        "title": "El Lenguaje Pasivo",
-        "body": "• Nos enseñaron que el lenguaje solo sirve para describir una realidad que ya existe fuera de nosotros.\n\n• Pensar así nos deja en un rol pasivo: meros espectadores o comentaristas del entorno.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "El Poder de la Palabra",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">🗣️ DESCRIPTIVO (Pasivo)</span>\n            <p class=\"reel-card-text\">Habla del mundo como si ya estuviera terminado. Te deja como simple espectador.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-orange\">⚡ GENERATIVO (Activo)</span>\n            <p class=\"reel-card-text\">Crea realidades, identidades y relaciones que no existían antes de hablar.</p>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "02 · EL GIRO ONTOLÓGICO",
-        "title": "El Lenguaje Crea Realidad",
-        "body": "• El Lenguaje es GENERATIVO: genera identidades, relaciones, oportunidades y realidades que no existían antes de hablar.\n\n• Cuando hablás, declarás, pedís o prometés, estás modelando activamente tu futuro.",
-        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
-      },
-      {
-        "kicker": "03 · EL COMPROMISO",
-        "title": "Tu Palabra como Acto",
-        "body": "• Describir te mantiene en la comodidad del juzgador.\n\n• Generar exige COMPROMISO: hacerte cargo del impacto que tus palabras producen en vos y en los demás.",
-        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
-      },
-      {
-        "kicker": "04 · EJEMPLO COTIDIANO",
+        "kicker": "02 · COMPROMISO EN ACCIÓN",
         "title": "De la Queja a la Acción",
-        "body": "• Descriptivo / Queja: \"Nadie me escucha en esta casa.\"\n\n• Generativo / Acción: \"Quiero hacerte un pedido claro: ¿podemos hablar 10 minutos sin celulares?\"",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">❌ LA QUEJA PASIVA</span>\n            <p class=\"reel-card-text\"><em>\"Nadie me escucha en este equipo.\"</em> (Solo describe frustración).</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🚀 EL PEDIDO CONCRETO</span>\n            <p class=\"reel-card-text\"><em>\"Quiero pedirte 15 minutos a solas hoy para coordinar.\"</em> (Genera acción).</p>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
+        "kicker": "03 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Conectá con tu lenguaje, cuerpo y emoción.",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
@@ -133,7 +109,7 @@
   },
   {
     "slug": "declarar-futuro",
-    "title": "La Declaración como Acto",
+    "title": "Declarar Futuro",
     "officialTitle": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico.",
     "domain": "Lenguaje",
     "color": "#ff85a1",
@@ -141,32 +117,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · PODER LINGÜÍSTICO",
-        "title": "El Poder de Declarar",
-        "body": "• Una Declaración no describe lo que hay: transforma el espacio de lo posible.\n\n• A diferencia de las afirmaciones (hechos), la validez de una declaración depende de la AUTORIDAD que te otorgás a vos mismo para sostenerla.",
-        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
-      },
-      {
-        "kicker": "02 · EL ACTO DECLARATIVO",
-        "title": "Un Antes y un Después",
-        "body": "• Ejemplos históricos: \"Declaración de Independencia\", \"Declaración de Guerra/Paz\".\n\n• En tu vida personal: \"A partir de hoy no tolero más esto\", \"Declaro fundado este proyecto\".",
-        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
-      },
-      {
-        "kicker": "03 · COMPROMISO SOCIAL",
-        "title": "Sostener la Declaración",
-        "body": "• Una declaración emitida al viento sin acciones consecuentes pierde poder.\n\n• Diseñar futuro requiere declarar con valentía y alinear tu conducta para hacer existir lo declarado.",
-        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
-      },
-      {
-        "kicker": "04 · PREGUNTA CLAVE",
-        "title": "Tu Autoridad",
-        "body": "• ¿Qué declaración venís postergando por esperar el 'momento perfecto' o la aprobación ajena?",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "La Declaración como Acto",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">👑 AUTORIDAD PERSONAL</span>\n            <p class=\"reel-card-text\">Una declaración no describe lo que hay: crea un espacio donde lo nuevo empieza a existir.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">⚡ UN ANTES Y UN DESPUÉS</span>\n            <p class=\"reel-card-text\">Decir <em>\"A partir de hoy me hago cargo\"</em> marca un quiebre instantáneo en tu realidad.</p>\n          </div>\n        ",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Registrá qué surge en vos respecto a tus declaraciones.",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
@@ -175,7 +133,7 @@
   },
   {
     "slug": "no-basta-si",
-    "title": "Declaraciones: No, Basta y Sí",
+    "title": "No, Basta y Sí",
     "officialTitle": "5) Algunas declaraciones fundamentales: No/Basta, Sí",
     "domain": "Lenguaje",
     "color": "#9b5de5",
@@ -183,32 +141,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA DIGNIDAD",
-        "title": "La Declaración del NO / BASTA",
-        "body": "• Es la declaración más ligada a la libertad y la dignidad personal.\n\n• Cuando no sabés decir NO, tus 'SÍ' carecen de valor real.\n\n• Decir BASTA define los límites de tu identidad y protege tu espacio de bienestar.",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
-      },
-      {
-        "kicker": "02 · EL COMPROMISO",
-        "title": "La Declaración del SÍ",
-        "body": "• Decir SÍ implica asumir un compromiso pleno con una oportunidad, relación o meta.\n\n• SÍ = Asumo el costo y la responsabilidad de mi elección.",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
-      },
-      {
-        "kicker": "03 · LA TRAMPA HABITUAL",
-        "title": "El 'Sí' Complaciente",
-        "body": "• Decir 'Sí' cuando querías decir 'No' por miedo al conflicto destruye la autoestima y genera resentimiento silencioso.",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
-      },
-      {
-        "kicker": "04 · AUTOEXAMEN",
-        "title": "Recuperá tu Poder",
-        "body": "• ¿A qué o a quién le estás debiendo un BASTA firme y amoroso hoy?",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Límites y Entrega",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">🛡️ NO / BASTA (Dignidad)</span>\n            <p class=\"reel-card-text\">Define los límites innegociables de tu espacio vital. Sin un NO firme, tus SÍ no valen nada.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🤝 SÍ (Compromiso)</span>\n            <p class=\"reel-card-text\">Aceptación plena de los costos y responsabilidades de una elección.</p>\n          </div>\n        ",
         "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Pasá el No y el Sí por tu cuerpo y tu emoción.",
         "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
@@ -217,7 +157,7 @@
   },
   {
     "slug": "gratitud-ignorancia",
-    "title": "Declaraciones: Gratitud e Ignorancia",
+    "title": "Gratitud e Ignorancia",
     "officialTitle": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia.",
     "domain": "Lenguaje",
     "color": "#f15bb5",
@@ -225,26 +165,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · EL APRENDIZAJE",
-        "title": "Declarar 'No Sé'",
-        "body": "• Sostener la ilusión de saberlo todo inhabilita la curiosidad y el crecimiento.\n\n• Declarar 'NO SÉ' es el primer paso del aprendizaje ontológico: te coloca en humildad e indagación.",
-        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
-      },
-      {
-        "kicker": "02 · EL RECONOCIMIENTO",
-        "title": "La Declaración de Gratitud",
-        "body": "• Decir 'GRACIAS' celebra el aporte del otro y reconoce la interdependencia humana.\n\n• La gratitud no es modales: es la celebración viva de los vínculos significativos.",
-        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
-      },
-      {
-        "kicker": "03 · EL PODER DEL GRACIAS",
-        "title": "Nutrir Relaciones",
-        "body": "• Quien no sabe agradecer genera distancia. Quien agradece genuinamente abre puertas y valida el valor compartido.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Humildad y Reconocimiento",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-blue\">🌱 NO SÉ (Aprendizaje)</span>\n            <p class=\"reel-card-text\">Soltar el 'sabelotodo' te ubica en la posición del aprendiz hambriento por crecer.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-orange\">🙏 GRACIAS (Vínculo)</span>\n            <p class=\"reel-card-text\">Reconocer el valor que otros aportan a tu vida fortalece las relaciones verdaderas.</p>\n          </div>\n        ",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Chequeá tu gratitud y tu capacidad de decir No Sé.",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
@@ -253,7 +181,7 @@
   },
   {
     "slug": "perdon-amor",
-    "title": "Declaraciones: Perdón y Amor",
+    "title": "Perdón y Amor",
     "officialTitle": "7) Algunas declaraciones fundamentales: Perdón y Amor.",
     "domain": "Lenguaje",
     "color": "#00bbf9",
@@ -261,26 +189,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA LIBERACIÓN",
-        "title": "El Perdón como Regalo Propio",
-        "body": "• Perdonar no es justificar el daño del otro: es soltar la pesada carga del resentimiento.\n\n• El perdón incluye 3 dimensiones:\n  1. Pedir perdón\n  2. Conceder perdón\n  3. Perdonarse a uno mismo.",
-        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
-      },
-      {
-        "kicker": "02 · EL VÍNCULO",
-        "title": "La Declaración de Amor / Afecto",
-        "body": "• Decir 'TE QUIERO' o 'TE AMO' construye la urdimbre afectiva donde habitamos.\n\n• Guardarse el afecto en silencio debilita las relaciones.",
-        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
-      },
-      {
-        "kicker": "03 · REFLEXIÓN",
-        "title": "Sanar Vínculos",
-        "body": "• ¿Con quién tenés pendiente una conversación de perdón o una muestra de afecto genuina?",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Soltar la Carga",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">🕊️ EL PERDÓN</span>\n            <p class=\"reel-card-text\">No es justificar al otro: es soltar el veneno del resentimiento para caminar liviano.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">❤️ TE QUIERO / TE AMO</span>\n            <p class=\"reel-card-text\">La declaración afectiva que construye el refugio emocional donde habitamos.</p>\n          </div>\n        ",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Reflexioná sobre el perdón en tus 3 dominios.",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
@@ -289,7 +205,7 @@
   },
   {
     "slug": "pedidos-ofertas",
-    "title": "Coordinación: Pedidos y Ofertas",
+    "title": "Pedidos y Ofertas",
     "officialTitle": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas.",
     "domain": "Lenguaje",
     "color": "#00f5d4",
@@ -297,32 +213,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · ACCIÓN COORDENADA",
-        "title": "Hacer que las Cosas Pasen",
-        "body": "• Nadie logra nada relevante en soledad. La efectividad depende de nuestra capacidad para coordinar acciones efectivas con otros.",
-        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
-      },
-      {
-        "kicker": "02 · EL PEDIDO EFECTIVO",
-        "title": "Componentes del Pedido",
-        "body": "Para que un pedido funcione requiere:\n\n1. Orador y Oyente declarados.\n2. Acción futura clara (qué hacer).\n3. Condiciones de satisfacción precisas.\n4. Tiempo de entrega definido (cuándo).",
-        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
-      },
-      {
-        "kicker": "03 · LA OFERTA",
-        "title": "Ser Oferta para el Mundo",
-        "body": "• Ofrecer es poner tus competencias y talentos al servicio de las necesidades de otro.\n\n• Quien solo pide es percibido como demandante; quien sabe ofrecer genera valor constante.",
-        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
-      },
-      {
-        "kicker": "04 · TRAMPA HABITUAL",
-        "title": "Esperar Telepatía",
-        "body": "• Asumir que el otro 'debería saber lo que necesito' sin habérselo pedido es la fuente #1 de frustración relacional.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Coordinar Acciones",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">📞 EL PEDIDO</span>\n            <p class=\"reel-card-text\">Orador + Oyente + Acción concreta + Condiciones claras + Tiempo definido.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">🎁 LA OFERTA</span>\n            <p class=\"reel-card-text\">Poner tu talento al servicio de las necesidades de otro para generar valor real.</p>\n          </div>\n        ",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Registrá cómo estás pidiendo u ofreciendo.",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
@@ -339,26 +237,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA PROMESA",
-        "title": "Pedido/Oferta + Aceptación",
-        "body": "• Una PROMESA se completa únicamente cuando hay aceptación explícita.\n\n• PROMESA = Pedido aceptado u Oferta aceptada.\n\n• Las promesas formalizan el compromiso social y la confianza.",
-        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
-      },
-      {
-        "kicker": "02 · EL RECLAMO PRODUCTIVO",
-        "title": "Reclamo vs. Queja",
-        "body": "• QUEJA: Descarga emocional impotente, busca culpar y castigar.\n\n• RECLAMO: Conversación constructiva basada en una promesa previa incumplida, que busca reparar el daño y restaurar el acuerdo.",
-        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
-      },
-      {
-        "kicker": "03 · PASOS DEL RECLAMO",
-        "title": "Reclamar con Impecabilidad",
-        "body": "1. Verificar la promesa previa.\n2. Mostrar el hecho del incumplimiento.\n3. Exponer el impacto sufrido.\n4. Pedir reparación o recontratar.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Formalizar el Acuerdo",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">🤝 PROMESA</span>\n            <p class=\"reel-card-text\">Pedido o Oferta + Aceptación explícita. Es el cimiento de la confianza social.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">⚖️ RECLAMO PRODUCTIVO</span>\n            <p class=\"reel-card-text\">A diferencia de la queja tóxica, el reclamo se basa en un acuerdo previo roto y busca reparar.</p>\n          </div>\n        ",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Chequeá tus promesas pendientes y tus reclamos.",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
@@ -375,26 +261,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA MITAD DEL LENGUAJE",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
         "title": "Escuchar $\\neq$ Oír",
-        "body": "• Oír es biológico (percibir ondas sonoras).\n\n• ESCUCHAR = OÍR + INTERPRETAR.\n\n• La escucha es el corazón del lenguaje ontológico.",
-        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
-      },
-      {
-        "kicker": "02 · FILTROS DE ESCUCHA",
-        "title": "Con qué Escuchamos",
-        "body": "Escuchamos a través de filtros invisibles:\n\n• Nuestra historia personal.\n• Nuestras emociones presentes.\n• Nuestros juicios sobre el interlocutor.\n• Nuestras intenciones y miedos.",
-        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
-      },
-      {
-        "kicker": "03 · VERIFICACIÓN",
-        "title": "Chequear la Escucha",
-        "body": "• Dado que siempre interpretamos, la herramienta clave es VERIFICAR ESCUCHA: \"¿Lo que me estás queriendo decir es X?\"",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-blue\">👂 OÍR (Biológico)</span>\n            <p class=\"reel-card-text\">Percibir ondas sonoras con el sistema auditivo.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">🧠 ESCUCHAR (Interpretativo)</span>\n            <p class=\"reel-card-text\">Oír + Interpretar. Siempre escuchamos según nuestros filtros, historias y emociones.</p>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Pasá tu escucha por tu estado corporal y emocional.",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
@@ -411,26 +285,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · ESCUCHA PREVIA",
-        "title": "El Diálogo de Sordos",
-        "body": "• Escucha Previa / Recreativa: Escucho buscando confirmar lo que ya sé, o preparando mi respuesta mientras el otro habla.",
-        "source": "11) De la Escucha Previa a la Escucha Comprometida"
-      },
-      {
-        "kicker": "02 · ESCUCHA COMPROMETIDA",
-        "title": "Abrir Espacio al Otro",
-        "body": "• Escucha Comprometida: Suspendo temporalmente mis juicios para escuchar la inquietud real, las emociones y el mundo del otro.",
-        "source": "11) De la Escucha Previa a la Escucha Comprometida"
-      },
-      {
-        "kicker": "03 · TRANSFORMACIÓN",
-        "title": "El Poder de la Presencia",
-        "body": "• Cuando alguien se siente verdaderamente escuchado, la relación se transforma y el conflicto se disuelve.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Niveles de Presencia",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">🤖 ESCUCHA PREVIA</span>\n            <p class=\"reel-card-text\">Escucho buscando confirmar lo que ya sé o preparando mi respuesta mientras el otro habla.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">💎 ESCUCHA COMPROMETIDA</span>\n            <p class=\"reel-card-text\">Suspendo mis juicios para alojar la inquietud y el mundo emocional del interlocutor.</p>\n          </div>\n        ",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Analizá en qué nivel de escucha solés habitar.",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
@@ -443,30 +305,18 @@
     "officialTitle": "12) Confianza",
     "domain": "Ontología",
     "color": "#4895ef",
-    "hook": "La confianza no es un sentimiento mágico: es una evaluación de 4 pilares.",
+    "hook": "La confianza no es magia: es una evaluación de 4 pilares.",
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · CONCEPTO CLAVE",
-        "title": "La Confianza como Juicio",
-        "body": "• La confianza es la hipótesis que hacemos sobre el comportamiento futuro propio o ajeno.\n\n• No es 'todo o nada': se construye y se puede reparar.",
-        "source": "12) Confianza"
-      },
-      {
-        "kicker": "02 · LOS 4 PILARES",
-        "title": "Anatomía de la Confianza",
-        "body": "1. Sinceridad: Coherencia entre lo que dice y piensa.\n2. Competencia: Capacidad técnica para cumplir.\n3. Fiabilidad: Historial de promesas cumplidas.\n4. Involucramiento / Cuidado: Interés en el bienestar común.",
-        "source": "12) Confianza"
-      },
-      {
-        "kicker": "03 · GESTIÓN DE LA CONFIANZA",
-        "title": "Reparar la Brecha",
-        "body": "• Cuando la confianza se daña en una relación, indagar en cuál de los 4 pilares ocurrió la falla te permite fundamentar y reparar el vínculo.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Los 4 Pilares de la Confianza",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">🏛️ EVALUACIÓN OBJETIVA</span>\n            <p class=\"reel-card-text\">1. <strong>Sinceridad</strong> (coherencia entre dicho y pensado).<br>2. <strong>Competencia</strong> (habilidad técnica).<br>3. <strong>Fiabilidad</strong> (historial de promesas).<br>4. <strong>Cuidado</strong> (interés en el bienestar del otro).</p>\n          </div>\n        ",
         "source": "12) Confianza"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Evaluá la confianza en tus relaciones clave.",
         "source": "12) Confianza"
@@ -483,26 +333,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · PARADIGMA OBLIGACIÓN",
-        "title": "La Pesadez del 'Tengo Que'",
-        "body": "• Vivir en el \"Tengo que hacer esto\" te coloca como víctima de las circunstancias, quemando tu motivación interna.",
-        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
-      },
-      {
-        "kicker": "02 · PARADIGMA COMPROMISO",
-        "title": "El Poder del 'Elijo'",
-        "body": "• Reemplazar \"Tengo que\" por \"ELIJO hacer esto para lograr X resultado\" reconecta con tu autonomía y libertad.",
-        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
-      },
-      {
-        "kicker": "03 · CAMBIO LINGÜÍSTICO",
-        "title": "Asumir los Costos",
-        "body": "• Si algo no lo elegís ni estás dispuesto a pagar sus costos, declará que NO lo vas a hacer en lugar de vivir sometido.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Cambio de Motivación",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">😩 \"TENGO QUE\" (Sometimiento)</span>\n            <p class=\"reel-card-text\">Te ubica como víctima sin opción, drenando tu energía vital.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🚀 \"ELIJO\" (Autonomía)</span>\n            <p class=\"reel-card-text\">Reconecta con tus objetivos y asume los costos de tu libertad.</p>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Registrá qué 'Tengo que' podés convertir en 'Elijo'.",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
@@ -519,26 +357,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · PARADIGMA PROBLEMA",
-        "title": "El Bloqueo del Problema",
-        "body": "• El \"Problema\" se percibe como una carga externa, un obstáculo objetivo frente al cual no tenemos control.",
-        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
-      },
-      {
-        "kicker": "02 · PARADIGMA QUIEBRE",
-        "title": "Declaración de Quiebre",
-        "body": "• Un QUIEBRE es la interrupción en la transparencia de la vida que un Observador DECLARA.\n\n• Decir \"Esto es un quiebre para mí\" abre el camino a hacerse cargo y accionar.",
-        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
-      },
-      {
-        "kicker": "03 · QUIEBRE POSITIVO Y NEGATIVO",
-        "title": "Oportunidad de Aprendizaje",
-        "body": "• Quiebre no es solo algo malo: ganarse una beca o recibir una propuesta exige cambiar el rumbo e innovar.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Recuperar el Poder",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">🪨 PROBLEMA</span>\n            <p class=\"reel-card-text\">Visto como un muro externo ante el cual no podés hacer nada.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">⚡ QUIEBRE</span>\n            <p class=\"reel-card-text\">Interrupción de la transparencia declarada por vos, que te invita a accionar e innovar.</p>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Transformá un problema actual en la declaración de un quiebre.",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
@@ -555,26 +381,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA DISTINCIÓN",
-        "title": "Emoción vs. Estado de Ánimo",
-        "body": "• EMOCIÓN: Reacción fisiológica puntual ante un acontecimiento específico (ej. susto, alegría repentina).\n\n• ESTADO DE ÁNIMO: Predisposición emocional recurrente y de fondo desde la cual habitamos la vida.",
-        "source": "15) Emociones y Estados de ánimo"
-      },
-      {
-        "kicker": "02 · ESTADOS BÁSICOS",
-        "title": "Los 4 Estados Fundamentales",
-        "body": "Frente a los hechos del pasado/futuro que no podemos cambiar:\n\n• Resentimiento vs. Aceptación/Paz.\n• Resignación vs. Ambición/Entusiasmo.",
-        "source": "15) Emociones y Estados de ánimo"
-      },
-      {
-        "kicker": "03 · REDISEÑO EMOCIONAL",
-        "title": "Intervenir la Emoción",
-        "body": "• No podemos evitar sentir, pero sí podemos aprender a gestionar qué historias nos contamos para no quedar secuestrados por el estado de ánimo.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "El Clima Interno",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-orange\">⚡ EMOCIÓN</span>\n            <p class=\"reel-card-text\">Pasajera, gatillada por un evento puntual del momento.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">🌧️ ESTADO DE ÁNIMO</span>\n            <p class=\"reel-card-text\">Recurrente y de fondo. Tiñe cómo ves todas tus oportunidades (Resentimiento vs Aceptación / Resignación vs Ambición).</p>\n          </div>\n        ",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Identificá cuál es tu clima emocional predominante hoy.",
         "source": "15) Emociones y Estados de ánimo"
@@ -591,26 +405,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · ENERGÍA DEL ENOJO",
-        "title": "La Fuerza para Defender",
-        "body": "• El enojo aparece cuando evaluamos una injusticia o la violación de un límite o estándar personal.",
-        "source": "16) Enojo"
-      },
-      {
-        "kicker": "02 · ENOJO DISFUNCIONAL",
-        "title": "El Paradigma de la Venganza",
-        "body": "• Se expresa en gritos, descalificación o ironía. Su foco está en dañar o culpar al otro, destruyendo la relación.",
-        "source": "16) Enojo"
-      },
-      {
-        "kicker": "03 · ENOJO FUNCIONAL",
-        "title": "Reclamo y Recontratación",
-        "body": "• Usa la energía del enojo para comunicar el impacto, declarar el límite violado y formular un pedido claro de reparación.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Canalizar la Energía",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">💥 ENOJO DISFUNCIONAL</span>\n            <p class=\"reel-card-text\">Descarga tóxica orientada a dañar, culpar o vengarse del otro.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">🎯 ENOJO FUNCIONAL</span>\n            <p class=\"reel-card-text\">Usa la fuerza de la frustración para comunicar el impacto, defender un límite y formular un reclamo impecable.</p>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Registrá cómo reacciona tu cuerpo al enojarte.",
         "source": "16) Enojo"
@@ -627,26 +429,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · FUNCIÓN DEL MIEDO",
-        "title": "Evaluación de Riesgo",
-        "body": "• El miedo surge ante la percepción de una amenaza a nuestra integridad, estatus o recursos.",
-        "source": "17) Miedo"
-      },
-      {
-        "kicker": "02 · MIEDO DISFUNCIONAL",
-        "title": "La Parálisis Fantasma",
-        "body": "• Confundir miedos imaginarios con peligros reales genera inmovilidad y pérdida de oportunidades.",
-        "source": "17) Miedo"
-      },
-      {
-        "kicker": "03 · MIEDO FUNCIONAL",
-        "title": "Preparación y Cobertura",
-        "body": "• Escuchar el miedo para planificar, capacitarse, pedir ayuda y reducir el riesgo, actuando a pesar de la incertidumbre.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Gestión del Riesgo",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">⚠️ MIEDO COMO SEÑAL</span>\n            <p class=\"reel-card-text\">Aparece para advertirte sobre un riesgo de perder valor o recursos.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🛡️ MIEDO FUNCIONAL</span>\n            <p class=\"reel-card-text\">No te paraliza: te invita a prepararte, capacitarte y cubrir el riesgo antes de actuar.</p>\n          </div>\n        ",
         "source": "17) Miedo"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Chequeá qué miedo podés transformar en preparación.",
         "source": "17) Miedo"
@@ -663,20 +453,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · EXIGENCIA TÓXICA",
-        "title": "El Tirano Interno",
-        "body": "• Poner la vara en una perfección inalcanzable genera insatisfacción permanente y juzgamiento implacable.",
-        "source": "18) Exigencia – Autoexigencia"
-      },
-      {
-        "kicker": "02 · EXCELENCIA",
-        "title": "El Compromiso con la Mejora",
-        "body": "• La Excelencia celebra el progreso, acepta el error como aprendizaje y disfruta el recorrido sin la látigo de la culpa.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Tirano vs. Excelencia",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">⛓️ AUTOEXIGENCIA TÓXICA</span>\n            <p class=\"reel-card-text\">Vara inalcanzable de perfección que destruye la autoestima y nunca celebra los logros.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🏆 EXCELENCIA</span>\n            <p class=\"reel-card-text\">Compromiso con la mejora continua disfrutando el proceso y aprendiendo de los errores.</p>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Pasá tu nivel de autoexigencia por tu cuerpo y tu voz.",
         "source": "18) Exigencia – Autoexigencia"
@@ -693,20 +477,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · MECANISMO DE LA CULPA",
-        "title": "El Castigo Pasivo",
-        "body": "• La culpa surge al evaluar que incumplimos un valor personal, pero se queda atascada en el castigo y la victimización.",
-        "source": "19) Culpa"
-      },
-      {
-        "kicker": "02 · RESPONSABILIDAD",
-        "title": "De la Culpa al Resarcimiento",
-        "body": "• Salir de la culpa requiere asumir la falta, pedir disculpas sinceras y ejecutar acciones de reparación concreta.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Del Castigo al Resarcimiento",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-purple\">🩸 CULPA ESTÉRIL</span>\n            <p class=\"reel-card-text\">Se queda en el castigo interno sin resolver el daño causado.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">🌱 RESPONSABILIDAD</span>\n            <p class=\"reel-card-text\">Asume la falta, pide disculpas y realiza acciones concretas de reparación.</p>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Revisá si tenés culpas estériles que transformar en reparación.",
         "source": "19) Culpa"
@@ -723,20 +501,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · EL MODO MANIPULADOR",
-        "title": "Control Indirecto",
-        "body": "• Usar el chantaje emocional, la victimización o la culpa para conseguir que otros hagan lo que queremos sin pedirlo abiertamente.",
-        "source": "20) Manipulación"
-      },
-      {
-        "kicker": "02 · LA ALTERNATIVA ONTOLÓGICA",
-        "title": "Pedidos Transparentes",
-        "body": "• Coordinar acciones desde la autenticidad, haciendo pedidos explícitos y aceptando el 'No' del otro con madurez.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Transparencia Relacional",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">🎭 MANIPULACIÓN</span>\n            <p class=\"reel-card-text\">Usa el chantaje o la victimización para conseguir fines ocultos sin pedir abiertamente.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">💎 AUTENTICIDAD</span>\n            <p class=\"reel-card-text\">Pedidos explícitos y directos, aceptando la respuesta del otro con libertad.</p>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Chequeá la transparencia de tus pedidos.",
         "source": "20) Manipulación"
@@ -753,20 +525,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · LA ILUSIÓN DE CONTROL",
-        "title": "El Desgaste del Controlador",
-        "body": "• Creer que podemos controlar a las personas y los eventos externos genera ansiedad crónica y rigidez.",
-        "source": "21) Del Modo control al Compromiso con el Control."
-      },
-      {
-        "kicker": "02 · COMPROMISO EN LUGAR DE CONTROL",
-        "title": "Foco en lo Influenciable",
-        "body": "• Soltar la ilusión de control y enfocar toda la energía en lo que SÍ depende de nosotros: nuestras acciones y estados internos.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Foco de Influencia",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-yellow\">🎮 MODO CONTROL</span>\n            <p class=\"reel-card-text\">Ansiedad por querer dominar variables externas e incontrolables.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🌊 SOLTAR Y ACCIONAR</span>\n            <p class=\"reel-card-text\">Poner tu energía únicamente en tus respuestas y acciones personales.</p>\n          </div>\n        ",
         "source": "21) Del Modo control al Compromiso con el Control."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Reflexioná sobre qué necesitás soltar hoy.",
         "source": "21) Del Modo control al Compromiso con el Control."
@@ -783,20 +549,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · APERTURA",
-        "title": "La Disposición a Recibir",
-        "body": "• Pecho disponible, mirada acogedora y brazos libres. La postura corporal que permite escuchar y vincularse con empatía.",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
-      },
-      {
-        "kicker": "02 · FLEXIBILIDAD",
-        "title": "La Disposición a Adaptarse",
-        "body": "• Columna suelta, movimiento fluido. El cuerpo que permite cambiar de rumbo, bailar con la incertidumbre y soltar el enojo.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Disposiciones Corporales 1",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-cyan\">🤗 APERTURA</span>\n            <p class=\"reel-card-text\">Pecho disponible, brazos sueltos. Permite acoger al otro y empatizar.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-green\">💃 FLEXIBILIDAD</span>\n            <p class=\"reel-card-text\">Cuerpo fluido y adaptable. Permite cambiar de perspectiva y adaptarse a la vida.</p>\n          </div>\n        ",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Sentí cómo responde tu cuerpo a la flexibilización.",
         "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
@@ -813,20 +573,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · RESOLUCIÓN",
-        "title": "La Disposición a Avanzar",
-        "body": "• Eje inclinado hacia adelante, mirada fija, paso decidido. El cuerpo que concreta, toma decisiones y ejecuta.",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
-      },
-      {
-        "kicker": "02 · ESTABILIDAD Y CENTRAMIENTO",
-        "title": "El Eje en la Tormenta",
-        "body": "• Pies bien enraizados, centro de gravedad bajo y respiración consciente. La quietud corporal que sostiene en momentos de crisis.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "Disposiciones Corporales 2",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-orange\">🏃 RESOLUCIÓN</span>\n            <p class=\"reel-card-text\">Cuerpo hacia adelante, paso firme. Disposición para avanzar y tomar decisiones.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-blue\">🧘 CENTRAMIENTO</span>\n            <p class=\"reel-card-text\">Eje vertical y pies enraizados. Estabilidad emocional en medio de la tormenta.</p>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
         "type": "reflection",
-        "kicker": "03 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Habitá tu eje y tu centramiento físico.",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
@@ -843,26 +597,14 @@
     "minutes": 3,
     "slides": [
       {
-        "kicker": "01 · EL OBSERVADOR VÍCTIMA",
-        "title": "La Inocencia Impotente",
-        "body": "• Cede el control de su vida a factores externos (el clima, el jefe, la economía).\n\n• Su mayor beneficio es la inocencia; su costo es la inmovilidad y la falta de poder personal.",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
-      },
-      {
-        "kicker": "02 · EL OBSERVADOR RESPONSABLE",
-        "title": "Soberanía sobre tu Vida",
-        "body": "• Responsabilidad = Habilidad para Responder (Responsa-habilidad).\n\n• No culpa al entorno: se pregunta \"¿Qué puedo hacer YO ahora con esto que sucedió?\"",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
-      },
-      {
-        "kicker": "03 · LA ELECCIÓN DIARIA",
-        "title": "Una Forma de Vida",
-        "body": "• En cada quiebre o frustración, estás a un pensamiento de distancia de elegir la victimización o reclamar tu poder de acción.",
+        "kicker": "01 · FOTO DE LA DISTINCIÓN",
+        "title": "La Gran Elección",
+        "body": "\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-red\">🥺 VÍCTIMA (Inocencia Impotente)</span>\n            <p class=\"reel-card-text\">Culpa al entorno para no asumir el riesgo. Cede su libertad a cambio de seguridad pasiva.</p>\n          </div>\n          <div class=\"reel-concept-card\">\n            <span class=\"reel-card-badge badge-emerald\">🚀 RESPONSABLE (Poder Personal)</span>\n            <p class=\"reel-card-text\">Responsa-habilidad = Habilidad para Responder. Se adueña de sus resultados y de su vida.</p>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "type": "reflection",
-        "kicker": "04 · REGISTRO ONTOLÓGICO",
+        "kicker": "02 · REGISTRO ONTOLÓGICO",
         "title": "Tu Registro Personal",
         "body": "Hacé el chequeo de la responsabilidad en tus 3 dominios.",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
