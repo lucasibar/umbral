@@ -57,38 +57,44 @@
     "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · NATURALEZA Y VALIDACIÓN",
-        "title": "Juicios: Autoridad y Fundamento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Nunca son V/F:</span><span class=\"croquis-desc\">Los juicios pertenecen al Observador. No son verdaderos ni falsos: son <strong>Válidos</strong> o <strong>Inválidos</strong> y <strong>Fundamentados</strong> o <strong>No Fundamentados</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula de Validación:</span><span class=\"croquis-desc\"><strong>FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</strong>. Quien emite el juicio debe poseer la autoridad otorgada para que el juicio sea válido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Espejo Lingüístico:</span><span class=\"croquis-desc\">Cada juicio que emitís habla más de tu propia estructura de observador, estándares y valores que de la cosa juzgada.</span></div>\n          </div>\n        ",
+        "kicker": "01 · NATURALEZA DEL JUICIO",
+        "title": "¿Qué es un Juicio Ontológico?",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto Lingüístico:</span><span class=\"croquis-desc\">Un juicio no describe una propiedad de la realidad allá afuera: es una <strong>declaración valorativa</strong> de quien observa.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habitan en el Hablante:</span><span class=\"croquis-desc\">Cuando decís <em>\"La reunión duró 1 hora\"</em> hablás de la reunión (hecho). Cuando decís <em>\"Fue una mala reunión\"</em> hablás de vos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construcción de Identidad:</span><span class=\"croquis-desc\">Tu identidad privada y pública está constituida por la red de juicios que emitís sobre vos y los que validás de otros.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "02 · ANATOMÍA RIGUROSA",
+        "kicker": "02 · LA DOBLE MIRADA",
+        "title": "Pasado, Presente y Futuro",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Conexión Temporal:</span><span class=\"croquis-desc\">El juicio se emite en el <strong>presente</strong>, se nutre del <strong>pasado</strong> y condiciona las acciones del <strong>futuro</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Ontológico:</span><span class=\"croquis-desc\">Operan como anteojos invisibles: dictan qué posibilidades ves disponibles y cuáles quedan totalmente descartadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lente de la Cultura:</span><span class=\"croquis-desc\">Muchos de los juicios sobre lo \"bueno\", \"malo\", \"posible\" o \"imposible\" son estándares heredados de la cultura social.</span></div>\n          </div>\n        ",
+        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
+      },
+      {
+        "kicker": "03 · EVALUACIÓN ONTOLÓGICA",
+        "title": "Autoridad y Fundamentación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje de Autoridad:</span><span class=\"croquis-desc\">Nunca son Verdaderos o Falsos: se evalúan como <strong>Válidos</strong> o <strong>Inválidos</strong> según la autoridad concedida al hablante.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje de Evidencia:</span><span class=\"croquis-desc\">Se diferencian en <strong>Fundamentados</strong> o <strong>No Fundamentados</strong> según las afirmaciones históricas que aportes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\"><strong>FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</strong> (Validar no equivale a tener la Verdad).</span></div>\n          </div>\n        ",
+        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
+      },
+      {
+        "kicker": "04 · ANATOMÍA RIGUROSA",
         "title": "Los 5 Pasos para Fundamentar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. El Para Qué:</span><span class=\"croquis-desc\">¿Para qué emito este juicio? ¿Qué futuro o posibilidad de acción estoy buscando diseñar?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. El Dominio:</span><span class=\"croquis-desc\">Acotar el área específica (trabajo, pareja, finanzas) para evitar la generalización al \"ser\" de la persona.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. El Estándar:</span><span class=\"croquis-desc\">¿Con qué medida o parámetro comparativo estoy juzgando? (Reconocer estándares culturales recibidos).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Afirmaciones (Hechos):</span><span class=\"croquis-desc\">Aportar los hechos del pasado comprobables que respaldan la emisión del juicio.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">5. Juicio Contrario:</span><span class=\"croquis-desc\">Verificar si es posible fundamentar el juicio opuesto para descartar sesgos de confirmación.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. El Para Qué:</span><span class=\"croquis-desc\">¿Para qué emito este juicio? ¿Qué futuro o posibilidad de acción busco habilitar o prevenir?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. El Dominio:</span><span class=\"croquis-desc\">Acotar el área específica (trabajo, pareja, finanzas) para evitar generalizar al \"ser\" completo de la persona.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. El Estándar:</span><span class=\"croquis-desc\">Distinguir el parámetro comparativo utilizado (reconocer expectativas culturales o personales).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Afirmaciones (Hechos):</span><span class=\"croquis-desc\">Aportar hechos del pasado comprobables consensuados por la comunidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">5. Juicio Contrario:</span><span class=\"croquis-desc\">Fundamentar el juicio opuesto para romper el sesgo de confirmación.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "03 · MATRIZ DE POSTURA",
+        "kicker": "05 · MATRIZ DE POSTURA",
         "title": "Lenguaje del Periodista vs. Jugador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Periodista:</span><span class=\"croquis-desc\">Lenguaje descriptivo y reactivo. Vive en la explicación, excusas y juicios sobre lo que pasó. <em>Compromiso con describir el pasado.</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Jugador:</span><span class=\"croquis-desc\">Lenguaje generativo y proactivo. Nace de la visión y de las declaraciones. <em>Compromiso con hacer que las cosas pasen.</em></span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Periodista:</span><span class=\"croquis-desc\">Descriptivo y reactivo. Vive atrapado en explicaciones, excusas y juicios rígidos sobre lo que ya pasó.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Jugador:</span><span class=\"croquis-desc\">Generativo y proactivo. Usa los juicios fundamentados para impulsar la visión y hacer que las cosas pasen.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "04 · IMPACTO EN EL FUTURO",
+        "kicker": "06 · IMPACTO EN EL FUTURO",
         "title": "Apertura vs. Cierre de Posibilidades",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Infundado de Cierre:</span><span class=\"croquis-desc\"><em>\"No sirvo para esto\"</em>. Cierra opciones de antemano y se transforma en una profecía autocumplida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Fundamentado de Apertura:</span><span class=\"croquis-desc\"><em>\"Hoy carezco de la competencia X en este dominio\"</em>. Establece la base para la elección consciente y la capacitación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Libertad y Riesgo:</span><span class=\"croquis-desc\">Fundamentar no da garantías absolutas de verdad, pero otorga <strong>Libertad y Riesgo Asumido</strong> para la acción.</span></div>\n          </div>\n        ",
-        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
-      },
-      {
-        "kicker": "05 · INTERVENCION DE COACHING",
-        "title": "Desmantelar Creencias Limitantes",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si el Juicio NO es Fundamentado:</span><span class=\"croquis-desc\">¿Para qué lo sigo manteniendo si me limita? ¿A qué zona de confort o beneficio oculto me atenúa?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si el Juicio ES Fundamentado:</span><span class=\"croquis-desc\">¿Qué compromisos y declaraciones necesito emitir para transformar esa realidad presente hacia el futuro?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poder de la Palabra:</span><span class=\"croquis-desc\">Tu palabra te conecta directamente con el poder como capacidad de acción efectiva.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Infundado de Cierre:</span><span class=\"croquis-desc\"><em>\"No sirvo para esto\"</em>. Cierra opciones de antemano y se vuelve una profecía autocumplida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Fundamentado de Apertura:</span><span class=\"croquis-desc\"><em>\"Hoy me falta la competencia X\"</em>. Permite la elección libre con <strong>Responsabilidad y Riesgo Asumido</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poder de Acción:</span><span class=\"croquis-desc\">Desmantelar juicios infundados te devuelve la capacidad de acción efectiva para transformar el futuro.</span></div>\n          </div>\n        ",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
