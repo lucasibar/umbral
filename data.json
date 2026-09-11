@@ -851,38 +851,56 @@
     "officialTitle": "16) Enojo",
     "domain": "Emoción",
     "color": "#e76f51",
-    "hook": "El enojo destructivo castiga; el enojo funcional marca límites y repara.",
-    "minutes": 5,
+    "hook": "El enojo disfuncional descarga para castigar; el enojo funcional conversa para construir y cuidar la dignidad.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · LA FUNCIÓN DEL ENOJO",
-        "title": "Energía para Defender",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evaluación de Injusticia:</span><span class=\"croquis-desc\">El enojo surge cuando juzgamos que se ha violado un estándar o límite personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Furia Destructiva:</span><span class=\"croquis-desc\">Descarga reactiva para agredir, castigar o culpar. Rompe las relaciones.</span></div>\n          </div>\n        ",
+        "kicker": "01 · FUNCIÓN DEL ENOJO (DR. NORBERTO LEVY)",
+        "title": "Defensa de la Dignidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza Reparadora:</span><span class=\"croquis-desc\">El enojo es una sobrecarga de energía que surge cuando juzgamos que un límite o expectativa valiosa ha sido vulnerada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No es Violencia:</span><span class=\"croquis-desc\">En sí mismo no es malo ni violento: es la respuesta biológica orientada a restaurar el equilibrio y la dignidad.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
-        "kicker": "02 · ENOJO FUNCIONAL",
-        "title": "Canalizar la Fuerza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reclamo Productivo:</span><span class=\"croquis-desc\">Usar la energía del enojo para comunicar el impacto, defender la dignidad y pedir reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratación:</span><span class=\"croquis-desc\">Transformar la frustración en acuerdos claros para el futuro.</span></div>\n          </div>\n        ",
+        "kicker": "02 · FISIOLOGÍA Y BIOLOGÍA",
+        "title": "La Sobrecarga Energética",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Química Corporal:</span><span class=\"croquis-desc\">Segregación de adrenalina y noradrenalina, elevación de la temperatura y ritmo cardíaco.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Facial y Física:</span><span class=\"croquis-desc\">Cejas juntas y caídas, mirada fija, labios apretados, puños cerrados y tensión muscular alta.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
-        "kicker": "03 · CIRCUITO PROACTIVO",
-        "title": "Procesar la Frustración",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pausa Ontológica:</span><span class=\"croquis-desc\">Separar los hechos de los juicios destructivos antes de emitir palabra.</span></div>\n          </div>\n        ",
+        "kicker": "03 · ENOJO DISFUNCIONAL",
+        "title": "El Círculo Vicioso de la Destrucción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descarga Reactiva:</span><span class=\"croquis-desc\">Descargar la bronca a través de insultos, gritos o juicios no fundamentados en el paradigma del problema.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Deseo de Castigo:</span><span class=\"croquis-desc\">Buscar herir o castigar al otro $\\rightarrow$ Genera reacción destructiva y escala el conflicto.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
-        "kicker": "04 · CUIDADO DE LOS VÍNCULOS",
-        "title": "Enojo con Respeto",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza sin Violencia:</span><span class=\"croquis-desc\">Sostener el límite personal sin destruir la dignidad de la otra persona.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ENOJO FUNCIONAL",
+        "title": "Del Enojo que Destruye al que Construye",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pausa Ontológica:</span><span class=\"croquis-desc\">Reconocer la sobrecarga corporal, serenar el impulso reactivo y fundamentar los juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Conversación Productiva:</span><span class=\"croquis-desc\">Expresar el daño sufrido y <strong>articular un Reclamo Productivo</strong> coordinando nuevas promesas.</span></div>\n          </div>\n        ",
+        "source": "16) Enojo"
+      },
+      {
+        "kicker": "05 · LA DISTANCIA ENTRE CORAZONES",
+        "title": "El Cuento Tibetano",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Por qué Gritamos:</span><span class=\"croquis-desc\">Al enojarnos, los corazones se alejan. Se grita para cubrir esa enorme distancia invisible.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza Serena:</span><span class=\"croquis-desc\">Acercar la voz y bajar el volumen permite restablecer la cercanía ontológica sin ceder en el límite.</span></div>\n          </div>\n        ",
+        "source": "16) Enojo"
+      },
+      {
+        "kicker": "06 · MARCAR LÍMITES CON DIGNIDAD",
+        "title": "La Declaración del 'HASTA ACÁ'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoafirmación Ontológica:</span><span class=\"croquis-desc\">Usar el enojo como motor para declarar un BASTA sano que proteja tu espacio vital y tus valores.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza sin Violencia:</span><span class=\"croquis-desc\">Sostener la postura de autoridad sobre tu vida sin agredir la dignidad del otro.</span></div>\n          </div>\n        ",
+        "source": "16) Enojo"
+      },
+      {
+        "kicker": "07 · LA CANALIZACIÓN EN COACHING",
+        "title": "Transformar la Bronca en Nafta",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Queja al Reclamo:</span><span class=\"croquis-desc\">Acompañar al cliente a dejar de acumular resentimiento e iniciar conversaciones de reclamo y reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construir Futuro:</span><span class=\"croquis-desc\">Usar la fuerza motora de la frustración para fundar proyectos ambiciosos.</span></div>\n          </div>\n        ",
         "source": "16) Enojo"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "16) Enojo"
       }
     ]
