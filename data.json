@@ -1090,39 +1090,57 @@
     "title": "Manipulación y Autenticidad",
     "officialTitle": "20) Manipulación",
     "domain": "Ontología",
-    "color": "#023e8a",
-    "hook": "La manipulación busca resultados ocultos; el liderazgo ontológico es transparente.",
-    "minutes": 5,
+    "color": "#e07a5f",
+    "hook": "La manipulación busca controlar al otro sin exponerse; la autenticidad pide abiertamente y respeta la libertad.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · MODO MANIPULADOR",
-        "title": "Control Indirecto",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fines Ocultos:</span><span class=\"croquis-desc\">Usar chantaje emocional o victimización para conseguir que otros hagan lo que queremos sin pedirlo explícitamente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Erosión del Vínculo:</span><span class=\"croquis-desc\">La manipulación destruye la confianza genuina a mediano plazo.</span></div>\n          </div>\n        ",
+        "kicker": "01 · MODO CONTROL E INDIRECTO",
+        "title": "La Definición Ontológica de Manipulación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Definición ELAC:</span><span class=\"croquis-desc\">El intento de <strong>lograr que el otro haga lo que yo quiero que haga sin decírselo abiertamente</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evitar el Riesgo del NO:</span><span class=\"croquis-desc\">Nace del miedo a formular un pedido directo y ser rechazado. Se busca controlar la conducta ajena desde las sombras.</span></div>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "02 · AUTENTICIDAD ONTOLÓGICA",
-        "title": "Transparencia Relacional",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedidos Directos:</span><span class=\"croquis-desc\">Expresar abiertamente lo que necesitás sin estrategias solapadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Respeto a la Libertad:</span><span class=\"croquis-desc\">Aceptar el NO o la respuesta del otro con madurez ontológica.</span></div>\n          </div>\n        ",
+        "kicker": "02 · EL OTRO COMO INSTRUMENTO",
+        "title": "Maturana: Amor vs. Manipulación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Amor Ontológico:</span><span class=\"croquis-desc\">Según Humberto Maturana, el amor es la <strong>aceptación del otro como un legítimo otro en la convivencia</strong>, sin condicionamientos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Instrumentalización:</span><span class=\"croquis-desc\">La manipulación anula la legitimidad del otro, reduciéndolo a un <strong>medio o herramienta</strong> para la satisfacción de los propios fines.</span></div>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "03 · LIDERAZGO TRANSPARENTE",
-        "title": "Vínculos de Confianza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coherencia Ética:</span><span class=\"croquis-desc\">Construir acuerdos basados en la sinceridad y la legitimidad mutua.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LAS ARMAS DE LA MANIPULACIÓN",
+        "title": "Secreto, Chantaje y Descalificación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Secreto:</span><span class=\"croquis-desc\">Ocultar intenciones reales, distorsionar la información o sesgar la realidad del otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Chantaje Emocional:</span><span class=\"croquis-desc\">Uso de la culpa, la lástima o la amenaza velada de abandono o castigo para forzar la sumisión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descalificación Implícita:</span><span class=\"croquis-desc\">Minar la autoconfianza del otro para que dude de su propio juicio y dependa de la guía del manipulador.</span></div>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "04 · DECONSTRUCCIÓN",
-        "title": "Desactivar la Manipulación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poner en Palabras:</span><span class=\"croquis-desc\">Hacer explícita la intención oculta para traer la conversación a la transparencia.</span></div>\n          </div>\n        ",
+        "kicker": "04 · COSTOS RELACIONALES",
+        "title": "Erosión de la Confianza y Resentimiento",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aparición de la Sospecha:</span><span class=\"croquis-desc\">Cuando el manipulado descubre el engaño, la confianza colapsa y se instala un clima de hipervigilancia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resentimiento Acumulativo:</span><span class=\"croquis-desc\">Quien cede ante la manipulación termina sintiéndose usado y atrapado, generando ira diferida.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "05 · ANATOMÍA DEL PEDIDO DIRECTO",
+        "title": "Del Control a la Vulnerabilidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Clara de Necesidades:</span><span class=\"croquis-desc\">Sustituir las indirectas y reproches por declaraciones directas: <em>\"Necesito X de vos\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coraje Ontológico:</span><span class=\"croquis-desc\">Asumir la vulnerabilidad de exponer el propio deseo y validar que la otra parte tiene derecho a decir <strong>NO</strong>.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "06 · POEMA DE JORGE BUCAY",
+        "title": "Quiero que me Escuches sin Juzgarme",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación Auténtica:</span><span class=\"croquis-desc\"><em>\"Quiero que me escuches sin juzgarme... que me opines sin aconsejarme... que me ayudes sin decidir por mí... que me cuides sin anularme\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Relación Sana:</span><span class=\"croquis-desc\">Construir espacios donde ambos crezcan en autonomía sin manipular ni ser manipulados.</span></div>\n          </div>\n        ",
+        "source": "20) Manipulación"
+      },
+      {
+        "kicker": "07 · EL COACH ANTE LA MANIPULACIÓN",
+        "title": "Intervención Ontológica",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Traer a la Transparencia:</span><span class=\"croquis-desc\">Cuestionar las historias indirectas y preguntar: <em>\"¿Qué pedido concreto no estás haciendo?\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarticular la Víctima:</span><span class=\"croquis-desc\">Ayudar al coachee a salir del rol de manipulador o víctima manipulada recuperando su soberanía relacional.</span></div>\n          </div>\n        ",
         "source": "20) Manipulación"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "20) Manipulación"
       }
     ]
