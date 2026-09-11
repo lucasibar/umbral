@@ -103,42 +103,54 @@
   },
   {
     "slug": "lenguaje-generativo",
-    "title": "Lenguaje Generativo",
+    "title": "Lenguaje Descriptivo y Generativo",
     "officialTitle": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno.",
     "domain": "Lenguaje",
-    "color": "#ffe66d",
-    "hook": "El lenguaje no solo describe: hace que las cosas pasen.",
-    "minutes": 5,
+    "color": "#f4a261",
+    "hook": "El lenguaje no describe la realidad: la crea.",
+    "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · EL GIRO ONTOLÓGICO",
-        "title": "Describir vs. Generar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descriptivo (Pasivo):</span><span class=\"croquis-desc\">Cree que el lenguaje solo habla de cosas que ya existen fuera de nosotros. Rol de espectador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generativo (Activo):</span><span class=\"croquis-desc\">Crea realidades, relaciones, identidades y oportunidades que no existían antes de hablar.</span></div>\n          </div>\n        ",
+        "kicker": "01 · REVOLUCIÓN ONTOLÓGICA",
+        "title": "Del Lenguaje Pasivo al Activo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Concepción Tradicional (Pasiva):</span><span class=\"croquis-desc\">El lenguaje como mero instrumento descriptivo que transmite datos sobre una realidad preexistente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Concepción Ontológica (Activa):</span><span class=\"croquis-desc\">El lenguaje es generativo: hace que las cosas pasen, abre mundos y construye el futuro del Observador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">John Austin & Echeverría:</span><span class=\"croquis-desc\">Hablar es actuar. Al hablar no solo describimos lo que existe, sino que transformamos el estar siendo.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "02 · COLUMNA IZQUIERDA",
-        "title": "La Conversación Oculta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Columna Derecha:</span><span class=\"croquis-desc\">Lo que decimos explícitamente en la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Columna Izquierda:</span><span class=\"croquis-desc\">Lo que pensamos y sentimos pero nos callamos por miedo, supuestos o juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Gestión Productiva:</span><span class=\"croquis-desc\">Procesar la columna izquierda para transformarla en pedidos y reclamos transparentes.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LENGUAJE DESCRIPTIVO",
+        "title": "El Rol del Periodista",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lo que PASA:</span><span class=\"croquis-desc\">Se utiliza para explicar, narrar y justificar la realidad dada o lo que ya ocurrió en el pasado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Metáfora del Periodista:</span><span class=\"croquis-desc\">Relata y analiza el partido desde la cabina de prensa, pero no entra al campo a jugar ni a cambiar el marcador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actos Lingüísticos:</span><span class=\"croquis-desc\">Comprendido por <strong>Afirmaciones</strong> (hechos) y <strong>Juicios</strong> (interpretaciones del pasado).</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "03 · LOS ACTOS LINGÜÍSTICOS",
-        "title": "Herramientas de Creación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Afirmaciones:</span><span class=\"croquis-desc\">Proposiciones sobre el mundo observable (Verdadero/Falso).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Declaraciones:</span><span class=\"croquis-desc\">Crean un nuevo mundo posible (Válido/Inválido).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Pedidos & Ofertas:</span><span class=\"croquis-desc\">Acciones para mover la realidad con otros.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Promesas:</span><span class=\"croquis-desc\">Compromiso social formalizado.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LENGUAJE GENERATIVO",
+        "title": "El Rol del Jugador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lo que FALTA:</span><span class=\"croquis-desc\">Se utiliza para imaginar, diseñar, comprometer e inventar el futuro que aún no existe.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Metáfora del Jugador:</span><span class=\"croquis-desc\">Entra a la cancha, toma decisiones en tiempo real y coordina acciones con su equipo para ganar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actos Lingüísticos:</span><span class=\"croquis-desc\">Integrado por <strong>Declaraciones</strong>, <strong>Pedidos</strong>, <strong>Ofertas</strong> y <strong>Promesas</strong>.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "04 · EL COMPROMISO",
-        "title": "Hacerse Cargo de la Palabra",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Queja Pasiva:</span><span class=\"croquis-desc\">Describir la frustración buscando culpables pero sin asumir el riesgo de actuar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Acto Generativo:</span><span class=\"croquis-desc\">Asumir la responsabilidad de hablar para transformar el futuro.</span></div>\n          </div>\n        ",
+        "kicker": "04 · COMPROMISOS SOCIALES",
+        "title": "La Responsabilidad al Hablar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Afirmaciones:</span><span class=\"croquis-desc\">Responsabilidad de aportar evidencias comprobables históricas (Verdad/Falsedad).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Juicios:</span><span class=\"croquis-desc\">Responsabilidad de respaldar la opinión con estándares y observaciones (Fundamentación).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Declaraciones:</span><span class=\"croquis-desc\">Responsabilidad de poseer la autoridad y actuar en coherencia con el nuevo mundo abierto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Promesas:</span><span class=\"croquis-desc\">Responsabilidad de poseer la competencia, sinceridad y capacidad de ejecución futura.</span></div>\n          </div>\n        ",
+        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
+      },
+      {
+        "kicker": "05 · DIAGNÓSTICO EN LA ACCIÓN",
+        "title": "Lo que Pasa vs. Lo que Falta",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si lo que PASA pasa en una conversación:</span><span class=\"croquis-desc\">Usás lenguaje descriptivo. Te sirve para evaluar el estado presente y comprender el contexto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si lo que FALTA falta en una conversación:</span><span class=\"croquis-desc\">Requerís lenguaje generativo. Sin declaraciones ni pedidos/ofertas, el futuro deseado nunca ocurre.</span></div>\n          </div>\n        ",
+        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
+      },
+      {
+        "kicker": "06 · PODER E INTERVENCIÓN",
+        "title": "Cambio de Postura Ontológica",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De Víctima Relatora a Creador:</span><span class=\"croquis-desc\">Dejar de justificar el presente con historias pasadas y asumir la autoría de tu destino.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Realidades:</span><span class=\"croquis-desc\">Tu palabra tiene el poder de abrir conversaciones que antes no existían y mover la realidad.</span></div>\n          </div>\n        ",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       }
     ]
