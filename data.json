@@ -1031,38 +1031,56 @@
     "officialTitle": "19) Culpa",
     "domain": "Emoción",
     "color": "#ffb703",
-    "hook": "La culpa autoflagela; la responsabilidad repara.",
-    "minutes": 5,
+    "hook": "La culpa disfuncional castiga y autoflagela; la culpa funcional es un radar ético que exige reparación.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · ORIGEN DE LA CULPA",
-        "title": "Juicio de Incumplimiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falta a un Valor:</span><span class=\"croquis-desc\">La culpa surge al evaluar que hemos violado un compromiso ético o valor propio.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpa Estéril:</span><span class=\"croquis-desc\">Autoflagelación y castigo interno que no resuelve el daño ocasionado al otro.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LA TRÍADA DE LA CULPA",
+        "title": "Culpador, Culpado y La Norma",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpador:</span><span class=\"croquis-desc\">Aspecto que juzga haber sufrido la infracción de un código o estándar establecido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpado:</span><span class=\"croquis-desc\">Aspecto juzgado de haber violado la norma y sometido a reproche o castigo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Norma:</span><span class=\"croquis-desc\">El conjunto de reglas o expectativas que regulan el comportamiento.</span></div>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
-        "kicker": "02 · PASO A LA RESPONSABILIDAD",
-        "title": "Resarcimiento Activo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir la Falta:</span><span class=\"croquis-desc\">Reconocer el impacto sin victimizarse ni buscar excusas tranquilizadoras.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción Reparadora:</span><span class=\"croquis-desc\">Pedir disculpas sinceras y ejecutar acciones de reparación concreta.</span></div>\n          </div>\n        ",
+        "kicker": "02 · TRAMPAS DEL 'DEBER SER'",
+        "title": "Los Mandatos Culturales",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Normas Cristalizadas:</span><span class=\"croquis-desc\">Juicios colapsados como afirmaciones (ej: <em>\"debés ser exitoso a los 30\"</em>, <em>\"el amor debés demostrarlo sufriendo\"</em>).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falsa Culpa:</span><span class=\"croquis-desc\">Sentir culpa por no cumplir expectativas ajenas que nunca elegiste como valores propios.</span></div>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
-        "kicker": "03 · LIBERACIÓN Y PERDÓN",
-        "title": "Perdonarse a Uno Mismo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Comprensión Ontológica:</span><span class=\"croquis-desc\">Aceptar que hiciste lo mejor que podías con el nivel de conciencia de aquel momento.</span></div>\n          </div>\n        ",
+        "kicker": "03 · CULPA DISFUNCIONAL",
+        "title": "El Círculo Vicioso del Castigo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pasar Factura:</span><span class=\"croquis-desc\">El Culpador manipula, descalifica y exige sumisión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoflagelación Estéril:</span><span class=\"croquis-desc\">El Culpado se llena de remordimiento inútil que no repara el daño y sostiene la posición de víctima.</span></div>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
-        "kicker": "04 · INTEGRIDAD PERSONAL",
-        "title": "Restaurar la Coherencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso Futuro:</span><span class=\"croquis-desc\">Cerrar el capítulo pasado recontratando estándares de conducta para adelante.</span></div>\n          </div>\n        ",
+        "kicker": "04 · CULPA FUNCIONAL",
+        "title": "El Radar de los Valores Propios",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Violación de Principios:</span><span class=\"croquis-desc\">Surge cuando transgredís un <strong>VALOR AUTÉNTICAMENTE DECLARADO POR VOS</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Señal de Alerta Moral:</span><span class=\"croquis-desc\">Avisa que tu conducta ha traicionado tu autocoherencia y te invita a restablecer la integridad.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "05 · REPARACIÓN VS. AUTOFLAGELACIÓN",
+        "title": "De la Remordimiento a la Reparación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedir Disculpas Sinceras:</span><span class=\"croquis-desc\">Reconocer objetivamente el hecho y el impacto causado en el otro sin poner excusas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción Reparadora:</span><span class=\"croquis-desc\">Compensar el daño y **recontratar promesas impecables** para adelante.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "06 · CÓMO APRENDEN CULPADOR Y CULPADO",
+        "title": "Reconciliación Interna",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpador Aprende a Enseñar:</span><span class=\"croquis-desc\">Escucha con empatía las razones del Culpado y ofrece alternativas de resarcimiento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpado Aprende a Elegir:</span><span class=\"croquis-desc\">Distingue si la norma lo protege o si es una tiranía ajena de la que debe liberarse.</span></div>\n          </div>\n        ",
+        "source": "19) Culpa"
+      },
+      {
+        "kicker": "07 · LA LIBERACIÓN EN COACHING",
+        "title": "Desarmar los Mandatos Ajenos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disolver la Falsa Culpa:</span><span class=\"croquis-desc\">Acompañar a declarar: <em>\"Yo no elijo esa norma\"</em> para recuperar la paz ontológica.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Responsabilidad Soberana:</span><span class=\"croquis-desc\">Sustituir el castigo por la ética del compromiso y el resarcimiento.</span></div>\n          </div>\n        ",
         "source": "19) Culpa"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "19) Culpa"
       }
     ]
