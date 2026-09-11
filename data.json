@@ -1342,45 +1342,63 @@
     "title": "Víctima o Responsable",
     "officialTitle": "24) Elección de una forma de vida: ¿Víctima o Responsable?",
     "domain": "Ontología",
-    "color": "#c95555",
-    "hook": "La víctima busca culpables para justificar su impotencia; el responsable busca respuestas para accionar.",
-    "minutes": 6,
+    "color": "#e07a5f",
+    "hook": "La víctima busca excusas tranquilizadoras para justificar su impotencia; el responsable responde desde su visión para hacer que las cosas pasen.",
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · EL OBSERVADOR VÍCTIMA",
-        "title": "La Inocencia Impotente",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Explicaciones Tranquilizadoras:</span><span class=\"croquis-desc\">Busca historias externas convincentes (el gobierno, el clima, los otros) para justificar su inacción.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Beneficio vs Costo:</span><span class=\"croquis-desc\">Gana la \"inocencia\" de no ser culpable, pero paga con la pérdida absoluta de su libertad y poder.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LA DECISIÓN EXISTENCIAL",
+        "title": "Elección de una Forma de Vida",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filosofía de Vida:</span><span class=\"croquis-desc\">Víctima o Responsable no son rasgos de personalidad fijos: son <strong>posiciones del Observador</strong> que elegimos habitar a cada momento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Ontológica:</span><span class=\"croquis-desc\">Frente a cada brecha insatisfactoria de la vida, podés elegir la inocencia impotente o el poder de acción.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
-        "kicker": "02 · EL OBSERVADOR RESPONSABLE",
-        "title": "Soberanía sobre tu Vida",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Responsa-habilidad:</span><span class=\"croquis-desc\">Habilidad para Responder. Comprende que no controla los eventos, pero sí su respuesta ante ellos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Dueño de la Brecha:</span><span class=\"croquis-desc\">No busca culpar: se pregunta <em>\"¿Qué me faltó aportar a MÍ para lograr el resultado?\"</em></span></div>\n          </div>\n        ",
+        "kicker": "02 · EL OBSERVADOR VÍCTIMA",
+        "title": "Explicaciones Tranquilizadoras",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpas Afuera:</span><span class=\"croquis-desc\">Pone las razones de su inefectividad en las circunstancias, el clima, el gobierno o las acciones ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Trampa del 'No Pude':</span><span class=\"croquis-desc\">Transforma el pasado en sentencia: <em>\"No pude = No puedo\"</em>. Gana la comodidad de ser inocente, pero paga con su poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emocionalidad:</span><span class=\"croquis-desc\">Vive a la deriva, sumergido en la resignación, la queja impotente y el resentimiento acumulativo.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
-        "kicker": "03 · EL LENGUAJE DEL PROTAGONISTA",
-        "title": "Herramientas de Acción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Explicación a la Declaración:</span><span class=\"croquis-desc\">En lugar de justificarse, declara quiebres y posibilidades.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Queja a los Pedidos:</span><span class=\"croquis-desc\">Realiza pedidos y ofertas concretas para mover el futuro.</span></div>\n          </div>\n        ",
+        "kicker": "03 · EL OBSERVADOR RESPONSABLE",
+        "title": "Responsa-Habilidad y Protagonismo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habilidad de Responder:</span><span class=\"croquis-desc\">Comprende que no controla los sucesos externos, pero es 100% dueño de la respuesta que elige dar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Pregunta Protagonista:</span><span class=\"croquis-desc\">En lugar de preguntar por qué, se interroga: <em>\"¿Quién necesito SER y qué me faltó aportar a MÍ para lograr el resultado?\"</em>.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
-        "kicker": "04 · CUESTIONARIO DE CHOQUE",
-        "title": "Preguntas del Protagonista",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pregunta 1:</span><span class=\"croquis-desc\">¿Dado el daño o problema, qué puedo hacer AHORA para reparar?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pregunta 2:</span><span class=\"croquis-desc\">¿Estoy dispuesto a soltar mi deseo de 'tener razón' para generar resultados?</span></div>\n          </div>\n        ",
+        "kicker": "04 · EXPLICACIONES GENERATIVAS",
+        "title": "El Poder del Compromiso",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Visión sobre Resultados:</span><span class=\"croquis-desc\">Lo que determina el accionar del Protagonista es su <strong>VISIÓN DECLARADA</strong>, no los tropiezos del camino.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar el Pasado:</span><span class=\"croquis-desc\">Toma el pasado como recurso de aprendizaje: <em>\"No pude = Algo me faltó. ¿Qué necesito y qué voy a hacer ahora?\"</em>.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
-        "kicker": "05 · LA PREGUNTA DORADA",
-        "title": "Autoconvocatoria",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Elección Diaria:</span><span class=\"croquis-desc\">¿Quién necesito ESTAR SIENDO hoy para lograr lo que anhelo mañana?</span></div>\n          </div>\n        ",
+        "kicker": "05 · PREGUNTAS TRANSFORMADORAS",
+        "title": "Cuestionario de Impacto Ontológico",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Respuesta Proactiva:</span><span class=\"croquis-desc\">¿Qué respuesta elegiste ante la circunstancia? ¿Con qué visión estás comprometido?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Soltar la Razón:</span><span class=\"croquis-desc\">¿Estás dispuesto a soltar tu necesidad de 'tener razón' para abrir espacio a los resultados que anhelás?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Coordinar Acciones:</span><span class=\"croquis-desc\">¿Qué pedidos, ofertas y promesas necesitás hacer hoy para mover el futuro?</span></div>\n          </div>\n        ",
+        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+      },
+      {
+        "kicker": "06 · MODELO LINGÜÍSTICO EN COACHING",
+        "title": "Del Huevo Derecho al Huevo Izquierdo",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Derecho (Víctima):</span><span class=\"croquis-desc\">Habita el colapso de juicios y afirmaciones justificatorias, victimizándose en la historia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Izquierdo (Protagonista):</span><span class=\"croquis-desc\">Activa declaraciones de quiebre, pedidos transparentes, ofertas atractivas y promesas impecables.</span></div>\n          </div>\n        ",
+        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+      },
+      {
+        "kicker": "07 · INTERVENCIÓN DE COACHING",
+        "title": "Desarticular la Historia de la Víctima",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No Comprar la Historia:</span><span class=\"croquis-desc\">El coach no valida las quejas pasivas ni la búsqueda de compasión estéril.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Invitar al Poder:</span><span class=\"croquis-desc\">Desafía los juicios de inmovilidad y acompaña al coachee a asumir la soberanía sobre su futuro.</span></div>\n          </div>\n        ",
+        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+      },
+      {
+        "kicker": "08 · CULMINACIÓN DEL COLOQUIO 2025",
+        "title": "La Promesa de Transformación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Síntesis Ontológica:</span><span class=\"croquis-desc\">Integrar las 24 distinciones para vivir con coherencia en el Lenguaje, la Emoción y el Cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ser la Posibilidad:</span><span class=\"croquis-desc\">Elegir diariamente ser una oferta poderosa para vos mismo, para tus consultantes y para la comunidad.</span></div>\n          </div>\n        ",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción final del Coloquio.",
         "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
       }
     ]
