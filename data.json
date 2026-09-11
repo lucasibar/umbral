@@ -491,38 +491,56 @@
     "officialTitle": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos",
     "domain": "Lenguaje",
     "color": "#7209b7",
-    "hook": "No escuchamos lo que el otro dice, sino lo que nosotros interpretamos.",
-    "minutes": 5,
+    "hook": "No escuchamos lo que el otro dice, sino la interpretación que nosotros construimos.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · CONCEPTO ATÓMICO",
-        "title": "Escuchar $\\neq$ Oír",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Oír:</span><span class=\"croquis-desc\">Fenómeno biológico involuntario de percibir ondas de sonido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">ESCUCHAR:</span><span class=\"croquis-desc\"><strong>OÍR + INTERPRETAR</strong>. Le asignamos un significado a las palabras del otro.</span></div>\n          </div>\n        ",
+        "kicker": "01 · FÓRMULA ONTOLÓGICA",
+        "title": "Escuchar es Percibir + Interpretar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Oír vs. Escuchar:</span><span class=\"croquis-desc\">Oír es un fenómeno biológico pasivo. ESCUCHAR es una <strong>acción activa</strong> de asignación de sentido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Fundamental:</span><span class=\"croquis-desc\"><strong>ESCUCHAR = PERCIBIR + INTERPRETAR</strong>. Lo que el otro dice nunca equivale exactamente a lo que vos escuchás.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
-        "kicker": "02 · LOS FILTROS DE ESCUCHA",
-        "title": "Con Qué Escuchamos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Histórico:</span><span class=\"croquis-desc\">Nuestra historia de vida y experiencias pasadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Emocional:</span><span class=\"croquis-desc\">El estado de ánimo en el que estamos en el momento de escuchar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro de Intención:</span><span class=\"croquis-desc\">Nuestros propios intereses y agendas personales.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LOS SENTIDOS DE LA ESCUCHA",
+        "title": "Percibir con Todos los Sentidos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Más allá del Oído:</span><span class=\"croquis-desc\">Escuchamos con la <strong>vista</strong> (gestos, mirada, microexpresiones) y con la <strong>corporalidad</strong> y postura del otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Percepción de Clima:</span><span class=\"croquis-desc\">Captar el tono de voz, el ritmo, los silencios y la tensión ambiental forma parte de la percepción integral.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
-        "kicker": "03 · HERRAMIENTA CLAVE",
-        "title": "Verificar la Escucha",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Chequeo de Escucha:</span><span class=\"croquis-desc\">Dado que siempre interpretamos, es vital validar: <em>\"¿Lo que me estás diciendo es X?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Indagación:</span><span class=\"croquis-desc\">Hacer preguntas para comprender el mundo del otro en lugar de asumir certezas sobre lo escuchado.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA BRECHA COMUNICACIONAL",
+        "title": "La Inevitable Distancia Ontológica",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Máxima de ELAC:</span><span class=\"croquis-desc\"><em>\"Uno dice lo que dice y el otro escucha lo que escucha\"</em>. Existe siempre una brecha entre la intención y el significado recibido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ilusión de Transparencia:</span><span class=\"croquis-desc\">Asumir que el otro entendió exactamente lo que quisiste decir es la causa raíz de la mayoría de los conflictos.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
-        "kicker": "04 · LA MITAD DEL LENGUAJE",
-        "title": "Escucha e Integración",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Validar la Diferencia:</span><span class=\"croquis-desc\">Comprender que la interpretación del otro es tan legítima como la nuestra.</span></div>\n          </div>\n        ",
+        "kicker": "04 · MATRIZ DE FILTROS",
+        "title": "Los Anteojos del Observador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Histórico:</span><span class=\"croquis-desc\">Nuestras experiencias pasadas, prejuicios y mandatos culturales condicionan lo que oímos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Emocional:</span><span class=\"croquis-desc\">El estado de ánimo actual (miedo, enojo, entusiasmo) tiñe el sentido del mensaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro de Intención:</span><span class=\"croquis-desc\">Nuestras propias prioridades y agendas personales nos hacen buscar confirmación de lo que ya pensamos.</span></div>\n          </div>\n        ",
+        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
+      },
+      {
+        "kicker": "05 · ACTITUD Y PRESENCIA",
+        "title": "Escuchar para Comprender vs. Responder",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escucha Defensiva:</span><span class=\"croquis-desc\">Escuchar buscando fallas en el discurso del otro para armar la réplica mientras habla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escucha Generativa:</span><span class=\"croquis-desc\">Silenciar el diálogo interno propio para permitir que el mundo del otro aparezca con legitimidad.</span></div>\n          </div>\n        ",
+        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
+      },
+      {
+        "kicker": "06 · HERRAMIENTAS DE VERIFICACIÓN",
+        "title": "Reducir la Brecha",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Chequeo de Escucha:</span><span class=\"croquis-desc\">Verificar explícitamente: <em>\"¿Lo que me estás diciendo es X?\"</em> antes de emitir un juicio o respuesta.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Indagación Ontológica:</span><span class=\"croquis-desc\">Hacer preguntas abiertas para profundizar sobre los supuestos que el otro sostiene.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Poder del Silencio:</span><span class=\"croquis-desc\">El silencio crea el espacio donde lo no dicho cobra significado y abre revelación.</span></div>\n          </div>\n        ",
+        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
+      },
+      {
+        "kicker": "07 · EL LIDERAZGO EN LA ESCUCHA",
+        "title": "El Poder de Hospedar la Palabra",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Matriz de Escucha:</span><span class=\"croquis-desc\">El líder transformacional no destaca por lo que dice, sino por el nivel de escucha que ofrece a su equipo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Crear Posibilidad:</span><span class=\"croquis-desc\">Escuchar la grandeza y el potencial en el otro estimula su responsabilidad y autonomía.</span></div>\n          </div>\n        ",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       }
     ]
