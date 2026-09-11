@@ -1276,39 +1276,63 @@
     "title": "Corporalidad: Estabilidad y Centramiento",
     "officialTitle": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento.",
     "domain": "Cuerpo",
-    "color": "#03045e",
-    "hook": "Tu postura física dicta la solidez de tu voz y tus decisiones.",
-    "minutes": 5,
+    "color": "#e07a5f",
+    "hook": "La Resolución acciona y decide; la Estabilidad sostiene y enraiza; el Centramiento es la metadisposición que te devuelve la presencia serena.",
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · RESOLUCIÓN",
-        "title": "La Disposición a Avanzar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza de Concreción:</span><span class=\"croquis-desc\">Cuerpo inclinado levemente hacia adelante, mirada fija y paso decidido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Tomar Decisiones:</span><span class=\"croquis-desc\">Disposición corporal indispensable para ejecutar, cortar y avanzar.</span></div>\n          </div>\n        ",
+        "kicker": "01 · DISPOSICIÓN DE RESOLUCIÓN (FUEGO)",
+        "title": "Enfoque, Asertividad y Concreción",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Mirada focalizada en un punto, tensión muscular activa, impulso hacia adelante y voz determinante con frases cortas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Indispensable para tomar decisiones, declarar SÍ/NO, liderar proyectos, romper la parálisis y ejecutar promesas.</span></div>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
-        "kicker": "02 · ESTABILIDAD",
-        "title": "La Disposición a Sostener",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pies Enraizados:</span><span class=\"croquis-desc\">Centro de gravedad bajo y buena base de sustentación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sostener Compromisos:</span><span class=\"croquis-desc\">Brinda la solidez para no ser arrastrado por vendavales emocionales.</span></div>\n          </div>\n        ",
+        "kicker": "02 · MATRICES DE RESOLUCIÓN",
+        "title": "Excesos y Déficits de Resolución",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Resolución:</span><span class=\"croquis-desc\">Indecisión crónica, desgano, postergación interminable e incapacidad de poner límites firmes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Resolución:</span><span class=\"croquis-desc\">Autoritarismo, impulsividad, atropello al otro, ceguera relacional y agresión no regulada.</span></div>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
-        "kicker": "03 · CENTRAMIENTO GEC",
-        "title": "El Eje en la Tormenta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje Vertical:</span><span class=\"croquis-desc\">Respiración profunda, presencia alineada entre cabeza, corazón y pelvis.</span></div>\n          </div>\n        ",
+        "kicker": "03 · DISPOSICIÓN DE ESTABILIDAD (TIERRA)",
+        "title": "Enraizamiento y Certeza",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Pies firmes en la tierra, centro de gravedad bajo, postura sólida y respiración abdominal profunda.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Sostener compromisos en el tiempo, brindar contención, dar certidumbre a la red y resistir tempestades emocionales.</span></div>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
-        "kicker": "04 · SOLIDEZ PERSONAL",
-        "title": "Coherencia en Acción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Presencia del Coach:</span><span class=\"croquis-desc\">Habitar el cuerpo con centramiento permite acompañar a otros desde la serenidad.</span></div>\n          </div>\n        ",
+        "kicker": "04 · MATRICES DE ESTABILIDAD",
+        "title": "Excesos y Déficits de Estabilidad",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Estabilidad:</span><span class=\"croquis-desc\">Volubilidad, fragilidad estructural, colapso ante las crisis y dispersión ante los imprevistos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Estabilidad:</span><span class=\"croquis-desc\">Pesadez, inmovilidad, terquedad, conservadurismo extremo y resistencia a cualquier innovación.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "05 · LA META-DISPOSICIÓN DE CENTRAMIENTO",
+        "title": "El Estado del SER",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Más allá de las Disposiciones:</span><span class=\"croquis-desc\">El Centramiento no es una postura rígida más; es una <strong>META-DISPOSICIÓN CORPORAL</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estado del SER:</span><span class=\"croquis-desc\">Habitar la presencia estar <strong>PRESENTE, CONSCIENTE, ALERTA Y EN PAZ</strong>, conectando cabeza, corazón y pelvis.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "06 · EL EJE DEL OBSERVADOR",
+        "title": "Elegir la Disposición Funcional",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Observar la Coherencia:</span><span class=\"croquis-desc\">Estar centrado permite evaluar la propia coherencia (Cuerpo, Emoción y Lenguaje) en tiempo real.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Elección Consciente:</span><span class=\"croquis-desc\">Desde el centramiento elegís si necesitás Agua (Apertura), Aire (Flexibilidad), Fuego (Resolución) o Tierra (Estabilidad).</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "07 · DESARMAR LA ARMADURA",
+        "title": "El Caballero de la Armadura Oxidada",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Armadura Reactiva:</span><span class=\"croquis-desc\">El personaje que construimos para protegernos del miedo y que termina ocultando nuestra vulnerabilidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Integración Somática:</span><span class=\"croquis-desc\">El Centramiento disuelve la necesidad de la armadura, integrando nuestros dominios en una presencia auténtica.</span></div>\n          </div>\n        ",
+        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+      },
+      {
+        "kicker": "08 · EL COACH CENTRADO",
+        "title": "Presencia en la Sesión",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Espacio de Alojamientos:</span><span class=\"croquis-desc\">Un coach centrado sostiene la sesión desde la tranquilidad, sin contagiarse de la ansiedad del coachee.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Facilitar la Transformación:</span><span class=\"croquis-desc\">Acompañar al coachee a registrar sus sensaciones corporales y diseñar nuevas posturas para la acción.</span></div>\n          </div>\n        ",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
       }
     ]
