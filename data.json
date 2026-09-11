@@ -971,38 +971,56 @@
     "officialTitle": "18) Exigencia – Autoexigencia",
     "domain": "Emoción",
     "color": "#fb8500",
-    "hook": "La autoexigencia busca la perfección estéril; la excelencia disfruta el proceso.",
-    "minutes": 5,
+    "hook": "La exigencia aplasta y castiga al exigido; la excelencia afina las cuerdas para sonar con celo sereno.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · TIRANO VS EXCELENCIA",
-        "title": "El Tirano Interno",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoexigencia Tóxica:</span><span class=\"croquis-desc\">Pone una vara inalcanzable de perfección que castiga y erosiona la autoestima.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Excelencia:</span><span class=\"croquis-desc\">Compromiso con la mejora continua disfrutando el proceso y aprendiendo del error.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EL FALSO CAMINO A LA EXCELENCIA",
+        "title": "La Trampa de la Perfección",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falsa Creencia Cultural:</span><span class=\"croquis-desc\">Se le atribuye erróneamente a la exigencia ser el camino al éxito, cuando en realidad genera sometimiento y colapso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Relación Autoritaria:</span><span class=\"croquis-desc\">La exigencia es un vínculo cartesiano (lineal, causa-efecto) que privilegia la orden e ignora la escucha.</span></div>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "02 · IMPACTO EN LA SALUD",
-        "title": "Erosión Personal",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo Tensionado:</span><span class=\"croquis-desc\">La autoexigencia genera tensión crónica en hombros, mandíbula y respiración.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Insatisfacción Permanente:</span><span class=\"croquis-desc\">Imposibilidad de celebrar los logros obtenidos por foco exclusivo en el detalle faltante.</span></div>\n          </div>\n        ",
+        "kicker": "02 · LA ESTRUCTURA EXIGENTE - EXIGIDO",
+        "title": "Los Roles de la Tiranía Interna",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigente:</span><span class=\"croquis-desc\"><em>\"Yo me exijo ser...\"</em>. Ordena sin escuchar los recursos reales del exigido y exige obediencia ciega.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigido:</span><span class=\"croquis-desc\"><em>\"Y en cambio me siento impotente...\"</em>. Carece de la libertad para decir <strong>NO</strong> y compromete su dignidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Meta Inaccesible:</span><span class=\"croquis-desc\">Un destino perfecto e idealizado que invisibiliza el proceso presente.</span></div>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "03 · PARADIGMA EXCELENCIA",
-        "title": "Amor al Proceso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Progreso Gradual:</span><span class=\"croquis-desc\">Medir el avance respecto al punto de partida y no respecto al ideal inalcanzable.</span></div>\n          </div>\n        ",
+        "kicker": "03 · LA FALACIA DEL 'QUERER ES PODER'",
+        "title": "Voluntarismo vs. Coordinación",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Querer:</span><span class=\"croquis-desc\">Surge de una <strong>DECLARACIÓN</strong> de futuro deseado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poder:</span><span class=\"croquis-desc\">No nace de apretar los dientes: nace de la <strong>COORDINACIÓN EFECTIVA DE ACCIONES</strong> (pedidos, ofertas y promesas).</span></div>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "04 · SOLTAR LA PERFECCIÓN",
-        "title": "Aceptar la Falibilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Error como Lección:</span><span class=\"croquis-desc\">Tratar las equivocaciones como datos valiosos de aprendizaje sin autoflagelación.</span></div>\n          </div>\n        ",
+        "kicker": "04 · LAS ENFERMEDADES DEL COLAPSO",
+        "title": "El Costo del Somatizar",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Consecuencias Físicas:</span><span class=\"croquis-desc\">Burnout (agotamiento psicológico), fatiga crónica, estrés, úlceras y depresión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desconexión del Deseo:</span><span class=\"croquis-desc\">De recibir tantas órdenes y presiones, la persona va perdiendo la capacidad de saber qué quiere y qué necesita.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "05 · LA PARÁBOLA DEL LAÚD (BUDA Y SONA)",
+        "title": "La Justa Tensión de la Mente",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerdas Tensas vs. Flojas:</span><span class=\"croquis-desc\">Demasiada tensión corta las cuerdas (exigencia); demasiado flojas no producen sonido (indolencia).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celo Sereno:</span><span class=\"croquis-desc\">La sabiduría budista enseña a aplicarse con esfuerzo ecuánime y equilibrio paso a paso.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "06 · EXIGENCIA VS. EXCELENCIA",
+        "title": "Matriz Ontológica",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigencia:</span><span class=\"croquis-desc\">Foco en la meta inalcanzable, castigo al error, parálisis y rigidez corporal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Excelencia:</span><span class=\"croquis-desc\">Foco en la mejora continua, compasión por los propios límites, aprendizaje del error y disfrute del proceso.</span></div>\n          </div>\n        ",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
+        "kicker": "07 · LA TRANSFORMACIÓN EN COACHING",
+        "title": "Del Tirano al Mentor de Excelencia",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habilitar el NO:</span><span class=\"croquis-desc\">Enseñar al exigido a declarar un NO sano para recuperar su dignidad y poner límites a la autoexigencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celebrar el Aprendizaje:</span><span class=\"croquis-desc\">Transformar al exigente interno en un facilitador que otorgue recursos y acompañe al realizador.</span></div>\n          </div>\n        ",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "18) Exigencia – Autoexigencia"
       }
     ]
