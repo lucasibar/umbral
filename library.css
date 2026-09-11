@@ -72,87 +72,105 @@ body.micro-reel-open { overflow: hidden; }
 .reel-rule { width: 42px; height: 2px; margin: 16px 0; background: var(--micro-color); }
 .reel-body { max-width: 350px; min-height: 0; padding-right: 4px; color: #c5c8d0; font-size: clamp(.92rem, 1.9vh, 1.02rem); line-height: 1.62; white-space: pre-line; scrollbar-width: thin; scrollbar-color: color-mix(in srgb, var(--micro-color) 55%, transparent) transparent; position: relative; z-index: 1; }
 
-/* Registro Ontológico (Inputs de Reflexión) */
-.reel-slide-reflection article { display: block !important; overflow-y: auto !important; }
-.reel-slide-reflection h2 { font-size: clamp(1.5rem, 3.8vh, 2.4rem) !important; margin-bottom: 4px !important; }
-.reel-slide-reflection .reel-rule { margin: 12px 0 !important; }
-.reflection-header-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+/* Estilo Minimalista "Croquis" */
+.croquis-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 14px;
+}
+.croquis-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-left: 14px;
+  border-left: 2px solid color-mix(in srgb, var(--micro-color) 60%, rgba(255, 255, 255, 0.2));
+}
+.croquis-term {
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: var(--micro-color);
+  letter-spacing: -0.01em;
+}
+.croquis-desc {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: #d1d5db;
+}
+.croquis-desc strong {
+  color: #ffffff;
+}
+.croquis-desc em {
+  color: #9ca3af;
+  font-style: italic;
+}
+
+/* Pantalla Completa para Anotaciones de Reflexión */
+.reel-slide-reflection article {
+  height: 100% !important;
+  display: flex !important;
+  flex-direction: column !important;
+  padding: 24px 22px 20px !important;
+  box-sizing: border-box !important;
+  overflow-y: auto !important;
+}
+.reel-slide-reflection h2 {
+  font-size: 1.4rem !important;
+  margin-bottom: 2px !important;
+  font-family: var(--font-serif);
+}
+.reel-slide-reflection .reel-rule {
+  margin: 10px 0 !important;
+  width: 32px !important;
+}
+.reflection-header-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
 .reflection-header-row > p { margin: 0 !important; }
 .reflection-status { font-size: 0.68rem; color: #34d399; font-weight: 600; background: rgba(52, 211, 153, 0.12); padding: 3px 8px; border-radius: 6px; border: 1px solid rgba(52, 211, 153, 0.25); }
 .micro-card-note-badge { font-size: 0.62rem; color: #34d399; font-weight: 700; margin-left: 6px; text-transform: none; }
-.reel-reflection-subtitle { margin: -6px 0 14px; font-size: .84rem; color: #a6aab4; line-height: 1.45; }
-.reel-reflection-form { display: flex; flex-direction: column; gap: 14px; margin: 16px 0 24px; width: 100%; }
-.reflection-group { display: flex; flex-direction: column; gap: 5px; }
-.reflection-label { font-size: 0.82rem; font-weight: 700; color: var(--micro-color); display: flex; align-items: center; gap: 6px; }
+.reel-reflection-subtitle { margin: -4px 0 10px; font-size: .82rem; color: #a6aab4; line-height: 1.4; }
+.reel-reflection-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex: 1;
+  margin: 10px 0 16px;
+  width: 100%;
+}
+.reflection-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+}
+.reflection-label {
+  font-size: 0.8rem;
+  font-weight: 800;
+  color: var(--micro-color);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
 .reflection-input {
   width: 100%;
+  flex: 1;
+  min-height: 65px;
   padding: 10px 14px;
-  border-radius: 14px;
-  border: 1px solid color-mix(in srgb, var(--micro-color) 40%, rgba(255, 255, 255, 0.2));
-  background: rgba(18, 20, 29, 0.85);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(15, 17, 24, 0.9);
   color: #ffffff;
-  font-size: 0.88rem;
+  font-size: 0.9rem;
   font-family: inherit;
   line-height: 1.45;
   resize: vertical;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+  box-shadow: inset 0 2px 6px rgba(0,0,0,0.3);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
-.reflection-input::placeholder { color: #8b92a0; font-size: 0.82rem; }
+.reflection-input::placeholder { color: #6b7280; font-size: 0.82rem; }
 .reflection-input:focus {
   outline: none;
   border-color: var(--micro-color);
-  background: #191c27;
-  box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 35%, transparent);
-}
-
-/* Micro-cards de contenido en Filminas */
-.reel-concept-card {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  padding: 12px 14px;
-  margin-bottom: 10px;
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.09);
-  backdrop-filter: blur(10px);
-  transition: transform 0.2s ease, border-color 0.2s ease;
-}
-.reel-concept-card:hover {
-  transform: translateY(-2px);
-  border-color: rgba(255, 255, 255, 0.2);
-}
-.reel-card-badge {
-  align-self: flex-start;
-  font-size: 0.62rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  padding: 3px 8px;
-  border-radius: 6px;
-  text-transform: uppercase;
-}
-.badge-orange { background: rgba(255, 107, 70, 0.18); color: #ff8567; border: 1px solid rgba(255, 107, 70, 0.35); }
-.badge-blue { background: rgba(72, 149, 239, 0.18); color: #70a9ff; border: 1px solid rgba(72, 149, 239, 0.35); }
-.badge-green { background: rgba(0, 245, 212, 0.18); color: #40f5d4; border: 1px solid rgba(0, 245, 212, 0.35); }
-.badge-purple { background: rgba(155, 93, 229, 0.18); color: #b77eff; border: 1px solid rgba(155, 93, 229, 0.35); }
-.badge-cyan { background: rgba(0, 180, 216, 0.18); color: #48cae4; border: 1px solid rgba(0, 180, 216, 0.35); }
-.badge-red { background: rgba(217, 4, 41, 0.18); color: #ff5d73; border: 1px solid rgba(217, 4, 41, 0.35); }
-.badge-yellow { background: rgba(255, 183, 3, 0.18); color: #ffd166; border: 1px solid rgba(255, 183, 3, 0.35); }
-.badge-emerald { background: rgba(16, 185, 129, 0.18); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.35); }
-
-.reel-card-text {
-  margin: 0;
-  font-size: 0.86rem;
-  line-height: 1.42;
-  color: #e2e4e9;
-}
-.reel-card-text strong {
-  color: #ffffff;
-}
-.reel-card-text em {
-  color: #a6aab4;
-  font-style: italic;
+  background: #141722;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--micro-color) 30%, transparent);
 }
 
 .reel-slide blockquote { margin: 22px 0 0; padding: 14px 16px; border-left: 2px solid var(--micro-color); background: rgba(255,255,255,.045); color: #f1f2f5; font-family: var(--font-serif); font-size: .96rem; font-style: italic; line-height: 1.5; }
