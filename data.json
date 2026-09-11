@@ -671,38 +671,56 @@
     "officialTitle": "13) Del paradigma de la Obligación al paradigma del Compromiso",
     "domain": "Ontología",
     "color": "#560bad",
-    "hook": "El 'Tengo que' agota; el 'Elijo' enciende tu energía.",
-    "minutes": 5,
+    "hook": "El 'Tengo que' somete y agota; el 'Elijo' reconecta con tu poder soberano.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · PARADIGMA OBLIGACIÓN",
-        "title": "El Desgaste del 'Tengo Que'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sometimiento:</span><span class=\"croquis-desc\">Vivir en el <em>\"Tengo que hacer X\"</em> te posiciona como víctima sin opción de las circunstancias.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Agotamiento:</span><span class=\"croquis-desc\">Drena la motivación interna y produce resentimiento silencioso con la tarea.</span></div>\n          </div>\n        ",
+        "kicker": "01 · DOS PARADIGMAS DE VIDA",
+        "title": "Sometimiento vs. Autoría",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma Obligación:</span><span class=\"croquis-desc\">Vivir desde el <em>\"Tengo que...\"</em> o <em>\"Debería...\"</em>. La persona se siente víctima sin opciones sometida a reglas externas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma Compromiso:</span><span class=\"croquis-desc\">Vivir desde el <em>\"Quiero...\"</em> o <em>\"Elijo...\"</em>. La persona asume la autoría absoluta de su vida y sus decisiones.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "02 · PARADIGMA COMPROMISO",
-        "title": "El Poder del 'Elijo'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía Soberana:</span><span class=\"croquis-desc\">Reemplazar \"Tengo que\" por <em>\"ELIJO hacer esto para lograr Y\"</em> reconecta con tu poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir Costos:</span><span class=\"croquis-desc\">Elegir implica hacerse cargo libremente de las consecuencias y sacrificios de la elección.</span></div>\n          </div>\n        ",
+        "kicker": "02 · ANATOMÍA DE LA OBLIGACIÓN",
+        "title": "La Trampa del 'Tengo Que'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Restricción de Libertad:</span><span class=\"croquis-desc\">Sentir que otros imponen lo que debés hacer genera resistencia interna y resentimiento silencioso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Agotamiento Existencial:</span><span class=\"croquis-desc\">La obligación drena la vitalidad y la energía, convirtiendo la rutina en una pesada carga cotidiana.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "03 · RECONTRATAR O DECLARAR NO",
-        "title": "Sincerar la Elección",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soltar la Incoherencia:</span><span class=\"croquis-desc\">Si no estás dispuesto a elegir algo ni pagar sus costos, declará un NO rotundo.</span></div>\n          </div>\n        ",
+        "kicker": "03 · ANATOMÍA DEL COMPROMISO",
+        "title": "El Poder de la Elección Libre",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Ontológica:</span><span class=\"croquis-desc\">Declarar <em>\"Elijo hacer esto\"</em> reconecta la acción con tu propio sistema de valores y visión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir Beneficios y Costos:</span><span class=\"croquis-desc\">El compromiso reconoce que toda elección tiene un precio, y lo paga con orgullo y dignidad.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "04 · ENERGÍA Y PASIÓN",
-        "title": "Vivir desde el Propósito",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza Interna:</span><span class=\"croquis-desc\">El compromiso genera entusiamo y constancia natural en lugar de desgaste forzado.</span></div>\n          </div>\n        ",
+        "kicker": "04 · EL GIRO ONTOLÓGICO",
+        "title": "Transformar el 'Tengo Que' en 'Elijo'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sincerar las Razones:</span><span class=\"croquis-desc\">Incluso ante obligaciones formales (ej: trabajar, pagar cuentas), decir: <em>\"No tengo que ir; elijo ir porque valoro el sustento de mi familia\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recuperar el Control:</span><span class=\"croquis-desc\">El simple cambio de encuadre lingüístico disuelve la vivencia de sometimiento y activa la motivación.</span></div>\n          </div>\n        ",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
+        "kicker": "05 · COMPARACIÓN EN LOS 3 DOMINIOS",
+        "title": "Coherencia de Cada Paradigma",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje:</span><span class=\"croquis-desc\">\"Tengo que / Debería\" (Obligación) VS. \"Elijo / Decido / Me comprometo\" (Compromiso).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Resignación, frustración y carga VS. Entusiasmo, liviandad y pasión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo:</span><span class=\"croquis-desc\">Tensión, rigidez de hombros y pesadez VS. Postura erguida, expansión y agilidad.</span></div>\n          </div>\n        ",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
+        "kicker": "06 · CUMPLIMIENTO VS. EXCELENCIA",
+        "title": "El Nivel de los Resultados",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cumplimiento Mínimo:</span><span class=\"croquis-desc\">Quien actúa por obligación hace lo justo y necesario para \"cumplir y mentir\", evitando el castigo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desempeño Extraordinario:</span><span class=\"croquis-desc\">Quien actúa por compromiso busca la excelencia porque la tarea expresa su propia identidad y propósito.</span></div>\n          </div>\n        ",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
+        "kicker": "07 · EL ROL EN COACHING",
+        "title": "Desmantelar los Mandatos",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarticular la Culpa:</span><span class=\"croquis-desc\">El coach acompaña a distinguir qué compromisos son propios y cuáles son \"deberías\" heredados.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Declarar NO sin Culpa:</span><span class=\"croquis-desc\">Si no estás dispuesto a elegir algo con compromiso, la opción limpia es declarar un NO rotundo.</span></div>\n          </div>\n        ",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       }
     ]
