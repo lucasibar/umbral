@@ -731,38 +731,56 @@
     "officialTitle": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre.",
     "domain": "Ontología",
     "color": "#b5179e",
-    "hook": "Los problemas están afuera; el quiebre es una declaración que abre posibilidades.",
-    "minutes": 5,
+    "hook": "El problema está afuera y te paraliza; el quiebre es una declaración en el Observador que abre futuro.",
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · PARADIGMA PROBLEMA",
-        "title": "El Bloqueo del Problema",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Carga Externa:</span><span class=\"croquis-desc\">El \"Problema\" se percibe como una masa objetiva externa ante la cual no tenemos control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Parálisis:</span><span class=\"croquis-desc\">Nos lleva a buscar culpables o lamentarnos por la realidad dada.</span></div>\n          </div>\n        ",
+        "kicker": "01 · DOS CAMPOS DE ACCIÓN",
+        "title": "Foco en el Hecho vs. Foco en el Observador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma del Problema:</span><span class=\"croquis-desc\">Se centra en el hecho \"allá afuera\". El espacio de acción se reduce a buscar soluciones parche dentro de la caja.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma del Quiebre:</span><span class=\"croquis-desc\">Se centra en el <strong>Observador que ve el obstáculo</strong>. El espacio de acción es crear un Observador diferente.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "02 · DECLARACIÓN DE QUIEBRE",
-        "title": "Ruptura de Transparencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Quiebre es una Declaración:</span><span class=\"croquis-desc\">Ocurre cuando el Observador dice: <em>\"Esto que ocurre no es transparente para mí, exijo una acción.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebres Positivos y Negativos:</span><span class=\"croquis-desc\">Ganar un premio o sufrir una pérdida son quiebres que exigen reinventar la conducta.</span></div>\n          </div>\n        ",
+        "kicker": "02 · ANATOMÍA DEL PROBLEMA",
+        "title": "La Trampa del 'Esto No Debería Pasar'",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resistencia a la Realidad:</span><span class=\"croquis-desc\">Juzgar que las cosas no deberían ser como son dispara queja, enojo, resignación y victimización.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Búsqueda de Culpables:</span><span class=\"croquis-desc\">Gastar energía buscando a quién responsabilizar en lugar de asumir el aprendizaje y la coordinación.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "03 · HERRAMIENTAS DE GESTIÓN",
-        "title": "Del Quiebre a la Acción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Declarar el Quiebre:</span><span class=\"croquis-desc\">Ponerle nombre al quiebre para sacarlo de la queja y pasarlo a la mesa de trabajo.</span></div>\n          </div>\n        ",
+        "kicker": "03 · EL QUIEBRE COMO DECLARACIÓN",
+        "title": "Compromiso con el Compromiso",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto Declarativo:</span><span class=\"croquis-desc\">En ELAC, un quiebre no ocurre por azar: se <strong>DECLARA</strong> cuando el Observador conecta el obstáculo con su compromiso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Compromiso no hay Quiebre:</span><span class=\"croquis-desc\">Si nada te importa ni tenés un futuro declarado, los obstáculos son meras molestias pasivas.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "04 · REINVENCIÓN",
-        "title": "Oportunidad de Crecimiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Innovación Ontológica:</span><span class=\"croquis-desc\">Todo aprendizaje relevante en la vida nace de haber declarado y atravesado un quiebre.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ELAC VS. RAFAEL ECHEVERRÍA",
+        "title": "Distinción Doctrinal Clave",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Echeverría (Transparencia):</span><span class=\"croquis-desc\">Quiebre como la simple interrupción involuntaria de la transparencia (ej: romper un plato, falla mecánica).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">ELAC (Declaración Soberana):</span><span class=\"croquis-desc\">Quiebre como la decisión deliberada de declarar que la realidad actual no alcanza para el futuro que elegimos crear.</span></div>\n          </div>\n        ",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
+        "kicker": "05 · EMOCIONALIDAD Y GENERATIVIDAD",
+        "title": "Apertura a lo Extraordinario",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emociones de Quiebre:</span><span class=\"croquis-desc\">Aceptación, serena ambición, curiosidad, entusiasmo y creatividad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción en Red:</span><span class=\"croquis-desc\">Declarar quiebre moviliza pedir ayuda, construir ofertas y pedir conversaciones de coaching.</span></div>\n          </div>\n        ",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
+        "kicker": "06 · QUIEBRES POSITIVOS Y NEGATIVOS",
+        "title": "Interrupciones que Desafían",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebre por Dificultad:</span><span class=\"croquis-desc\">Un recurso que falta o un proyecto estancado que exige cambiar la estrategia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebre por Oportunidad:</span><span class=\"croquis-desc\">Un éxito inesperado o crecimiento acelerado que exige escalar la estructura y adquirir nuevas competencias.</span></div>\n          </div>\n        ",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
+        "kicker": "07 · AMÁ TUS QUIEBRES",
+        "title": "El Lema del Aprendizaje Ontológico",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Máxima de ELAC:</span><span class=\"croquis-desc\"><em>\"Si elegís ser una persona comprometida... ¡AMÁ TUS QUIEBRES!\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Brújula de Evolución:</span><span class=\"croquis-desc\">Los quiebres son la prueba irrefutable de que estás viviendo fuera de la zona de confort y expandiendo tu ser.</span></div>\n          </div>\n        ",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO ONTOLÓGICO",
-        "title": "Tu Registro Personal",
-        "body": "Espacio de reflexión personal para pasar esta distinción por tus 3 dominios.",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       }
     ]
