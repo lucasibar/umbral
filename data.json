@@ -591,50 +591,44 @@
     "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · DOS PARADIGMAS DE VIDA",
-        "title": "Sometimiento vs. Autoría",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma Obligación:</span><span class=\"croquis-desc\">Vivir desde el <em>\"Tengo que...\"</em> o <em>\"Debería...\"</em>. La persona se siente víctima sin opciones sometida a reglas externas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma Compromiso:</span><span class=\"croquis-desc\">Vivir desde el <em>\"Quiero...\"</em> o <em>\"Elijo...\"</em>. La persona asume la autoría absoluta de su vida y sus decisiones.</span></div>\n          </div>\n        ",
+        "kicker": "01 · DOS MANERAS DE PARARNOS FRENTE A LA ACCIÓN",
+        "title": "¿Tengo que o elijo?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Frente a una misma acción podemos observar dos maneras diferentes de relacionarnos con ella:</p>\n      <div class=\"dimension-grid choice-grid paradigm-options\">\n        <section><strong>OBLIGACIÓN</strong><p>“Tengo que…” · “Debería…”</p></section>\n        <section><strong>COMPROMISO</strong><p>“Quiero…” · “Elijo…”</p></section>\n      </div>\n      <p>La diferencia no está necesariamente en qué hacemos, sino en desde dónde elegimos hacerlo.</p>\n      <div class=\"statement-contrast\"><p><strong>OBLIGACIÓN → IMPOSICIÓN</strong></p><p><strong>COMPROMISO → ELECCIÓN</strong></p></div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "02 · ANATOMÍA DE LA OBLIGACIÓN",
-        "title": "La Trampa del 'Tengo Que'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Restricción de Libertad:</span><span class=\"croquis-desc\">Sentir que otros imponen lo que debés hacer genera resistencia interna y resentimiento silencioso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Agotamiento Existencial:</span><span class=\"croquis-desc\">La obligación drena la vitalidad y la energía, convirtiendo la rutina en una pesada carga cotidiana.</span></div>\n          </div>\n        ",
+        "kicker": "02 · PARADIGMA DE LA OBLIGACIÓN",
+        "title": "“Tengo que…”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>En la obligación interpretamos que nuestra libertad está restringida.</p>\n      <p>Actuamos desde aquello que juzgamos que:</p>\n      <div class=\"lesson-emphasis\">DEBERÍA SER</div>\n      <p>Según:</p>\n      <div class=\"sensory-cloud\"><strong>CULTURA</strong><strong>FAMILIA</strong><strong>SOCIEDAD</strong><strong>OTROS</strong></div>\n      <p>El criterio aparece como algo independiente de nuestra elección.</p>\n      <p>Esto puede predisponernos a estados de ánimo que cierran posibilidades:</p>\n      <div class=\"muted-emphasis\">RESIGNACIÓN · RESENTIMIENTO · INSATISFACCIÓN</div>\n      <div class=\"observer-principle\"><strong>En la obligación, vivo la acción como algo que me es impuesto.</strong></div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "03 · ANATOMÍA DEL COMPROMISO",
-        "title": "El Poder de la Elección Libre",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Ontológica:</span><span class=\"croquis-desc\">Declarar <em>\"Elijo hacer esto\"</em> reconecta la acción con tu propio sistema de valores y visión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir Beneficios y Costos:</span><span class=\"croquis-desc\">El compromiso reconoce que toda elección tiene un precio, y lo paga con orgullo y dignidad.</span></div>\n          </div>\n        ",
+        "kicker": "03 · PARADIGMA DEL COMPROMISO",
+        "title": "“Quiero / Elijo”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>En el compromiso nos reconocemos como protagonistas de nuestra elección.</p>\n      <p>El compromiso surge de una visión declarada, con otro o con nosotros mismos, y puede formalizarse a partir de pedidos, ofertas y promesas.</p>\n      <div class=\"statement-contrast\"><p><span>No significa:</span><strong>“Me gusta todo lo que tengo que hacer.”</strong></p><p><span>Significa:</span><strong>“Elijo hacerme responsable de aquello que quiero generar.”</strong></p></div>\n      <div class=\"lesson-emphasis\">VISIÓN → ELECCIÓN → COMPROMISO → ACCIÓN</div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "04 · EL GIRO ONTOLÓGICO",
-        "title": "Transformar el 'Tengo Que' en 'Elijo'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sincerar las Razones:</span><span class=\"croquis-desc\">Incluso ante obligaciones formales (ej: trabajar, pagar cuentas), decir: <em>\"No tengo que ir; elijo ir porque valoro el sustento de mi familia\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recuperar el Control:</span><span class=\"croquis-desc\">El simple cambio de encuadre lingüístico disuelve la vivencia de sometimiento y activa la motivación.</span></div>\n          </div>\n        ",
+        "kicker": "04 · EL COMPROMISO GENERA FUTURO",
+        "title": "Crear lo que todavía no existe",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El compromiso no describe solamente algo que ya existe.</p>\n      <div class=\"observer-principle\"><strong>Es generativo.</strong></div>\n      <p>Está ligado a una acción, acontecimiento o resultado futuro.</p>\n      <p>Cuando me comprometo estoy diciendo:</p>\n      <p class=\"editorial-statement\"><strong>“Me hago responsable por algo que quiero que ocurra.”</strong></p>\n      <p>Y ese futuro puede no ocurrir en ausencia de mi compromiso.</p>\n      <div class=\"lesson-emphasis\">PRESENTE → COMPROMISO → ACCIÓN → FUTURO</div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "05 · COMPARACIÓN EN LOS 3 DOMINIOS",
-        "title": "Coherencia de Cada Paradigma",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje:</span><span class=\"croquis-desc\">\"Tengo que / Debería\" (Obligación) VS. \"Elijo / Decido / Me comprometo\" (Compromiso).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Resignación, frustración y carga VS. Entusiasmo, liviandad y pasión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo:</span><span class=\"croquis-desc\">Tensión, rigidez de hombros y pesadez VS. Postura erguida, expansión y agilidad.</span></div>\n          </div>\n        ",
+        "kicker": "05 · EL COMPROMISO ES ELECCIÓN",
+        "title": "No hay compromiso sin elección",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El compromiso necesita ser expresado.</p>\n      <p>Puede aparecer en aquello que decimos o en una acción intencional que realizamos.</p>\n      <div class=\"trust-dimensions commitment-elements\">\n        <p><strong>ELECCIÓN</strong><span>Elijo aquello con lo que voy a comprometerme.</span></p>\n        <p><strong>ACCIÓN</strong><span>Actúo para producirlo.</span></p>\n        <p><strong>RESPONSABILIDAD</strong><span>Me hago cargo de mi participación en el resultado.</span></p>\n        <p><strong>FUTURO</strong><span>Me oriento hacia aquello que quiero crear.</span></p>\n      </div>\n      <div class=\"observer-principle\"><strong>El compromiso es fuente de acción y logros.</strong></div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
-        "kicker": "06 · CUMPLIMIENTO VS. EXCELENCIA",
-        "title": "El Nivel de los Resultados",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cumplimiento Mínimo:</span><span class=\"croquis-desc\">Quien actúa por obligación hace lo justo y necesario para \"cumplir y mentir\", evitando el castigo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desempeño Extraordinario:</span><span class=\"croquis-desc\">Quien actúa por compromiso busca la excelencia porque la tarea expresa su propia identidad y propósito.</span></div>\n          </div>\n        ",
-        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
-      },
-      {
-        "kicker": "07 · EL ROL EN COACHING",
-        "title": "Desmantelar los Mandatos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarticular la Culpa:</span><span class=\"croquis-desc\">El coach acompaña a distinguir qué compromisos son propios y cuáles son \"deberías\" heredados.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Declarar NO sin Culpa:</span><span class=\"croquis-desc\">Si no estás dispuesto a elegir algo con compromiso, la opción limpia es declarar un NO rotundo.</span></div>\n          </div>\n        ",
+        "kicker": "06 · DE LA OBLIGACIÓN AL COMPROMISO",
+        "title": "Cambiar el observador",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>No necesariamente necesitamos cambiar lo que hacemos.</p>\n      <p>Podemos cambiar desde dónde lo hacemos.</p>\n      <div class=\"future-flow paradigm-flow\">\n        <p><strong>OBLIGACIÓN</strong><span>“Tengo que hacerlo.”</span></p><b>↓</b>\n        <p><strong>DISTINCIÓN</strong><span>“¿Para qué hago esto?”</span></p><b>↓</b>\n        <p><strong>ELECCIÓN</strong><span>“¿Elijo hacerlo?”</span></p><b>↓</b>\n        <p><strong>COMPROMISO</strong><span>“¿Qué quiero generar al hacerlo?”</span></p>\n      </div>\n      <div class=\"observer-principle\"><strong>Pasar de obligación a compromiso es recuperar nuestra capacidad de elegir y hacernos responsables de esa elección.</strong></div>\n    </div>",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
@@ -648,48 +642,48 @@
     "domain": "Ontología",
     "color": "#b5179e",
     "hook": "El problema está afuera y te paraliza; el quiebre es una declaración en el Observador que abre futuro.",
-    "minutes": 7,
+    "minutes": 8,
     "slides": [
       {
         "kicker": "01 · DOS CAMPOS DE ACCIÓN",
-        "title": "Foco en el Hecho vs. Foco en el Observador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma del Problema:</span><span class=\"croquis-desc\">Se centra en el hecho \"allá afuera\". El espacio de acción se reduce a buscar soluciones parche dentro de la caja.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Paradigma del Quiebre:</span><span class=\"croquis-desc\">Se centra en el <strong>Observador que ve el obstáculo</strong>. El espacio de acción es crear un Observador diferente.</span></div>\n          </div>\n        ",
+        "title": "¿Dónde ponemos el foco?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Frente a un obstáculo podemos distinguir dos campos diferentes:</p>\n      <div class=\"dimension-grid paradigm-options\">\n        <section><strong>PARADIGMA DEL PROBLEMA</strong><p>Nos centramos en el problema.</p></section>\n        <section><strong>PARADIGMA DEL QUIEBRE</strong><p>Nos centramos en el observador que distingue el problema.</p></section>\n      </div>\n      <p>Esto cambia la pregunta:</p>\n      <div class=\"statement-contrast\"><p><strong>¿Cómo soluciono esto?</strong></p><p><strong>¿Qué observador estoy siendo frente a esto?</strong></p></div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "02 · ANATOMÍA DEL PROBLEMA",
-        "title": "La Trampa del 'Esto No Debería Pasar'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resistencia a la Realidad:</span><span class=\"croquis-desc\">Juzgar que las cosas no deberían ser como son dispara queja, enojo, resignación y victimización.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Búsqueda de Culpables:</span><span class=\"croquis-desc\">Gastar energía buscando a quién responsabilizar en lugar de asumir el aprendizaje y la coordinación.</span></div>\n          </div>\n        ",
+        "kicker": "02 · PARADIGMA DEL PROBLEMA",
+        "title": "“Esto no debería estar pasando”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Desde este paradigma interpretamos que:</p>\n      <div class=\"lesson-emphasis\">EL PROBLEMA ESTÁ AFUERA</div>\n      <p>Y juzgamos:</p>\n      <p class=\"editorial-statement\"><strong>“Esto no debería estar ocurriendo.”</strong></p>\n      <p>Pueden aparecer emocionalidades como:</p>\n      <div class=\"muted-emphasis\">RESISTENCIA · QUEJA · ENOJO · SUFRIMIENTO · RESIGNACIÓN · RESENTIMIENTO</div>\n      <p>Buscamos:</p>\n      <div class=\"lesson-emphasis\">SOLUCIÓN + CULPABLE</div>\n      <p>Y muchas veces terminamos reaccionando dentro de aquello que ya conocemos.</p>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "03 · EL QUIEBRE COMO DECLARACIÓN",
-        "title": "Compromiso con el Compromiso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto Declarativo:</span><span class=\"croquis-desc\">En ELAC, un quiebre no ocurre por azar: se <strong>DECLARA</strong> cuando el Observador conecta el obstáculo con su compromiso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Compromiso no hay Quiebre:</span><span class=\"croquis-desc\">Si nada te importa ni tenés un futuro declarado, los obstáculos son meras molestias pasivas.</span></div>\n          </div>\n        ",
+        "kicker": "03 · PARADIGMA DEL QUIEBRE",
+        "title": "El foco cambia al observador",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Un problema es “problema” para un observador que lo distingue como tal.</p>\n      <div class=\"statement-contrast\"><p><span>Si solamente observamos el problema:</span><strong>BUSCAMOS UNA SOLUCIÓN</strong></p><p><span>Si observamos al observador:</span><strong>PODEMOS CREAR UN OBSERVADOR DIFERENTE</strong></p></div>\n      <div class=\"paradigm-questions\"><p><strong>PROBLEMA</strong><span>¿Cómo lo resuelvo?</span></p><p><strong>QUIEBRE</strong><span>¿Qué necesito distinguir o transformar para accionar diferente?</span></p></div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "04 · ELAC VS. RAFAEL ECHEVERRÍA",
-        "title": "Distinción Doctrinal Clave",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Echeverría (Transparencia):</span><span class=\"croquis-desc\">Quiebre como la simple interrupción involuntaria de la transparencia (ej: romper un plato, falla mecánica).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">ELAC (Declaración Soberana):</span><span class=\"croquis-desc\">Quiebre como la decisión deliberada de declarar que la realidad actual no alcanza para el futuro que elegimos crear.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ¿QUÉ ES UN QUIEBRE?",
+        "title": "Algo interfiere con mi compromiso",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Desde este enfoque, un <strong>quiebre</strong> es un hecho o interpretación que se interpone o dificulta una acción dirigida a lograr un compromiso.</p>\n      <p>Por eso, para hablar de quiebre necesitamos distinguir:</p>\n      <div class=\"lesson-list compact-lessons\">\n        <p><strong>1 · UN COMPROMISO</strong></p>\n        <p><strong>2 · ALGO QUE INTERFIERE</strong></p>\n        <p><strong>3 · UN OBSERVADOR QUE LO DISTINGUE</strong></p>\n      </div>\n      <div class=\"observer-principle\"><strong>Sin compromiso, no podemos distinguir qué está interfiriendo con él.</strong></div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "05 · EMOCIONALIDAD Y GENERATIVIDAD",
-        "title": "Apertura a lo Extraordinario",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emociones de Quiebre:</span><span class=\"croquis-desc\">Aceptación, serena ambición, curiosidad, entusiasmo y creatividad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción en Red:</span><span class=\"croquis-desc\">Declarar quiebre moviliza pedir ayuda, construir ofertas y pedir conversaciones de coaching.</span></div>\n          </div>\n        ",
+        "kicker": "05 · LOS QUIEBRES SE DECLARAN",
+        "title": "No “tengo” un quiebre",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"lesson-emphasis\">DECLARO UN QUIEBRE</div>\n      <p>El quiebre reside en el observador y surge cuando éste lo declara.</p>\n      <p>Al declararlo dejo de relacionarme con la situación solamente como algo que me sucede y la pongo en relación con aquello que estoy comprometido a generar.</p>\n      <div class=\"future-flow paradigm-flow\">\n        <p><strong>SITUACIÓN ACTUAL</strong></p><b>↓</b><p><strong>DISTINGO UNA BRECHA</strong></p><b>↓</b><p><strong>DECLARO QUIEBRE</strong></p><b>↓</b><p><strong>RECONOZCO MI COMPROMISO</strong></p><b>↓</b><p><strong>DISEÑO ACCIONES</strong></p>\n      </div>\n      <p>La declaración de quiebre orienta la acción hacia el futuro deseado.</p>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "06 · QUIEBRES POSITIVOS Y NEGATIVOS",
-        "title": "Interrupciones que Desafían",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebre por Dificultad:</span><span class=\"croquis-desc\">Un recurso que falta o un proyecto estancado que exige cambiar la estrategia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Quiebre por Oportunidad:</span><span class=\"croquis-desc\">Un éxito inesperado o crecimiento acelerado que exige escalar la estructura y adquirir nuevas competencias.</span></div>\n          </div>\n        ",
+        "kicker": "06 · TRAER EL COMPROMISO AL PRESENTE",
+        "title": "“Esto interfiere con lo que quiero crear”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>La declaración de quiebre pone nuevamente en conciencia nuestro compromiso.</p>\n      <p>Entonces podemos preguntarnos:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ QUIERO QUE OCURRA?</strong><strong>¿QUÉ ESTÁ INTERFIRIENDO?</strong><strong>¿QUÉ OBSERVADOR ESTOY SIENDO?</strong><strong>¿QUÉ NO ESTOY PUDIENDO VER?</strong><strong>¿QUÉ NUEVAS ACCIONES PUEDO GENERAR?</strong></div>\n      <p>La declaración abre un espacio de reflexión y nuevas posibilidades de acción.</p>\n      <div class=\"flow-formula\">QUIEBRE → REFLEXIÓN → NUEVAS POSIBILIDADES → ACCIÓN</div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
-        "kicker": "07 · AMÁ TUS QUIEBRES",
-        "title": "El Lema del Aprendizaje Ontológico",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Máxima de ELAC:</span><span class=\"croquis-desc\"><em>\"Si elegís ser una persona comprometida... ¡AMÁ TUS QUIEBRES!\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Brújula de Evolución:</span><span class=\"croquis-desc\">Los quiebres son la prueba irrefutable de que estás viviendo fuera de la zona de confort y expandiendo tu ser.</span></div>\n          </div>\n        ",
+        "kicker": "07 · DEL PROBLEMA AL QUIEBRE",
+        "title": "De reaccionar a crear",
+        "body": "\n    <div class=\"paradigm-comparison\">\n      <section><strong>PARADIGMA DEL PROBLEMA</strong><p><b>FOCO</b><span>Situación</span></p><p><b>JUICIO</b><span>“No debería ocurrir”</span></p><p><b>ACCIÓN</b><span>Reaccionar / solucionar</span></p><p><b>BÚSQUEDA</b><span>Culpable</span></p><p><b>CAMPO</b><span>Lo que ya conozco</span></p></section>\n      <section><strong>PARADIGMA DEL QUIEBRE</strong><p><b>FOCO</b><span>Observador + compromiso</span></p><p><b>POSICIÓN</b><span>Aceptar lo que ocurre</span></p><p><b>ACCIÓN</b><span>Crear</span></p><p><b>BÚSQUEDA</b><span>Nuevas posibilidades</span></p><p><b>CAMPO</b><span>Futuro deseado</span></p></section>\n      <div class=\"lesson-emphasis\">PROBLEMA → SOLUCIONAR LO QUE HAY<br>QUIEBRE → CREAR LO QUE TODAVÍA NO HAY</div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {

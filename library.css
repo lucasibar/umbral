@@ -698,6 +698,69 @@ body.micro-reel-open { overflow: hidden; }
   font-size: .8rem;
   line-height: 1.38;
 }
+.paradigm-options {
+  gap: 16px;
+}
+.paradigm-options section {
+  padding: 0;
+  border: 0;
+}
+.paradigm-flow {
+  gap: 2px;
+  padding: 8px 0;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+}
+.paradigm-questions {
+  display: grid;
+  gap: 14px;
+}
+.paradigm-questions p {
+  display: grid;
+  gap: 3px;
+}
+.paradigm-questions strong {
+  color: var(--micro-color);
+  font-size: .82rem;
+}
+.paradigm-questions span {
+  color: #d1d5db;
+  font-size: .88rem;
+  line-height: 1.45;
+}
+.paradigm-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin-top: 8px;
+}
+.paradigm-comparison section {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+}
+.paradigm-comparison section > strong {
+  min-height: 2.5em;
+  color: var(--micro-color);
+  font-size: .72rem;
+  line-height: 1.25;
+}
+.paradigm-comparison p {
+  display: grid;
+  gap: 1px;
+  margin: 0;
+}
+.paradigm-comparison b {
+  color: #fff;
+  font-size: .68rem;
+}
+.paradigm-comparison span {
+  color: #b9bec8;
+  font-size: .76rem;
+  line-height: 1.3;
+}
+.paradigm-comparison .lesson-emphasis {
+  grid-column: 1 / -1;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
