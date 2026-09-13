@@ -831,6 +831,23 @@ body.micro-reel-open { overflow: hidden; }
   gap: 11px;
   margin-top: 0;
 }
+.fear-comparison > .observer-principle {
+  grid-column: 1 / -1;
+}
+.fear-parts {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.fear-parts section {
+  align-content: start;
+  padding: 0;
+  border: 0;
+}
+.fear-parts section p,
+.fear-parts section > b {
+  font-size: .78rem;
+  line-height: 1.4;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {

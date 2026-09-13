@@ -846,48 +846,48 @@
     "domain": "Emoción",
     "color": "#e07a5f",
     "hook": "El miedo no es cobardía: es un radar que te avisa que necesitás construir o pedir recursos.",
-    "minutes": 7,
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · ECUACIÓN DEL MIEDO (DR. NORBERTO LEVY)",
-        "title": "La Brecha Amenaza / Recursos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\">El miedo surge de la brecha entre la <strong>AMENAZA percibida</strong> y los <strong>RECURSOS disponibles</strong> para afrontarla.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falta de Equilibrio:</span><span class=\"croquis-desc\">Cuando juzgamos que el peligro futuro supera nuestra capacidad actual, la emoción de angustia se dispara.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EL MIEDO COMO SEÑAL",
+        "title": "¿Qué me está diciendo mi miedo?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El miedo aparece cuando percibimos una <strong>amenaza</strong> y juzgamos que nuestros recursos pueden no ser suficientes para enfrentarla.</p>\n      <p>Podemos distinguir dos elementos:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>AMENAZA</strong><p>¿Qué juzgo que puede ocurrir?</p></section>\n        <section><strong>RECURSOS</strong><p>¿Con qué juzgo que cuento para responder?</p></section>\n      </div>\n      <div class=\"lesson-emphasis\">AMENAZA &gt; RECURSOS PERCIBIDOS → MIEDO</div>\n      <p>El miedo no es necesariamente el problema.</p>\n      <div class=\"observer-principle\"><strong>Es una señal que nos informa sobre cómo estamos evaluando una situación.</strong></div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "02 · SEÑAL DE ALERTA VS. COBARDÍA",
-        "title": "Desarmar el Prejuicio Cultural",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desacreditar el Mandato:</span><span class=\"croquis-desc\">Decir <em>\"No tengas miedo\"</em> o juzgarlo como cobardía induce a reprimir la emoción y perder el juicio de prudencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Radar de Protección:</span><span class=\"croquis-desc\">El miedo es una valiosa señal de alerta que nos invita a cuidar nuestra integridad y prepararnos mejor.</span></div>\n          </div>\n        ",
+        "kicker": "02 · EL MIEDO NO ES COBARDÍA",
+        "title": "El miedo cumple una función",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Sentir miedo no significa ser cobarde, débil o incapaz.</p>\n      <p>El miedo puede ayudarnos a:</p>\n      <div class=\"sensory-cloud\"><strong>DETECTAR UN PELIGRO</strong><strong>PROTEGERNOS</strong><strong>PREPARARNOS</strong><strong>PEDIR AYUDA</strong><strong>DESARROLLAR RECURSOS</strong></div>\n      <p>Por eso, intentar simplemente:</p>\n      <p class=\"editorial-statement\"><strong>“NO TENER MIEDO”</strong></p>\n      <p>Puede hacernos perder la información que la emoción trae.</p>\n      <div class=\"observer-principle\"><strong>El objetivo no es eliminar el miedo, sino aprender a escucharlo.</strong></div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "03 · MANIFESTACIÓN EN LOS 3 DOMINIOS",
-        "title": "El Miedo en Cuerpo, Emoción y Lenguaje",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo (Reacción Biológica):</span><span class=\"croquis-desc\">Párpados levantados, labios estirados horizontalmente, mandíbula abierta, aceleración cardíaca y parálisis.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje (Juicios Catastróficos):</span><span class=\"croquis-desc\">Conversaciones privadas de desprotección: <em>\"no voy a poder\"</em>, <em>\"va a salir todo mal\"</em>.</span></div>\n          </div>\n        ",
+        "kicker": "03 · MIEDO FUNCIONAL Y DISFUNCIONAL",
+        "title": "¿Qué hago con mi miedo?",
+        "body": "\n    <div class=\"mood-comparison fear-comparison\">\n      <section><strong>MIEDO FUNCIONAL</strong><p><span>Reconozco la amenaza.</span></p><p><span>Evalúo mis recursos.</span></p><p><span>Identifico qué me falta.</span></p><p><span>Me preparo.</span></p><p><span>Pido ayuda.</span></p><p><span>Aprendo.</span></p><p><span>Acciono.</span></p></section>\n      <section><strong>MIEDO DISFUNCIONAL</strong><p><span>La amenaza crece en mi interpretación.</span></p><p><span>Subestimo mis recursos.</span></p><p><span>Me paralizo o evito.</span></p><p><span>El miedo confirma mi juicio de incapacidad.</span></p></section>\n      <div class=\"lesson-emphasis\">MIEDO → ¿ME PREPARA O ME PARALIZA?</div>\n      <div class=\"observer-principle\"><strong>La diferencia no está en sentir miedo, sino en la relación que construimos con él.</strong></div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "04 · MIEDO DISFUNCIONAL",
-        "title": "El Círculo Vicioso del Pánico",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Presión Exigente:</span><span class=\"croquis-desc\">El aspecto atemorizador interno que reta o desprecia al aspecto atemorizado: <em>\"no seas débil\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Suma de Amenazas:</span><span class=\"croquis-desc\">Exigir valor sin otorgar recursos agrava la angustia y conduce al pánico o la inhibición total.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ESCUCHAR EL MIEDO",
+        "title": "¿Qué necesito?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"statement-contrast\"><p><span>En lugar de decir:</span><strong>“NO TENGAS MIEDO”</strong></p><p><span>Podemos preguntarnos:</span></p></div>\n      <div class=\"lesson-question\"><strong>¿A QUÉ LE TENGO MIEDO?</strong><strong>¿QUÉ CREO QUE PUEDE PASAR?</strong><strong>¿QUÉ CONSECUENCIAS IMAGINO?</strong><strong>¿QUÉ RECURSOS TENGO?</strong><strong>¿QUÉ RECURSOS ME FALTAN?</strong><strong>¿CÓMO PUEDO CONSEGUIRLOS?</strong></div>\n      <p>El miedo deja entonces de ser solamente una sensación desagradable y se transforma en:</p>\n      <div class=\"lesson-emphasis\">INFORMACIÓN PARA LA ACCIÓN</div>\n      <div class=\"flow-formula\">ESCUCHAR → DISTINGUIR → PREPARAR → ACCIONAR</div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "05 · MIEDO FUNCIONAL",
-        "title": "De la Parálisis a la Prudencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Escuchar la Señal:</span><span class=\"croquis-desc\">Validar al aspecto asustado y preguntarse: <em>\"¿Qué amenaza real hay aquí y qué recursos me están faltando?\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundamentar el Peligro:</span><span class=\"croquis-desc\">Separar las fantasías catastróficas exageradas de los riesgos reales observables.</span></div>\n          </div>\n        ",
+        "kicker": "05 · EL ASPECTO ASUSTADO",
+        "title": "No pelees contra quien tiene miedo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Desde la mirada de <strong>Norberto Levy</strong>, cuando sentimos miedo suelen aparecer dos partes:</p>\n      <div class=\"dimension-grid fear-parts\">\n        <section><strong>ASPECTO ASUSTADO</strong><p>Es quien percibe la amenaza y expresa:</p><b>“No puedo.”<br>“No estoy preparado.”<br>“Esto puede salir mal.”</b></section>\n        <section><strong>ASPECTO ASUSTADOR</strong><p>Es la voz interna que responde:</p><b>“Dale.”<br>“No seas cagón.”<br>“Tenés que poder.”<br>“No debería darte miedo.”</b></section>\n      </div>\n      <div class=\"lesson-emphasis\">CUANDO EL ASUSTADOR MALTRATA AL ASUSTADO, EL MIEDO AUMENTA</div>\n      <div class=\"observer-principle\"><strong>El miedo necesita recursos, no maltrato.</strong></div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "06 · ADQUIRIR Y PEDIR RECURSOS",
-        "title": "Construir la Cobertura",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Incorporar Competencias:</span><span class=\"croquis-desc\">Estudiar, ensayar, preparar planes de contingencia y capacitarse para igualar la amenaza.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedir Ayuda en Red:</span><span class=\"croquis-desc\">Hacer pedidos de apoyo y acompañamiento a personas que sí poseen el recurso que te falta.</span></div>\n          </div>\n        ",
+        "kicker": "06 · DEL MIEDO A LOS RECURSOS",
+        "title": "¿Qué me falta aprender?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"statement-contrast\"><p><span>Si escuchamos al aspecto asustado podemos transformar:</span><strong>“NO PUEDO”</strong></p><p><span>En una pregunta:</span><strong>“¿QUÉ NECESITO PARA PODER?”</strong></p></div>\n      <p>Puede faltarnos:</p>\n      <div class=\"sensory-cloud\"><strong>INFORMACIÓN</strong><strong>CONOCIMIENTO</strong><strong>PRÁCTICA</strong><strong>EXPERIENCIA</strong><strong>AYUDA</strong><strong>TIEMPO</strong><strong>ACOMPAÑAMIENTO</strong></div>\n      <div class=\"future-flow compact-flow\"><p><strong>MIEDO</strong></p><b>↓</b><p><strong>DISTINGO LA AMENAZA</strong></p><b>↓</b><p><strong>EVALÚO MIS RECURSOS</strong></p><b>↓</b><p><strong>IDENTIFICO QUÉ ME FALTA</strong></p><b>↓</b><p><strong>DESARROLLO / PIDO RECURSOS</strong></p><b>↓</b><p><strong>AMPLÍO MI CAPACIDAD DE ACCIÓN</strong></p></div>\n      <div class=\"observer-principle\"><strong>Escuchar el miedo puede mostrarnos dónde necesitamos crecer.</strong></div>\n    </div>",
         "source": "17) Miedo"
       },
       {
-        "kicker": "07 · LA VALENTÍA ONTOLÓGICA",
-        "title": "Accionar Llevando el Miedo de la Mano",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Valentía no es Temeridad:</span><span class=\"croquis-desc\">El ignorar el peligro es inconsciencia. La verdadera valentía es avanzar hacia la Visión respetando la prudencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar el Observador:</span><span class=\"croquis-desc\">Al incorporar los recursos necesarios, la brecha se cierra y el miedo se disuelve en confianza.</span></div>\n          </div>\n        ",
+        "kicker": "07 · CORAJE",
+        "title": "Coraje no es ausencia de miedo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>No necesitamos esperar a que desaparezca el miedo para actuar.</p>\n      <div class=\"sensory-cloud\"><strong>RECONOCERLO</strong><strong>ACEPTARLO</strong><strong>ESCUCHARLO</strong><strong>PREPARARNOS</strong><strong>GENERAR RECURSOS</strong><strong>ACCIONAR</strong></div>\n      <div class=\"lesson-emphasis\">MIEDO + RECURSOS + ACCIÓN</div>\n      <div class=\"observer-principle\"><strong>CORAJE</strong></div>\n      <div class=\"statement-contrast\"><p><span>El miedo pregunta:</span><strong>“¿Estoy preparado para esto?”</strong></p><p><span>La respuesta no necesita ser:</span><strong>“No tengas miedo.”</strong></p><p><span>Puede ser:</span><strong>“Veamos qué necesitás para hacerlo.”</strong></p></div>\n      <p><strong>El miedo puede pasar de ser un freno a convertirse en una guía para desarrollar recursos.</strong></p>\n    </div>",
         "source": "17) Miedo"
       },
       {
