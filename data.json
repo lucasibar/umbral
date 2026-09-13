@@ -966,48 +966,48 @@
     "domain": "Emoción",
     "color": "#ffb703",
     "hook": "La culpa disfuncional castiga y autoflagela; la culpa funcional es un radar ético que exige reparación.",
-    "minutes": 7,
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · LA TRÍADA DE LA CULPA",
-        "title": "Culpador, Culpado y La Norma",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpador:</span><span class=\"croquis-desc\">Aspecto que juzga haber sufrido la infracción de un código o estándar establecido.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpado:</span><span class=\"croquis-desc\">Aspecto juzgado de haber violado la norma y sometido a reproche o castigo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Norma:</span><span class=\"croquis-desc\">El conjunto de reglas o expectativas que regulan el comportamiento.</span></div>\n          </div>\n        ",
+        "kicker": "01 · LA CULPA COMO SEÑAL",
+        "title": "¿Qué me está diciendo la culpa?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La culpa aparece en una relación entre dos aspectos internos:</p>\n      <div class=\"language-acts plain-acts\"><section><strong>ASPECTO CULPADOR</strong><p>Juzga que algo que hicimos o dejamos de hacer violó una norma.</p></section><section><strong>ASPECTO CULPADO</strong><p>Recibe ese juicio.</p></section></div>\n      <p>Entre ambos aparece la culpa.</p>\n      <div class=\"future-flow compact-flow\"><p><strong>NORMA</strong></p><b>↓</b><p><strong>“NO DEBÍ HABER HECHO ESTO”</strong></p><b>↓</b><p><strong>CULPADOR ↔ CULPADO</strong></p><b>↓</b><p><strong>CULPA</strong></p></div>\n      <div class=\"observer-principle\"><strong>La culpa puede ser funcional o disfuncional según la relación que construyan estos dos aspectos.</strong></div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "02 · TRAMPAS DEL 'DEBER SER'",
-        "title": "Los Mandatos Culturales",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Normas Cristalizadas:</span><span class=\"croquis-desc\">Juicios colapsados como afirmaciones (ej: <em>\"debés ser exitoso a los 30\"</em>, <em>\"el amor debés demostrarlo sufriendo\"</em>).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falsa Culpa:</span><span class=\"croquis-desc\">Sentir culpa por no cumplir expectativas ajenas que nunca elegiste como valores propios.</span></div>\n          </div>\n        ",
+        "kicker": "02 · DETRÁS DE LA CULPA HAY UNA NORMA",
+        "title": "“Yo debería…”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Para que aparezca culpa, el aspecto culpador juzga que el culpado violó un código establecido.</p>\n      <p>Por eso, frente a la culpa podemos preguntar:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ NORMA CREO QUE VIOLÉ?</strong><strong>¿DE DÓNDE SURGE?</strong><strong>¿ES UN VALOR QUE ELIJO?</strong><strong>¿O ES UN “DEBERÍA” QUE INCORPORÉ?</strong></div>\n      <p>Ejemplos:</p>\n      <div class=\"guilt-examples\"><span>“A esta edad ya debería…”</span><span>“Un buen hijo tiene que…”</span><span>“Si me quisiera debería…”</span><span>“Como padre tengo que…”</span></div>\n      <div class=\"lesson-emphasis\">NO TODA NORMA ES UN PRINCIPIO QUE ELEGIMOS.</div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "03 · CULPA DISFUNCIONAL",
-        "title": "El Círculo Vicioso del Castigo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pasar Factura:</span><span class=\"croquis-desc\">El Culpador manipula, descalifica y exige sumisión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoflagelación Estéril:</span><span class=\"croquis-desc\">El Culpado se llena de remordimiento inútil que no repara el daño y sostiene la posición de víctima.</span></div>\n          </div>\n        ",
+        "kicker": "03 · CULPA FUNCIONAL Y DISFUNCIONAL",
+        "title": "No toda culpa nos dice lo mismo",
+        "body": "\n    <div class=\"mood-comparison guilt-comparison\">\n      <section><strong>CULPA FUNCIONAL</strong><p><span>Violamos un valor o principio que reconocemos como propio.</span></p><p><span>La culpa funciona como una señal: “Actué en contradicción con algo que para mí es importante.”</span></p><p><b>PUEDE ABRIR</b><span>Reconocimiento · Reparación · Aprendizaje · Nueva acción</span></p></section>\n      <section><strong>CULPA DISFUNCIONAL</strong><p><span>Lo que violamos es una norma sostenida por juicios cristalizados, tratados como si fueran verdades.</span></p><p><span>“Debería ser así.”<br>“Esto es lo correcto.”<br>“No puedo hacer otra cosa.”</span></p></section>\n      <div class=\"lesson-emphasis\">¿VIOLÉ UN VALOR O DESOBEDECÍ UN JUICIO?</div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "04 · CULPA FUNCIONAL",
-        "title": "El Radar de los Valores Propios",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Violación de Principios:</span><span class=\"croquis-desc\">Surge cuando transgredís un <strong>VALOR AUTÉNTICAMENTE DECLARADO POR VOS</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Señal de Alerta Moral:</span><span class=\"croquis-desc\">Avisa que tu conducta ha traicionado tu autocoherencia y te invita a restablecer la integridad.</span></div>\n          </div>\n        ",
+        "kicker": "04 · EL CÍRCULO DE LA CULPA",
+        "title": "Cuando el culpador castiga",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El aspecto culpador puede intentar corregir al culpado mediante:</p>\n      <div class=\"muted-emphasis\">DESCALIFICACIÓN · REPROCHE · “PASAR FACTURA” · CASTIGO</div>\n      <p>Pero puede ocurrir:</p>\n      <div class=\"future-flow compact-flow\"><p><strong>CULPADOR CASTIGA</strong></p><b>↓</b><p><strong>CULPADO SE ENOJA</strong></p><b>↓</b><p><strong>RESISTE</strong></p><b>↓</b><p><strong>AUMENTA LA CULPA</strong></p><b>↓</b><p><strong>CULPADOR CASTIGA MÁS</strong></p></div>\n      <div class=\"lesson-emphasis\">CÍRCULO VICIOSO</div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "05 · REPARACIÓN VS. AUTOFLAGELACIÓN",
-        "title": "De la Remordimiento a la Reparación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pedir Disculpas Sinceras:</span><span class=\"croquis-desc\">Reconocer objetivamente el hecho y el impacto causado en el otro sin poner excusas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción Reparadora:</span><span class=\"croquis-desc\">Compensar el daño y **recontratar promesas impecables** para adelante.</span></div>\n          </div>\n        ",
+        "kicker": "05 · ESCUCHAR LA CULPA",
+        "title": "¿Qué necesita aprender cada aspecto?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La salida no consiste en silenciar al culpador ni someter al culpado.</p>\n      <div class=\"dimension-grid guilt-learning\"><section><strong>EL CULPADOR PUEDE APRENDER A:</strong><p>Escuchar.<br>Informar sin castigar.<br>Escuchar los miedos.<br>Mostrar posibilidades.</p></section><section><strong>EL CULPADO PUEDE APRENDER A:</strong><p>Reconocer que ciertas normas o códigos también pueden proteger algo que valora.<br><br>Y escuchar la señal sin quedar sometido a ella.</p></section></div>\n      <div class=\"statement-contrast\"><p><strong>CULPAR → CASTIGAR</strong></p><p><strong>ESCUCHAR → APRENDER</strong></p></div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "06 · CÓMO APRENDEN CULPADOR Y CULPADO",
-        "title": "Reconciliación Interna",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpador Aprende a Enseñar:</span><span class=\"croquis-desc\">Escucha con empatía las razones del Culpado y ofrece alternativas de resarcimiento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpado Aprende a Elegir:</span><span class=\"croquis-desc\">Distingue si la norma lo protege o si es una tiranía ajena de la que debe liberarse.</span></div>\n          </div>\n        ",
+        "kicker": "06 · DE LA CULPA A LA RESPONSABILIDAD",
+        "title": "¿Qué puedo hacer ahora?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Quedar atrapados en <strong>“SOY CULPABLE”</strong> nos mantiene mirando el pasado.</p>\n      <p>Podemos transformar la conversación:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ HICE?</strong><strong>¿QUÉ VALOR ESTABA EN JUEGO?</strong><strong>¿QUÉ CONSECUENCIAS GENERÉ?</strong><strong>¿QUÉ PUEDO REPARAR?</strong><strong>¿QUÉ APRENDO?</strong><strong>¿QUÉ ACCIÓN ELIJO AHORA?</strong></div>\n      <div class=\"flow-formula\">CULPA → ESCUCHA → RESPONSABILIDAD → REPARACIÓN → APRENDIZAJE</div>\n      <div class=\"observer-principle\"><strong>No puedo modificar lo ocurrido. Sí puedo responder por lo ocurrido.</strong></div>\n    </div>",
         "source": "19) Culpa"
       },
       {
-        "kicker": "07 · LA LIBERACIÓN EN COACHING",
-        "title": "Desarmar los Mandatos Ajenos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disolver la Falsa Culpa:</span><span class=\"croquis-desc\">Acompañar a declarar: <em>\"Yo no elijo esa norma\"</em> para recuperar la paz ontológica.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Responsabilidad Soberana:</span><span class=\"croquis-desc\">Sustituir el castigo por la ética del compromiso y el resarcimiento.</span></div>\n          </div>\n        ",
+        "kicker": "07 · CULPA: LA PREGUNTA CENTRAL",
+        "title": "¿Qué está protegiendo mi culpa?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Cuando aparece culpa:</p>\n      <div class=\"lesson-list guilt-questions\"><p><strong>01</strong><span>¿Qué norma juzgo que violé?</span></p><p><strong>02</strong><span>¿Es un valor elegido o un juicio heredado?</span></p><p><strong>03</strong><span>¿La culpa me está enseñando o castigando?</span></p><p><strong>04</strong><span>¿Qué necesito escuchar?</span></p><p><strong>05</strong><span>¿Hay algo que reparar?</span></p><p><strong>06</strong><span>¿Qué nueva acción puedo elegir?</span></p></div>\n      <div class=\"observer-principle\"><strong>La culpa puede convertirse en aprendizaje cuando dejamos de utilizarla para castigarnos y comenzamos a escuchar qué está señalando.</strong></div>\n    </div>",
         "source": "19) Culpa"
       },
       {
@@ -1029,50 +1029,44 @@
     "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · MODO CONTROL E INDIRECTO",
-        "title": "La Definición Ontológica de Manipulación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Definición ELAC:</span><span class=\"croquis-desc\">El intento de <strong>lograr que el otro haga lo que yo quiero que haga sin decírselo abiertamente</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Evitar el Riesgo del NO:</span><span class=\"croquis-desc\">Nace del miedo a formular un pedido directo y ser rechazado. Se busca controlar la conducta ajena desde las sombras.</span></div>\n          </div>\n        ",
+        "kicker": "01 · MANIPULACIÓN",
+        "title": "Quiero que hagas lo que yo quiero",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La manipulación aparece cuando pretendemos controlar el comportamiento del otro para obtener el resultado que queremos.</p>\n      <div class=\"statement-contrast\"><p><strong>“QUIERO QUE HAGAS LO QUE YO QUIERO.”</strong></p><p><strong>“QUIERO QUE NO HAGAS LO QUE VOS QUERÉS.”</strong></p></div>\n      <p>Pero hay una característica fundamental:</p>\n      <div class=\"lesson-emphasis\">NO LO DECLARO ABIERTAMENTE.</div>\n      <p>Genero estrategias para conseguirlo.</p>\n      <div class=\"future-flow compact-flow\"><p><strong>QUIERO ALGO DEL OTRO</strong></p><b>↓</b><p><strong>NO LO DECLARO</strong></p><b>↓</b><p><strong>INTENTO CONTROLAR SU CONDUCTA</strong></p><b>↓</b><p><strong>MANIPULACIÓN</strong></p></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "02 · EL OTRO COMO INSTRUMENTO",
-        "title": "Maturana: Amor vs. Manipulación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Amor Ontológico:</span><span class=\"croquis-desc\">Según Humberto Maturana, el amor es la <strong>aceptación del otro como un legítimo otro en la convivencia</strong>, sin condicionamientos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Instrumentalización:</span><span class=\"croquis-desc\">La manipulación anula la legitimidad del otro, reduciéndolo a un <strong>medio o herramienta</strong> para la satisfacción de los propios fines.</span></div>\n          </div>\n        ",
+        "kicker": "02 · MANIPULACIÓN Y MODO CONTROL",
+        "title": "“Necesito que seas diferente”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Detrás de la manipulación aparece el <strong>modo control</strong>.</p>\n      <p>Desde mis propios juicios pretendo determinar:</p>\n      <div class=\"lesson-question\"><strong>QUÉ DEBERÍAS HACER</strong><strong>CÓMO DEBERÍAS ACTUAR</strong><strong>QUÉ DEBERÍAS ELEGIR</strong><strong>QUIÉN DEBERÍAS SER</strong></div>\n      <div class=\"muted-emphasis\">TE JUZGO · TE EXIJO · DECIDO POR VOS · TE EMPUJO · QUIERO CAMBIARTE</div>\n      <div class=\"observer-principle\"><strong>No estoy coordinando con el otro. Estoy intentando producir en él la conducta que yo quiero.</strong></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "03 · LAS ARMAS DE LA MANIPULACIÓN",
-        "title": "Secreto, Chantaje y Descalificación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Secreto:</span><span class=\"croquis-desc\">Ocultar intenciones reales, distorsionar la información o sesgar la realidad del otro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Chantaje Emocional:</span><span class=\"croquis-desc\">Uso de la culpa, la lástima o la amenaza velada de abandono o castigo para forzar la sumisión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descalificación Implícita:</span><span class=\"croquis-desc\">Minar la autoconfianza del otro para que dude de su propio juicio y dependa de la guía del manipulador.</span></div>\n          </div>\n        ",
+        "kicker": "03 · MANIPULACIÓN VS. COORDINACIÓN",
+        "title": "La diferencia está en la transparencia",
+        "body": "\n    <div class=\"mood-comparison manipulation-comparison\"><section><strong>MANIPULACIÓN</strong><p><span>Quiero algo.</span></p><p><span>No lo declaro claramente.</span></p><p><span>Intento generar la conducta del otro.</span></p><p><span>No habilito plenamente su elección.</span></p></section><section><strong>COORDINACIÓN</strong><p><span>Declaro qué quiero.</span></p><p><span>Hago un pedido.</span></p><p><b>EL OTRO PUEDE:</b><span>Aceptar · Rechazar · Contraofertar</span></p><p><span>Y recién entonces podemos construir una promesa.</span></p></section>\n      <div class=\"statement-contrast comparison-footer\"><p><span>MANIPULAR</span><strong>“Voy a lograr que lo hagas.”</strong></p><p><span>COORDINAR</span><strong>“Voy a pedirte lo que necesito.”</strong></p></div>\n      <div class=\"observer-principle comparison-footer\"><strong>Cuando puedo pedir, no necesito manipular.</strong></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "04 · COSTOS RELACIONALES",
-        "title": "Erosión de la Confianza y Resentimiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aparición de la Sospecha:</span><span class=\"croquis-desc\">Cuando el manipulado descubre el engaño, la confianza colapsa y se instala un clima de hipervigilancia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resentimiento Acumulativo:</span><span class=\"croquis-desc\">Quien cede ante la manipulación termina sintiéndose usado y atrapado, generando ira diferida.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ACEPTAR AL OTRO",
+        "title": "Un legítimo otro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Podemos contraponer el control con una idea de Maturana:</p>\n      <div class=\"lesson-emphasis\">ACEPTAR AL OTRO COMO UN LEGÍTIMO OTRO.</div>\n      <p>Aceptar no significa:</p>\n      <div class=\"muted-emphasis\">ESTAR DE ACUERDO CON TODO · RENUNCIAR A LO QUE QUIERO</div>\n      <p>Significa reconocer que el otro posee:</p>\n      <div class=\"sensory-cloud\"><strong>SUS JUICIOS</strong><strong>SUS NECESIDADES</strong><strong>SUS PREFERENCIAS</strong><strong>SU CAPACIDAD DE ELEGIR</strong></div>\n      <div class=\"observer-principle\"><strong>PUEDO QUERER ALGO DE VOS SIN PRETENDER CONTROLARTE.</strong></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "05 · ANATOMÍA DEL PEDIDO DIRECTO",
-        "title": "Del Control a la Vulnerabilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Clara de Necesidades:</span><span class=\"croquis-desc\">Sustituir las indirectas y reproches por declaraciones directas: <em>\"Necesito X de vos\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coraje Ontológico:</span><span class=\"croquis-desc\">Asumir la vulnerabilidad de exponer el propio deseo y validar que la otra parte tiene derecho a decir <strong>NO</strong>.</span></div>\n          </div>\n        ",
+        "kicker": "05 · DE MANIPULAR A CONVERSAR",
+        "title": "¿Qué puedo hacer diferente?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Frente a una diferencia:</p>\n      <div class=\"lesson-list manipulation-steps\"><p><strong>01 · EXPRESAR</strong><span>¿Qué siento? ¿Qué es importante para mí? ¿Qué quiero?</span></p><p><strong>02 · INDAGAR</strong><span>¿Qué quiere el otro? ¿Qué siente? ¿Qué necesita?</span></p><p><strong>03 · ESCUCHAR</strong><span>Reconocer su interpretación sin imponer la propia.</span></p><p><strong>04 · COORDINAR</strong><span>Buscar acuerdos posibles.</span></p></div>\n      <p>Y si no existe acuerdo:</p>\n      <div class=\"lesson-emphasis\">ACEPTAR EL DESACUERDO.</div>\n      <div class=\"statement-contrast\"><p><strong>CONTROLAR → IMPONER</strong></p><p><strong>CONVERSAR → COORDINAR</strong></p></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
-        "kicker": "06 · POEMA DE JORGE BUCAY",
-        "title": "Quiero que me Escuches sin Juzgarme",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación Auténtica:</span><span class=\"croquis-desc\"><em>\"Quiero que me escuches sin juzgarme... que me opines sin aconsejarme... que me ayudes sin decidir por mí... que me cuides sin anularme\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Relación Sana:</span><span class=\"croquis-desc\">Construir espacios donde ambos crezcan en autonomía sin manipular ni ser manipulados.</span></div>\n          </div>\n        ",
-        "source": "20) Manipulación"
-      },
-      {
-        "kicker": "07 · EL COACH ANTE LA MANIPULACIÓN",
-        "title": "Intervención Ontológica",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Traer a la Transparencia:</span><span class=\"croquis-desc\">Cuestionar las historias indirectas y preguntar: <em>\"¿Qué pedido concreto no estás haciendo?\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarticular la Víctima:</span><span class=\"croquis-desc\">Ayudar al coachee a salir del rol de manipulador o víctima manipulada recuperando su soberanía relacional.</span></div>\n          </div>\n        ",
+        "kicker": "06 · SOLTAR EL CONTROL",
+        "title": "¿Qué estoy intentando controlar?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Podemos preguntarnos:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ QUIERO QUE EL OTRO HAGA?</strong><strong>¿SE LO DIJE CLARAMENTE?</strong><strong>¿ESTOY DISPUESTO A ESCUCHAR UN NO?</strong><strong>¿QUÉ JUICIO MÍO QUIERO IMPONER?</strong><strong>¿QUÉ PASARÍA SI EL OTRO ELIGE DIFERENTE?</strong><strong>¿QUÉ ESTOY PROTEGIENDO AL QUERER CONTROLAR?</strong></div>\n      <div class=\"statement-contrast\"><p><span>MANIPULACIÓN</span><strong>“QUIERO CONTROLAR TU ELECCIÓN.”</strong></p><p><span>COORDINACIÓN</span><strong>“DECLARO LO QUE QUIERO Y RECONOZCO TU CAPACIDAD DE ELEGIR.”</strong></p></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "20) Manipulación"
