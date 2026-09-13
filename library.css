@@ -156,6 +156,70 @@ body.micro-reel-open { overflow: hidden; }
   padding-left: 0;
   border-left: 0;
 }
+.editorial-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 8px;
+}
+.editorial-stack-compact {
+  gap: 13px;
+}
+.editorial-stack p,
+.editorial-stack blockquote {
+  margin: 0;
+}
+.editorial-stack strong {
+  color: #fff;
+}
+.editorial-stack em {
+  color: #aeb3bd;
+}
+.editorial-formula {
+  padding: 10px 8px;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+  color: #fff;
+  font-size: clamp(.68rem, 2.6vw, .82rem);
+  font-weight: 800;
+  line-height: 1.25;
+  text-align: center;
+}
+.editorial-formula span {
+  color: var(--micro-color);
+  padding-inline: 2px;
+}
+.editorial-options {
+  color: var(--micro-color);
+}
+.editorial-stack blockquote {
+  padding-left: 14px;
+  border-left: 2px solid var(--micro-color);
+  color: #fff;
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+.editorial-statement {
+  color: var(--micro-color);
+  font-family: var(--font-serif);
+  font-size: 1.12rem;
+}
+.editorial-statuses {
+  display: grid;
+  gap: 9px;
+}
+.editorial-statuses p {
+  display: grid;
+  gap: 1px;
+}
+.editorial-statuses strong {
+  color: var(--micro-color);
+  font-size: .86rem;
+}
+.editorial-statuses span {
+  color: #d1d5db;
+  font-size: .88rem;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {

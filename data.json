@@ -6,7 +6,7 @@
     "domain": "Ontología",
     "color": "#e76f51",
     "hook": "No vemos el mundo como es, sino como somos nosotros.",
-    "minutes": 5,
+    "minutes": 6,
     "slides": [
       {
         "kicker": "01 · ECUACIÓN ONTOLÓGICA",
@@ -21,20 +21,26 @@
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "03 · ANATOMÍA DE COMPARACIÓN",
-        "title": "Hechos vs. Juicios",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hecho (Afirmación):</span><span class=\"croquis-desc\">Comprobable y consensuado por la comunidad. La palabra se adecua al mundo. Puede ser <strong>Verdadero</strong> o <strong>Falso</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio (Interpretación):</span><span class=\"croquis-desc\">Habita en el observador que lo emite. El mundo se adecua a la palabra. Se evalúa como <strong>Fundamentado</strong> o <strong>Infundado</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Trampa del Observador:</span><span class=\"croquis-desc\">Tratar los juicios propios como hechos objetivos <em>(\"La realidad es esta\")</em> elimina al otro, genera sufrimiento y cierra el aprendizaje.</span></div>\n          </div>\n        ",
+        "kicker": "03 · EL OBSERVADOR",
+        "title": "No vemos las cosas como son",
+        "body": "\n          <div class=\"editorial-stack\">\n            <p><strong>Observamos desde el observador que estamos siendo.</strong></p>\n            <p>Frente a un mismo acontecimiento, distintos observadores pueden realizar <strong>distinciones diferentes</strong>.</p>\n            <p>Lo que podemos describir no es <em>la realidad en sí</em>, sino aquello que <strong>somos capaces de observar y distinguir</strong>.</p>\n            <div class=\"editorial-formula\">OBSERVADOR <span>→</span> DISTINCIONES <span>→</span> OBSERVACIÓN</div>\n            <blockquote>No sabemos cómo las cosas son.<br>Sabemos cómo las observamos.</blockquote>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "04 · POSTULADOS ONTOLÓGICOS",
-        "title": "Bases del Coaching",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Seres lingüísticos:</span><span class=\"croquis-desc\">Interpretamos a los seres humanos como seres que se constituyen en el lenguaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Lenguaje generativo:</span><span class=\"croquis-desc\">El lenguaje no solo describe la realidad, sino que genera nuevas realidades y posibilidades.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Autocreación:</span><span class=\"croquis-desc\">Los seres humanos se crean a sí mismos en y a través del lenguaje.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ACTOS LINGÜÍSTICOS",
+        "title": "Afirmaciones",
+        "body": "\n          <div class=\"editorial-stack editorial-stack-compact\">\n            <p>Las afirmaciones son proposiciones mediante las cuales <strong>describimos nuestras observaciones</strong> acerca de un mundo existente.</p>\n            <div class=\"editorial-formula\">MUNDO <span>→</span> OBSERVACIÓN <span>→</span> PALABRA</div>\n            <p>En las afirmaciones:</p>\n            <p><strong>El mundo antecede a la palabra.</strong><br>La palabra busca adecuarse al mundo observado.</p>\n            <p>Por eso una afirmación puede ser:</p>\n            <div class=\"editorial-formula editorial-options\">VERDADERA <span>·</span> FALSA <span>·</span> INDECISA</div>\n            <p>Pero verdadero no significa acceder a una <strong>“Verdad absoluta”</strong> sobre cómo las cosas son. La distinción verdadero/falso funciona dentro de un espacio compartido de distinciones.</p>\n          </div>\n        ",
+        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
+      },
+      {
+        "kicker": "05 · AFIRMACIONES",
+        "title": "Evidencia y compromiso",
+        "body": "\n          <div class=\"editorial-stack editorial-stack-compact\">\n            <p>Cuando afirmamos no alcanza con decir:</p>\n            <p class=\"editorial-statement\"><strong>“Porque yo lo digo.”</strong></p>\n            <p>Nos comprometemos con la <strong>veracidad</strong> de nuestra afirmación y, si se nos solicita, con poder aportar <strong>evidencia</strong>.</p>\n            <div class=\"editorial-formula\">AFIRMO <span>→</span> EVIDENCIO <span>→</span> PUEDE SER CORROBORADO</div>\n            <p>Un <strong>testigo</strong> es alguien que comparte nuestras distinciones y que, ante el mismo acontecimiento, puede <strong>coincidir con nuestra observación</strong>.</p>\n            <div class=\"editorial-statuses\"><p><strong>Verdadera</strong><span>Puede ser corroborada.</span></p><p><strong>Falsa</strong><span>Puede ser refutada.</span></p><p><strong>Indecisa</strong><span>Aún no puede ser corroborada ni refutada.</span></p></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "type": "reflection",
-        "kicker": "05 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
