@@ -94,7 +94,7 @@ body.micro-reel-open { overflow: hidden; }
 }
 .croquis-desc {
   font-size: 0.92rem;
-  line-height: 1.5;
+  line-height: 1.62;
   color: #d1d5db;
 }
 .croquis-desc strong {
@@ -116,7 +116,7 @@ body.micro-reel-open { overflow: hidden; }
   font-weight: 800;
 }
 .observer-equation {
-  margin: 30px 0;
+  margin: 24px 0;
   padding: 8px 10px;
   border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
 }
@@ -147,6 +147,14 @@ body.micro-reel-open { overflow: hidden; }
 }
 .observer-conclusion {
   color: #fff;
+}
+.domain-list {
+  gap: 24px;
+  margin-top: 10px;
+}
+.domain-list .croquis-item {
+  padding-left: 0;
+  border-left: 0;
 }
 
 /* Pantalla Completa para Anotaciones de Reflexión */

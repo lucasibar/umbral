@@ -17,7 +17,7 @@
       {
         "kicker": "02 · COHERENCIA ONTOLÓGICA",
         "title": "Dominios del ser",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Distinguir y resignificar la estructura de creencias limitantes y el compromiso que manifiesta <span class=\"observer-highlight\">mi lenguaje</span>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Distinguir, aceptar y accionar desde diferentes <span class=\"observer-highlight\">estados de ánimo</span>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Reconocer y adoptar diferentes <span class=\"observer-highlight\">disposiciones corporales</span>.</span></div>\n          </div>\n        ",
+        "body": "\n          <div class=\"croquis-container domain-list\">\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Distinguir y resignificar la estructura de creencias limitantes y el compromiso que manifiesta <span class=\"observer-highlight\">mi lenguaje</span>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Distinguir, aceptar y accionar desde diferentes <span class=\"observer-highlight\">estados de ánimo</span>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-desc\">Reconocer y adoptar diferentes <span class=\"observer-highlight\">disposiciones corporales</span>.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
