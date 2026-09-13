@@ -670,6 +670,34 @@ body.micro-reel-open { overflow: hidden; }
   padding: 9px 0;
   border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
 }
+.trust-domains {
+  gap: 12px;
+}
+.trust-dimensions,
+.trust-dispositions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 13px 16px;
+}
+.trust-dimensions p,
+.trust-dispositions p {
+  display: grid;
+  align-content: start;
+  gap: 3px;
+  margin: 0;
+}
+.trust-dimensions strong,
+.trust-dispositions strong {
+  color: var(--micro-color);
+  font-size: .76rem;
+  letter-spacing: .02em;
+}
+.trust-dimensions span,
+.trust-dispositions span {
+  color: #d1d5db;
+  font-size: .8rem;
+  line-height: 1.38;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {

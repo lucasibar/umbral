@@ -405,32 +405,26 @@
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "02 · CONFIANZA",
-        "title": "¿Puedo confiar en esa promesa?",
-        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando alguien promete, podemos preguntarnos:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>SINCERIDAD</strong><p>¿Juzgo que realmente tiene intención de cumplir?</p></section>\n        <section><strong>COMPETENCIA</strong><p>¿Juzgo que tiene capacidad para cumplir?</p></section>\n      </div>\n      <p>Una promesa involucra el compromiso social de sinceridad y requiere contar con las competencias necesarias para satisfacer lo acordado.</p>\n      <div class=\"observer-principle\"><strong>Las promesas participan en la construcción de confianza.</strong></div>\n    </div>",
-        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
-      },
-      {
-        "kicker": "03 · QUIEBRE",
+        "kicker": "02 · QUIEBRE",
         "title": "¿Qué pasa si no puedo cumplir?",
         "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Comprometerse no significa que nunca aparecerán obstáculos.</p>\n      <p>Puede surgir un quiebre que impida cumplir aquello que prometimos.</p>\n      <p>La responsabilidad no es esperar al vencimiento.</p>\n      <div class=\"lesson-question\"><strong>ANTES DEL PLAZO:</strong><span>COMUNICAR → COORDINAR → GENERAR UNA NUEVA PROMESA</span></div>\n      <p>El compromiso al prometer incluye coordinar antes del plazo cuando aparecen obstáculos y generar nuevas promesas.</p>\n      <div class=\"observer-principle\"><strong>Un quiebre no necesariamente destruye la confianza.</strong><strong>Cómo respondemos frente a él también construye relación.</strong></div>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "04 · INCUMPLIMIENTO",
+        "kicker": "03 · INCUMPLIMIENTO",
         "title": "Cuando la promesa no se cumple",
         "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Si llega el momento acordado y las condiciones de satisfacción no fueron cumplidas, podemos declarar:</p>\n      <div class=\"lesson-emphasis\">INCUMPLIMIENTO</div>\n      <p>No necesitamos quedarnos solamente en:</p>\n      <div class=\"muted-emphasis\">QUEJA · ENOJO · RESENTIMIENTO</div>\n      <p>Disponemos de otro recurso lingüístico:</p>\n      <div class=\"observer-principle\"><strong>EL RECLAMO</strong></div>\n      <p>El reclamo permite intervenir frente al incumplimiento y buscar reparar y volver a coordinar acciones.</p>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "05 · RECLAMO",
+        "kicker": "04 · RECLAMO",
         "title": "Reclamar es volver a coordinar",
         "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Un reclamo efectivo implica:</p>\n      <div class=\"lesson-list compact-lessons\">\n        <p><strong>01 · RECORDAR</strong><span>La promesa acordada.</span></p>\n        <p><strong>02 · DECLARAR</strong><span>El incumplimiento.</span></p>\n        <p><strong>03 · COMUNICAR</strong><span>Las consecuencias que produjo.</span></p>\n        <p><strong>04 · PEDIR</strong><span>Una reparación.</span></p>\n        <p><strong>05 · RECOMPROMETER</strong><span>Generando una nueva coordinación.</span></p>\n      </div>\n      <div class=\"flow-formula\">PROMESA → INCUMPLIMIENTO → RECLAMO → REPARACIÓN → RECOMPROMISO</div>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "05 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
@@ -543,50 +537,44 @@
     "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · FUNDAMENTO ONTOLÓGICO",
-        "title": "Apuesta Sobre el Futuro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Hipótesis Futura:</span><span class=\"croquis-desc\">La confianza (Cornu/Maturana/Flores) es una evaluación sobre la conducta futura de un otro en la que decidimos no inquietarnos por la falta de control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cimiento Fundamental:</span><span class=\"croquis-desc\">Sin confianza no hay posibilidad de vulnerabilidad, coordinación ni construcción de relaciones sustentables.</span></div>\n          </div>\n        ",
+        "kicker": "01 · CONFIANZA",
+        "title": "¿Qué es la confianza?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La confianza puede ser observada desde los tres dominios del ser:</p>\n      <div class=\"language-acts plain-acts trust-domains\">\n        <section><strong>LENGUAJE</strong><p>Como un juicio.</p></section>\n        <section><strong>EMOCIÓN</strong><p>Como una predisposición para la acción.</p></section>\n        <section><strong>CUERPO</strong><p>Como determinadas disposiciones corporales.</p></section>\n      </div>\n      <div class=\"lesson-emphasis\">LENGUAJE ↔ EMOCIÓN ↔ CUERPO</div>\n      <div class=\"observer-principle\"><strong>La confianza forma parte de la coherencia del observador que estamos siendo.</strong></div>\n    </div>",
         "source": "12) Confianza"
       },
       {
-        "kicker": "02 · COHERENCIA EN LOS 3 DOMINIOS",
-        "title": "Confianza en Cuerpo, Lenguaje y Emoción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje (Juicio):</span><span class=\"croquis-desc\">Evaluación fundada que determina si decidimos o no coordinar acciones con alguien.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción (Tranquilidad vs. Miedo):</span><span class=\"croquis-desc\">Predisposición de serenidad y certeza. La falta de confianza se manifiesta como <strong>miedo o resentimiento</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo (Apertura y Centramiento):</span><span class=\"croquis-desc\">Disposición corporal erguida, receptiva y estable que transmite seguridad.</span></div>\n          </div>\n        ",
+        "kicker": "02 · CONFIANZA COMO JUICIO",
+        "title": "¿Confío o no confío?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Desde el lenguaje, la confianza es un juicio que realiza un observador sobre sí mismo o sobre el accionar de otro.</p>\n      <p>Ese juicio influye directamente en nuestra disposición a:</p>\n      <div class=\"declaration-list\"><strong>COORDINAR ACCIONES</strong><strong>ASUMIR COMPROMISOS</strong><strong>CONSTRUIR CON OTROS</strong></div>\n      <div class=\"statement-contrast\"><p><strong>“Confío en vos” no es una afirmación.</strong></p><p><strong>Es un juicio.</strong></p></div>\n      <div class=\"observer-principle\"><strong>Y como todo juicio, puede ser fundamentado.</strong></div>\n    </div>",
         "source": "12) Confianza"
       },
       {
-        "kicker": "03 · LOS 4 PILARES (1/2)",
-        "title": "Sinceridad y Competencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Sinceridad:</span><span class=\"croquis-desc\">Coherencia entre la conversación pública (lo que digo afuera) y la conversación privada (lo que pienso por dentro).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Competencia:</span><span class=\"croquis-desc\">Poseer el saber hacer, las habilidades técnicas y la capacidad operativa para cumplir el compromiso.</span></div>\n          </div>\n        ",
+        "kicker": "03 · DIMENSIONES DE LA CONFIANZA",
+        "title": "¿En qué confiamos?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Podemos fundamentar nuestro juicio de confianza observando cuatro dimensiones:</p>\n      <div class=\"trust-dimensions\">\n        <p><strong>SINCERIDAD</strong><span>¿Juzgo coherencia entre lo que dice públicamente y aquello que sostiene privadamente?</span></p>\n        <p><strong>COMPETENCIA</strong><span>¿Juzgo que posee las habilidades necesarias para hacer aquello que se propone?</span></p>\n        <p><strong>CREDIBILIDAD</strong><span>¿Juzgo que cumple las promesas que asume?</span></p>\n        <p><strong>INVOLUCRAMIENTO</strong><span>¿Juzgo que le importa lo que me pasa y que está dispuesto a involucrarse?</span></p>\n      </div>\n      <div class=\"flow-formula\">SINCERIDAD · COMPETENCIA · CREDIBILIDAD · INVOLUCRAMIENTO</div>\n    </div>",
         "source": "12) Confianza"
       },
       {
-        "kicker": "04 · LOS 4 PILARES (2/2)",
-        "title": "Credibilidad e Involucramiento",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Credibilidad (Historial):</span><span class=\"croquis-desc\">El registro histórico impecable de promesas cumplidas a lo largo del tiempo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Involucramiento:</span><span class=\"croquis-desc\">Actitud de <em>\"jugarse\"</em> al 100%. Demostrar que lo que le importa al otro es valioso e importante para mí.</span></div>\n          </div>\n        ",
+        "kicker": "04 · CONFIANZA Y COORDINACIÓN",
+        "title": "Confiar abre posibilidades",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Nuestros juicios de confianza influyen en las acciones que estamos dispuestos a coordinar con otros.</p>\n      <p>Cuando confío, puedo estar más dispuesto a:</p>\n      <div class=\"sensory-cloud\"><strong>PEDIR</strong><strong>OFRECER</strong><strong>PROMETER</strong><strong>DELEGAR</strong><strong>COORDINAR</strong></div>\n      <p>Cuando desconfío, determinadas posibilidades pueden cerrarse.</p>\n      <div class=\"flow-formula\">CONFIANZA → COORDINACIÓN → POSIBILIDADES → RESULTADOS</div>\n      <div class=\"observer-principle\"><strong>La confianza no solamente describe una relación.</strong><strong>Participa en las posibilidades de futuro que podemos construir juntos.</strong></div>\n    </div>",
         "source": "12) Confianza"
       },
       {
-        "kicker": "05 · EL EDIFICIO DE RESULTADOS",
-        "title": "Pirámide del Logro Ontológico",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estructura ELAC:</span><span class=\"croquis-desc\"><strong>CONFIANZA $\\rightarrow$ Relaciones $\\rightarrow$ Compromiso $\\rightarrow$ Acciones $\\rightarrow$ RESULTADOS</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Vulnerabilidad de la Base:</span><span class=\"croquis-desc\">Si el cimiento de la confianza falla, todo el edificio de resultados del equipo termina colapsando.</span></div>\n          </div>\n        ",
+        "kicker": "05 · CONFIANZA COMO EMOCIÓN",
+        "title": "La confianza también se siente",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La confianza también puede observarse como una emoción.</p>\n      <p>Como emocionalidad, nos predispone a:</p>\n      <div class=\"declaration-list\"><strong>COORDINAR ACCIONES</strong><strong>ASUMIR RIESGOS</strong><strong>DISEÑAR FUTURO CON OTROS</strong></div>\n      <p>La desconfianza, en cambio, puede predisponernos a restringir nuestras acciones y posibilidades.</p>\n      <p>Las emociones predisponen para la acción.</p>\n      <div class=\"observer-principle\"><strong>Por eso confianza y desconfianza modifican aquello que estamos dispuestos a hacer.</strong></div>\n    </div>",
         "source": "12) Confianza"
       },
       {
-        "kicker": "06 · LA AUTOCONFIANZA",
-        "title": "Confianza en Uno Mismo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autocoherencia:</span><span class=\"croquis-desc\">El juicio de confianza sobre vos mismo. Nace de honrar las promesas que te hacés a solas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptar Incompetencias:</span><span class=\"croquis-desc\">Reconocer honestamente tus límites sin destruirte abre el espacio para aprender e incorporar ayuda.</span></div>\n          </div>\n        ",
-        "source": "12) Confianza"
-      },
-      {
-        "kicker": "07 · REPARACIÓN DE LA CONFIANZA",
-        "title": "Reconstruir el Vínculo Roto",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diagnóstico de Pilar:</span><span class=\"croquis-desc\">Identificar con precisión si la quiebra fue de sinceridad, competencia, historial o involucramiento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Recontratar el Futuro:</span><span class=\"croquis-desc\">Pedir disculpas sinceras, reparar los costos causados y sostener promesas impecables a futuro.</span></div>\n          </div>\n        ",
+        "kicker": "06 · CONFIANZA Y CUERPO",
+        "title": "El cuerpo también confía",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>La confianza también se manifiesta en nuestra corporalidad.</p>\n      <p>Podemos observar disposiciones como:</p>\n      <div class=\"trust-dispositions\">\n        <p><strong>RESOLUCIÓN</strong><span>Avanzo hacia la acción.</span></p>\n        <p><strong>APERTURA</strong><span>Me permito recibir posibilidades.</span></p>\n        <p><strong>FLEXIBILIDAD</strong><span>Puedo modificar mi manera de actuar.</span></p>\n        <p><strong>ESTABILIDAD</strong><span>Puedo sostenerme frente a la incertidumbre.</span></p>\n        <p><strong>CENTRAMIENTO</strong><span>Puedo permanecer presente y equilibrado.</span></p>\n      </div>\n      <div class=\"lesson-emphasis\">CUERPO · EMOCIÓN · LENGUAJE</div>\n      <div class=\"observer-principle\"><strong>La confianza no sólo se dice.</strong><strong>Se observa en nuestra manera de estar y actuar.</strong></div>\n    </div>",
         "source": "12) Confianza"
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "12) Confianza"
