@@ -27,20 +27,32 @@
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "04 · ACTOS LINGÜÍSTICOS",
+        "kicker": "04 · ESCALERA DE INFERENCIAS",
+        "title": "De lo que ocurre a cómo actúo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Frente a una situación no trabajamos con todos los datos disponibles. Seleccionamos, interpretamos y construimos una manera de responder.</p>\n      <div class=\"future-flow paradigm-flow\"><p><strong>HECHOS / DATOS</strong></p><b>↓</b><p><strong>SELECCIONO</strong></p><b>↓</b><p><strong>DOY SIGNIFICADO</strong></p><b>↓</b><p><strong>GENERO SUPUESTOS</strong></p><b>↓</b><p><strong>SACO CONCLUSIONES</strong></p><b>↓</b><p><strong>CONSTRUYO CREENCIAS</strong></p><b>↓</b><p><strong>ACTÚO</strong></p></div>\n      <div class=\"lesson-question\"><strong>¿QUÉ OBSERVÉ?</strong><strong>¿QUÉ AGREGUÉ YO?</strong></div>\n    </div>",
+        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
+      },
+      {
+        "kicker": "05 · ACTOS LINGÜÍSTICOS",
         "title": "Afirmaciones",
         "body": "\n          <div class=\"editorial-stack editorial-stack-compact\">\n            <p>Las afirmaciones son proposiciones mediante las cuales <strong>describimos nuestras observaciones</strong> acerca de un mundo existente.</p>\n            <div class=\"editorial-formula\">MUNDO <span>→</span> OBSERVACIÓN <span>→</span> PALABRA</div>\n            <p>En las afirmaciones:</p>\n            <p><strong>El mundo antecede a la palabra.</strong><br>La palabra busca adecuarse al mundo observado.</p>\n            <p>Por eso una afirmación puede ser:</p>\n            <div class=\"editorial-formula editorial-options\">VERDADERA <span>·</span> FALSA <span>·</span> INDECISA</div>\n            <p>Pero verdadero no significa acceder a una <strong>“Verdad absoluta”</strong> sobre cómo las cosas son. La distinción verdadero/falso funciona dentro de un espacio compartido de distinciones.</p>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "05 · AFIRMACIONES",
+        "kicker": "06 · AFIRMACIONES",
         "title": "Evidencia y compromiso",
         "body": "\n          <div class=\"editorial-stack editorial-stack-compact\">\n            <p>Cuando afirmamos no alcanza con decir:</p>\n            <p class=\"editorial-statement\"><strong>“Porque yo lo digo.”</strong></p>\n            <p>Nos comprometemos con la <strong>veracidad</strong> de nuestra afirmación y, si se nos solicita, con poder aportar <strong>evidencia</strong>.</p>\n            <div class=\"editorial-formula\">AFIRMO <span>→</span> EVIDENCIO <span>→</span> PUEDE SER CORROBORADO</div>\n            <p>Un <strong>testigo</strong> es alguien que comparte nuestras distinciones y que, ante el mismo acontecimiento, puede <strong>coincidir con nuestra observación</strong>.</p>\n            <div class=\"editorial-statuses\"><p><strong>Verdadera</strong><span>Puede ser corroborada.</span></p><p><strong>Falsa</strong><span>Puede ser refutada.</span></p><p><strong>Indecisa</strong><span>Aún no puede ser corroborada ni refutada.</span></p></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ HECHOS O DATOS PUEDO AFIRMAR?</strong><strong>¿QUÉ SELECCIONÉ DE LO OCURRIDO?</strong><strong>¿QUÉ SIGNIFICADO, SUPUESTO O CONCLUSIÓN AGREGUÉ?</strong><strong>¿QUÉ PODRÍA OBSERVAR OTRA PERSONA FRENTE AL MISMO ACONTECIMIENTO?</strong></div></div>",
+        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
+      },
+      {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
@@ -83,7 +95,7 @@
       {
         "kicker": "05 · VALIDACIÓN",
         "title": "¿Cuándo un juicio es válido?",
-        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Fundamentar un juicio no es suficiente. También debemos preguntarnos si quien lo emite posee <strong>autoridad</strong> dentro del dominio en el que está juzgando.</p>\n      <div class=\"lesson-emphasis\">FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</div>\n      <p>Un juicio puede estar:</p>\n      <div class=\"validity-result\"><p><strong>FUNDAMENTADO / NO FUNDAMENTADO</strong></p><p><span>y puede ser:</span><strong>VÁLIDO / INVÁLIDO</strong></p></div>\n      <div class=\"observer-principle\"><strong>JUICIO VÁLIDO ≠ JUICIO VERDADERO</strong></div>\n      <p>Los juicios no son verdaderos o falsos como las afirmaciones. Su validez depende de la autoridad y su solidez de la fundamentación.</p>\n    </div>",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Fundamentar un juicio no es suficiente. También debemos preguntarnos si quien lo emite posee <strong>autoridad</strong> dentro del dominio en el que está juzgando.</p>\n      <div class=\"lesson-emphasis\">FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</div>\n      <p>Un juicio puede estar:</p>\n      <div class=\"validity-result\"><p><strong>FUNDAMENTADO / NO FUNDAMENTADO</strong></p><p><span>y puede ser:</span><strong>VÁLIDO / INVÁLIDO</strong></p></div>\n      <div class=\"observer-principle\"><strong>JUICIO VÁLIDO ≠ JUICIO VERDADERO</strong></div>\n      <p>Un juicio validado continúa siendo un juicio, no una verdad.</p>\n      <p>Los juicios no son verdaderos o falsos como las afirmaciones. Su validez depende de la autoridad y su solidez de la fundamentación.</p>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
@@ -99,8 +111,14 @@
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ JUICIO ESTOY SOSTENIENDO?</strong><strong>¿EN QUÉ DOMINIO Y CON QUÉ ESTÁNDAR LO HAGO?</strong><strong>¿QUÉ AFIRMACIONES LO FUNDAMENTAN?</strong><strong>¿PUEDO FUNDAMENTAR EL JUICIO CONTRARIO?</strong><strong>¿TENGO AUTORIDAD PARA EMITIRLO EN ESTE DOMINIO?</strong></div></div>",
+        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
@@ -159,8 +177,14 @@
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿ESTOY DESCRIBIENDO LO QUE OBSERVO O INTENTANDO GENERAR ALGO?</strong><strong>¿QUÉ POSIBILIDAD ABRE O CIERRA LO QUE ESTOY DICIENDO?</strong><strong>¿QUÉ ACTO LINGÜÍSTICO ESTOY REALIZANDO?</strong><strong>¿QUÉ COMPROMISO SOCIAL ASUMO AL HABLAR?</strong></div></div>",
+        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
@@ -201,8 +225,14 @@
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
+        "kicker": "05 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ FUTURO QUIERO DECLARAR?</strong><strong>¿TENGO AUTORIDAD PARA REALIZAR ESTA DECLARACIÓN?</strong><strong>¿QUÉ POSIBILIDAD NUEVA ABRE?</strong><strong>¿QUÉ ACCIÓN COHERENTE REQUIERE DE MÍ?</strong></div></div>",
+        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
+      },
+      {
         "type": "reflection",
-        "kicker": "05 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
@@ -243,8 +273,14 @@
         "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       },
       {
+        "kicker": "05 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿DÓNDE NECESITO DECLARAR NO?</strong><strong>¿QUÉ SITUACIÓN NECESITO DECLARAR BASTA?</strong><strong>¿A QUÉ ESTOY DICIENDO SÍ CUANDO ACEPTO?</strong><strong>¿QUÉ CONVERSACIÓN NECESITO ABRIR PARA CUIDAR ESE LÍMITE?</strong></div></div>",
+        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+      },
+      {
         "type": "reflection",
-        "kicker": "05 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
@@ -285,8 +321,14 @@
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
+        "kicker": "05 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ RECIBÍ QUE TODAVÍA NO RECONOCÍ?</strong><strong>¿A QUIÉN NECESITO DECIR GRACIAS?</strong><strong>¿QUÉ NO SÉ Y ME CUESTA ADMITIR?</strong><strong>¿QUÉ PREGUNTA O PEDIDO DE APRENDIZAJE PUEDO HACER?</strong></div></div>",
+        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
+      },
+      {
         "type": "reflection",
-        "kicker": "05 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
@@ -333,8 +375,14 @@
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
+        "kicker": "06 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ CONSECUENCIA DE MIS ACCIONES NECESITO RECONOCER?</strong><strong>¿QUÉ RESPONSABILIDAD ME CORRESPONDE ASUMIR?</strong><strong>¿QUÉ REPARACIÓN PUEDO OFRECER?</strong><strong>¿QUÉ VÍNCULO O AFECTO NECESITO DECLARAR CON AUTENTICIDAD?</strong></div></div>",
+        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
+      },
+      {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
@@ -381,8 +429,20 @@
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
+        "kicker": "06 · CONVERSACIÓN PRODUCTIVA",
+        "title": "Coordinar desde la responsabilidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Una conversación productiva no busca imponer una interpretación. Permite hacernos cargo de lo que observamos y coordinar un futuro compartido.</p>\n      <div class=\"future-flow paradigm-flow\"><p><strong>ME HAGO CARGO DE MIS JUICIOS</strong></p><b>↓</b><p><strong>ESCUCHO LOS JUICIOS DEL OTRO</strong></p><b>↓</b><p><strong>DECLARAMOS QUÉ QUEREMOS QUE PASE</strong></p><b>↓</b><p><strong>OFERTAS</strong></p><b>↓</b><p><strong>PEDIDOS</strong></p><b>↓</b><p><strong>ACEPTACIÓN · NO · NEGOCIACIÓN</strong></p><b>↓</b><p><strong>PROMESAS</strong></p></div>\n    </div>",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ NECESITO COORDINAR Y CON QUIÉN?</strong><strong>¿EXPRESÉ CONDICIONES DE SATISFACCIÓN CLARAS?</strong><strong>¿PUEDO RECIBIR UN NO O UNA CONTRAOFERTA?</strong><strong>¿QUÉ OFERTA CONCRETA PUEDO REALIZAR?</strong></div></div>",
+        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
+      },
+      {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
@@ -423,8 +483,14 @@
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
+        "kicker": "05 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ PROMESA TENGO VIGENTE?</strong><strong>¿ESTÁN CLARAS SUS CONDICIONES Y SU PLAZO?</strong><strong>¿NECESITO CUMPLIR, RENEGOCIAR O REVOCAR ALGÚN COMPROMISO?</strong><strong>¿QUÉ RECLAMO PRODUCTIVO ESTOY EVITANDO?</strong></div></div>",
+        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
+      },
+      {
         "type": "reflection",
-        "kicker": "05 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
@@ -471,8 +537,14 @@
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
       },
       {
+        "kicker": "06 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ PERCIBÍ Y QUÉ INTERPRETÉ?</strong><strong>¿QUÉ SEÑALES NO VERBALES ESTOY ESCUCHANDO?</strong><strong>¿QUÉ BRECHA PUEDE EXISTIR ENTRE LO DICHO Y LO ESCUCHADO?</strong><strong>¿CÓMO PUEDO VERIFICAR MI INTERPRETACIÓN CON EL OTRO?</strong></div></div>",
+        "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
+      },
+      {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "10) La Escucha como acción interpretativa – Los Sentidos con los que escuchamos"
@@ -515,12 +587,18 @@
       {
         "kicker": "05 · ELEGIR CÓMO ESCUCHAR",
         "title": "De la escucha previa a la comprometida",
-        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <div class=\"future-flow listening-progression\">\n        <p><strong>ESCUCHA PREVIA</strong><span>Escucho mis propios juicios.</span></p><b>↓</b>\n        <p><strong>ESCUCHA RECREATIVA</strong><span>Escucho las emociones del otro.</span></p><b>↓</b>\n        <p><strong>ESCUCHA COMPROMETIDA</strong><span>Escucho los compromisos del otro.</span></p>\n      </div>\n      <p>El desafío no es eliminar nuestra escucha previa.</p>\n      <p>Es distinguirla, para poder elegir desde dónde escuchar.</p>\n      <div class=\"observer-principle\"><strong>Cambiar nuestra escucha cambia las conversaciones y las posibilidades de acción que podemos generar.</strong></div>\n    </div>",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <div class=\"future-flow listening-progression\">\n        <p><strong>ESCUCHA PREVIA</strong><span>Escucho mis propios juicios.</span></p><b>↓</b>\n        <p><strong>ESCUCHA RECREATIVA</strong><span>Recreo y escucho la emocionalidad del otro.</span></p><b>↓</b>\n        <p><strong>ESCUCHA COMPROMETIDA</strong><span>Escucho los compromisos del otro.</span></p>\n      </div>\n      <p>El desafío no es eliminar nuestra escucha previa.</p>\n      <p>Es distinguirla, para poder elegir desde dónde escuchar.</p>\n      <div class=\"observer-principle\"><strong>Cambiar nuestra escucha cambia las conversaciones y las posibilidades de acción que podemos generar.</strong></div>\n    </div>",
+        "source": "11) De la Escucha Previa a la Escucha Comprometida"
+      },
+      {
+        "kicker": "06 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ JUICIOS PREVIOS APARECEN MIENTRAS ESCUCHO?</strong><strong>¿QUÉ EMOCIONALIDAD DEL OTRO PUEDO RECREAR?</strong><strong>¿QUÉ COMPROMISO ESCUCHO DETRÁS DE SUS PALABRAS?</strong><strong>¿DESDE CUÁL DE LAS TRES ESCUCHAS ESTOY RESPONDIENDO?</strong></div></div>",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "11) De la Escucha Previa a la Escucha Comprometida"
@@ -551,7 +629,7 @@
       {
         "kicker": "03 · DIMENSIONES DE LA CONFIANZA",
         "title": "¿En qué confiamos?",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Podemos fundamentar nuestro juicio de confianza observando cuatro dimensiones:</p>\n      <div class=\"trust-dimensions\">\n        <p><strong>SINCERIDAD</strong><span>¿Juzgo coherencia entre lo que dice públicamente y aquello que sostiene privadamente?</span></p>\n        <p><strong>COMPETENCIA</strong><span>¿Juzgo que posee las habilidades necesarias para hacer aquello que se propone?</span></p>\n        <p><strong>CREDIBILIDAD</strong><span>¿Juzgo que cumple las promesas que asume?</span></p>\n        <p><strong>INVOLUCRAMIENTO</strong><span>¿Juzgo que le importa lo que me pasa y que está dispuesto a involucrarse?</span></p>\n      </div>\n      <div class=\"flow-formula\">SINCERIDAD · COMPETENCIA · CREDIBILIDAD · INVOLUCRAMIENTO</div>\n    </div>",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Podemos fundamentar nuestro juicio de confianza observando cuatro dimensiones:</p>\n      <div class=\"trust-dimensions\">\n        <p><strong>SINCERIDAD</strong><span>¿Juzgo coherencia entre lo que dice públicamente y aquello que sostiene privadamente?</span></p>\n        <p><strong>COMPETENCIA</strong><span>¿Juzgo que posee las habilidades necesarias para hacer aquello que se propone?</span></p>\n        <p><strong>CREDIBILIDAD / CONFIABILIDAD</strong><span>¿Juzgo que cumple las promesas que asume?</span></p>\n        <p><strong>INVOLUCRAMIENTO</strong><span>¿Juzgo que le importa lo que me pasa y que está dispuesto a involucrarse?</span></p>\n      </div>\n      <div class=\"flow-formula\">SINCERIDAD · COMPETENCIA · CREDIBILIDAD / CONFIABILIDAD · INVOLUCRAMIENTO</div>\n    </div>",
         "source": "12) Confianza"
       },
       {
@@ -573,8 +651,14 @@
         "source": "12) Confianza"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿EN QUIÉN CONFÍO O DESCONFÍO Y EN QUÉ DOMINIO?</strong><strong>¿QUÉ DIMENSIÓN FUNDAMENTA ESE JUICIO?</strong><strong>¿CUÁL DE LAS CUATRO DIMENSIONES NECESITA SER REVISADA?</strong><strong>¿QUÉ POSIBILIDAD DE COORDINACIÓN ABRE O CIERRA MI JUICIO?</strong></div></div>",
+        "source": "12) Confianza"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "12) Confianza"
@@ -627,8 +711,14 @@
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ ESTOY HACIENDO DESDE EL “TENGO QUE”?</strong><strong>¿QUÉ ELEGIRÍA SI PUDIERA VOLVER A DECIDIR?</strong><strong>¿CON QUÉ RESULTADO FUTURO QUIERO COMPROMETERME?</strong><strong>¿QUÉ COMPROMISO NECESITO RENEGOCIAR?</strong></div></div>",
+        "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "13) Del paradigma de la Obligación al paradigma del Compromiso"
@@ -670,8 +760,8 @@
       },
       {
         "kicker": "05 · LOS QUIEBRES SE DECLARAN",
-        "title": "No “tengo” un quiebre",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"lesson-emphasis\">DECLARO UN QUIEBRE</div>\n      <p>El quiebre reside en el observador y surge cuando éste lo declara.</p>\n      <p>Al declararlo dejo de relacionarme con la situación solamente como algo que me sucede y la pongo en relación con aquello que estoy comprometido a generar.</p>\n      <div class=\"future-flow paradigm-flow\">\n        <p><strong>SITUACIÓN ACTUAL</strong></p><b>↓</b><p><strong>DISTINGO UNA BRECHA</strong></p><b>↓</b><p><strong>DECLARO QUIEBRE</strong></p><b>↓</b><p><strong>RECONOZCO MI COMPROMISO</strong></p><b>↓</b><p><strong>DISEÑO ACCIONES</strong></p>\n      </div>\n      <p>La declaración de quiebre orienta la acción hacia el futuro deseado.</p>\n    </div>",
+        "title": "Los quiebres no se tienen, se declaran",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"lesson-emphasis\">LOS QUIEBRES NO SE TIENEN, SE DECLARAN</div>\n      <p>En el paradigma del problema resisto lo que ocurre desde el juicio de que no debería estar ocurriendo.</p>\n      <p>Al declarar un quiebre acepto lo que ocurre y recupero mi compromiso con generar el futuro deseado.</p>\n      <div class=\"future-flow paradigm-flow\"><p><strong>ACEPTO LO QUE OCURRE</strong></p><b>↓</b><p><strong>DECLARO QUIEBRE</strong></p><b>↓</b><p><strong>¿QUÉ QUIERO QUE PASE?</strong></p><b>↓</b><p><strong>OBSERVO QUIÉN ESTOY SIENDO</strong></p><b>↓</b><p><strong>DISEÑO ACCIONES</strong></p></div>\n    </div>",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
@@ -687,8 +777,14 @@
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ ESTOY RESISTIENDO PORQUE JUZGO QUE NO DEBERÍA OCURRIR?</strong><strong>¿QUÉ QUIEBRE NECESITO DECLARAR?</strong><strong>¿QUÉ QUIERO QUE PASE?</strong><strong>¿QUÉ OBSERVADOR ESTOY SIENDO Y QUÉ ACCIÓN PUEDO DISEÑAR?</strong></div></div>",
+        "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "14) Del paradigma del Problema al paradigma del Quiebre. Declaración de Quiebre."
@@ -777,8 +873,14 @@
         "source": "15) Emociones y Estados de ánimo"
       },
       {
+        "kicker": "13 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ EMOCIÓN PUEDO VINCULAR CON UN ACONTECIMIENTO?</strong><strong>¿QUÉ ESTADO DE ÁNIMO ESTÁ OPERANDO COMO TRASFONDO?</strong><strong>¿A QUÉ ACCIONES ME PREDISPONE?</strong><strong>¿ESA PREDISPOSICIÓN ES FUNCIONAL PARA LO QUE QUIERO GENERAR?</strong></div></div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
         "type": "reflection",
-        "kicker": "13 · REGISTRO DE REFLEXIÓN",
+        "kicker": "14 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "15) Emociones y Estados de ánimo"
@@ -831,8 +933,14 @@
         "source": "16) Enojo"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ ESPERABA QUE OCURRIERA?</strong><strong>¿QUÉ JUICIO CONSTRUÍ FRENTE A LA FRUSTRACIÓN?</strong><strong>¿QUÉ ES IMPORTANTE PARA MÍ EN ESTA SITUACIÓN?</strong><strong>¿QUÉ CONVERSACIÓN PUEDE PONER ESTA ENERGÍA AL SERVICIO DE UNA SOLUCIÓN?</strong></div></div>",
+        "source": "16) Enojo"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "16) Enojo"
@@ -891,8 +999,14 @@
         "source": "17) Miedo"
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ AMENAZA ESTOY PERCIBIENDO?</strong><strong>¿QUÉ RECURSOS RECONOZCO QUE YA TENGO?</strong><strong>¿QUÉ RECURSO NECESITO DESARROLLAR O PEDIR?</strong><strong>¿QUÉ ACCIÓN POSIBLE PUEDO REALIZAR AUN CON MIEDO?</strong></div></div>",
+        "source": "17) Miedo"
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "17) Miedo"
@@ -951,8 +1065,14 @@
         "source": "18) Exigencia – Autoexigencia"
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ ME ESTÁ DICIENDO MI VOZ EXIGENTE?</strong><strong>¿QUÉ NECESITA EL ASPECTO EXIGIDO?</strong><strong>¿LA META SIGUE SIENDO IMPORTANTE PARA MÍ?</strong><strong>¿ESTOY HACIENDO UN PEDIDO ABIERTO AL NO O ESTOY EXIGIENDO?</strong></div></div>",
+        "source": "18) Exigencia – Autoexigencia"
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "18) Exigencia – Autoexigencia"
@@ -1011,8 +1131,14 @@
         "source": "19) Culpa"
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ OCURRIÓ CONCRETAMENTE?</strong><strong>¿QUÉ RESPONSABILIDAD ME CORRESPONDE Y CUÁL NO?</strong><strong>¿NECESITO REPARAR, PEDIR PERDÓN O APRENDER?</strong><strong>¿ESTOY USANDO LA CULPA PARA ACTUAR O PARA CASTIGARME?</strong></div></div>",
+        "source": "19) Culpa"
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "19) Culpa"
@@ -1037,7 +1163,7 @@
       {
         "kicker": "02 · MANIPULACIÓN Y MODO CONTROL",
         "title": "Cuando intento controlar al otro",
-        "body": "\n  <div class=\"editorial-stack lesson-stack\"><p>La manipulación puede ser una manifestación del Modo Control:</p><p>Desde mis propios juicios intento lograr que el otro actúe como yo considero que debería actuar.</p><div class=\"future-flow compact-flow\"><p><strong>JUZGO CÓMO DEBERÍAS ACTUAR</strong></p><b>↓</b><p><strong>INTENTO MODIFICAR TU CONDUCTA</strong></p><b>↓</b><p><strong>MANIPULACIÓN</strong></p></div><p>En lugar de reconocer tu capacidad de elegir, intento producir en vos la conducta que yo quiero.</p><div class=\"lesson-question\"><strong>¿ESTOY COORDINANDO CON EL OTRO O INTENTANDO CONTROLARLO?</strong></div></div>",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La manipulación puede ser una manifestación del Modo Control:</p>\n      <div class=\"future-flow compact-flow\"><p><strong>JUZGO CÓMO DEBERÍAS ACTUAR</strong></p><b>↓</b><p><strong>INTENTO MODIFICAR TU CONDUCTA</strong></p><b>↓</b><p><strong>MANIPULACIÓN</strong></p></div>\n    </div>",
         "source": "20) Manipulación"
       },
       {
@@ -1065,8 +1191,14 @@
         "source": "20) Manipulación"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ QUIERO QUE EL OTRO HAGA?</strong><strong>¿ESTOY EXPRESANDO ESE DESEO DE MANERA TRANSPARENTE?</strong><strong>¿PUEDO ACEPTAR QUE EL OTRO ELIJA NO?</strong><strong>¿CÓMO PUEDO TRANSFORMAR ESTE INTENTO DE CONTROL EN UNA COORDINACIÓN?</strong></div></div>",
+        "source": "20) Manipulación"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "20) Manipulación"
@@ -1143,8 +1275,14 @@
         "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
+        "kicker": "11 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ JUICIO DE “CÓMO DEBERÍA SER” ESTOY IMPONIENDO?</strong><strong>¿ESTOY REACCIONANDO O DISEÑANDO?</strong><strong>¿QUÉ REALIDAD DESEADA QUIERO DECLARAR?</strong><strong>¿QUÉ HECHOS NECESITO OBSERVAR?</strong><strong>¿QUÉ ACCIÓN PUEDO REDISEÑAR?</strong></div></div>",
+        "source": "21) Del Modo control al Compromiso con el Control."
+      },
+      {
         "type": "reflection",
-        "kicker": "11 · REGISTRO DE REFLEXIÓN",
+        "kicker": "12 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "21) Del Modo Control al Compromiso con el Control"
@@ -1197,8 +1335,14 @@
         "source": "22) Corporalidad del Observador"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿CÓMO ESTÁN AHORA MI POSTURA Y MI RESPIRACIÓN?</strong><strong>¿A QUÉ ACCIONES ME DISPONE ESTE CUERPO?</strong><strong>¿QUÉ EMOCIÓN Y LENGUAJE ACOMPAÑAN ESTA CORPORALIDAD?</strong><strong>¿ES FUNCIONAL PARA LO QUE QUIERO QUE PASE?</strong></div></div>",
+        "source": "22) Corporalidad del Observador"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "22) Corporalidad del Observador"
@@ -1257,8 +1401,14 @@
         "source": "23) Apertura y Flexibilidad"
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ NECESITO RECIBIR O ESCUCHAR?</strong><strong>¿ANTE QUÉ CAMBIO ME ESTOY RIGIDIZANDO?</strong><strong>¿DÓNDE APARECE DÉFICIT O EXCESO DE APERTURA?</strong><strong>¿NECESITO ABRIRME O FLEXIBILIZARME EN ESTA SITUACIÓN?</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "23) Apertura y Flexibilidad"
@@ -1317,8 +1467,14 @@
         "source": "24) Resolución y Estabilidad"
       },
       {
+        "kicker": "08 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ ACCIÓN ESTOY POSTERGANDO?</strong><strong>¿QUÉ COMPROMISO NECESITO SOSTENER?</strong><strong>¿ESTOY RESOLVIENDO O ARRASANDO?</strong><strong>¿NECESITO AVANZAR O DAR CONTINUIDAD?</strong></div></div>",
+        "source": "24) Resolución y Estabilidad"
+      },
+      {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "24) Resolución y Estabilidad"
@@ -1371,8 +1527,14 @@
         "source": "25) Centramiento"
       },
       {
+        "kicker": "07 · AUTOOBSERVACIÓN",
+        "title": "Preguntas para llevarme",
+        "body": "<div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Antes de cerrar esta distinción, puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿QUÉ OBSERVO EN MI CUERPO, EMOCIÓN Y LENGUAJE?</strong><strong>¿ESTOY PRESENTE O REACCIONANDO AUTOMÁTICAMENTE?</strong><strong>¿QUÉ DISPOSICIÓN CORPORAL NECESITO AHORA?</strong><strong>¿QUÉ AJUSTE ME ACERCARÍA A UNA COHERENCIA MÁS FUNCIONAL?</strong></div></div>",
+        "source": "25) Centramiento"
+      },
+      {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "25) Centramiento"
@@ -1431,7 +1593,7 @@
         "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "08 · CIERRE",
+        "kicker": "08 · AUTOOBSERVACIÓN Y CIERRE",
         "title": "¿Y ahora qué elegís?",
         "body": "\n    <div class=\"editorial-stack lesson-stack final-choice-slide\">\n      <p>No elegimos todas las circunstancias.</p>\n      <p>No siempre obtenemos el resultado que queremos.</p>\n      <p>No podemos controlar a los demás.</p>\n      <p>Pero podemos observar:</p>\n      <div class=\"lesson-question\"><strong>¿QUIÉN ESTOY SIENDO FRENTE A LO QUE PASA?</strong><strong>¿QUÉ QUIERO QUE PASE?</strong><strong>¿QUÉ ME FALTA?</strong><strong>¿QUÉ PUEDO HACER?</strong></div>\n      <p>Y entonces elegir.</p>\n      <div class=\"final-choice\"><strong>VÍCTIMA</strong><span>o</span><strong>RESPONSABLE</strong></div>\n      <div class=\"observer-principle\"><strong>Una elección sobre cómo quiero vivir.</strong></div>\n    </div>",
         "source": "26) Víctima – Responsable"
