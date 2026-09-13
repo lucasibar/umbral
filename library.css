@@ -220,6 +220,76 @@ body.micro-reel-open { overflow: hidden; }
   color: #d1d5db;
   font-size: .88rem;
 }
+.observer-intro,
+.coherence-slide,
+.observer-thesis {
+  gap: 16px;
+}
+.domain-triad {
+  color: var(--micro-color);
+  font-size: .88rem;
+  font-weight: 800;
+  letter-spacing: .04em;
+  text-align: center;
+}
+.domain-triad span {
+  padding-inline: 4px;
+  color: #fff;
+}
+.equation-stacked {
+  display: grid;
+  gap: 2px;
+  margin: 4px 0;
+  text-align: center;
+}
+.equation-stacked strong {
+  font-size: clamp(.73rem, 2.8vw, .9rem);
+}
+.equation-stacked > span {
+  color: var(--micro-color);
+  font-size: .78rem;
+  font-weight: 800;
+}
+.coherence-domains {
+  display: grid;
+  gap: 13px;
+}
+.coherence-domains p {
+  display: grid;
+  gap: 2px;
+}
+.coherence-domains strong {
+  color: var(--micro-color);
+  font-size: .82rem;
+  letter-spacing: .04em;
+}
+.coherence-domains span {
+  color: #d1d5db;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+.coherence-equation {
+  margin: 2px 0;
+  text-align: center;
+}
+.observer-principle {
+  display: grid;
+  gap: 5px;
+  padding: 12px 0;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+  color: #fff;
+  font-family: var(--font-serif);
+  font-size: 1.08rem;
+  line-height: 1.3;
+  text-align: center;
+}
+.formula-footnote {
+  color: var(--micro-color);
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: .02em;
+  text-align: center;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
