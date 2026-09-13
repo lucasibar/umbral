@@ -935,7 +935,7 @@
       {
         "kicker": "05 · EXIGENCIA VS. COMPROMISO",
         "title": "Ordenar no es comprometer",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"dimension-grid paradigm-options\"><section><strong>EN LA EXIGENCIA: “TENÉS QUE”</strong><p>El exigente <b>ordena</b> y excluye la posibilidad del <b>NO</b>. El exigido puede sentir que no tiene recursos para negarse y termina actuando desde la <b>obligación</b>.</p></section><section><strong>EN EL COMPROMISO: “ELIJO / QUIERO”</strong><p>Existe posibilidad de escuchar, decir no, negociar, pedir, ofrecer y prometer.</p></section></div>\n      <div class=\"statement-contrast\"><p><strong>OBLIGACIÓN → “TENGO QUE”</strong></p><p><strong>COMPROMISO → “ELIJO”</strong></p></div>\n      <div class=\"observer-principle\"><strong>Sin posibilidad de decir NO, la elección queda comprometida.</strong></div>\n    </div>",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"dimension-grid paradigm-options\"><section><strong>EN LA EXIGENCIA: “TENÉS QUE”</strong><p>El exigente <b>ordena</b> y excluye la posibilidad del <b>NO</b>. El exigido puede sentir que no tiene recursos para negarse y termina actuando desde la <b>obligación</b>.</p></section><section><strong>EN EL COMPROMISO: “ELIJO / QUIERO”</strong><p>Existe posibilidad de escuchar, decir no, negociar, pedir, ofrecer y prometer.</p></section></div>\n      <div class=\"statement-contrast\"><p><strong>OBLIGACIÓN → “TENGO QUE”</strong></p><p><strong>COMPROMISO → “ELIJO”</strong></p></div>\n      <div class=\"observer-principle\"><strong>Sin posibilidad de decir NO, la elección queda comprometida.</strong></div><p>Si hago un pedido pero no estoy dispuesto a recibir un NO, no estoy pidiendo: <strong>estoy exigiendo</strong>.</p></div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
@@ -1036,8 +1036,8 @@
       },
       {
         "kicker": "02 · MANIPULACIÓN Y MODO CONTROL",
-        "title": "“Necesito que seas diferente”",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Detrás de la manipulación aparece el <strong>modo control</strong>.</p>\n      <p>Desde mis propios juicios pretendo determinar:</p>\n      <div class=\"lesson-question\"><strong>QUÉ DEBERÍAS HACER</strong><strong>CÓMO DEBERÍAS ACTUAR</strong><strong>QUÉ DEBERÍAS ELEGIR</strong><strong>QUIÉN DEBERÍAS SER</strong></div>\n      <div class=\"muted-emphasis\">TE JUZGO · TE EXIJO · DECIDO POR VOS · TE EMPUJO · QUIERO CAMBIARTE</div>\n      <div class=\"observer-principle\"><strong>No estoy coordinando con el otro. Estoy intentando producir en él la conducta que yo quiero.</strong></div>\n    </div>",
+        "title": "Cuando intento controlar al otro",
+        "body": "\n  <div class=\"editorial-stack lesson-stack\"><p>La manipulación puede ser una manifestación del Modo Control:</p><p>Desde mis propios juicios intento lograr que el otro actúe como yo considero que debería actuar.</p><div class=\"future-flow compact-flow\"><p><strong>JUZGO CÓMO DEBERÍAS ACTUAR</strong></p><b>↓</b><p><strong>INTENTO MODIFICAR TU CONDUCTA</strong></p><b>↓</b><p><strong>MANIPULACIÓN</strong></p></div><p>En lugar de reconocer tu capacidad de elegir, intento producir en vos la conducta que yo quiero.</p><div class=\"lesson-question\"><strong>¿ESTOY COORDINANDO CON EL OTRO O INTENTANDO CONTROLARLO?</strong></div></div>",
         "source": "20) Manipulación"
       },
       {
@@ -1080,62 +1080,74 @@
     "domain": "Ontología",
     "color": "#e07a5f",
     "hook": "El Modo Control busca dominar la realidad por miedo; el Compromiso con el Control pone la verificación al servicio de una visión.",
-    "minutes": 8,
+    "minutes": 11,
     "slides": [
       {
-        "kicker": "01 · LA MEGA DISTINCIÓN ONTOLÓGICA",
-        "title": "La Ilusión Cartesiana del Control",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fantasía de Dominio:</span><span class=\"croquis-desc\">Creer que podemos controlar a las personas, las situaciones y el futuro desde nuestros propios juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Colapso Ontológico:</span><span class=\"croquis-desc\">Nace de asumir que <em>\"lo que percibo ES la verdad\"</em>, confundiendo nuestras interpretaciones con afirmaciones indiscutibles.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "01 · MODO CONTROL",
+        "title": "Cuando quiero que la realidad sea como yo digo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Entramos en Modo Control cuando pretendemos controlar:</p>\n      <div class=\"sensory-cloud\"><strong>A LOS OTROS</strong><strong>LAS SITUACIONES</strong><strong>LOS RESULTADOS</strong><strong>NUESTRO PROPIO COMPORTAMIENTO</strong></div>\n      <p>Desde nuestros juicios acerca de cómo deberían ser las cosas.</p>\n      <div class=\"guilt-examples\"><span>“Esto debería ser así.”</span><span>“Él tendría que actuar de esta manera.”</span><span>“Esto no puede estar pasando.”</span></div>\n      <div class=\"observer-principle\"><strong>No reaccionamos solamente a lo que ocurre.</strong><strong>Reaccionamos a la diferencia entre lo que ocurre y nuestro juicio de lo que debería ocurrir.</strong></div>\n    </div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "02 · ANATOMÍA DEL MODO CONTROL",
-        "title": "Reacción e Inefectividad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Accionar Reactivo:</span><span class=\"croquis-desc\">El Modo Control busca que los demás actúen exactamente como pretendemos, reaccionando cuando la realidad no encaja con nuestro mapa.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emociones Disfuncionales:</span><span class=\"croquis-desc\">Genera miedo, ansiedad, enojo, angustia y culpa, cerrando posibilidades de acción y alimentando la manipulación.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "02 · CUANDO MI JUICIO SE VUELVE “LA REALIDAD”",
+        "title": "“Las cosas SON así”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>En Modo Control podemos confundir:</p>\n      <div class=\"lesson-emphasis\">LO QUE OBSERVO ≠ LO QUE ES</div>\n      <p>Nuestros juicios dejan de aparecer como interpretaciones y comenzamos a tratarlos como verdades.</p>\n      <div class=\"future-flow compact-flow\"><p><strong>JUICIO</strong><span>“Él debería comprometerse más.”</span></p><b>↓</b><p><strong>LO VIVO COMO REALIDAD</strong><span>“Él no es comprometido.”</span></p><b>↓</b><p><strong>REACCIONO DESDE ESA INTERPRETACIÓN</strong></p><b>↓</b><p><strong>MODO CONTROL</strong></p></div>\n      <div class=\"observer-principle\"><strong>Olvido que estoy observando desde el observador que estoy siendo.</strong></div>\n    </div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "03 · LA PRISIÓN DEL PASADO",
-        "title": "El Sistema de Creencias Cartesiano",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Caja Causa-Efecto:</span><span class=\"croquis-desc\">Pensamiento lineal centrado en el <em>\"Yo SOY así\"</em>, justificando la inmovilidad en la historia personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Futuro Determinado:</span><span class=\"croquis-desc\">Si apoyás tu identidad en el paradigma cartesiano, tu futuro estará históricamente determinado por tu pasado.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "03 · CONTROLAR AL OTRO",
+        "title": "“Te pido… pero no podés decirme que no”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Una manera muy clara de reconocer el Modo Control aparece en nuestras conversaciones.</p>\n      <p>Si hago un pedido pero no acepto la posibilidad de recibir un NO:</p>\n      <div class=\"lesson-emphasis\">NO ESTOY PIDIENDO · ESTOY EXIGIENDO</div>\n      <p>Quiero que el otro actúe como yo considero que debería actuar.</p>\n      <div class=\"dimension-grid choice-grid paradigm-options\"><section><strong>PEDIDO REAL</strong><p>SÍ · NO · CONTRAOFERTA</p></section><section><strong>EXIGENCIA</strong><p>“TENÉS QUE.”</p></section></div>\n      <div class=\"observer-principle\"><strong>Coordinar acciones reconoce al otro como alguien capaz de elegir.</strong><strong>Controlar pretende decidir por él.</strong></div>\n    </div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "04 · LA TRANSFORMACIÓN ONTOLÓGICA",
-        "title": "Del Modo Control al Compromiso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Modo Control (Reacción):</span><span class=\"croquis-desc\">Acciones impulsadas por juicios reactivos ante la incertidumbre.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso con el Control (Creación):</span><span class=\"croquis-desc\">Acciones que nacen de una <strong>VISIÓN DECLARADA</strong> y coordinan promesas impecables (pedidos y ofertas).</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "04 · TENSIÓN REACTIVA",
+        "title": "Cuando el resultado no coincide con mi juicio",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>En Modo Control:</p>\n      <div class=\"future-flow paradigm-flow\"><p><strong>TENGO UN JUICIO SOBRE LO QUE DEBERÍA PASAR</strong></p><b>↓</b><p><strong>OBSERVO LO QUE PASÓ</strong></p><b>↓</b><p><strong>NO COINCIDE</strong></p><b>↓</b><p><strong>REACCIONO</strong></p><b>↓</b><p><strong>TENSIÓN REACTIVA</strong></p></div>\n      <p>Puedo quedar buscando:</p>\n      <div class=\"lesson-question\"><strong>¿POR QUÉ PASÓ?</strong><strong>¿QUIÉN TUVO LA CULPA?</strong><strong>¿QUÉ SALIÓ MAL?</strong></div>\n      <p>E intentar nuevas formas de hacer desde el mismo observador.</p>\n      <div class=\"observer-principle\"><strong>Intento controlar el resultado sin necesariamente transformar al observador que lo está produciendo.</strong></div>\n    </div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "05 · CONTROL AL SERVICIO DE LA VISIÓN",
-        "title": "Verificaciones Impecables",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Control Funcional:</span><span class=\"croquis-desc\">Verificar la llave de gas antes de viajar para proteger el hogar; revisar fondos para abonar a término.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Tiranía:</span><span class=\"croquis-desc\">El control deja de ser una fijación neurótica y se convierte en un mecanismo riguroso para honrar un compromiso.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "05 · COMPROMISO CON EL CONTROL",
+        "title": "Controlar no es el problema",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Esta distinción no propone dejar de controlar.</p>\n      <p>Propone cambiar <strong>desde dónde controlamos</strong>.</p>\n      <div class=\"statement-contrast\"><p><span>El punto de partida no es:</span><strong>“LO QUE DEBERÍA HABER PASADO.”</strong></p><p><span>Es:</span><strong>“¿QUÉ QUIERO QUE PASE?”</strong></p></div>\n      <p>Partimos de una <strong>visión declarada</strong> y accionamos comprometidamente para crearla.</p>\n      <div class=\"lesson-emphasis\">VISIÓN → COMPROMISO → ACCIÓN → CONTROL</div>\n      <div class=\"observer-principle\"><strong>Controlamos al servicio de una visión, no para imponer nuestros juicios a la realidad.</strong></div>\n    </div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "06 · PARADOJA DE CARL ROGERS",
-        "title": "Aceptar-me para Poder Cambiar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aceptación Incondicional:</span><span class=\"croquis-desc\"><em>\"La curiosa paradoja es que cuando me acepto tal cual soy, entonces puedo cambiar\"</em> (Carl Rogers).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Punto de Partida:</span><span class=\"croquis-desc\">La autoaceptación sincera es el requisito indispensable para aceptar genuinamente a los demás y soltar la exigencia.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "06 · TENSIÓN CREATIVA",
+        "title": "Medir para crear",
+        "body": "\n  <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>En Compromiso con el Control:</p><div class=\"lesson-list management-steps\"><p><strong>01 · DECLARO</strong><span>¿Qué quiero que ocurra?</span></p><p><strong>02 · ACCIONO</strong><span>¿Qué voy a hacer para generarlo?</span></p><p><strong>03 · OBSERVO HECHOS</strong><span>¿Qué está ocurriendo realmente?</span></p><p><strong>04 · COMPARO</strong><span>¿Lo que ocurre coincide con la realidad deseada?</span></p><p><strong>05 · REDISEÑO</strong><span>¿Qué necesito modificar?</span></p></div><div class=\"lesson-emphasis\">TENSIÓN CREATIVA</div><div class=\"flow-formula\">REALIDAD ACTUAL ↔ REALIDAD DESEADA</div><p>La diferencia deja de ser solamente motivo de reacción.</p><div class=\"observer-principle\"><strong>Se transforma en información para diseñar acciones.</strong></div></div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "07 · EL ARTE DE RENDIRSE",
-        "title": "Soltar el Control para Diseñar Futuro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rendición vs. Resignación:</span><span class=\"croquis-desc\">Rendirse no es rendir las armas, es <strong>soltar la ilusión de controlar lo incontrolable</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habitar la Incertidumbre:</span><span class=\"croquis-desc\">Al dejar de luchar contra lo que es, liberás energía creadora para diseñar futuro desde la posibilidad.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "07 · LA DIFERENCIA CENTRAL",
+        "title": "Juicio vs. Visión",
+        "body": "\n    <div class=\"control-comparison\"><section><strong>MODO CONTROL</strong><p>Comparo lo que ocurrió con:</p><b>MI JUICIO DE LO QUE DEBERÍA HABER SIDO</b><span>↓</span><b>REACCIONO</b><span>↓</span><b>TENSIÓN REACTIVA</b></section><section><strong>COMPROMISO CON EL CONTROL</strong><p>Comparo lo que ocurre con:</p><b>LA REALIDAD DESEADA QUE DECLARÉ</b><span>↓</span><b>OBSERVO HECHOS</b><span>↓</span><b>REDISEÑO ACCIONES</b><span>↓</span><b>TENSIÓN CREATIVA</b></section><div class=\"observer-principle\"><strong>En uno intento tener razón sobre cómo deberían ser las cosas.</strong><strong>En el otro utilizo lo que ocurre para crear aquello con lo que estoy comprometido.</strong></div></div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
-        "kicker": "08 · EL COACH COMO FACILITADOR",
-        "title": "Desarticular el Modo Control",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuestionar la Certeza:</span><span class=\"croquis-desc\">Invitar al coachee a soltar el juicio de cómo <em>\"deberían\"</em> ser las cosas y las personas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reconectar con la Visión:</span><span class=\"croquis-desc\">Transformar la exigencia reactiva en promesas claras y acciones orientadas al propósito elegido.</span></div>\n          </div>\n        ",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "kicker": "08 · DEL FUTURO AL PRESENTE",
+        "title": "Venir desde la visión",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>El Compromiso con el Control propone crear una posibilidad mediante una declaración:</p><div class=\"lesson-emphasis\">¿QUÉ QUIERO QUE EXISTA?</div><p>Y desde esa visión preguntarnos:</p><div class=\"lesson-question\"><strong>¿QUIÉN NECESITO ESTAR SIENDO?</strong><strong>¿QUÉ ACCIONES NECESITO REALIZAR?</strong><strong>¿QUÉ PEDIDOS NECESITO HACER?</strong><strong>¿QUÉ OFERTAS PUEDO REALIZAR?</strong><strong>¿QUÉ PROMESAS NECESITO GENERAR?</strong></div><div class=\"flow-formula\">FUTURO DECLARADO → PRESENTE → ACCIÓN</div><div class=\"observer-principle\"><strong>VENIR DEL FUTURO AL PRESENTE</strong><strong>VENIR DESDE LA VISIÓN</strong></div></div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
+      },
+      {
+        "kicker": "09 · CUANDO NO FUNCIONA",
+        "title": "Declarar quiebre y rediseñar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Comprometernos con una visión no garantiza que todo salga como esperamos.</p><div class=\"lesson-emphasis\">NO NECESITAMOS ABANDONAR LA VISIÓN</div><p>Podemos:</p><div class=\"future-flow paradigm-flow\"><p><strong>ACEPTAR LO QUE OCURRIÓ</strong></p><b>↓</b><p><strong>DECLARAR QUIEBRE</strong></p><b>↓</b><p><strong>OBSERVAR QUIÉN ESTOY SIENDO</strong></p><b>↓</b><p><strong>REDISEÑAR EL OBSERVADOR</strong></p><b>↓</b><p><strong>DISEÑAR NUEVAS ACCIONES</strong></p><b>↓</b><p><strong>VOLVER A MEDIR</strong></p></div><div class=\"observer-principle\"><strong>El control deja de estar puesto en evitar la incertidumbre y pasa a estar al servicio del aprendizaje y la creación.</strong></div></div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
+      },
+      {
+        "kicker": "10 · DISTINGUIR PARA ELEGIR",
+        "title": "¿Desde dónde estoy controlando?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Cuando algo no ocurre como quiero puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿ESTOY COMPARANDO CON UN HECHO O CON UN JUICIO?</strong><strong>¿ESTOY REACCIONANDO O DISEÑANDO?</strong><strong>¿QUIERO CONTROLAR AL OTRO O COORDINAR CON ÉL?</strong><strong>¿QUÉ QUIERO QUE PASE?</strong><strong>¿QUÉ VISIÓN ESTOY DECLARANDO?</strong><strong>¿QUÉ OBSERVADOR NECESITO ESTAR SIENDO?</strong><strong>¿QUÉ ACCIÓN PUEDO DISEÑAR AHORA?</strong></div><div class=\"observer-principle\"><strong>DISTINGUIR NOS HACE RESPONSABLES.</strong><strong>ELEGIR NOS HACE LIBRES.</strong></div></div>",
+        "source": "21) Del Modo Control al Compromiso con el Control"
       },
       {
         "type": "reflection",
-        "kicker": "09 · REGISTRO DE REFLEXIÓN",
+        "kicker": "11 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
-        "source": "21) Del Modo control al Compromiso con el Control."
+        "source": "21) Del Modo Control al Compromiso con el Control"
       }
     ]
   },
