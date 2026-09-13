@@ -345,44 +345,38 @@
     "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · COORDINACIÓN EN RED",
-        "title": "Las 2 Llaves del Futuro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El Pedido:</span><span class=\"croquis-desc\">Nace cuando declarás que algo <strong>TE FALTA</strong> para lograr un resultado y buscás la acción de un tercero.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Oferta:</span><span class=\"croquis-desc\">Nace del juicio de que algo <strong>LE FALTA</strong> al otro y ponés tus competencias al servicio de su necesidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Coordinación Efectiva:</span><span class=\"croquis-desc\">Son las herramientas ontológicas fundamentales para hacer que las cosas pasen en los equipos.</span></div>\n          </div>\n        ",
+        "kicker": "01 · COORDINACIÓN DE ACCIONES",
+        "title": "Hacer que las cosas pasen",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>No hacemos todo solos.</p>\n      <p>Para construir aquello que queremos, muchas veces necesitamos coordinar acciones con otros.</p>\n      <p>Dos actos lingüísticos nos permiten hacerlo:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>PEDIDO</strong><p>Distingo algo que <b>ME falta</b> y solicito una acción de otro.</p></section>\n        <section><strong>OFERTA</strong><p>Juzgo algo que <b>LE falta</b> al otro y pongo una acción a disposición.</p></section>\n      </div>\n      <div class=\"flow-formula\">VISIÓN → PEDIDO / OFERTA → COORDINACIÓN → ACCIÓN</div>\n    </div>",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "02 · PEDIDO VS. EXIGENCIA",
-        "title": "La Posibilidad Real del NO",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Regla de Oro en ELAC:</span><span class=\"croquis-desc\">Si no habilitás la posibilidad real de recibir un <strong>NO</strong> como respuesta, no estás pidiendo: estás <strong>exigiendo u ordenando</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía del Oyente:</span><span class=\"croquis-desc\">Un pedido auténtico respeta la libertad del otro para decir SÍ, NO, negociar o pedir tiempo.</span></div>\n          </div>\n        ",
+        "kicker": "02 · VISIÓN",
+        "title": "¿Para qué pido u ofrezco?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Un pedido o una oferta efectivos nacen de una visión.</p>\n      <p>Antes de hablar podemos preguntarnos:</p>\n      <div class=\"lesson-question\"><strong>¿Qué quiero lograr?</strong><strong>¿Para qué voy a pedir u ofrecer esto?</strong><strong>¿Qué está faltando?</strong></div>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>PEDIDO</strong><p>Distingo lo que <b>ME falta</b>.</p></section>\n        <section><strong>OFERTA</strong><p>Juzgo lo que <b>LE falta</b> al otro.</p></section>\n      </div>\n      <div class=\"observer-principle\"><strong>Primero distingo un futuro.</strong><strong>Después coordino acciones para construirlo.</strong></div>\n    </div>",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "03 · ANATOMÍA DEL POP (1/2)",
-        "title": "Visión, Roles y Confianza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Visión & Para Qué:</span><span class=\"croquis-desc\">Tener claro el objetivo y sentido del pedido u oferta antes de iniciar la conversación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Orador y Oyente:</span><span class=\"croquis-desc\">Personas explícitas y comprometidas en la interacción.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Juicio de Confianza:</span><span class=\"croquis-desc\">Evaluar sinceridad, competencia e historial de cumplimiento de las partes.</span></div>\n          </div>\n        ",
+        "kicker": "03 · ORADOR Y OYENTE",
+        "title": "Coordinar requiere de otro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>En todo pedido u oferta distinguimos:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>ORADOR</strong><p>Quien pide u ofrece.</p></section>\n        <section><strong>OYENTE</strong><p>Quien recibe el pedido o la oferta.</p></section>\n      </div>\n      <p>Pero hablar no garantiza que el otro haya escuchado aquello que quisimos expresar.</p>\n      <div class=\"lesson-emphasis\">ORADOR → HABLA → OYENTE</div>\n      <p>Por eso necesitamos:</p>\n      <div class=\"lesson-question\"><strong>CHEQUEAR LA ESCUCHA</strong><span>¿Qué escuchó el otro?<br>¿Qué entendió que estamos coordinando?</span></div>\n    </div>",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "04 · ANATOMÍA DEL POP (2/2)",
-        "title": "Condiciones de Satisfacción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Expresar en HECHOS:</span><span class=\"croquis-desc\">Detallar claramente el cómo, cuánto, dónde y la calidad esperada del resultado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">5. Tiempo Límite Concreto:</span><span class=\"croquis-desc\">Fijar fecha y hora precisa (eliminar frases como <em>\"cuanto antes\"</em> o <em>\"cuando puedas\"</em>).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">6. Chequeo de Escucha:</span><span class=\"croquis-desc\">Confirmar que ambas partes interpretaron exactamente lo mismo antes de cerrar.</span></div>\n          </div>\n        ",
+        "kicker": "04 · CONDICIONES DE SATISFACCIÓN",
+        "title": "¿Qué necesitamos que pase?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Un pedido como:</p>\n      <p class=\"editorial-statement\"><strong>“Necesito el informe.”</strong></p>\n      <p>Deja demasiado espacio para diferentes interpretaciones.</p>\n      <p>Necesitamos expresar las condiciones de satisfacción en hechos:</p>\n      <div class=\"condition-grid\"><strong>¿CÓMO?</strong><strong>¿DÓNDE?</strong><strong>¿CUÁNTO?</strong><strong>¿PARA CUÁNDO?</strong></div>\n      <p>Las condiciones de satisfacción permiten establecer qué esperamos que ocurra.</p>\n      <div class=\"observer-principle\"><strong>Cuanto más claras las condiciones, más clara la coordinación.</strong></div>\n    </div>",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
-        "kicker": "05 · ÉTICA Y COMPROMISO SOCIAL",
-        "title": "Sinceridad y Competencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Capacidad de Ejecución:</span><span class=\"croquis-desc\">Pedir u ofrecer exige la sinceridad de intención y contar con las competencias requeridas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aviso Ante Quiebres:</span><span class=\"croquis-desc\">Si surge un obstáculo imprevisto, tenés la responsabilidad de avisar <strong>antes del vencimiento del plazo</strong> y renegociar.</span></div>\n          </div>\n        ",
-        "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
-      },
-      {
-        "kicker": "06 · PODER EN RED",
-        "title": "Del Aislamiento a la Sinergia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Nadie se Realiza Solo:</span><span class=\"croquis-desc\">Superar la ilusión de autosuficiencia y aprender a pedir u ofrecer con efectividad multiplica tus resultados.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construir Ofertas Poderosas:</span><span class=\"croquis-desc\">Transformarte en una oferta atractiva te posiciona como un líder clave en tu comunidad.</span></div>\n          </div>\n        ",
+        "kicker": "05 · COMPROMISO AL PEDIR U OFRECER",
+        "title": "Pedir también implica responsabilidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando hacemos un pedido u oferta nos comprometemos a:</p>\n      <div class=\"lesson-list compact-lessons\">\n        <p><strong>EXPRESAR</strong><span>Las condiciones de satisfacción.</span></p>\n        <p><strong>CHEQUEAR</strong><span>La escucha de esas condiciones.</span></p>\n        <p><strong>CHEQUEAR</strong><span>La respuesta y la promesa generada.</span></p>\n      </div>\n      <p>Un pedido o una oferta no implican automáticamente una promesa.</p>\n      <p>Necesitamos una respuesta del otro.</p>\n      <div class=\"lesson-emphasis\">PEDIDO / OFERTA → RESPUESTA → POSIBLE PROMESA</div>\n    </div>",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "8) Coordinación de acciones para hacer que las cosas pasen: Pedidos y Ofertas."
@@ -396,53 +390,41 @@
     "domain": "Lenguaje",
     "color": "#ff9f1c",
     "hook": "La promesa formaliza el futuro; el reclamo impecable repara la confianza rota.",
-    "minutes": 7,
+    "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · EL ANIMAL QUE PROMETE",
-        "title": "Crear Futuro con la Palabra",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundamento Nietzscheano:</span><span class=\"croquis-desc\">Nietzsche definía al ser humano como <em>el único animal capaz de hacer promesas</em>: la capacidad ontológica de atar la voluntad futura a través del lenguaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Puente Ontológico:</span><span class=\"croquis-desc\">Hacer una promesa es comprometer nuestras acciones futuras para dar certidumbre a la red de relaciones.</span></div>\n          </div>\n        ",
+        "kicker": "01 · PROMESA",
+        "title": "Cuando aparece el compromiso",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Un pedido o una oferta no son todavía una promesa.</p>\n      <p>La promesa aparece cuando se genera un compromiso aceptado entre las partes.</p>\n      <div class=\"future-flow compact-flow\">\n        <p><strong>PEDIDO / OFERTA</strong></p><b>↓</b>\n        <p><strong>ESCUCHA + ACEPTACIÓN</strong></p><b>↓</b>\n        <p><strong>PROMESA</strong></p>\n      </div>\n      <p>A partir de allí existe un compromiso respecto de determinadas condiciones de satisfacción.</p>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "02 · ESTRUCTURA DE LA PROMESA",
-        "title": "Formalización del Compromiso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ecuación Fundamental:</span><span class=\"croquis-desc\"><strong>PROMESA = Pedido (u Oferta) + ACEPTACIÓN EXPLÍCITA</strong>. Sin aceptación explícita no hay promesa formalizada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Condiciones y Plazo:</span><span class=\"croquis-desc\">Requiere claridad absoluta sobre qué se entrega, con qué calidad y en qué fecha/hora exacta.</span></div>\n          </div>\n        ",
+        "kicker": "02 · CONFIANZA",
+        "title": "¿Puedo confiar en esa promesa?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando alguien promete, podemos preguntarnos:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>SINCERIDAD</strong><p>¿Juzgo que realmente tiene intención de cumplir?</p></section>\n        <section><strong>COMPETENCIA</strong><p>¿Juzgo que tiene capacidad para cumplir?</p></section>\n      </div>\n      <p>Una promesa involucra el compromiso social de sinceridad y requiere contar con las competencias necesarias para satisfacer lo acordado.</p>\n      <div class=\"observer-principle\"><strong>Las promesas participan en la construcción de confianza.</strong></div>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "03 · PROMESAS CON UNO MISMO",
-        "title": "La Auto-Promesa",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso Interno:</span><span class=\"croquis-desc\">Las promesas no solo se hacen a terceros; las promesas hacia vos mismo fundan tu autocoherencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Erosión de Autoestima:</span><span class=\"croquis-desc\">Romper sistemáticamente los acuerdos con vos mismo (dietas, proyectos, descansos) destruye el juicio de autoconfianza.</span></div>\n          </div>\n        ",
+        "kicker": "03 · QUIEBRE",
+        "title": "¿Qué pasa si no puedo cumplir?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Comprometerse no significa que nunca aparecerán obstáculos.</p>\n      <p>Puede surgir un quiebre que impida cumplir aquello que prometimos.</p>\n      <p>La responsabilidad no es esperar al vencimiento.</p>\n      <div class=\"lesson-question\"><strong>ANTES DEL PLAZO:</strong><span>COMUNICAR → COORDINAR → GENERAR UNA NUEVA PROMESA</span></div>\n      <p>El compromiso al prometer incluye coordinar antes del plazo cuando aparecen obstáculos y generar nuevas promesas.</p>\n      <div class=\"observer-principle\"><strong>Un quiebre no necesariamente destruye la confianza.</strong><strong>Cómo respondemos frente a él también construye relación.</strong></div>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "04 · DISTINCIÓN CRUCIAL",
-        "title": "Queja Impotente vs. Reclamo Productivo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Queja Impotente:</span><span class=\"croquis-desc\">Se centra en el pasado, la víctima y la desahogo emocional. Busca culpa pero no resuelve el problema.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reclamo Productivo:</span><span class=\"croquis-desc\">Se funda en una <strong>promesa previa existente</strong>. Busca reparar el costo generado y acordar un nuevo futuro.</span></div>\n          </div>\n        ",
+        "kicker": "04 · INCUMPLIMIENTO",
+        "title": "Cuando la promesa no se cumple",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Si llega el momento acordado y las condiciones de satisfacción no fueron cumplidas, podemos declarar:</p>\n      <div class=\"lesson-emphasis\">INCUMPLIMIENTO</div>\n      <p>No necesitamos quedarnos solamente en:</p>\n      <div class=\"muted-emphasis\">QUEJA · ENOJO · RESENTIMIENTO</div>\n      <p>Disponemos de otro recurso lingüístico:</p>\n      <div class=\"observer-principle\"><strong>EL RECLAMO</strong></div>\n      <p>El reclamo permite intervenir frente al incumplimiento y buscar reparar y volver a coordinar acciones.</p>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
-        "kicker": "05 · ANATOMÍA DEL RECLAMO",
-        "title": "Los 4 Pasos de la Impecabilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Verificar Promesa:</span><span class=\"croquis-desc\">Validar que existió un acuerdo previo y que la otra parte aceptó las condiciones.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Constatar el Hecho:</span><span class=\"croquis-desc\">Presentar objetivamente la desviación respecto de la promesa sin juzgar ni descalificar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Declarar el Impacto:</span><span class=\"croquis-desc\">Expresar los costos reales, daños o perjuicios sufridos por el incumplimiento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Pedir Reparación:</span><span class=\"croquis-desc\">Exigir una compensación justa y <strong>recontratar una nueva promesa</strong> para adelante.</span></div>\n          </div>\n        ",
-        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
-      },
-      {
-        "kicker": "06 · ÉTICA DEL PROMETIENTE",
-        "title": "Aviso Previo Ante el Quiebre",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Responsabilidad Anticipada:</span><span class=\"croquis-desc\">Si descubrís que no vas a poder cumplir la promesa, tu obligación ética es avisar <strong>antes del vencimiento del plazo</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Minimizar Daños:</span><span class=\"croquis-desc\">Avisar a tiempo le permite al otro activar planes de contingencia y protege tu juicio de sinceridad.</span></div>\n          </div>\n        ",
-        "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
-      },
-      {
-        "kicker": "07 · RECONSTRUIR LA CONFIANZA",
-        "title": "Sanar el Vínculo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Madurez Relacional:</span><span class=\"croquis-desc\">Un reclamo conducido con altura ontológica no rompe la relación; la eleva a un nivel superior de rigor y respeto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cultura del Cumplimiento:</span><span class=\"croquis-desc\">Transformar la impuntualidad e informalidad en una cultura de promesas impecables.</span></div>\n          </div>\n        ",
+        "kicker": "05 · RECLAMO",
+        "title": "Reclamar es volver a coordinar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Un reclamo efectivo implica:</p>\n      <div class=\"lesson-list compact-lessons\">\n        <p><strong>01 · RECORDAR</strong><span>La promesa acordada.</span></p>\n        <p><strong>02 · DECLARAR</strong><span>El incumplimiento.</span></p>\n        <p><strong>03 · COMUNICAR</strong><span>Las consecuencias que produjo.</span></p>\n        <p><strong>04 · PEDIR</strong><span>Una reparación.</span></p>\n        <p><strong>05 · RECOMPROMETER</strong><span>Generando una nueva coordinación.</span></p>\n      </div>\n      <div class=\"flow-formula\">PROMESA → INCUMPLIMIENTO → RECLAMO → REPARACIÓN → RECOMPROMISO</div>\n    </div>",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "9) Promesas como formalización del compromiso y Reclamo como recurso frente a su incumplimiento."
