@@ -24,7 +24,10 @@
       <p class="micro-intro-copy">La acción lingüística de distinguir es la capacidad de ver algo que antes no veíamos, trayéndolo al frente y resignificándolo.</p>
     </section>
     <section class="micro-controls" aria-label="Buscar y filtrar distinciones">
-      <label class="micro-search"><span aria-hidden="true">⌕</span><span class="sr-only">Buscar distinción</span><input id="search" type="search" placeholder="¿Qué querés entender?"></label>
+      <div class="micro-search-shell">
+        <label class="micro-search"><span aria-hidden="true">⌕</span><span class="sr-only">Buscar en todas las filminas</span><input id="search" type="search" placeholder="Buscá una palabra o tema" autocomplete="off" aria-controls="search-results" aria-expanded="false"></label>
+        <div id="search-results" class="micro-search-results" role="listbox" aria-label="Filminas encontradas" hidden></div>
+      </div>
       <div id="filters" class="micro-filters" role="group" aria-label="Filtrar por dominio"></div>
     </section>
     <section id="grid" class="micro-grid" aria-label="Distinciones"><p>Cargando biblioteca…</p></section>

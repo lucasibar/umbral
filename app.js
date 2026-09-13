@@ -2,6 +2,115 @@ const $ = (id) => document.getElementById(id);
 const normalize = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 let topics = [], category = 'Todas', selected = null, current = 0, installPrompt;
 let userReflections = new Map();
+let searchIndex = [];
+
+const stem = (value) => {
+  let word = normalize(value).replace(/[^a-z0-9ñ]/g, '');
+  if (word.length <= 4) return word;
+  const suffixes = ['amientos', 'imiento', 'aciones', 'adores', 'adoras', 'amente', 'mente', 'ando', 'iendo', 'ados', 'adas', 'idos', 'idas', 'acion', 'cion', 'es', 'os', 'as', 'ado', 'ada', 'ido', 'ida', 'ar', 'er', 'ir', 'o', 'a', 's'];
+  const suffix = suffixes.find(item => word.length - item.length >= 4 && word.endsWith(item));
+  return suffix ? word.slice(0, -suffix.length) : word;
+};
+
+const tokenize = (value) => normalize(value).match(/[a-z0-9ñ]+/g) || [];
+
+function htmlToText(html = '') {
+  const container = document.createElement('div');
+  container.innerHTML = html;
+  return (container.textContent || '').replace(/\s+/g, ' ').trim();
+}
+
+function buildSearchIndex() {
+  searchIndex = topics.flatMap(topic => topic.slides.map((slide, slideIndex) => {
+    if (slide.type === 'reflection') return null;
+    const body = htmlToText(slide.body);
+    const titleText = `${topic.title} ${topic.officialTitle || ''} ${slide.kicker || ''} ${slide.title || ''}`;
+    const fullText = `${titleText} ${body}`;
+    return {
+      topic,
+      slide,
+      slideIndex,
+      body,
+      titleNormalized: normalize(titleText),
+      fullNormalized: normalize(fullText),
+      stems: new Set(tokenize(fullText).map(stem)),
+    };
+  }).filter(Boolean));
+}
+
+function searchSlides(rawQuery) {
+  const query = normalize(rawQuery.trim());
+  if (query.length < 2) return [];
+  const words = tokenize(query);
+  const roots = words.map(stem);
+  return searchIndex
+    .map(entry => {
+      const matches = words.every((word, index) => entry.fullNormalized.includes(word) || entry.stems.has(roots[index]));
+      if (!matches) return null;
+      let score = 0;
+      if (entry.titleNormalized.includes(query)) score += 12;
+      if (entry.fullNormalized.includes(query)) score += 6;
+      words.forEach((word, index) => {
+        if (entry.titleNormalized.includes(word)) score += 4;
+        if (entry.stems.has(roots[index])) score += 2;
+      });
+      return { ...entry, score };
+    })
+    .filter(Boolean)
+    .sort((a, b) => b.score - a.score || topics.indexOf(a.topic) - topics.indexOf(b.topic) || a.slideIndex - b.slideIndex);
+}
+
+function resultExcerpt(entry, rawQuery) {
+  const text = entry.body;
+  if (!text) return '';
+  const normalizedText = normalize(text);
+  const word = tokenize(rawQuery)[0] || '';
+  let index = normalizedText.indexOf(word);
+  if (index < 0) {
+    const root = stem(word);
+    index = tokenize(text).findIndex(token => stem(token) === root);
+    if (index >= 0) index = Math.max(0, text.toLowerCase().indexOf(tokenize(text)[index].toLowerCase()));
+  }
+  const start = Math.max(0, (index < 0 ? 0 : index) - 38);
+  const excerpt = text.slice(start, start + 120).trim();
+  return `${start > 0 ? '…' : ''}${excerpt}${start + 120 < text.length ? '…' : ''}`;
+}
+
+function closeSearchResults() {
+  $('search-results').hidden = true;
+  $('search').setAttribute('aria-expanded', 'false');
+}
+
+function renderSearchResults() {
+  const query = $('search').value.trim();
+  const results = searchSlides(query).slice(0, 8);
+  const panel = $('search-results');
+  if (query.length < 2) {
+    closeSearchResults();
+    panel.replaceChildren();
+    return;
+  }
+  if (!results.length) {
+    panel.replaceChildren(node('p', 'micro-search-empty', 'No encontramos filminas con esa palabra.'));
+  } else {
+    panel.replaceChildren(...results.map(entry => {
+      const button = node('button', 'micro-search-result');
+      button.type = 'button';
+      button.setAttribute('role', 'option');
+      const context = node('span', 'micro-search-result-context', `${entry.topic.title} · ${entry.slide.kicker}`);
+      const title = node('strong', '', entry.slide.title);
+      const excerpt = node('span', 'micro-search-result-excerpt', resultExcerpt(entry, query));
+      button.append(context, title, excerpt);
+      button.addEventListener('click', () => {
+        closeSearchResults();
+        openTopic(entry.topic, entry.slideIndex);
+      });
+      return button;
+    }));
+  }
+  panel.hidden = false;
+  $('search').setAttribute('aria-expanded', 'true');
+}
 
 // --- INDEXEDDB HELPER FUNCTIONS ---
 const DB_NAME = 'umbral-db';
@@ -100,8 +209,15 @@ const node = (tag, className, text) => {
 };
 
 function renderGrid() {
-  const query = normalize($('search').value.trim());
-  const visible = topics.filter(t => (category === 'Todas' || t.domain === category) && normalize(t.title + ' ' + (t.officialTitle || '') + ' ' + t.hook).includes(query));
+  const rawQuery = $('search').value.trim();
+  const matchingTopics = rawQuery.length < 2 ? null : new Set(searchSlides(rawQuery).map(result => result.topic.slug));
+  const query = normalize(rawQuery);
+  const visible = topics.filter(t => {
+    const inCategory = category === 'Todas' || t.domain === category;
+    if (!inCategory) return false;
+    if (!query) return true;
+    return normalize(t.title + ' ' + (t.officialTitle || '') + ' ' + t.hook).includes(query) || matchingTopics?.has(t.slug);
+  });
   $('grid').replaceChildren(...visible.map(t => {
     const card = node('button', 'micro-card');
     card.style.setProperty('--micro-color', t.color);
@@ -206,8 +322,9 @@ function createReflectionSlide(slide, topic, index, totalSlides) {
   return wrapper;
 }
 
-function openTopic(topic) {
-  selected = topic; current = 0;
+function openTopic(topic, initialSlide = 0) {
+  selected = topic;
+  current = Math.max(0, Math.min(topic.slides.length - 1, initialSlide));
   $('reel-title').textContent = topic.title;
   if ($('official-title')) $('official-title').textContent = topic.officialTitle || '';
   $('domain').textContent = topic.domain;
@@ -240,10 +357,34 @@ function openTopic(topic) {
 
   if (!$('reel').open) $('reel').showModal();
   document.body.classList.add('micro-reel-open');
-  goTo(0, 'instant'); updatePosition(); $('close').focus();
+  goTo(current, 'instant'); updatePosition(); $('close').focus();
 }
 
-$('search').addEventListener('input', renderGrid);
+$('search').addEventListener('input', () => {
+  renderGrid();
+  renderSearchResults();
+});
+$('search').addEventListener('focus', renderSearchResults);
+$('search').addEventListener('keydown', event => {
+  if (event.key === 'Escape') closeSearchResults();
+  if (event.key === 'ArrowDown' && !$('search-results').hidden) {
+    const first = $('search-results').querySelector('button');
+    if (first) { event.preventDefault(); first.focus(); }
+  }
+});
+$('search-results').addEventListener('keydown', event => {
+  if (!['ArrowDown', 'ArrowUp', 'Escape'].includes(event.key)) return;
+  event.preventDefault();
+  if (event.key === 'Escape') { closeSearchResults(); $('search').focus(); return; }
+  const buttons = [...$('search-results').querySelectorAll('button')];
+  const index = buttons.indexOf(document.activeElement);
+  const nextIndex = event.key === 'ArrowDown' ? Math.min(buttons.length - 1, index + 1) : index <= 0 ? -1 : index - 1;
+  if (nextIndex < 0) $('search').focus();
+  else buttons[nextIndex]?.focus();
+});
+document.addEventListener('click', event => {
+  if (!event.target.closest('.micro-search-shell')) closeSearchResults();
+});
 ['Todas', 'Ontología', 'Lenguaje', 'Emoción', 'Cuerpo'].forEach(name => {
   const button = node('button', name === category ? 'is-active' : '', name);
   button.setAttribute('aria-pressed', String(name === category));
@@ -283,6 +424,7 @@ async function start() {
     const response = await fetch('./data.json');
     if (!response.ok) throw new Error('No se pudo cargar el contenido');
     topics = await response.json();
+    buildSearchIndex();
     await loadAllReflections();
     renderGrid();
     if ('serviceWorker' in navigator && window.isSecureContext) {

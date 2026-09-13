@@ -22,13 +22,22 @@
 .micro-intro h1 em { color: transparent; -webkit-text-stroke: 1px rgba(255,255,255,.65); font-weight: 400; }
 .micro-intro-copy { max-width: 400px; margin: 0 0 7px; color: #a6aab4; font-size: 1rem; line-height: 1.65; }
 .micro-controls { width: min(1180px, calc(100% - 40px)); margin: 0 auto 28px; display: flex; align-items: center; gap: 18px; position: relative; z-index: 2; }
-.micro-search { flex: 1; min-height: 50px; display: flex; align-items: center; gap: 12px; padding: 0 17px; border: 1px solid rgba(255,255,255,.13); border-radius: 14px; background: rgba(255,255,255,.055); color: #737a89; }
+.micro-search-shell { position: relative; flex: 1; min-width: 0; }
+.micro-search { width: 100%; min-height: 50px; display: flex; align-items: center; gap: 12px; padding: 0 17px; border: 1px solid rgba(255,255,255,.13); border-radius: 14px; background: rgba(255,255,255,.055); color: #737a89; }
 .micro-search:focus-within { border-color: rgba(255,117,84,.75); box-shadow: 0 0 0 3px rgba(255,107,70,.1); }
 .micro-search > svg { width: 18px; }
 .micro-search input { width: 100%; border: 0; outline: 0; background: transparent; color: white; font-size: .9rem; }
 .micro-search input::placeholder { color: #737a89; }
 .micro-search button { width: 30px; height: 30px; display: grid; place-items: center; border: 0; border-radius: 50%; background: rgba(255,255,255,.08); color: #aeb3bd; cursor: pointer; }
 .micro-search button svg { width: 14px; }
+.micro-search-results { position: absolute; z-index: 30; top: calc(100% + 8px); left: 0; width: min(640px, 100%); max-height: min(520px, 68vh); overflow-y: auto; padding: 7px; border: 1px solid rgba(255,255,255,.13); border-radius: 16px; background: rgba(14,16,22,.98); box-shadow: 0 22px 55px rgba(0,0,0,.5); backdrop-filter: blur(18px); }
+.micro-search-results[hidden] { display: none; }
+.micro-search-result { width: 100%; display: grid; gap: 3px; padding: 11px 12px; border: 0; border-radius: 11px; background: transparent; color: #fff; text-align: left; cursor: pointer; }
+.micro-search-result:hover, .micro-search-result:focus-visible { outline: none; background: rgba(255,255,255,.075); }
+.micro-search-result-context { color: #ff896d; font-size: .62rem; font-weight: 800; letter-spacing: .045em; text-transform: uppercase; }
+.micro-search-result strong { font-size: .84rem; line-height: 1.25; }
+.micro-search-result-excerpt { overflow: hidden; color: #9ea4af; font-size: .7rem; line-height: 1.35; white-space: nowrap; text-overflow: ellipsis; }
+.micro-search-empty { margin: 0; padding: 13px 12px; color: #9ea4af; font-size: .76rem; }
 .micro-filters { display: flex; gap: 7px; overflow-x: auto; scrollbar-width: none; }
 .micro-filters button { min-height: 42px; padding: 0 15px; border: 1px solid rgba(255,255,255,.12); border-radius: 999px; background: transparent; color: #8e95a3; font-size: .76rem; cursor: pointer; white-space: nowrap; transition: 160ms ease; }
 .micro-filters button:hover { color: white; border-color: rgba(255,255,255,.3); }
