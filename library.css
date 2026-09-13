@@ -511,6 +511,65 @@ body.micro-reel-open { overflow: hidden; }
   font-size: .8rem;
   line-height: 1;
 }
+.declaration-directions {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+.declaration-directions section {
+  padding: 0;
+  border-left: 0;
+  text-align: center;
+}
+.compact-flow {
+  gap: 2px;
+  padding: 9px 0;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+}
+.compact-flow p strong {
+  font-size: .8rem;
+}
+.declaration-list {
+  display: grid;
+  gap: 8px;
+  color: var(--micro-color);
+  font-size: .82rem;
+  line-height: 1.3;
+  text-align: center;
+}
+.choice-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.choice-grid section,
+.choice-grid-grid section {
+  padding-left: 0;
+  border-left: 0;
+  text-align: center;
+}
+.declaration-summary {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 11px 16px;
+  margin-top: 8px;
+}
+.declaration-summary p {
+  display: grid;
+  align-content: start;
+  gap: 2px;
+  margin: 0;
+}
+.declaration-summary strong {
+  color: var(--micro-color);
+  font-size: .78rem;
+}
+.declaration-summary span {
+  color: #d1d5db;
+  font-size: .8rem;
+  line-height: 1.35;
+}
+.declaration-summary .lesson-emphasis {
+  grid-column: 1 / -1;
+  margin-top: 4px;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {

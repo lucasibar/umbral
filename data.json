@@ -168,41 +168,35 @@
     "domain": "Lenguaje",
     "color": "#ff85a1",
     "hook": "Un 'Sí' o un 'No' a tiempo transforman el rumbo de tu historia.",
-    "minutes": 6,
+    "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · ACTO LINGÜÍSTICO",
-        "title": "Declaraciones",
-        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando declaramos, <strong>no describimos un mundo que ya existe</strong>.</p>\n      <p>A través de nuestras palabras <strong>generamos una nueva realidad</strong> y modificamos el espacio de posibilidades.</p>\n      <div class=\"lesson-emphasis\">PALABRA → MUNDO</div>\n      <div class=\"declaration-examples\"><strong>“Sí.”</strong><strong>“No.”</strong><strong>“Renuncio.”</strong><strong>“Acepto.”</strong></div>\n      <p>Antes y después de una declaración, <strong>el mundo ya no es el mismo.</strong></p>\n      <div class=\"observer-principle\"><strong>DECLARAR ES ACTUAR</strong></div>\n    </div>",
+        "kicker": "01 · DECLARACIONES",
+        "title": "La palabra genera realidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando declaramos no describimos un mundo existente.</p>\n      <p><strong>Generamos una nueva realidad.</strong></p>\n      <p>Después de una declaración, el espacio de posibilidades ya no es el mismo.</p>\n      <div class=\"dimension-grid declaration-directions\">\n        <section><strong>AFIRMACIÓN</strong><b>MUNDO → PALABRA</b></section>\n        <section><strong>DECLARACIÓN</strong><b>PALABRA → MUNDO</b></section>\n      </div>\n      <div class=\"observer-principle\"><strong>La palabra antecede al mundo.</strong></div>\n      <p>Las declaraciones son acciones lingüísticas que generan nuevas realidades y, en este caso, la palabra antecede al mundo.</p>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "02 · VALIDEZ",
-        "title": "¿Toda declaración genera realidad?",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Para que una declaración tenga validez, quien la emite debe contar con <strong>autoridad</strong> dentro del dominio correspondiente.</p>\n      <p class=\"editorial-statement\"><strong>“Los declaro casados.”</strong></p>\n      <p>No produce el mismo efecto si lo dice:</p>\n      <div class=\"validity-comparison\"><span>una persona cualquiera</span><b>que</b><strong>una autoridad habilitada.</strong></div>\n      <div class=\"lesson-emphasis\">AUTORIDAD → DECLARACIÓN → NUEVA REALIDAD</div>\n      <div class=\"validity-result\"><p><span>Las declaraciones no son:</span><del>VERDADERAS · FALSAS</del></p><p><span>Son:</span><strong>VÁLIDAS · INVÁLIDAS</strong></p></div>\n      <p>Según la autoridad reconocida para realizarlas.</p>\n      <p class=\"lesson-note\">En las declaraciones, la autoridad cumple una función diferente de la fundamentación de un juicio.</p>\n    </div>",
+        "kicker": "02 · POSIBILIDAD",
+        "title": "Declaramos posibilidades",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Las posibilidades remiten al observador que puede distinguirlas y declararlas.</p>\n      <p>Podemos declarar una posibilidad incluso cuando todavía no sabemos cómo realizarla.</p>\n      <div class=\"future-flow compact-flow\">\n        <p><strong>OBSERVADOR</strong></p><b>↓</b>\n        <p><strong>DISTINGUE UNA POSIBILIDAD</strong></p><b>↓</b>\n        <p><strong>LA DECLARA</strong></p>\n      </div>\n      <div class=\"observer-principle\"><strong>Declarar abre un futuro posible.</strong></div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "03 · DECLARACIONES FUNDAMENTALES",
-        "title": "Declaraciones que abren posibilidades",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Hay declaraciones que forman parte de nuestra capacidad de <strong>intervenir en nuestra propia vida y nuestras relaciones</strong>.</p>\n      <div class=\"fundamental-list\">\n        <p><strong>SÍ</strong><span>Acepto y asumo un compromiso.</span></p>\n        <p><strong>NO</strong><span>Establezco límites y cierro posibilidades.</span></p>\n        <p><strong>NO SÉ</strong><span>Reconozco aquello que no sé y abro la posibilidad de aprender.</span></p>\n        <p><strong>GRACIAS</strong><span>Reconozco aquello que otro hizo por mí.</span></p>\n        <p><strong>PERDÓN</strong><span>Asumo responsabilidad frente al daño que juzgo haber producido.</span></p>\n        <p><strong>AMOR</strong><span>Declaro y hago pública una relación afectiva con otro.</span></p>\n      </div>\n    </div>",
+        "kicker": "03 · PODER Y AUTORIDAD",
+        "title": "¿Toda declaración es válida?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <div class=\"validity-result\"><p><span>Las declaraciones no son:</span><del>VERDADERAS · FALSAS</del></p><p><span>Son:</span><strong>VÁLIDAS · INVÁLIDAS</strong></p></div>\n      <p>Su validez depende de la autoridad y el poder de quien las emite dentro de ese dominio.</p>\n      <div class=\"flow-formula\">DECLARACIÓN + AUTORIDAD + PODER → NUEVA REALIDAD</div>\n      <div class=\"lesson-question\"><strong>Poder = capacidad de acción efectiva.</strong></div>\n      <p>El poder permite transformar la declaración en hechos.</p>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
         "kicker": "04 · DISEÑO DE FUTURO",
-        "title": "Declarar un futuro",
-        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>También podemos declarar <strong>aquello que todavía no existe</strong> pero que nos comprometemos a construir.</p>\n      <div class=\"statement-contrast\"><p><span>No estamos prediciendo:</span><strong>“Esto va a suceder.”</strong></p><p><span>Estamos declarando:</span><strong>“Esto es lo que quiero que suceda.”</strong></p></div>\n      <p>La declaración establece un <strong>futuro deseado</strong> desde el cual podemos comenzar a orientar nuestras acciones.</p>\n      <div class=\"lesson-emphasis\">PRESENTE → DECLARACIÓN → FUTURO DESEADO</div>\n      <div class=\"observer-principle\"><strong>La declaración abre una posibilidad.</strong><strong>La acción comienza a construirla.</strong></div>\n    </div>",
-        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
-      },
-      {
-        "kicker": "05 · DE LA DECLARACIÓN A LA ACCIÓN",
-        "title": "Declarar no alcanza",
-        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Declarar un futuro <strong>abre una posibilidad</strong>, pero no garantiza su realización.</p>\n      <p>Para comenzar a construirlo necesitamos generar <strong>acciones y compromisos</strong> coherentes con aquello que declaramos.</p>\n      <div class=\"future-flow\">\n        <p><strong>DECLARACIÓN</strong><span>¿Qué quiero que pase?</span></p><b>↓</b>\n        <p><strong>ACCIÓN</strong><span>¿Qué necesito hacer para que pase?</span></p><b>↓</b>\n        <p><strong>COORDINACIÓN</strong><span>¿Qué necesito de otros?</span></p><b>↓</b>\n        <p><strong>RESULTADO</strong><span>¿Qué futuro estamos construyendo?</span></p>\n      </div>\n      <div class=\"observer-principle\"><strong>DECLARAR ABRE EL FUTURO.</strong><strong>NUESTRAS ACCIONES LO CONSTRUYEN.</strong></div>\n    </div>",
+        "title": "¿Qué queremos que pase?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Una declaración puede surgir cuando nos preguntamos:</p>\n      <div class=\"lesson-question\"><strong>¿Qué quiero que pase?</strong><strong>¿Qué quiero que NO pase más?</strong></div>\n      <p>Declarar permite diseñar un futuro diferente y abrir nuevas posibilidades de acción.</p>\n      <p>Pero declarar no es solamente decir lo que queremos.</p>\n      <p>Nos comprometemos a actuar de manera consistente con lo declarado.</p>\n      <div class=\"lesson-emphasis\">DECLARAR → ACCIONAR → TRANSFORMAR</div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "05 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
@@ -216,50 +210,38 @@
     "domain": "Lenguaje",
     "color": "#9b5de5",
     "hook": "La dignidad nace en el No y la entrega se concreta en el Sí.",
-    "minutes": 6,
+    "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · DIGNIDAD Y AUTONOMÍA",
-        "title": "La Declaración del NO",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rafael Echeverría:</span><span class=\"croquis-desc\">\"La Declaración del NO es una de las más importantes. A través de ella asienta su legitimidad y compromete su dignidad.\"</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Frontera Vital:</span><span class=\"croquis-desc\">El NO define el espacio de tu autonomía personal, tus valores y el límite de lo que aceptás en tu vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Derecho Humano:</span><span class=\"croquis-desc\">Como persona libre tenés el derecho ontológico de rechazar propuestas o situaciones con las que no acordás.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+        "kicker": "01 · NO",
+        "title": "Declarar NO",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Decir NO es ejercer nuestro derecho a no aceptar aquello que no queremos, no elegimos o no estamos dispuestos a permitir.</p>\n      <p>A través del NO:</p>\n      <div class=\"declaration-list\"><strong>ESTABLECEMOS LÍMITES</strong><strong>LEGITIMAMOS NUESTRA POSICIÓN</strong><strong>COMPROMETEMOS NUESTRA DIGNIDAD</strong></div>\n      <div class=\"observer-principle\"><strong>Decir NO también es diseñar futuro.</strong></div>\n    </div>",
+        "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       },
       {
-        "kicker": "02 · LAS TRAMPAS DEL SÍ",
-        "title": "Por qué Cuesta Decir NO",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Miedo a la Pérdida:</span><span class=\"croquis-desc\">Frecuentemente decimos SÍ por miedo a perder el trabajo, la pareja, una amistad o la aprobación del grupo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuidado de Imagen:</span><span class=\"croquis-desc\">Priorizar la máscara de \"quedar bien\" ante el entorno erosiona tu capacidad de sostener tu palabra personal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falso SÍ:</span><span class=\"croquis-desc\">Decir SÍ queriendo decir NO provoca frustración silenciosa y destruye tu autoestima con el tiempo.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+        "kicker": "02 · BASTA",
+        "title": "Cuando el NO se convierte en BASTA",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>BASTA es una forma de declarar NO frente a algo que veníamos aceptando.</p>\n      <p>Marca un límite entre:</p>\n      <div class=\"future-flow compact-flow\">\n        <p><strong>LO QUE ACEPTÉ HASTA AHORA</strong></p><b>↓</b>\n        <p><strong>BASTA</strong></p><b>↓</b>\n        <p><strong>LO QUE YA NO ESTOY DISPUESTO A ACEPTAR</strong></p>\n      </div>\n      <p>No se trata de negarnos sistemáticamente.</p>\n      <p>Se trata de decidir qué aceptamos y qué no.</p>\n    </div>",
+        "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       },
       {
-        "kicker": "03 · DIGNIDAD Y AUTOESTIMA",
-        "title": "El Costo de la Resignación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Resignación y Víctima:</span><span class=\"croquis-desc\">Quien no dice NO cuando cree que debe decirlo termina sintiéndose atrapado y víctima de las circunstancias.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoestima y Poder:</span><span class=\"croquis-desc\">Decir NO de manera oportuna es el ejercicio básico de amor propio y reafirmación del propio valor.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+        "kicker": "03 · SÍ",
+        "title": "Declarar SÍ",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El SÍ no es simplemente la ausencia de un NO.</p>\n      <div class=\"observer-principle\"><strong>Significa: ACEPTO.</strong></div>\n      <p>Al decir SÍ ponemos en juego el valor y el respeto por nuestra palabra.</p>\n      <div class=\"lesson-emphasis\">SÍ → ACEPTACIÓN → COMPROMISO</div>\n      <p>Decir SÍ cuando queremos decir NO puede comprometer nuestra dignidad.</p>\n      <p>Un SÍ auténtico compromete nuestra palabra.</p>\n    </div>",
+        "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       },
       {
-        "kicker": "04 · LA DECLARACIÓN DE BASTA",
-        "title": "Poner Límites Definitivos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Punto de Inflexión:</span><span class=\"croquis-desc\">Declarar BASTA es detener aquello que atenta contra tu bienestar, ética o salud emocional.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Giro a la Responsabilidad:</span><span class=\"croquis-desc\">Es la declaración que marca el paso definitivo de la posición pasiva de sufrimiento a la autoría.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
-      },
-      {
-        "kicker": "05 · LA VALIDEZ DEL SÍ",
-        "title": "El Compromiso Auténtico",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Regla de Oro:</span><span class=\"croquis-desc\">Quien no tiene la libertad de decir NO tampoco puede dar un SÍ verdaderamente valioso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">El \"Sí, pero...\":</span><span class=\"croquis-desc\">Un \"Sí, pero...\" no representa aceptación real: equivale ontológicamente a un NO disfrazado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Asumir la Promesa:</span><span class=\"croquis-desc\">El SÍ genuino compromete tu honor y tus recursos hacia la ejecución impecable de lo acordado.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
-      },
-      {
-        "kicker": "06 · EFECTO ESPEJO Y LEGITIMIDAD",
-        "title": "Aceptar el NO del Otro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Respeto Mutuo:</span><span class=\"croquis-desc\">Cuando ejercés tu derecho a decir NO, aprendés a aceptar el NO de los demás sin tomarlo como ataque.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía Ajena:</span><span class=\"croquis-desc\">Entender que el NO del otro es el ejercicio de sus propios límites y no una negación de tu persona.</span></div>\n          </div>\n        ",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+        "kicker": "04 · ELEGIR",
+        "title": "Sí y No generan caminos diferentes",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cada vez que respondemos:</p>\n      <div class=\"dimension-grid choice-grid\">\n        <section><strong>SÍ</strong><p>Aceptamos y nos comprometemos.</p></section>\n        <section><strong>NO</strong><p>Ponemos un límite y cerramos esa posibilidad.</p></section>\n      </div>\n      <p>Ambas declaraciones participan en la construcción de nuestras relaciones, nuestros compromisos y nuestro futuro.</p>\n      <div class=\"observer-principle\"><strong>Elegir qué aceptamos también es diseñar quién estamos siendo.</strong></div>\n    </div>",
+        "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "05 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
-        "source": "5) Algunas declaraciones fundamentales: No/Basta, Sí"
+        "source": "5) Algunas declaraciones fundamentales: No / Basta y Sí."
       }
     ]
   },
@@ -270,47 +252,35 @@
     "domain": "Lenguaje",
     "color": "#f15bb5",
     "hook": "Reconocer que no sabés es la puerta de entrada a todo aprendizaje.",
-    "minutes": 6,
+    "minutes": 5,
     "slides": [
       {
-        "kicker": "01 · UMBRAL DE APRENDIZAJE",
-        "title": "La Declaración del 'NO SÉ'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Primer Paso:</span><span class=\"croquis-desc\">El primer paso del aprendizaje es declarar <em>\"Yo no sé\"</em>. Salir de la trampa del <em>\"yo ya sé todo\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Temor a la Vulnerabilidad:</span><span class=\"croquis-desc\">Muchos prefieren fingir conocimiento por cuidar la imagen o miedo a parecer lentos o incompetentes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Abrir la Posibilidad:</span><span class=\"croquis-desc\">Sin la declaración de ignorancia no existe espacio de aprendizaje posible.</span></div>\n          </div>\n        ",
+        "kicker": "01 · IGNORANCIA",
+        "title": "Declarar “No sé”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Reconocer que no sabemos puede parecer una limitación.</p>\n      <p>Desde el aprendizaje sucede lo contrario.</p>\n      <p class=\"editorial-statement\"><strong>“NO SÉ”</strong></p>\n      <p>Nos permite reconocer una brecha entre lo que sabemos y aquello que todavía podemos aprender.</p>\n      <div class=\"statement-contrast\"><p><strong>CREO QUE SÉ → CIERRE</strong></p><p><strong>RECONOZCO QUE NO SÉ → APERTURA</strong></p></div>\n      <div class=\"observer-principle\"><strong>“No sé” abre la posibilidad de aprender.</strong></div>\n    </div>",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "02 · LA CEGUERA COGNOSCITIVA",
-        "title": "Lo que No Sé que No Sé",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Zonas de Ceguera:</span><span class=\"croquis-desc\">Existe una inmensa área donde no sabemos que no sabemos. Reconocerla destruye la arrogancia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humildad Cognoscitiva:</span><span class=\"croquis-desc\">Aceptar que nuestro Observador tiene límites y que el mundo contiene posibilidades invisibles para nosotros.</span></div>\n          </div>\n        ",
+        "kicker": "02 · APRENDIZAJE",
+        "title": "Del “No sé” al “Aprenderé”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Hay cosas que sabemos que no sabemos.</p>\n      <p>Pero también existe:</p>\n      <div class=\"lesson-emphasis\">LO QUE NO SÉ QUE NO SÉ</div>\n      <p>Cuando logramos distinguir nuestra ignorancia podemos declarar:</p>\n      <p class=\"editorial-statement\"><strong>“APRENDERÉ”</strong></p>\n      <div class=\"flow-formula\">NO SÉ → APERTURA → APRENDIZAJE → NUEVAS POSIBILIDADES</div>\n      <p>Reconocer nuestra ignorancia expande nuestro espacio de acción.</p>\n    </div>",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "03 · LA TRAMPA DEL CONTROL",
-        "title": "Tolerar la Incertidumbre",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Saberlo Todo Ya:</span><span class=\"croquis-desc\">Pretender entender todo de inmediato refleja miedo y necesidad obsesiva de control.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Proceso de Aprendizaje:</span><span class=\"croquis-desc\">Aprender requiere habitar la confusión temporal con liviandad y respeto por los propios tiempos.</span></div>\n          </div>\n        ",
+        "kicker": "03 · GRATITUD",
+        "title": "Declarar “Gracias”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>La gratitud no es solamente una norma de buena educación.</p>\n      <p>Al decir GRACIAS, reconocemos al otro por aquello que hizo y por lo que significó para nosotros.</p>\n      <p><strong>Reconocemos lo recibido.</strong></p>\n      <div class=\"lesson-emphasis\">ACCIÓN DEL OTRO → RECONOCIMIENTO → GRATITUD</div>\n      <p>La declaración participa además en la construcción de nuestra relación con esa persona.</p>\n    </div>",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
-        "kicker": "04 · LA DECLARACIÓN DE GRATITUD",
-        "title": "El Poder del 'GRACIAS'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Más que Educación:</span><span class=\"croquis-desc\">Declarar GRACIAS no es un cliché formal: es el reconocimiento ontológico del valor del otro en tu vida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Reconocer el Aporte:</span><span class=\"croquis-desc\">Es la acción lingüística que celebra las ofertas, promesas y la mera presencia del interlocutor.</span></div>\n          </div>\n        ",
-        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
-      },
-      {
-        "kicker": "05 · OBSERVADOR DE ABUNDANCIA",
-        "title": "Escasez vs. Gratitud",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Queja de Escasez:</span><span class=\"croquis-desc\">Quien vive en la queja permanente habita en un Observador enfocado obsesivamente en lo que falta.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Gratitud Activa:</span><span class=\"croquis-desc\">Construye un Observador de la abundancia que reconoce y celebra los recursos y logros presentes.</span></div>\n          </div>\n        ",
-        "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
-      },
-      {
-        "kicker": "06 · CELEBRACIÓN DE VÍNCULOS",
-        "title": "Honrar las Relaciones",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Clima Emocional:</span><span class=\"croquis-desc\">Agradecer genera un estado de ánimo de paz, serenidad, legitimidad y cercanía en los equipos y vínculos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundar la Confianza:</span><span class=\"croquis-desc\">La gratitud constante fortalece la autoestima mutua y consolida relaciones saludables a largo plazo.</span></div>\n          </div>\n        ",
+        "kicker": "04 · RECONOCER",
+        "title": "La gratitud también genera",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando agradecemos no modificamos lo que ocurrió.</p>\n      <p>Modificamos la relación que construimos con aquello que ocurrió y con quien participó de ello.</p>\n      <p>Podemos agradecer:</p>\n      <div class=\"dimension-grid choice-grid-grid\">\n        <section><strong>A OTROS</strong><p>Por aquello que hicieron por nosotros.</p></section>\n        <section><strong>A LA VIDA</strong><p>Por aquello que reconocemos que nos ha dado.</p></section>\n      </div>\n      <div class=\"observer-principle\"><strong>Agradecer es reconocer y celebrar lo recibido.</strong></div>\n    </div>",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "05 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "6) Algunas declaraciones fundamentales: Gratitud e Ignorancia."
@@ -327,44 +297,38 @@
     "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · LIBERACIÓN SOBERANA",
-        "title": "El Acto Declarativo del Perdón",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto de Liberación:</span><span class=\"croquis-desc\">Perdonar no libera al ofensor de su falta: te libera a VOS de la cadena emocional que te ata al dolor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Romper la Víctima:</span><span class=\"croquis-desc\">Al perdonar ponés fin al proceso abierto que sigue reproduciendo el daño original en tu presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autonomía Emocional:</span><span class=\"croquis-desc\">Reconocés que tu bienestar futuro depende de tu propia elección y no de las acciones del otro.</span></div>\n          </div>\n        ",
+        "kicker": "01 · PERDÓN",
+        "title": "“Perdón”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando nuestras acciones producen daño y asumimos nuestra responsabilidad, podemos declarar:</p>\n      <p class=\"editorial-statement\"><strong>PERDÓN</strong></p>\n      <p>No se trata solamente de explicar lo ocurrido.</p>\n      <p>Implica reconocer:</p>\n      <div class=\"future-flow compact-flow\"><p><strong>MI ACCIÓN</strong></p><b>↓</b><p><strong>SUS CONSECUENCIAS</strong></p><b>↓</b><p><strong>MI RESPONSABILIDAD</strong></p></div>\n      <div class=\"observer-principle\"><strong>Pedir perdón es hacernos responsables de nuestras propias acciones.</strong></div>\n    </div>",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "02 · REDISEÑO TEMPORAL",
-        "title": "Perdonar no es Olvidar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Mirada al Futuro:</span><span class=\"croquis-desc\">Perdonar no cambia lo que ocurrió en el pasado, pero abre posibilidades inéditas para el futuro.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No usar en Contra:</span><span class=\"croquis-desc\">Perdonar no implica amnesia: es el compromiso explícito de no usar lo sucedido como arma contra el otro.</span></div>\n          </div>\n        ",
+        "kicker": "02 · PERDONAR",
+        "title": "“Te perdono”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Perdonar es diferente de pedir perdón.</p>\n      <p>Cuando declaramos:</p>\n      <p class=\"editorial-statement\"><strong>“TE PERDONO”</strong></p>\n      <p>Podemos intervenir sobre la relación que mantenemos con aquello que nos ocurrió.</p>\n      <p>Perdonar no modifica el pasado.</p>\n      <p>Busca romper la cadena que nos mantiene ligados al victimario y al resentimiento.</p>\n      <div class=\"observer-principle\"><strong>Perdonar es un acto declarativo de liberación personal.</strong></div>\n    </div>",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "03 · LA TRAMPA DE LA CONDICIÓN",
-        "title": "Independencia del Perdón",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Sin Arrepentimiento Ajeno:</span><span class=\"croquis-desc\">Condicionar tu perdón a que el otro se disculpe te mantiene prisionero de la voluntad ajena.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Andar con Frenos:</span><span class=\"croquis-desc\">No perdonar es como andar en bicicleta con los frenos apretados: agota, frustra e impide avanzar.</span></div>\n          </div>\n        ",
+        "kicker": "03 · PERDONARSE",
+        "title": "“Me perdono”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>También podemos quedar atrapados en juicios sobre nuestras propias acciones pasadas.</p>\n      <p>Perdonarnos no significa negar lo que hicimos ni eliminar nuestra responsabilidad.</p>\n      <p>Significa dejar de convertir una acción del pasado en una condena permanente sobre quién somos.</p>\n      <div class=\"flow-formula\">RECONOZCO → ASUMO → APRENDO → ME PERDONO</div>\n      <div class=\"observer-principle\"><strong>Perdonarnos permite volver a abrir futuro.</strong></div>\n    </div>",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "04 · LAS 3 DIMENSIONES",
-        "title": "Anatomía de la Tríada",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Pedir Perdón:</span><span class=\"croquis-desc\">Reconocer el daño ocasionado, asumir la responsabilidad y buscar la reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Otorgar Perdón:</span><span class=\"croquis-desc\">Declarar cancelada la deuda emocional retenida contra el ofensor.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Perdonarse a Uno Mismo:</span><span class=\"croquis-desc\">Soltar el juicio implacable, la culpa y el castigo interno sobre los propios errores.</span></div>\n          </div>\n        ",
+        "kicker": "04 · AMOR",
+        "title": "Declarar “Te amo”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Decir “Te amo” no es solamente describir una emoción que existe previamente.</p>\n      <p>Es una declaración que participa en la construcción de nuestra relación con el otro.</p>\n      <p class=\"editorial-statement\"><strong>“TE AMO”</strong></p>\n      <div class=\"declaration-list\"><strong>DECLARA UN VÍNCULO</strong><strong>GENERA UN MUNDO COMPARTIDO</strong><strong>PARTICIPA EN LA RELACIÓN QUE CONSTRUIMOS</strong></div>\n    </div>",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
-        "kicker": "05 · LA DECLARACIÓN DEL AMOR",
-        "title": "El Legítimo Otro (Maturana)",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humberto Maturana:</span><span class=\"croquis-desc\">El amor es la emoción fundante que constituye al otro como un <strong>legítimo otro</strong> en la convivencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Trama Humana:</span><span class=\"croquis-desc\">Se manifiesta concretamente como respeto, solidaridad, aceptación y cuidado mutuo.</span></div>\n          </div>\n        ",
-        "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
-      },
-      {
-        "kicker": "06 · QUIÉN ELIJO SER",
-        "title": "La Declaración de Selman",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Jim Selman:</span><span class=\"croquis-desc\"><em>\"Te amo no es la descripción de un sentimiento, sino una declaración de quién elijo ser yo con vos.\"</em></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso Activo:</span><span class=\"croquis-desc\">El amor ontológico no es pasivo: es la decisión consciente de cuidar y honrar la relación.</span></div>\n          </div>\n        ",
+        "kicker": "05 · EL PODER DE DECLARAR",
+        "title": "Nuestras palabras abren posibilidades",
+        "body": "\n    <div class=\"declaration-summary\">\n      <p><strong>NO / BASTA</strong><span>Pongo límites.</span></p>\n      <p><strong>SÍ</strong><span>Acepto y me comprometo.</span></p>\n      <p><strong>NO SÉ</strong><span>Me abro al aprendizaje.</span></p>\n      <p><strong>GRACIAS</strong><span>Reconozco lo recibido.</span></p>\n      <p><strong>PERDÓN</strong><span>Asumo responsabilidad.</span></p>\n      <p><strong>TE PERDONO</strong><span>Me libero del resentimiento.</span></p>\n      <p><strong>TE AMO</strong><span>Declaro y construyo un vínculo.</span></p>\n      <div class=\"lesson-emphasis\">DECLARAR ES INTERVENIR EN EL MUNDO QUE ESTAMOS CONSTRUYENDO.</div>\n    </div>",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "7) Algunas declaraciones fundamentales: Perdón y Amor."
