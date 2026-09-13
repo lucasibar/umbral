@@ -1152,135 +1152,237 @@
     ]
   },
   {
-    "slug": "apertura-flexibilidad",
-    "title": "Corporalidad: Apertura y Flexibilidad",
-    "officialTitle": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad.",
+    "slug": "corporalidad-observador",
+    "title": "Corporalidad del Observador",
+    "officialTitle": "22) Corporalidad del Observador",
     "domain": "Cuerpo",
     "color": "#e07a5f",
-    "hook": "La corporalidad modela al Observador: la Apertura te dispone a acoger al otro y la Flexibilidad a fluir con el cambio.",
+    "hook": "No tenemos un cuerpo: somos cuerpo. Nuestra corporalidad forma parte del observador y dispone nuestras posibilidades de acción.",
     "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · EL CUERPO COMO DOMINIO ONTOLÓGICO",
-        "title": "Coherencia Somática",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Dominio Indisociable:</span><span class=\"croquis-desc\">En la Tríada Ontológica (GEC: Lenguaje, Emoción y Cuerpo), el cuerpo no es un simple envase: es la base biológica que sostiene tu Observador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Aprender con el Cuerpo:</span><span class=\"croquis-desc\">No podés cambiar tu manera de pensar ni tus emociones si no transformás la postura física que las sostiene.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "01 · EL CUERPO QUE SOMOS",
+        "title": "No tenemos un cuerpo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <div class=\"lesson-emphasis\">SOMOS CUERPO</div>\n      <p>Habitualmente hablamos del cuerpo como algo que tenemos.</p>\n      <p>Desde esta mirada, el cuerpo forma parte del observador que somos y estamos siendo.</p>\n      <p>A través de él:</p>\n      <div class=\"sensory-cloud\"><strong>ACTUAMOS</strong><strong>SENTIMOS</strong><strong>HABLAMOS</strong><strong>PENSAMOS</strong><strong>NOS RELACIONAMOS</strong></div>\n      <div class=\"observer-principle\"><strong>No existe un observador separado de su corporalidad.</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "02 · LAS DISPOSICIONES CORPORALES (GEC)",
-        "title": "Posturas que Abren Mundos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Disposición para la Acción:</span><span class=\"croquis-desc\">Patrones biológicos y musculares predisponen a habitar ciertas emociones y realizar ciertos actos del lenguaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuatro Disposiciones Básicas:</span><span class=\"croquis-desc\">Apertura (Agua), Flexibilidad (Aire), Resolución (Fuego) y Estabilidad (Tierra).</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "02 · CUERPO Y CORPORALIDAD",
+        "title": "No son lo mismo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <div class=\"dimension-grid paradigm-options\"><section><strong>CUERPO</strong><p>Nuestro organismo físico.</p></section><section><strong>CORPORALIDAD</strong><p>Las diferentes maneras en que ese cuerpo se manifiesta frente a las situaciones.</p></section></div>\n      <p>Podemos observarla en:</p>\n      <div class=\"sensory-cloud\"><strong>POSTURA</strong><strong>RESPIRACIÓN</strong><strong>MOVIMIENTO</strong><strong>MIRADA</strong><strong>GESTOS</strong><strong>TONO MUSCULAR</strong><strong>VOZ</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "03 · DISPOSICIÓN DE APERTURA (AGUA)",
-        "title": "Acoger y Recibir al Otro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Pecho receptivo, brazos relajados, respiración pausada y mirada acogedora sin juicios defensivos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Permite habitar la empatía, escuchar la brecha del otro y declararlo un <strong>legítimo otro en la convivencia</strong>.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "03 · EL CUERPO DEL OBSERVADOR",
+        "title": "Mi cuerpo también observa",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El observador que estoy siendo se manifiesta en una coherencia:</p>\n      <div class=\"lesson-emphasis\">CUERPO + EMOCIÓN + LENGUAJE</div>\n      <p>Desde esa coherencia:</p>\n      <div class=\"sensory-cloud\"><strong>ACTÚO</strong><strong>PIENSO</strong><strong>HABLO</strong><strong>SIENTO</strong><strong>ME MUEVO</strong><strong>ME RELACIONO</strong><strong>OBSERVO POSIBILIDADES</strong></div>\n      <div class=\"observer-principle\"><strong>Mi corporalidad forma parte del observador que estoy siendo.</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "04 · MATRICES DE APERTURA",
-        "title": "Excesos y Déficits de Apertura",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Apertura:</span><span class=\"croquis-desc\">Blindaje emocional, desconfianza reactiva, inhabilidad para escuchar e insensibilidad hacia el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Apertura:</span><span class=\"croquis-desc\">Permeabilidad extrema, falta de límites personales, porosidad afectiva y pérdida de la propia identidad.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "04 · DISPOSICIONES CORPORALES",
+        "title": "El cuerpo se dispone para la acción",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Una disposición corporal es una manera particular de estar siendo que nos dispone hacia determinadas acciones y posibilidades.</p>\n      <p>Podemos distinguir cuatro disposiciones básicas:</p>\n      <div class=\"body-dispositions\"><p><strong>💧 APERTURA</strong><span>AGUA</span></p><p><strong>🌬 FLEXIBILIDAD</strong><span>AIRE</span></p><p><strong>🔥 RESOLUCIÓN</strong><span>FUEGO</span></p><p><strong>🌱 ESTABILIDAD</strong><span>TIERRA</span></p></div>\n      <div class=\"observer-principle\"><strong>No son personalidades.</strong><strong>Son formas de estar siendo.</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "05 · DISPOSICIÓN DE FLEXIBILIDAD (AIRE)",
-        "title": "Adaptarse y Soltar la Certeza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Movimiento fluido, articulaciones sueltas, columna flexible y respiración liviana que acompaña el entorno.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Soltar la terquedad de <em>\"tener razón\"</em>, cambiar de perspectiva y danzar con lo imprevisto sin rigidez.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "05 · NO HAY UNA MEJOR",
+        "title": "¿Para qué necesito este cuerpo?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Ninguna disposición es buena o mala por sí misma.</p>\n      <p>Una disposición puede encontrarse en:</p>\n      <div class=\"lesson-emphasis\">DÉFICIT · EQUILIBRIO · EXCESO</div>\n      <p>Y ser más o menos funcional según: <strong>¿PARA QUÉ?</strong></p>\n      <div class=\"body-purpose\"><p><strong>APERTURA</strong><span>para escuchar.</span></p><p><strong>FLEXIBILIDAD</strong><span>para cambiar.</span></p><p><strong>RESOLUCIÓN</strong><span>para accionar.</span></p><p><strong>ESTABILIDAD</strong><span>para sostener.</span></p></div>\n      <div class=\"observer-principle\"><strong>La pregunta no es “¿cómo debería estar?”.</strong><strong>Es “¿qué disposición necesito para lo que quiero que pase?”.</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "06 · MATRICES DE FLEXIBILIDAD",
-        "title": "Excesos y Déficits de Flexibilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Flexibilidad:</span><span class=\"croquis-desc\">Dogmatismo, rigidez física y mental, resistencia obstinada ante los cambios y parálisis defensiva.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Flexibilidad:</span><span class=\"croquis-desc\">Volatilidad, inconstancia, dispersión y dificultad para enraizarse y cumplir compromisos de largo plazo.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "kicker": "06 · INTERVENIR EN EL OBSERVADOR",
+        "title": "El cuerpo también es una puerta de transformación",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Si <strong>cuerpo + emoción + lenguaje</strong> forman una coherencia, podemos intervenir sobre cualquiera de esos dominios para generar una nueva manera de estar siendo.</p>\n      <div class=\"flow-formula\">OBSERVAR → DISTINGUIR → ACEPTAR → ELEGIR → INTERVENIR</div>\n      <div class=\"lesson-question\"><strong>¿CÓMO ESTÁ MI CUERPO AHORA?</strong><strong>¿A QUÉ ACCIONES ME ESTÁ DISPONIENDO?</strong><strong>¿ES FUNCIONAL PARA LO QUE QUIERO QUE PASE?</strong></div>\n    </div>",
+        "source": "22) Corporalidad del Observador"
       },
       {
-        "kicker": "07 · APLICACIÓN EN COACHING",
-        "title": "Intervención Somática del Coach",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lectura de la Armadura:</span><span class=\"croquis-desc\">Observar si la postura del coachee bloquea su aprendizaje antes de trabajar con sus juicios verbales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseño de Prácticas:</span><span class=\"croquis-desc\">Invitar a estiramientos, aperturas de pecho y respiración conscientes para desbloquear nuevas emociones.</span></div>\n          </div>\n        ",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "type": "reflection",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
+        "source": "22) Corporalidad del Observador"
+      }
+    ]
+  },
+  {
+    "slug": "apertura-flexibilidad",
+    "title": "Apertura y Flexibilidad",
+    "officialTitle": "23) Apertura y Flexibilidad",
+    "domain": "Cuerpo",
+    "color": "#e07a5f",
+    "hook": "La Apertura nos dispone al encuentro; la Flexibilidad nos permite aprender, adaptarnos y cambiar de dirección.",
+    "minutes": 8,
+    "slides": [
+      {
+        "kicker": "01 · APERTURA",
+        "title": "Disponerme al encuentro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><div class=\"element-symbol\">💧 <strong>AGUA</strong></div><p>La Apertura nos dispone a:</p><div class=\"sensory-cloud\"><strong>ESCUCHAR</strong><strong>ACEPTAR</strong><strong>CONECTAR</strong><strong>CONTENER</strong><strong>GENERAR CONFIANZA</strong><strong>LEGITIMAR AL OTRO</strong></div><p>En esta disposición aparecen sensibilidad, aceptación y acercamiento con nosotros mismos y con los demás.</p><div class=\"observer-principle\"><strong>Abrirme es permitirme ser afectado por lo que ocurre sin dejar de estar presente.</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "02 · COMO EL AGUA",
+        "title": "Apertura",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><div class=\"dimension-grid paradigm-options\"><section><strong>EL AGUA</strong><p>Es transparente.<br>Toma la forma del recipiente.<br>Acepta lo que se sumerge.<br>Responde al contacto.</p></section><section><strong>EN APERTURA</strong><p>Dejo ver mis emociones.<br>Me adapto.<br>Acepto.<br>Soy sensible.</p></section></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "03 · APERTURA EN EL CUERPO",
+        "title": "¿Cómo se manifiesta?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Puede aparecer como:</p><div class=\"sensory-cloud\"><strong>MIRADA SUAVE</strong><strong>RESPIRACIÓN PROFUNDA</strong><strong>TONO MUSCULAR BAJO</strong><strong>MOVIMIENTO CONSCIENTE Y SUTIL</strong><strong>VOZ SUAVE</strong><strong>HABLA MELODIOSA</strong></div><p>Y emocionalmente pueden aparecer:</p><div class=\"muted-emphasis\">TERNURA · SENSIBILIDAD · COMPASIÓN · ACEPTACIÓN · CONFIANZA · EMPATÍA · SERENIDAD</div><div class=\"lesson-question\"><strong>¿CUÁNDO NECESITO ABRIRME MÁS?</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "04 · FLEXIBILIDAD",
+        "title": "Estar disponible para cambiar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><div class=\"element-symbol\">🌬 <strong>AIRE</strong></div><p>La Flexibilidad nos dispone:</p><div class=\"sensory-cloud\"><strong>AL CAMBIO</strong><strong>AL APRENDIZAJE</strong><strong>A DESCUBRIR</strong><strong>A CREAR</strong><strong>A CAMBIAR DE DIRECCIÓN</strong></div><p>Nos permite buscar espacio para expandirnos.</p><div class=\"observer-principle\"><strong>Ser flexible no es no tener dirección.</strong><strong>Es poder modificarla cuando la situación lo requiere.</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "05 · COMO EL AIRE",
+        "title": "Flexibilidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><div class=\"dimension-grid paradigm-options\"><section><strong>EL AIRE</strong><p>Es liviano.<br>Va en todas direcciones.<br>Cambia de dirección.<br>Se expande.</p></section><section><strong>EN FLEXIBILIDAD</strong><p>Mi cuerpo está disponible.<br>Acepto y genero cambios.<br>Busco nuevas posibilidades.<br>Necesito espacio para descubrir y crear.</p></section></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "06 · FLEXIBILIDAD EN EL CUERPO",
+        "title": "¿Cómo se manifiesta?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Puede aparecer como:</p><div class=\"sensory-cloud\"><strong>OJOS ABIERTOS</strong><strong>CUERPO HACIA ARRIBA Y EN DISTINTAS DIRECCIONES</strong><strong>MOVIMIENTO EXPANSIVO</strong><strong>VOZ MÁS ALTA Y AGUDA</strong><strong>HABLA LIGERA Y CAMBIANTE</strong></div><div class=\"lesson-question\"><strong>¿QUÉ PASA CON MI CUERPO CUANDO ALGO CAMBIA?</strong><strong>¿ME ADAPTO, ME RIGIDIZO O ME DISPERSO?</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
+      },
+      {
+        "kicker": "07 · APERTURA ≠ FLEXIBILIDAD",
+        "title": "Dos posibilidades diferentes",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><div class=\"dimension-grid paradigm-options\"><section><strong>💧 APERTURA</strong><em>“ME PERMITO RECIBIR.”</em><p>Escucho.<br>Acepto.<br>Conecto.</p><b>Me dispone al encuentro.</b></section><section><strong>🌬 FLEXIBILIDAD</strong><em>“ME PERMITO CAMBIAR.”</em><p>Exploro.<br>Aprendo.<br>Me adapto.</p><b>Me dispone al cambio.</b></section></div><div class=\"lesson-question\"><strong>¿CUÁL NECESITO AHORA?</strong></div></div>",
+        "source": "23) Apertura y Flexibilidad"
       },
       {
         "type": "reflection",
         "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
-        "source": "22) Influencia de la Corporalidad del Observador, Apertura y Flexibilidad."
+        "source": "23) Apertura y Flexibilidad"
       }
     ]
   },
   {
-    "slug": "resolucion-centramiento",
-    "title": "Corporalidad: Estabilidad y Centramiento",
-    "officialTitle": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento.",
+    "slug": "resolucion-estabilidad",
+    "title": "Resolución y Estabilidad",
+    "officialTitle": "24) Resolución y Estabilidad",
     "domain": "Cuerpo",
     "color": "#e07a5f",
-    "hook": "La Resolución acciona y decide; la Estabilidad sostiene y enraiza; el Centramiento es la metadisposición que te devuelve la presencia serena.",
+    "hook": "La Resolución pone algo en movimiento; la Estabilidad permite concretarlo, sostenerlo y darle continuidad.",
     "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · DISPOSICIÓN DE RESOLUCIÓN (FUEGO)",
-        "title": "Enfoque, Asertividad y Concreción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Mirada focalizada en un punto, tensión muscular activa, impulso hacia adelante y voz determinante con frases cortas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Indispensable para tomar decisiones, declarar SÍ/NO, liderar proyectos, romper la parálisis y ejecutar promesas.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "01 · RESOLUCIÓN",
+        "title": "Pasar a la acción",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><div class=\"element-symbol\">🔥 <strong>FUEGO</strong></div><p>La Resolución nos dispone:</p><div class=\"sensory-cloud\"><strong>A ACTUAR</strong><strong>A AVANZAR</strong><strong>A DECIDIR</strong><strong>A ENFOCARNOS</strong><strong>A SER ASERTIVOS</strong></div><div class=\"observer-principle\"><strong>Nos dispone a la acción, con enfoque y asertividad.</strong></div></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "02 · MATRICES DE RESOLUCIÓN",
-        "title": "Excesos y Déficits de Resolución",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Resolución:</span><span class=\"croquis-desc\">Indecisión crónica, desgano, postergación interminable e incapacidad de poner límites firmes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Resolución:</span><span class=\"croquis-desc\">Autoritarismo, impulsividad, atropello al otro, ceguera relacional y agresión no regulada.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "02 · COMO EL FUEGO",
+        "title": "Resolución",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>El fuego:</p><div class=\"sensory-cloud\"><strong>ENCIENDE</strong><strong>TRANSFORMA</strong><strong>TIENE ENERGÍA</strong></div><p>Pero también puede:</p><div class=\"muted-emphasis\">QUEMAR · ARRASAR</div><p>La Resolución en equilibrio permite:</p><div class=\"lesson-emphasis\">ENFOCAR LA ENERGÍA HACIA LA ACCIÓN</div><p>En exceso puede llevarnos a actuar sin espacio suficiente para observar o reflexionar.</p></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "03 · DISPOSICIÓN DE ESTABILIDAD (TIERRA)",
-        "title": "Enraizamiento y Certeza",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Siendo Corporal:</span><span class=\"croquis-desc\">Pies firmes en la tierra, centro de gravedad bajo, postura sólida y respiración abdominal profunda.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Función Ontológica:</span><span class=\"croquis-desc\">Sostener compromisos en el tiempo, brindar contención, dar certidumbre a la red y resistir tempestades emocionales.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "03 · RESOLUCIÓN",
+        "title": "¿Cuándo la necesito?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Cuando:</p><div class=\"lesson-question\"><strong>SÉ QUÉ QUIERO PERO NO ACCIONO</strong><strong>POSTERGO</strong><strong>ME CUESTA DECIDIR</strong><strong>NECESITO PONER UN LÍMITE</strong><strong>NECESITO AVANZAR</strong></div><div class=\"statement-contrast\"><p><span>La pregunta:</span><strong>¿QUÉ ACCIÓN ESTOY EVITANDO?</strong></p><p><span>Y también:</span><strong>¿ESTOY RESOLVIENDO O ARRASANDO?</strong></p></div><p>Porque déficit y exceso pueden cerrarnos posibilidades.</p></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "04 · MATRICES DE ESTABILIDAD",
-        "title": "Excesos y Déficits de Estabilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Déficit de Estabilidad:</span><span class=\"croquis-desc\">Volubilidad, fragilidad estructural, colapso ante las crisis y dispersión ante los imprevistos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exceso de Estabilidad:</span><span class=\"croquis-desc\">Pesadez, inmovilidad, terquedad, conservadurismo extremo y resistencia a cualquier innovación.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "04 · ESTABILIDAD",
+        "title": "Sostener y concretar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><div class=\"element-symbol\">🌱 <strong>TIERRA</strong></div><p>La Estabilidad nos permite:</p><div class=\"sensory-cloud\"><strong>CONCRETAR</strong><strong>SOSTENER</strong><strong>CONSERVAR EN EL TIEMPO</strong></div><div class=\"guilt-examples\"><span>No alcanza con iniciar.</span><span>No alcanza con tener ideas.</span><span>No alcanza con cambiar.</span></div><div class=\"observer-principle\"><strong>También necesitamos sostener.</strong></div></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "05 · LA META-DISPOSICIÓN DE CENTRAMIENTO",
-        "title": "El Estado del SER",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Más allá de las Disposiciones:</span><span class=\"croquis-desc\">El Centramiento no es una postura rígida más; es una <strong>META-DISPOSICIÓN CORPORAL</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Estado del SER:</span><span class=\"croquis-desc\">Habitar la presencia estar <strong>PRESENTE, CONSCIENTE, ALERTA Y EN PAZ</strong>, conectando cabeza, corazón y pelvis.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "05 · COMO LA TIERRA",
+        "title": "Estabilidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><p>La tierra:</p><div class=\"sensory-cloud\"><strong>ES FIRME</strong><strong>SOSTIENE</strong><strong>PERMITE CONSTRUIR</strong><strong>HABILITA LA QUIETUD</strong><strong>CONECTA CON LO CONCRETO</strong></div><p>La Estabilidad nos permite poner raíces y dar continuidad.</p><div class=\"observer-principle\"><strong>Lo que empieza con Resolución puede necesitar Estabilidad para permanecer.</strong></div></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "06 · EL EJE DEL OBSERVADOR",
-        "title": "Elegir la Disposición Funcional",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Observar la Coherencia:</span><span class=\"croquis-desc\">Estar centrado permite evaluar la propia coherencia (Cuerpo, Emoción y Lenguaje) en tiempo real.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Elección Consciente:</span><span class=\"croquis-desc\">Desde el centramiento elegís si necesitás Agua (Apertura), Aire (Flexibilidad), Fuego (Resolución) o Tierra (Estabilidad).</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "06 · ESTABILIDAD",
+        "title": "¿Cuándo la necesito?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Cuando necesito:</p><div class=\"sensory-cloud\"><strong>PERMANECER</strong><strong>DAR CONTINUIDAD</strong><strong>ORDENAR</strong><strong>CONCRETAR</strong><strong>SOSTENER UN COMPROMISO</strong><strong>REFLEXIONAR</strong></div><div class=\"lesson-question\"><strong>¿ESTOY ESTABLE O INMÓVIL?</strong><strong>¿ESTOY SOSTENIENDO O RESISTIÉNDOME AL CAMBIO?</strong></div><div class=\"lesson-emphasis\">DÉFICIT · EQUILIBRIO · EXCESO</div></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
-        "kicker": "07 · DESARMAR LA ARMADURA",
-        "title": "El Caballero de la Armadura Oxidada",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Armadura Reactiva:</span><span class=\"croquis-desc\">El personaje que construimos para protegernos del miedo y que termina ocultando nuestra vulnerabilidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Integración Somática:</span><span class=\"croquis-desc\">El Centramiento disuelve la necesidad de la armadura, integrando nuestros dominios en una presencia auténtica.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
-      },
-      {
-        "kicker": "08 · EL COACH CENTRADO",
-        "title": "Presencia en la Sesión",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Espacio de Alojamientos:</span><span class=\"croquis-desc\">Un coach centrado sostiene la sesión desde la tranquilidad, sin contagiarse de la ansiedad del coachee.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Facilitar la Transformación:</span><span class=\"croquis-desc\">Acompañar al coachee a registrar sus sensaciones corporales y diseñar nuevas posturas para la acción.</span></div>\n          </div>\n        ",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "kicker": "07 · RESOLUCIÓN ≠ ESTABILIDAD",
+        "title": "Hacer y sostener",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><div class=\"dimension-grid paradigm-options\"><section><strong>🔥 RESOLUCIÓN</strong><em>“VOY.”</em><p>Acciono.<br>Decido.<br>Avanzo.</p><b>Pone algo en movimiento.</b></section><section><strong>🌱 ESTABILIDAD</strong><em>“SOSTENGO.”</em><p>Concreto.<br>Permanezco.<br>Doy continuidad.</p><b>Permite que algo permanezca.</b></section></div><div class=\"lesson-question\"><strong>¿NECESITO AVANZAR O NECESITO SOSTENER?</strong></div></div>",
+        "source": "24) Resolución y Estabilidad"
       },
       {
         "type": "reflection",
-        "kicker": "09 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
-        "source": "23) Influencia de la Corporalidad del Observador, Resolución, Estabilidad y Centramiento."
+        "source": "24) Resolución y Estabilidad"
+      }
+    ]
+  },
+  {
+    "slug": "centramiento",
+    "title": "Centramiento",
+    "officialTitle": "25) Centramiento",
+    "domain": "Cuerpo",
+    "color": "#e07a5f",
+    "hook": "Estar presente permite integrar las disposiciones corporales y elegir la combinación funcional para lo que queremos generar.",
+    "minutes": 7,
+    "slides": [
+      {
+        "kicker": "01 · CENTRAMIENTO",
+        "title": "La metadisposición corporal",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><p>Centramiento no es simplemente otra disposición.</p><p>Es una:</p><div class=\"lesson-emphasis\">METADISPOSICIÓN CORPORAL</div><p>Desde ella puedo estar:</p><div class=\"sensory-cloud\"><strong>ALERTA</strong><strong>PRESENTE</strong><strong>CONSCIENTE</strong><strong>EN PAZ</strong></div></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "kicker": "02 · NO ES QUEDARME QUIETO",
+        "title": "Presencia para elegir",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><p>Centramiento no significa estar permanentemente calmo o inmóvil.</p><p>Significa poder observar mi coherencia:</p><div class=\"lesson-emphasis\">CUERPO · EMOCIÓN · LENGUAJE</div><p>Y preguntarme:</p><div class=\"lesson-question\"><strong>¿ESTE OBSERVADOR ES FUNCIONAL PARA LO QUE QUIERO QUE PASE?</strong></div><p>Desde esa presencia puedo elegir qué disposición necesito.</p></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "kicker": "03 · LAS CUATRO DISPOSICIONES",
+        "title": "Todas están disponibles",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><div class=\"body-purpose\"><p><strong>💧 APERTURA</strong><span>Recibir.</span></p><p><strong>🌬 FLEXIBILIDAD</strong><span>Cambiar.</span></p><p><strong>🔥 RESOLUCIÓN</strong><span>Accionar.</span></p><p><strong>🌱 ESTABILIDAD</strong><span>Sostener.</span></p></div><div class=\"observer-principle\"><strong>Centramiento no elimina ninguna.</strong><strong>Las integra.</strong></div></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "kicker": "04 · ARMONÍA NO ES IGUALDAD",
+        "title": "No necesito 25% de cada una",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\"><p>Estar centrado no significa tener todas las disposiciones en la misma proporción.</p><p>La situación puede requerir:</p><div class=\"sensory-cloud\"><strong>MÁS RESOLUCIÓN</strong><strong>MENOS APERTURA</strong><strong>MÁS ESTABILIDAD</strong><strong>MÁS FLEXIBILIDAD</strong></div><p>La armonía está en poder elegir la combinación que resulte funcional:</p><div class=\"lesson-emphasis\">PARA LO QUE QUIERO QUE PASE</div></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "kicker": "05 · ESTAR PRESENTE",
+        "title": "Aquí y ahora",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Centramiento requiere presencia.</p><p>Estar presente es estar consciente de:</p><div class=\"dimension-grid paradigm-options\"><section><strong>LO QUE SUCEDE EN MÍ</strong><p>Cuerpo · Emoción · Lenguaje</p></section><section><strong>LO QUE SUCEDE EN EL ENTORNO</strong><p>A través de nuestros sentidos.</p></section></div><p>Desde ahí puedo dejar de reaccionar automáticamente y comenzar a:</p><div class=\"flow-formula\">OBSERVAR → DISTINGUIR → ELEGIR</div></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "kicker": "06 · ¿QUÉ NECESITO AHORA?",
+        "title": "Volver al centro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\"><p>Cuando me observo puedo preguntarme:</p><div class=\"lesson-question\"><strong>¿CÓMO ESTÁ MI CUERPO?</strong><strong>¿QUÉ EMOCIÓN ESTOY HABITANDO?</strong><strong>¿QUÉ ME ESTOY DICIENDO?</strong><strong>¿A QUÉ ACCIONES ME DISPONE ESTA COHERENCIA?</strong><strong>¿ES FUNCIONAL PARA LO QUE QUIERO?</strong><strong>¿QUÉ DISPOSICIÓN NECESITO?</strong></div><div class=\"body-dispositions\"><p><strong>💧 ¿ABRIRME?</strong></p><p><strong>🌬 ¿FLEXIBILIZAR?</strong></p><p><strong>🔥 ¿RESOLVER?</strong></p><p><strong>🌱 ¿ESTABILIZAR?</strong></p></div><div class=\"observer-principle\"><strong>Estar presente me permite elegir.</strong></div></div>",
+        "source": "25) Centramiento"
+      },
+      {
+        "type": "reflection",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "title": "Reflexión",
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
+        "source": "25) Centramiento"
       }
     ]
   },
   {
     "slug": "victima-responsable",
     "title": "Víctima o Responsable",
-    "officialTitle": "24) Elección de una forma de vida: ¿Víctima o Responsable?",
+    "officialTitle": "26) Elección de una forma de vida: ¿Víctima o Responsable?",
     "domain": "Ontología",
     "color": "#e07a5f",
     "hook": "La víctima busca excusas tranquilizadoras para justificar su impotencia; el responsable responde desde su visión para hacer que las cosas pasen.",
@@ -1290,56 +1392,56 @@
         "kicker": "01 · LA DECISIÓN EXISTENCIAL",
         "title": "Elección de una Forma de Vida",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filosofía de Vida:</span><span class=\"croquis-desc\">Víctima o Responsable no son rasgos de personalidad fijos: son <strong>posiciones del Observador</strong> que elegimos habitar a cada momento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Ontológica:</span><span class=\"croquis-desc\">Frente a cada brecha insatisfactoria de la vida, podés elegir la inocencia impotente o el poder de acción.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "02 · EL OBSERVADOR VÍCTIMA",
         "title": "Explicaciones Tranquilizadoras",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpas Afuera:</span><span class=\"croquis-desc\">Pone las razones de su inefectividad en las circunstancias, el clima, el gobierno o las acciones ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Trampa del 'No Pude':</span><span class=\"croquis-desc\">Transforma el pasado en sentencia: <em>\"No pude = No puedo\"</em>. Gana la comodidad de ser inocente, pero paga con su poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emocionalidad:</span><span class=\"croquis-desc\">Vive a la deriva, sumergido en la resignación, la queja impotente y el resentimiento acumulativo.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "03 · EL OBSERVADOR RESPONSABLE",
         "title": "Responsa-Habilidad y Protagonismo",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habilidad de Responder:</span><span class=\"croquis-desc\">Comprende que no controla los sucesos externos, pero es 100% dueño de la respuesta que elige dar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Pregunta Protagonista:</span><span class=\"croquis-desc\">En lugar de preguntar por qué, se interroga: <em>\"¿Quién necesito SER y qué me faltó aportar a MÍ para lograr el resultado?\"</em>.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "04 · EXPLICACIONES GENERATIVAS",
         "title": "El Poder del Compromiso",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Visión sobre Resultados:</span><span class=\"croquis-desc\">Lo que determina el accionar del Protagonista es su <strong>VISIÓN DECLARADA</strong>, no los tropiezos del camino.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar el Pasado:</span><span class=\"croquis-desc\">Toma el pasado como recurso de aprendizaje: <em>\"No pude = Algo me faltó. ¿Qué necesito y qué voy a hacer ahora?\"</em>.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "05 · PREGUNTAS TRANSFORMADORAS",
         "title": "Cuestionario de Impacto Ontológico",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Respuesta Proactiva:</span><span class=\"croquis-desc\">¿Qué respuesta elegiste ante la circunstancia? ¿Con qué visión estás comprometido?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Soltar la Razón:</span><span class=\"croquis-desc\">¿Estás dispuesto a soltar tu necesidad de 'tener razón' para abrir espacio a los resultados que anhelás?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Coordinar Acciones:</span><span class=\"croquis-desc\">¿Qué pedidos, ofertas y promesas necesitás hacer hoy para mover el futuro?</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "06 · MODELO LINGÜÍSTICO EN COACHING",
         "title": "Del Huevo Derecho al Huevo Izquierdo",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Derecho (Víctima):</span><span class=\"croquis-desc\">Habita el colapso de juicios y afirmaciones justificatorias, victimizándose en la historia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Izquierdo (Protagonista):</span><span class=\"croquis-desc\">Activa declaraciones de quiebre, pedidos transparentes, ofertas atractivas y promesas impecables.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "07 · INTERVENCIÓN DE COACHING",
         "title": "Desarticular la Historia de la Víctima",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No Comprar la Historia:</span><span class=\"croquis-desc\">El coach no valida las quejas pasivas ni la búsqueda de compasión estéril.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Invitar al Poder:</span><span class=\"croquis-desc\">Desafía los juicios de inmovilidad y acompaña al coachee a asumir la soberanía sobre su futuro.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "kicker": "08 · CULMINACIÓN DEL COLOQUIO 2025",
         "title": "La Promesa de Transformación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Síntesis Ontológica:</span><span class=\"croquis-desc\">Integrar las 24 distinciones para vivir con coherencia en el Lenguaje, la Emoción y el Cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ser la Posibilidad:</span><span class=\"croquis-desc\">Elegir diariamente ser una oferta poderosa para vos mismo, para tus consultantes y para la comunidad.</span></div>\n          </div>\n        ",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Síntesis Ontológica:</span><span class=\"croquis-desc\">Integrar las 26 distinciones para vivir con coherencia en el Lenguaje, la Emoción y el Cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ser la Posibilidad:</span><span class=\"croquis-desc\">Elegir diariamente ser una oferta poderosa para vos mismo, para tus consultantes y para la comunidad.</span></div>\n          </div>\n        ",
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       },
       {
         "type": "reflection",
         "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción final del Coloquio.",
-        "source": "24) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
       }
     ]
   }

@@ -1,6 +1,6 @@
 # Umbral · Biblioteca de distinciones
 
-Biblioteca estática con 24 cartas, carruseles táctiles, búsqueda, categorías y uso sin conexión. Conserva la recopilación del proyecto: todavía no es el resumen editorial definitivo. Cada ficha indica el documento del que proviene.
+Biblioteca estática con 26 cartas, carruseles táctiles, búsqueda, categorías y uso sin conexión. Conserva la recopilación del proyecto: todavía no es el resumen editorial definitivo. Cada ficha indica el documento del que proviene.
 
 ## Publicar en GitHub Pages desde la web
 
