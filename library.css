@@ -105,6 +105,45 @@ body.micro-reel-open { overflow: hidden; }
   font-style: italic;
 }
 
+.observer-copy {
+  margin: 0;
+}
+.observer-highlight {
+  color: var(--micro-color);
+  font-weight: 800;
+}
+.observer-equation {
+  margin: 24px 0;
+  padding: 20px 12px;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+}
+.equation-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) auto minmax(0, 1fr) auto minmax(0, 1.25fr);
+  align-items: center;
+  gap: 5px;
+  text-align: center;
+}
+.equation-primary {
+  color: #fff;
+  font-size: clamp(.68rem, 2.7vw, .88rem);
+  font-weight: 800;
+  letter-spacing: -.02em;
+}
+.equation-primary b {
+  color: var(--micro-color);
+  font-size: 1.1rem;
+}
+.equation-secondary {
+  margin-top: 7px;
+  color: var(--micro-color);
+  font-size: .76rem;
+  font-weight: 800;
+}
+.observer-conclusion {
+  color: #fff;
+}
+
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
   height: 100% !important;
@@ -205,4 +244,3 @@ body.micro-reel-open { overflow: hidden; }
   .reel-backdrop { animation: none; }
   .micro-card { transition: none; }
 }
-
