@@ -54,42 +54,42 @@
     "domain": "Lenguaje",
     "color": "#4ecdc4",
     "hook": "Tus opiniones sin fundar son los límites de tu futuro.",
-    "minutes": 5,
+    "minutes": 7,
     "slides": [
       {
-        "kicker": "01 · NATURALEZA DEL JUICIO",
-        "title": "¿Qué es un Juicio Ontológico?",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acto Lingüístico:</span><span class=\"croquis-desc\">Un juicio no describe una propiedad de la realidad allá afuera: es una <strong>declaración valorativa</strong> de quien observa.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habitan en el Hablante:</span><span class=\"croquis-desc\">Cuando decís <em>\"La reunión duró 1 hora\"</em> hablás de la reunión (hecho). Cuando decís <em>\"Fue una mala reunión\"</em> hablás de vos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construcción de Identidad:</span><span class=\"croquis-desc\">Tu identidad privada y pública está constituida por la red de juicios que emitís sobre vos y los que validás de otros.</span></div>\n          </div>\n        ",
+        "kicker": "01 · JUICIOS",
+        "title": "El juicio crea una interpretación",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando emitimos un juicio no describimos simplemente algo que observamos.</p>\n      <p><strong>Interpretamos, evaluamos y tomamos posición</strong> frente a personas, acciones o acontecimientos.</p>\n      <div class=\"example-pair\"><p><strong>“Llegó a las 9:17”</strong><span>→ Afirmación</span></p><p><strong>“Es impuntual”</strong><span>→ Juicio</span></p></div>\n      <p>En los juicios:</p>\n      <div class=\"lesson-emphasis\">LA PALABRA MODIFICA EL MUNDO DE POSIBILIDADES</div>\n      <p>Una vez emitido un juicio, <strong>nuestra manera de observar y actuar puede cambiar.</strong></p>\n      <blockquote>Los juicios no describen solamente nuestro mundo.<br>También hablan del <strong>observador que los emite</strong>.</blockquote>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "02 · LA DOBLE MIRADA",
-        "title": "Pasado, Presente y Futuro",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Conexión Temporal:</span><span class=\"croquis-desc\">El juicio se emite en el <strong>presente</strong>, se nutre del <strong>pasado</strong> y condiciona las acciones del <strong>futuro</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filtro Ontológico:</span><span class=\"croquis-desc\">Operan como anteojos invisibles: dictan qué posibilidades ves disponibles y cuáles quedan totalmente descartadas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lente de la Cultura:</span><span class=\"croquis-desc\">Muchos de los juicios sobre lo \"bueno\", \"malo\", \"posible\" o \"imposible\" son estándares heredados de la cultura social.</span></div>\n          </div>\n        ",
+        "kicker": "02 · AUTORIDAD",
+        "title": "¿Quién puede emitir el juicio?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Todos podemos emitir juicios.</p>\n      <p>Pero eso no significa que todos tengan la misma <strong>validez social</strong>.</p>\n      <p>Para que determinados juicios sean considerados válidos, reconocemos <strong>autoridad</strong> a quien los emite dentro de un dominio.</p>\n      <div class=\"example-pair\"><p><strong>Médico</strong><span>→ diagnóstico</span></p><p><strong>Árbitro</strong><span>→ infracción</span></p><p><strong>Docente</strong><span>→ evaluación</span></p></div>\n      <p>La autoridad puede ser <strong>otorgada</strong> por otros o <strong>asumida</strong> por quien emite el juicio.</p>\n      <div class=\"lesson-question\"><span>Emitir un juicio implica preguntarnos:</span><strong>¿Tengo autoridad para juzgar esto?</strong></div>\n      <p class=\"lesson-note\">Autoridad y fundamentación no son lo mismo: alguien puede tener autoridad y emitir un juicio mal fundamentado.</p>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "03 · EVALUACIÓN ONTOLÓGICA",
-        "title": "Autoridad y Fundamentación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje de Autoridad:</span><span class=\"croquis-desc\">Nunca son Verdaderos o Falsos: se evalúan como <strong>Válidos</strong> o <strong>Inválidos</strong> según la autoridad concedida al hablante.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Eje de Evidencia:</span><span class=\"croquis-desc\">Se diferencian en <strong>Fundamentados</strong> o <strong>No Fundamentados</strong> según las afirmaciones históricas que aportes.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\"><strong>FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</strong> (Validar no equivale a tener la Verdad).</span></div>\n          </div>\n        ",
+        "kicker": "03 · RESPONSABILIDAD",
+        "title": "Cuando juzgo, me comprometo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Un juicio no puede ser <strong>verdadero o falso</strong> como una afirmación.</p>\n      <p>Puede ser:</p>\n      <div class=\"lesson-emphasis\">FUNDADO · INFUNDADO</div>\n      <p>Cuando emitimos un juicio asumimos el compromiso de poder <strong>fundamentarlo</strong> si somos requeridos.</p>\n      <p>No alcanza con:</p>\n      <p class=\"editorial-statement\"><strong>“Para mí es así.”</strong></p>\n      <p>Necesitamos mostrar <strong>desde qué criterios, dominio y afirmaciones</strong> sostenemos nuestro juicio.</p>\n      <blockquote><strong>Juzgar responsablemente implica hacernos cargo de aquello que decimos.</strong></blockquote>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "04 · ANATOMÍA RIGUROSA",
-        "title": "Los 5 Pasos para Fundamentar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. El Para Qué:</span><span class=\"croquis-desc\">¿Para qué emito este juicio? ¿Qué futuro o posibilidad de acción busco habilitar o prevenir?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. El Dominio:</span><span class=\"croquis-desc\">Acotar el área específica (trabajo, pareja, finanzas) para evitar generalizar al \"ser\" completo de la persona.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. El Estándar:</span><span class=\"croquis-desc\">Distinguir el parámetro comparativo utilizado (reconocer expectativas culturales o personales).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Afirmaciones (Hechos):</span><span class=\"croquis-desc\">Aportar hechos del pasado comprobables consensuados por la comunidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">5. Juicio Contrario:</span><span class=\"croquis-desc\">Fundamentar el juicio opuesto para romper el sesgo de confirmación.</span></div>\n          </div>\n        ",
+        "kicker": "04 · FUNDAMENTACIÓN",
+        "title": "¿Cómo fundamento un juicio?",
+        "body": "\n    <div class=\"lesson-list numbered-lessons\">\n      <p><strong>1. ¿PARA QUÉ?</strong><span>¿Con qué inquietud o propósito emito este juicio?</span></p>\n      <p><strong>2. ¿EN QUÉ DOMINIO?</strong><span>¿Sobre qué aspecto específico estoy juzgando?</span></p>\n      <p><strong>3. ¿CON QUÉ ESTÁNDAR?</strong><span>¿Contra qué criterio estoy comparando?</span></p>\n      <p><strong>4. ¿QUÉ AFIRMACIONES LO SOSTIENEN?</strong><span>¿Qué hechos observables puedo aportar?</span></p>\n      <p><strong>5. ¿QUÉ AFIRMACIONES PODRÍAN REFUTARLO?</strong><span>¿Busqué evidencia contraria a mi juicio?</span></p>\n      <div class=\"lesson-emphasis\">JUICIO FUNDADO = CRITERIO + EVIDENCIA</div>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "05 · MATRIZ DE POSTURA",
-        "title": "Lenguaje del Periodista vs. Jugador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Periodista:</span><span class=\"croquis-desc\">Descriptivo y reactivo. Vive atrapado en explicaciones, excusas y juicios rígidos sobre lo que ya pasó.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje del Jugador:</span><span class=\"croquis-desc\">Generativo y proactivo. Usa los juicios fundamentados para impulsar la visión y hacer que las cosas pasen.</span></div>\n          </div>\n        ",
+        "kicker": "05 · JUICIOS Y FUTURO",
+        "title": "Los juicios diseñan posibilidades",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Los juicios que sostenemos modifican <strong>aquello que consideramos posible</strong>.</p>\n      <p class=\"editorial-statement\"><strong>“No soy bueno para hablar en público.”</strong></p>\n      <p>Si tomo este juicio como una verdad:</p>\n      <div class=\"flow-formula\">JUICIO → CIERRA POSIBILIDADES → CONDICIONA ACCIONES → PRODUCE RESULTADOS</div>\n      <p>Si lo observo como un juicio y reviso su fundamento:</p>\n      <div class=\"flow-formula\">JUICIO → CUESTIONAMIENTO → NUEVAS POSIBILIDADES → NUEVAS ACCIONES</div>\n      <div class=\"observer-principle\"><strong>Nuestros juicios sobre el presente participan en el diseño de nuestro futuro.</strong></div>\n      <p>No porque “pensar positivo” transforme mágicamente la realidad, sino porque nuestros juicios <strong>abren o cierran posibilidades de acción</strong>.</p>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "06 · IMPACTO EN EL FUTURO",
-        "title": "Apertura vs. Cierre de Posibilidades",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Infundado de Cierre:</span><span class=\"croquis-desc\"><em>\"No sirvo para esto\"</em>. Cierra opciones de antemano y se vuelve una profecía autocumplida.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Juicio Fundamentado de Apertura:</span><span class=\"croquis-desc\"><em>\"Hoy me falta la competencia X\"</em>. Permite la elección libre con <strong>Responsabilidad y Riesgo Asumido</strong>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poder de Acción:</span><span class=\"croquis-desc\">Desmantelar juicios infundados te devuelve la capacidad de acción efectiva para transformar el futuro.</span></div>\n          </div>\n        ",
+        "kicker": "06 · PONERLO A PRUEBA",
+        "title": "¿Qué sostiene mi juicio?",
+        "body": "\n    <div class=\"case-study\">\n      <p class=\"editorial-statement\"><strong>“Juan es irresponsable.”</strong></p>\n      <p><strong>¿Para qué estoy haciendo este juicio?</strong><span>Necesito decidir si delegarle una tarea crítica.</span></p>\n      <p><strong>¿En qué dominio?</strong><span>Cumplimiento de compromisos laborales.</span></p>\n      <p><strong>¿Cuál es mi estándar?</strong><span>Cumplir tareas acordadas en fecha o renegociarlas previamente.</span></p>\n      <p><strong>¿Qué puedo afirmar?</strong><span>En las últimas 5 entregas, 3 fueron posteriores a la fecha acordada sin renegociación.</span></p>\n      <p><strong>¿Existe evidencia contraria?</strong><span>Las otras 2 fueron entregadas en tiempo y forma.</span></p>\n      <div class=\"reframe\"><span>Entonces puedo reformular:</span><del>“Juan es irresponsable.”</del><strong>“Juzgo que Juan no está siendo confiable en el cumplimiento de plazos acordados.”</strong></div>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
@@ -107,48 +107,54 @@
     "officialTitle": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno.",
     "domain": "Lenguaje",
     "color": "#f4a261",
-    "hook": "El lenguaje no describe la realidad: la crea.",
-    "minutes": 6,
+    "hook": "El lenguaje no solo describe la realidad: la crea.",
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · REVOLUCIÓN ONTOLÓGICA",
-        "title": "Del Lenguaje Pasivo al Activo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Concepción Tradicional (Pasiva):</span><span class=\"croquis-desc\">El lenguaje como mero instrumento descriptivo que transmite datos sobre una realidad preexistente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Concepción Ontológica (Activa):</span><span class=\"croquis-desc\">El lenguaje es generativo: hace que las cosas pasen, abre mundos y construye el futuro del Observador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">John Austin & Echeverría:</span><span class=\"croquis-desc\">Hablar es actuar. Al hablar no solo describimos lo que existe, sino que transformamos el estar siendo.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ONTOLOGÍA DEL LENGUAJE",
+        "title": "El lenguaje",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Tradicionalmente entendemos el lenguaje como una herramienta para <strong>describir aquello que sucede</strong>.</p>\n      <p>Desde la Ontología del Lenguaje damos un paso más:</p>\n      <div class=\"observer-principle\"><strong>El lenguaje no sólo describe.</strong><strong>También genera.</strong></div>\n      <p>A través del lenguaje <strong>distinguimos, interpretamos, coordinamos acciones y generamos nuevas posibilidades.</strong></p>\n      <div class=\"lesson-emphasis\">DESCRIBIR ↔ GENERAR</div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "02 · LENGUAJE DESCRIPTIVO",
-        "title": "El Rol del Periodista",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lo que PASA:</span><span class=\"croquis-desc\">Se utiliza para explicar, narrar y justificar la realidad dada o lo que ya ocurrió en el pasado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Metáfora del Periodista:</span><span class=\"croquis-desc\">Relata y analiza el partido desde la cabina de prensa, pero no entra al campo a jugar ni a cambiar el marcador.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actos Lingüísticos:</span><span class=\"croquis-desc\">Comprendido por <strong>Afirmaciones</strong> (hechos) y <strong>Juicios</strong> (interpretaciones del pasado).</span></div>\n          </div>\n        ",
+        "kicker": "02 · POSTULADOS",
+        "title": "Tres postulados",
+        "body": "\n    <div class=\"lesson-list numbered-lessons\">\n      <p><strong>01 · Somos seres lingüísticos</strong><span>Interpretamos a los seres humanos como <b>seres lingüísticos</b>.</span></p>\n      <p><strong>02 · El lenguaje es generativo</strong><span>El lenguaje no sólo describe lo existente: <b>también genera realidad y posibilidades</b>.</span></p>\n      <p><strong>03 · Nos creamos en el lenguaje</strong><span>Los seres humanos <b>se crean a sí mismos en el lenguaje y a través de él</b>.</span></p>\n      <div class=\"lesson-emphasis\">EL LENGUAJE NO ES INOCENTE</div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "03 · LENGUAJE GENERATIVO",
-        "title": "El Rol del Jugador",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lo que FALTA:</span><span class=\"croquis-desc\">Se utiliza para imaginar, diseñar, comprometer e inventar el futuro que aún no existe.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Metáfora del Jugador:</span><span class=\"croquis-desc\">Entra a la cancha, toma decisiones en tiempo real y coordina acciones con su equipo para ganar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Actos Lingüísticos:</span><span class=\"croquis-desc\">Integrado por <strong>Declaraciones</strong>, <strong>Pedidos</strong>, <strong>Ofertas</strong> y <strong>Promesas</strong>.</span></div>\n          </div>\n        ",
+        "kicker": "03 · PRINCIPIOS",
+        "title": "Tres principios",
+        "body": "\n    <div class=\"lesson-list numbered-lessons\">\n      <p><strong>01 · Vivimos en mundos interpretativos</strong><span>No sabemos cómo las cosas <b>son</b>. Sabemos cómo las <b>observamos e interpretamos</b>.</span></p>\n      <p><strong>02 · La acción genera ser</strong><span>Actuamos de acuerdo con el observador que somos, pero nuestras acciones también <b>transforman quiénes estamos siendo</b>.</span></p>\n      <p><strong>03 · Somos seres sociales</strong><span>Actuamos condicionados por los <b>sistemas sociales</b> a los que pertenecemos y, mediante nuestras acciones, también podemos transformarlos.</span></p>\n      <div class=\"lesson-emphasis\">OBSERVAR · ACTUAR · TRANSFORMAR</div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "04 · COMPROMISOS SOCIALES",
-        "title": "La Responsabilidad al Hablar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Afirmaciones:</span><span class=\"croquis-desc\">Responsabilidad de aportar evidencias comprobables históricas (Verdad/Falsedad).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Juicios:</span><span class=\"croquis-desc\">Responsabilidad de respaldar la opinión con estándares y observaciones (Fundamentación).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Declaraciones:</span><span class=\"croquis-desc\">Responsabilidad de poseer la autoridad y actuar en coherencia con el nuevo mundo abierto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Compromiso en Promesas:</span><span class=\"croquis-desc\">Responsabilidad de poseer la competencia, sinceridad y capacidad de ejecución futura.</span></div>\n          </div>\n        ",
+        "kicker": "04 · DOS DIMENSIONES DEL LENGUAJE",
+        "title": "Describir y generar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Cuando hablamos podemos establecer <strong>relaciones diferentes entre la palabra y el mundo</strong>.</p>\n      <div class=\"dimension-grid\">\n        <section><strong>DESCRIPTIVO</strong><b>MUNDO → PALABRA</b><p>Utilizamos el lenguaje para hablar acerca de aquello que <b>observamos que sucede</b>.</p><em>Compromiso en describir lo que pasa.</em></section>\n        <section><strong>GENERATIVO</strong><b>PALABRA → MUNDO</b><p>Utilizamos el lenguaje para <b>intervenir</b>, generar compromisos y abrir nuevas posibilidades.</p><em>Compromiso en hacer que las cosas pasen.</em></section>\n      </div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "05 · DIAGNÓSTICO EN LA ACCIÓN",
-        "title": "Lo que Pasa vs. Lo que Falta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si lo que PASA pasa en una conversación:</span><span class=\"croquis-desc\">Usás lenguaje descriptivo. Te sirve para evaluar el estado presente y comprender el contexto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Si lo que FALTA falta en una conversación:</span><span class=\"croquis-desc\">Requerís lenguaje generativo. Sin declaraciones ni pedidos/ofertas, el futuro deseado nunca ocurre.</span></div>\n          </div>\n        ",
+        "kicker": "05 · LENGUAJE DESCRIPTIVO",
+        "title": "Describir lo que pasa",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Con el lenguaje descriptivo buscamos dar cuenta de aquello que <strong>observamos</strong>.</p>\n      <div class=\"lesson-emphasis\">MUNDO → PALABRA</div>\n      <p>Dentro de este dominio podemos distinguir:</p>\n      <div class=\"language-acts\">\n        <section><strong>AFIRMACIONES</strong><span>Verdaderas · Falsas · Indecisas</span><p><b>Compromiso:</b> aportar <b>evidencia de veracidad</b>.</p></section>\n        <section><strong>JUICIOS</strong><span>Válidos · Inválidos<br>Fundamentados · No fundamentados</span><p><b>Compromiso:</b> <b>validación y fundamentación</b>.</p></section>\n      </div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
-        "kicker": "06 · PODER E INTERVENCIÓN",
-        "title": "Cambio de Postura Ontológica",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De Víctima Relatora a Creador:</span><span class=\"croquis-desc\">Dejar de justificar el presente con historias pasadas y asumir la autoría de tu destino.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Generar Realidades:</span><span class=\"croquis-desc\">Tu palabra tiene el poder de abrir conversaciones que antes no existían y mover la realidad.</span></div>\n          </div>\n        ",
+        "kicker": "06 · LENGUAJE GENERATIVO",
+        "title": "Hacer que las cosas pasen",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Hay actos lingüísticos que no se limitan a describir lo que sucede.</p>\n      <p>Mediante ellos podemos <strong>intervenir y crear nuevas posibilidades de acción.</strong></p>\n      <div class=\"lesson-emphasis\">PALABRA → MUNDO</div>\n      <div class=\"language-acts compact-acts\">\n        <section><strong>DECLARACIONES</strong><span>¿Qué queremos que pase?</span></section>\n        <section><strong>PEDIDOS / OFERTAS</strong><span>¿Qué necesitamos?<br>¿Qué puede necesitar el otro?</span></section>\n        <section><strong>PROMESAS</strong><span>Manifestamos y generamos compromisos.</span></section>\n      </div>\n      <div class=\"observer-principle\"><strong>COMPROMISO EN HACER QUE LAS COSAS PASEN</strong></div>\n    </div>",
+        "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
+      },
+      {
+        "kicker": "07 · COMPROMISO",
+        "title": "Hablar es comprometernos",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El lenguaje nunca es indiferente.</p>\n      <p>Según el acto lingüístico que realizamos, <strong>asumimos diferentes compromisos sociales</strong>.</p>\n      <div class=\"dimension-grid commitment-grid\">\n        <section><strong>DESCRIPTIVO</strong><em>Compromiso en describir lo que pasa.</em><p>Afirmaciones → <b>Veracidad</b><br>Juicios → <b>Validación + Fundamentación</b></p></section>\n        <section><strong>GENERATIVO</strong><em>Compromiso en hacer que las cosas pasen.</em><p>Declaraciones<br>Pedidos / Ofertas<br>Promesas</p></section>\n      </div>\n      <p>Cada uno implicará <strong>compromisos específicos</strong> que distinguiremos más adelante.</p>\n      <div class=\"observer-principle\"><strong>HABLAR ES ACTUAR.</strong><strong>Y ACTUAR IMPLICA RESPONSABILIDAD.</strong></div>\n    </div>",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "3) Lenguaje Descriptivo vs Generativo – Compromiso de cada uno."

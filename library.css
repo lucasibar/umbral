@@ -290,6 +290,144 @@ body.micro-reel-open { overflow: hidden; }
   letter-spacing: .02em;
   text-align: center;
 }
+.lesson-stack {
+  gap: 15px;
+}
+.lesson-stack-compact {
+  gap: 12px;
+}
+.lesson-emphasis,
+.flow-formula {
+  padding: 10px 8px;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+  color: var(--micro-color);
+  font-size: clamp(.7rem, 2.7vw, .86rem);
+  font-weight: 800;
+  line-height: 1.35;
+  text-align: center;
+}
+.flow-formula {
+  color: #fff;
+  font-size: .7rem;
+}
+.example-pair {
+  display: grid;
+  gap: 6px;
+}
+.example-pair p {
+  display: flex;
+  gap: 7px;
+}
+.example-pair span {
+  color: var(--micro-color);
+}
+.lesson-question {
+  display: grid;
+  gap: 5px;
+  padding: 10px 0;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+  text-align: center;
+}
+.lesson-question span,
+.lesson-note {
+  color: #aeb3bd;
+  font-size: .82rem;
+}
+.lesson-list,
+.case-study {
+  display: grid;
+  gap: 15px;
+  margin-top: 8px;
+}
+.lesson-list p,
+.case-study > p {
+  display: grid;
+  gap: 3px;
+  margin: 0;
+}
+.lesson-list strong,
+.case-study > p strong {
+  color: var(--micro-color);
+  font-size: .84rem;
+}
+.lesson-list span,
+.case-study > p span {
+  color: #d1d5db;
+  font-size: .9rem;
+  line-height: 1.5;
+}
+.lesson-list b {
+  color: #fff;
+}
+.case-study {
+  gap: 12px;
+}
+.case-study .editorial-statement strong {
+  color: #fff;
+  font-size: 1.05rem;
+}
+.reframe {
+  display: grid;
+  gap: 5px;
+  padding-top: 11px;
+  border-top: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+}
+.reframe span {
+  color: #aeb3bd;
+  font-size: .8rem;
+}
+.reframe del {
+  color: #8f96a3;
+}
+.reframe strong {
+  color: var(--micro-color);
+  line-height: 1.45;
+}
+.dimension-grid,
+.language-acts {
+  display: grid;
+  gap: 15px;
+}
+.dimension-grid section,
+.language-acts section {
+  display: grid;
+  gap: 5px;
+  padding-left: 12px;
+  border-left: 2px solid color-mix(in srgb, var(--micro-color) 60%, transparent);
+}
+.dimension-grid section > strong,
+.language-acts section > strong {
+  color: var(--micro-color);
+  font-size: .84rem;
+  letter-spacing: .04em;
+}
+.dimension-grid section > b {
+  color: #fff;
+  font-size: .82rem;
+}
+.dimension-grid section p,
+.language-acts section p {
+  margin: 0;
+  font-size: .88rem;
+  line-height: 1.45;
+}
+.dimension-grid section em {
+  color: #fff;
+  font-size: .84rem;
+  font-style: normal;
+  font-weight: 700;
+}
+.language-acts section > span {
+  color: #d1d5db;
+  font-size: .88rem;
+  line-height: 1.45;
+}
+.compact-acts {
+  gap: 11px;
+}
+.commitment-grid {
+  gap: 12px;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
