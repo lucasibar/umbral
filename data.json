@@ -792,53 +792,47 @@
     "domain": "Emoción",
     "color": "#e76f51",
     "hook": "El enojo disfuncional descarga para castigar; el enojo funcional conversa para construir y cuidar la dignidad.",
-    "minutes": 7,
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · FUNCIÓN DEL ENOJO (DR. NORBERTO LEVY)",
-        "title": "Defensa de la Dignidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fuerza Reparadora:</span><span class=\"croquis-desc\">El enojo es una sobrecarga de energía que surge cuando juzgamos que un límite o expectativa valiosa ha sido vulnerada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No es Violencia:</span><span class=\"croquis-desc\">En sí mismo no es malo ni violento: es la respuesta biológica orientada a restaurar el equilibrio y la dignidad.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EL ENOJO COMO SEÑAL",
+        "title": "¿Qué me está diciendo mi enojo?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El enojo aparece frente a una <strong>frustración</strong>:</p>\n      <div class=\"language-acts plain-acts\">\n        <section><strong>ALGO NO PASÓ</strong><p>Como juzgábamos que debía pasar.</p></section>\n        <section><strong>ALGO NO ESTÁ PASANDO</strong><p>Como juzgamos que debería estar pasando.</p></section>\n      </div>\n      <p>Entre lo ocurrido y lo esperado aparece una brecha:</p>\n      <div class=\"flow-formula\">LO QUE ESPERABA → ≠ → LO QUE OCURRIÓ</div>\n      <div class=\"lesson-emphasis\">Y APARECE EL ENOJO</div>\n      <div class=\"observer-principle\"><strong>El enojo nos informa que algo importante para nosotros no está ocurriendo como esperábamos.</strong></div>\n    </div>",
         "source": "16) Enojo"
       },
       {
-        "kicker": "02 · FISIOLOGÍA Y BIOLOGÍA",
-        "title": "La Sobrecarga Energética",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Química Corporal:</span><span class=\"croquis-desc\">Segregación de adrenalina y noradrenalina, elevación de la temperatura y ritmo cardíaco.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Expresión Facial y Física:</span><span class=\"croquis-desc\">Cejas juntas y caídas, mirada fija, labios apretados, puños cerrados y tensión muscular alta.</span></div>\n          </div>\n        ",
+        "kicker": "02 · EL ENOJO ES ENERGÍA",
+        "title": "Algo pide una acción",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El enojo se manifiesta como una <strong>sobrecarga de energía</strong>.</p>\n      <p>Podemos reconocerla en el cuerpo:</p>\n      <div class=\"sensory-cloud\"><strong>RESPIRACIÓN ACELERADA</strong><strong>TENSIÓN MUSCULAR</strong><strong>AUMENTO DE TEMPERATURA</strong><strong>ELEVACIÓN DE LA VOZ</strong></div>\n      <p>Esa energía genera una predisposición para actuar.</p>\n      <p>El problema no es que aparezca.</p>\n      <div class=\"lesson-question\"><span>La pregunta es:</span><strong>¿QUÉ HAGO CON ESA ENERGÍA?</strong></div>\n      <div class=\"lesson-emphasis\">EMOCIÓN → PREDISPOSICIÓN PARA LA ACCIÓN</div>\n    </div>",
         "source": "16) Enojo"
       },
       {
-        "kicker": "03 · ENOJO DISFUNCIONAL",
-        "title": "El Círculo Vicioso de la Destrucción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Descarga Reactiva:</span><span class=\"croquis-desc\">Descargar la bronca a través de insultos, gritos o juicios no fundamentados en el paradigma del problema.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Deseo de Castigo:</span><span class=\"croquis-desc\">Buscar herir o castigar al otro $\\rightarrow$ Genera reacción destructiva y escala el conflicto.</span></div>\n          </div>\n        ",
+        "kicker": "03 · TRES CAMINOS",
+        "title": "¿Qué hago con mi enojo?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando aparece la sobrecarga podemos:</p>\n      <div class=\"lesson-list anger-paths\">\n        <p><strong>DESCARGAR</strong><span>Castigar al otro o incluso descargar sobre alguien que nada tuvo que ver.</span></p>\n        <p><strong>ACUMULAR</strong><span>Callar, resentir y posiblemente explotar más adelante.</span></p>\n        <p><strong>CONVERSAR</strong><span>Utilizar la energía disponible para <b>construir una respuesta</b>.</span></p>\n      </div>\n      <div class=\"statement-contrast\"><p><strong>DESCARGAR → DESTRUIR</strong></p><p><strong>ACUMULAR → RESENTIR</strong></p><p><strong>CONVERSAR → CONSTRUIR</strong></p></div>\n    </div>",
         "source": "16) Enojo"
       },
       {
-        "kicker": "04 · ENOJO FUNCIONAL",
-        "title": "Del Enojo que Destruye al que Construye",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Pausa Ontológica:</span><span class=\"croquis-desc\">Reconocer la sobrecarga corporal, serenar el impulso reactivo y fundamentar los juicios.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Conversación Productiva:</span><span class=\"croquis-desc\">Expresar el daño sufrido y <strong>articular un Reclamo Productivo</strong> coordinando nuevas promesas.</span></div>\n          </div>\n        ",
+        "kicker": "04 · ENOJO DISFUNCIONAL",
+        "title": "Cuando quiero castigar",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"future-flow paradigm-flow\">\n        <p><strong>1 · FRUSTRACIÓN</strong><span>“Esto que pasa no es lo que quiero que pase.”</span></p><b>↓</b>\n        <p><strong>2 · JUICIOS</strong><span>Construimos interpretaciones sobre lo ocurrido.</span></p><b>↓</b>\n        <p><strong>3 · DESCARGA</strong><span>Buscamos castigar, vengarnos o hacer pagar al otro.</span></p><b>↓</b>\n        <p><strong>4 · REACCIÓN</strong><span>El otro responde desde su propia emocionalidad.</span></p>\n      </div>\n      <div class=\"lesson-emphasis\">CÍRCULO VICIOSO DEL ENOJO</div>\n      <div class=\"lesson-question\"><strong>¿ESTOY OBSERVANDO HECHOS O ESTOY ATRAPADO EN MIS JUICIOS?</strong></div>\n    </div>",
         "source": "16) Enojo"
       },
       {
-        "kicker": "05 · LA DISTANCIA ENTRE CORAZONES",
-        "title": "El Cuento Tibetano",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Por qué Gritamos:</span><span class=\"croquis-desc\">Al enojarnos, los corazones se alejan. Se grita para cubrir esa enorme distancia invisible.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza Serena:</span><span class=\"croquis-desc\">Acercar la voz y bajar el volumen permite restablecer la cercanía ontológica sin ceder en el límite.</span></div>\n          </div>\n        ",
+        "kicker": "05 · ENOJO FUNCIONAL",
+        "title": "Del enojo que destruye al enojo que construye",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El punto de partida puede ser exactamente el mismo:</p>\n      <p class=\"editorial-statement\"><strong>“ESTO QUE PASA NO ES LO QUE QUIERO QUE PASE.”</strong></p>\n      <p>Pero podemos utilizar esa energía de otra manera.</p>\n      <div class=\"future-flow anger-flow\"><p><strong>FRUSTRACIÓN</strong></p><b>↓</b><p><strong>DECLARO QUIEBRE</strong></p><b>↓</b><p><strong>FUNDAMENTO MIS JUICIOS</strong></p><b>↓</b><p><strong>EXPRESO QUÉ ME PASA</strong></p><b>↓</b><p><strong>CONVERSO</strong></p><b>↓</b><p><strong>COORDINO NUEVAS ACCIONES</strong></p></div>\n      <p>El objetivo deja de ser <strong>castigar al otro</strong> y pasa a ser <strong>coordinar nuevas acciones</strong>.</p>\n    </div>",
         "source": "16) Enojo"
       },
       {
-        "kicker": "06 · MARCAR LÍMITES CON DIGNIDAD",
-        "title": "La Declaración del 'HASTA ACÁ'",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoafirmación Ontológica:</span><span class=\"croquis-desc\">Usar el enojo como motor para declarar un BASTA sano que proteja tu espacio vital y tus valores.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Firmeza sin Violencia:</span><span class=\"croquis-desc\">Sostener la postura de autoridad sobre tu vida sin agredir la dignidad del otro.</span></div>\n          </div>\n        ",
-        "source": "16) Enojo"
-      },
-      {
-        "kicker": "07 · LA CANALIZACIÓN EN COACHING",
-        "title": "Transformar la Bronca en Nafta",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">De la Queja al Reclamo:</span><span class=\"croquis-desc\">Acompañar al cliente a dejar de acumular resentimiento e iniciar conversaciones de reclamo y reparación.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Construir Futuro:</span><span class=\"croquis-desc\">Usar la fuerza motora de la frustración para fundar proyectos ambiciosos.</span></div>\n          </div>\n        ",
+        "kicker": "06 · ¿TENER RAZÓN O CONSTRUIR?",
+        "title": "¿A qué estoy comprometido?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Cuando estamos tomados por el enojo podemos quedar comprometidos con:</p>\n      <div class=\"dimension-grid anger-choice\">\n        <section><strong>TENER RAZÓN</strong><p>Demostrar que el otro está equivocado.<br>Castigar.<br>Ganar la discusión.<br>Imponer nuestra interpretación.</p></section>\n        <section><strong>HACER QUE ALGO PASE</strong><p>Cuidar la relación.<br>Expresar lo ocurrido.<br>Escuchar al otro.<br>Coordinar nuevas acciones.<br>Construir una solución.</p></section>\n      </div>\n      <div class=\"observer-principle\"><strong>¿QUIERO TENER RAZÓN</strong><strong>O QUIERO GENERAR UN RESULTADO?</strong></div>\n    </div>",
         "source": "16) Enojo"
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "07 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "16) Enojo"
