@@ -598,6 +598,78 @@ body.micro-reel-open { overflow: hidden; }
   letter-spacing: .03em;
   text-align: center;
 }
+.sensory-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 7px 14px;
+  color: var(--micro-color);
+  font-size: .78rem;
+  letter-spacing: .04em;
+  text-align: center;
+}
+.conversational-signals,
+.prior-listening {
+  color: #fff;
+  font-size: .74rem;
+}
+.listening-gap {
+  display: grid;
+  gap: 12px;
+}
+.listening-gap p {
+  display: grid;
+  grid-template-columns: auto auto 1fr;
+  align-items: baseline;
+  gap: 7px;
+}
+.listening-gap strong,
+.listening-gap b {
+  color: var(--micro-color);
+}
+.listening-gap span {
+  color: #d1d5db;
+  font-size: .88rem;
+}
+.listening-list {
+  display: grid;
+  gap: 8px;
+}
+.listening-list span {
+  position: relative;
+  padding-left: 14px;
+  color: #d1d5db;
+  font-size: .84rem;
+  line-height: 1.4;
+}
+.listening-list span::before {
+  content: '·';
+  position: absolute;
+  left: 2px;
+  color: var(--micro-color);
+  font-weight: 800;
+}
+.identity-equation {
+  display: grid;
+  justify-items: center;
+  gap: 4px;
+  padding: 10px 8px;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+  text-align: center;
+}
+.identity-equation > strong,
+.identity-equation > span,
+.identity-equation > b {
+  color: var(--micro-color);
+}
+.identity-equation p {
+  color: #fff;
+  font-size: .86rem;
+}
+.listening-progression {
+  padding: 9px 0;
+  border-block: 1px solid color-mix(in srgb, var(--micro-color) 55%, transparent);
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
