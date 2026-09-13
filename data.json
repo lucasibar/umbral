@@ -77,24 +77,30 @@
       {
         "kicker": "04 · FUNDAMENTACIÓN",
         "title": "¿Cómo fundamento un juicio?",
-        "body": "\n    <div class=\"lesson-list numbered-lessons\">\n      <p><strong>1. ¿PARA QUÉ?</strong><span>¿Con qué inquietud o propósito emito este juicio?</span></p>\n      <p><strong>2. ¿EN QUÉ DOMINIO?</strong><span>¿Sobre qué aspecto específico estoy juzgando?</span></p>\n      <p><strong>3. ¿CON QUÉ ESTÁNDAR?</strong><span>¿Contra qué criterio estoy comparando?</span></p>\n      <p><strong>4. ¿QUÉ AFIRMACIONES LO SOSTIENEN?</strong><span>¿Qué hechos observables puedo aportar?</span></p>\n      <p><strong>5. ¿QUÉ AFIRMACIONES PODRÍAN REFUTARLO?</strong><span>¿Busqué evidencia contraria a mi juicio?</span></p>\n      <div class=\"lesson-emphasis\">JUICIO FUNDADO = CRITERIO + EVIDENCIA</div>\n    </div>",
+        "body": "\n  <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n    <p>Para fundamentar un juicio necesitamos revisar:</p>\n    <div class=\"lesson-list numbered-lessons compact-lessons\">\n      <p><strong>1 · ¿PARA QUÉ?</strong><span>¿Con qué inquietud o propósito emito este juicio?</span></p>\n      <p><strong>2 · ¿EN QUÉ DOMINIO?</strong><span>¿Sobre qué aspecto específico estoy juzgando?</span></p>\n      <p><strong>3 · ¿CON QUÉ ESTÁNDAR?</strong><span>¿Contra qué criterio estoy comparando?</span></p>\n      <p><strong>4 · ¿QUÉ AFIRMACIONES LO SOSTIENEN?</strong><span>¿Qué hechos observables puedo aportar?</span></p>\n      <p><strong>5 · ¿PUEDO FUNDAMENTAR EL JUICIO CONTRARIO?</strong><span>Antes de sostener mi juicio, debo revisar si existen afirmaciones suficientes que permitan fundamentar el juicio contrario.</span></p>\n    </div>\n    <div class=\"observer-principle\"><strong>Fundamentar no es buscar razones para tener razón.</strong><strong>Es someter nuestro juicio a examen.</strong></div>\n  </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "05 · JUICIOS Y FUTURO",
+        "kicker": "05 · VALIDACIÓN",
+        "title": "¿Cuándo un juicio es válido?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Fundamentar un juicio no es suficiente. También debemos preguntarnos si quien lo emite posee <strong>autoridad</strong> dentro del dominio en el que está juzgando.</p>\n      <div class=\"lesson-emphasis\">FUNDAMENTACIÓN + AUTORIDAD = VALIDACIÓN</div>\n      <p>Un juicio puede estar:</p>\n      <div class=\"validity-result\"><p><strong>FUNDAMENTADO / NO FUNDAMENTADO</strong></p><p><span>y puede ser:</span><strong>VÁLIDO / INVÁLIDO</strong></p></div>\n      <div class=\"observer-principle\"><strong>JUICIO VÁLIDO ≠ JUICIO VERDADERO</strong></div>\n      <p>Los juicios no son verdaderos o falsos como las afirmaciones. Su validez depende de la autoridad y su solidez de la fundamentación.</p>\n    </div>",
+        "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
+      },
+      {
+        "kicker": "06 · JUICIOS Y FUTURO",
         "title": "Los juicios diseñan posibilidades",
         "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Los juicios que sostenemos modifican <strong>aquello que consideramos posible</strong>.</p>\n      <p class=\"editorial-statement\"><strong>“No soy bueno para hablar en público.”</strong></p>\n      <p>Si tomo este juicio como una verdad:</p>\n      <div class=\"flow-formula\">JUICIO → CIERRA POSIBILIDADES → CONDICIONA ACCIONES → PRODUCE RESULTADOS</div>\n      <p>Si lo observo como un juicio y reviso su fundamento:</p>\n      <div class=\"flow-formula\">JUICIO → CUESTIONAMIENTO → NUEVAS POSIBILIDADES → NUEVAS ACCIONES</div>\n      <div class=\"observer-principle\"><strong>Nuestros juicios sobre el presente participan en el diseño de nuestro futuro.</strong></div>\n      <p>No porque “pensar positivo” transforme mágicamente la realidad, sino porque nuestros juicios <strong>abren o cierran posibilidades de acción</strong>.</p>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
-        "kicker": "06 · PONERLO A PRUEBA",
+        "kicker": "07 · PONERLO A PRUEBA",
         "title": "¿Qué sostiene mi juicio?",
         "body": "\n    <div class=\"case-study\">\n      <p class=\"editorial-statement\"><strong>“Juan es irresponsable.”</strong></p>\n      <p><strong>¿Para qué estoy haciendo este juicio?</strong><span>Necesito decidir si delegarle una tarea crítica.</span></p>\n      <p><strong>¿En qué dominio?</strong><span>Cumplimiento de compromisos laborales.</span></p>\n      <p><strong>¿Cuál es mi estándar?</strong><span>Cumplir tareas acordadas en fecha o renegociarlas previamente.</span></p>\n      <p><strong>¿Qué puedo afirmar?</strong><span>En las últimas 5 entregas, 3 fueron posteriores a la fecha acordada sin renegociación.</span></p>\n      <p><strong>¿Existe evidencia contraria?</strong><span>Las otras 2 fueron entregadas en tiempo y forma.</span></p>\n      <div class=\"reframe\"><span>Entonces puedo reformular:</span><del>“Juan es irresponsable.”</del><strong>“Juzgo que Juan no está siendo confiable en el cumplimiento de plazos acordados.”</strong></div>\n    </div>",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "08 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "2) Juicios no fundamentados vs. Juicios fundamentados. Impacto en el diseño de futuro."
