@@ -6,12 +6,12 @@
     "domain": "Ontología",
     "color": "#e76f51",
     "hook": "No vemos el mundo como es, sino como somos nosotros.",
-    "minutes": 6,
+    "minutes": 4,
     "slides": [
       {
-        "kicker": "01 · PREMISA FUNDAMENTAL",
-        "title": "La Realidad no es Objetiva",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Humberto Maturana:</span><span class=\"croquis-desc\">\"No hay una realidad independiente del observador, que la constituye en el acto mismo de observar.\"</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Rafael Echeverría:</span><span class=\"croquis-desc\">\"No sabemos cómo las cosas son. Solo sabemos cómo las observamos o las interpretamos. Vivimos en mundos interpretativos.\"</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ego vs. Observador:</span><span class=\"croquis-desc\">El Ego opera desde el <em>\"Yo soy así\"</em> (fijo). La Ontología opera desde el <em>\"Estoy siendo...\"</em> (dinámico y transformable).</span></div>\n          </div>\n        ",
+        "kicker": "01 · COHERENCIA ONTOLÓGICA",
+        "title": "Observador",
+        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ecuación de resultado:</span><span class=\"croquis-desc\"><strong>OBSERVADOR + ACCIÓN = RESULTADO</strong><br><span>Ser + Hacer = Tener</span></span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje:</span><span class=\"croquis-desc\">Afirmaciones, juicios, conversaciones privadas en la columna izquierda y conversaciones públicas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Filtro emocional de fondo (resentimiento, resignación, paz, ambición) que condiciona las posibilidades que vemos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo:</span><span class=\"croquis-desc\">Biología, postura física, nivel de tensión y predisposición corporal (Apertura, Resolución, Estabilidad, Flexibilidad).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Principio de Intervención:</span><span class=\"croquis-desc\">Alterar cualquier dominio (ej. postura física) transforma inmediatamente todo el tipo de Observador que estamos siendo.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
@@ -21,26 +21,14 @@
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
-        "kicker": "03 · COHERENCIA ONTOLÓGICA",
-        "title": "La Tríada del Ser",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Lenguaje:</span><span class=\"croquis-desc\">Afirmaciones, juicios, conversaciones privadas en la columna izquierda y conversaciones públicas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emoción:</span><span class=\"croquis-desc\">Filtro emocional de fondo (resentimiento, resignación, paz, ambición) que condiciona las posibilidades que vemos.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerpo:</span><span class=\"croquis-desc\">Biología, postura física, nivel de tensión y predisposición corporal (Apertura, Resolución, Estabilidad, Flexibilidad).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Principio de Intervención:</span><span class=\"croquis-desc\">Alterar cualquier dominio (ej. postura física) transforma inmediatamente todo el tipo de Observador que estamos siendo.</span></div>\n          </div>\n        ",
-        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
-      },
-      {
-        "kicker": "04 · APRENDIZAJE ONTOLÓGICO",
-        "title": "Ecuación del Resultado",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fórmula Ontológica:</span><span class=\"croquis-desc\"><strong>OBSERVADOR + ACCIÓN = RESULTADO</strong> (Ser + Hacer = Tener).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1er Orden:</span><span class=\"croquis-desc\">Cambiar solo las acciones haciendo más de lo mismo. Produce arreglos superficiales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2do Orden:</span><span class=\"croquis-desc\">Cuestionar y transformar al Observador. Al cambiar quién estás SIENDO, nacen acciones totalmente nuevas por defecto.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3er Orden (Transformacional):</span><span class=\"croquis-desc\">Redefinición profunda del núcleo de la Identidad <em>(\"quién elijo ser en el mundo\")</em>.</span></div>\n          </div>\n        ",
-        "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
-      },
-      {
-        "kicker": "05 · POSTULADOS ONTOLÓGICOS",
+        "kicker": "03 · POSTULADOS ONTOLÓGICOS",
         "title": "Bases del Coaching",
         "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Seres lingüísticos:</span><span class=\"croquis-desc\">Interpretamos a los seres humanos como seres que se constituyen en el lenguaje.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Lenguaje generativo:</span><span class=\"croquis-desc\">El lenguaje no solo describe la realidad, sino que genera nuevas realidades y posibilidades.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Autocreación:</span><span class=\"croquis-desc\">Los seres humanos se crean a sí mismos en y a través del lenguaje.</span></div>\n          </div>\n        ",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
       },
       {
         "type": "reflection",
-        "kicker": "06 · REGISTRO DE REFLEXIÓN",
+        "kicker": "04 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "1) La “realidad” como construcción del observador – Hechos vs. Juicios."
