@@ -906,48 +906,48 @@
     "domain": "Emoción",
     "color": "#fb8500",
     "hook": "La exigencia aplasta y castiga al exigido; la excelencia afina las cuerdas para sonar con celo sereno.",
-    "minutes": 7,
+    "minutes": 8,
     "slides": [
       {
-        "kicker": "01 · EL FALSO CAMINO A LA EXCELENCIA",
-        "title": "La Trampa de la Perfección",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Falsa Creencia Cultural:</span><span class=\"croquis-desc\">Se le atribuye erróneamente a la exigencia ser el camino al éxito, cuando en realidad genera sometimiento y colapso.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Relación Autoritaria:</span><span class=\"croquis-desc\">La exigencia es un vínculo cartesiano (lineal, causa-efecto) que privilegia la orden e ignora la escucha.</span></div>\n          </div>\n        ",
+        "kicker": "01 · EXIGENCIA",
+        "title": "¿Exigencia es excelencia?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Muchas veces interpretamos la exigencia como el camino necesario para alcanzar la <strong>excelencia</strong>.</p>\n      <p>Pero la exigencia surge de una relación entre dos aspectos:</p>\n      <div class=\"language-acts plain-acts\"><section><strong>EXIGENTE</strong><p>Quien determina cómo deberían ser las cosas.</p></section><section><strong>EXIGIDO</strong><p>Quien recibe esa presión y debe responder.</p></section></div>\n      <p>Esta relación puede aparecer:</p>\n      <div class=\"statement-contrast\"><p><strong>ENTRE PERSONAS → EXIGENCIA</strong></p><p><strong>DENTRO DE MÍ → AUTOEXIGENCIA</strong></p></div>\n      <div class=\"observer-principle\"><strong>La exigencia no es una meta alta. Es una forma particular de relacionarnos para alcanzarla.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "02 · LA ESTRUCTURA EXIGENTE - EXIGIDO",
-        "title": "Los Roles de la Tiranía Interna",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigente:</span><span class=\"croquis-desc\"><em>\"Yo me exijo ser...\"</em>. Ordena sin escuchar los recursos reales del exigido y exige obediencia ciega.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigido:</span><span class=\"croquis-desc\"><em>\"Y en cambio me siento impotente...\"</em>. Carece de la libertad para decir <strong>NO</strong> y compromete su dignidad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Meta Inaccesible:</span><span class=\"croquis-desc\">Un destino perfecto e idealizado que invisibiliza el proceso presente.</span></div>\n          </div>\n        ",
+        "kicker": "02 · EXIGENTE Y EXIGIDO",
+        "title": "Dos voces en una misma relación",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>En la autoexigencia podemos reconocer:</p>\n      <div class=\"language-acts plain-acts\"><section><strong>ASPECTO EXIGENTE</strong><b>“Yo me exijo ser…”</b><p>Tiene una <b>meta</b> y pretende llevarnos hacia ella.</p></section><section><strong>ASPECTO EXIGIDO</strong><b>“Y en cambio me siento…”</b><p>Es quien recibe las órdenes, juicios y presión del exigente.</p></section><section><strong>META</strong><p>Aquello que el exigente quiere alcanzar.</p></section></div>\n      <div class=\"flow-formula\">EXIGENTE → PRESIONA → EXIGIDO → META</div>\n      <p>El problema no necesariamente está en la meta.</p>\n      <div class=\"observer-principle\"><strong>Está en la relación que construimos para llegar a ella.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "03 · LA FALACIA DEL 'QUERER ES PODER'",
-        "title": "Voluntarismo vs. Coordinación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Querer:</span><span class=\"croquis-desc\">Surge de una <strong>DECLARACIÓN</strong> de futuro deseado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Poder:</span><span class=\"croquis-desc\">No nace de apretar los dientes: nace de la <strong>COORDINACIÓN EFECTIVA DE ACCIONES</strong> (pedidos, ofertas y promesas).</span></div>\n          </div>\n        ",
+        "kicker": "03 · CUANDO NO ESCUCHO AL EXIGIDO",
+        "title": "“Hacelo porque tenés que hacerlo”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>El aspecto exigente queda concentrado en <strong>llegar a la meta</strong>.</p>\n      <p>Desde allí:</p>\n      <div class=\"sensory-cloud\"><strong>ORDENA</strong><strong>JUZGA</strong><strong>PRESIONA</strong><strong>NO ESCUCHA</strong></div>\n      <p>No pregunta:</p>\n      <div class=\"lesson-question\"><strong>¿Qué necesitás?</strong><strong>¿Qué te está pasando?</strong><strong>¿Con qué recursos contás?</strong><strong>¿Qué te impide avanzar?</strong></div>\n      <p>Sólo escucha:</p>\n      <div class=\"lesson-emphasis\">“TENÉS QUE LLEGAR”</div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "04 · LAS ENFERMEDADES DEL COLAPSO",
-        "title": "El Costo del Somatizar",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Consecuencias Físicas:</span><span class=\"croquis-desc\">Burnout (agotamiento psicológico), fatiga crónica, estrés, úlceras y depresión.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desconexión del Deseo:</span><span class=\"croquis-desc\">De recibir tantas órdenes y presiones, la persona va perdiendo la capacidad de saber qué quiere y qué necesita.</span></div>\n          </div>\n        ",
+        "kicker": "04 · “QUERER ES PODER”",
+        "title": "Querer no alcanza",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>El exigente puede sostener una creencia:</p>\n      <p class=\"editorial-statement\"><strong>“Si realmente querés, podés.”</strong></p>\n      <div class=\"language-acts plain-acts\"><section><strong>QUERER</strong><p>Surge de una <b>declaración</b>.</p></section><section><strong>PODER</strong><p>Requiere <b>coordinar acciones</b>.</p></section></div>\n      <div class=\"sensory-cloud\"><strong>PEDIDOS</strong><strong>OFERTAS</strong><strong>PROMESAS</strong><strong>RECURSOS</strong><strong>APRENDIZAJE</strong></div>\n      <div class=\"lesson-emphasis\">QUERER ≠ PODER AUTOMÁTICAMENTE</div>\n      <div class=\"flow-formula\">QUIERO → DISTINGO QUÉ NECESITO → COORDINO → ACCIONO</div>\n      <div class=\"observer-principle\"><strong>Una visión no se realiza por exigirla con mayor intensidad. Necesitamos construir capacidad de acción.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "05 · LA PARÁBOLA DEL LAÚD (BUDA Y SONA)",
-        "title": "La Justa Tensión de la Mente",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Cuerdas Tensas vs. Flojas:</span><span class=\"croquis-desc\">Demasiada tensión corta las cuerdas (exigencia); demasiado flojas no producen sonido (indolencia).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celo Sereno:</span><span class=\"croquis-desc\">La sabiduría budista enseña a aplicarse con esfuerzo ecuánime y equilibrio paso a paso.</span></div>\n          </div>\n        ",
+        "kicker": "05 · EXIGENCIA VS. COMPROMISO",
+        "title": "Ordenar no es comprometer",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"dimension-grid paradigm-options\"><section><strong>EN LA EXIGENCIA: “TENÉS QUE”</strong><p>El exigente <b>ordena</b> y excluye la posibilidad del <b>NO</b>. El exigido puede sentir que no tiene recursos para negarse y termina actuando desde la <b>obligación</b>.</p></section><section><strong>EN EL COMPROMISO: “ELIJO / QUIERO”</strong><p>Existe posibilidad de escuchar, decir no, negociar, pedir, ofrecer y prometer.</p></section></div>\n      <div class=\"statement-contrast\"><p><strong>OBLIGACIÓN → “TENGO QUE”</strong></p><p><strong>COMPROMISO → “ELIJO”</strong></p></div>\n      <div class=\"observer-principle\"><strong>Sin posibilidad de decir NO, la elección queda comprometida.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "06 · EXIGENCIA VS. EXCELENCIA",
-        "title": "Matriz Ontológica",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Exigencia:</span><span class=\"croquis-desc\">Foco en la meta inalcanzable, castigo al error, parálisis y rigidez corporal.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Excelencia:</span><span class=\"croquis-desc\">Foco en la mejora continua, compasión por los propios límites, aprendizaje del error y disfrute del proceso.</span></div>\n          </div>\n        ",
+        "kicker": "06 · ¿QUÉ PRODUCE LA EXIGENCIA?",
+        "title": "Cuando la presión se vuelve recurrente",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Frente a órdenes, reclamos y presión constantes, el exigido puede ir perdiendo contacto con:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ QUIERO?</strong><strong>¿QUÉ NECESITO?</strong></div>\n      <p>Y pueden aparecer emocionalidades que ya distinguimos:</p>\n      <div class=\"language-acts plain-acts\"><section><strong>RESIGNACIÓN</strong><p>Cuando juzgo que algo podría cambiar pero no observo posibilidades para intervenir.</p></section><section><strong>RESENTIMIENTO</strong><p>Cuando me opongo a aquello que juzgo que ya no puedo modificar.</p></section></div>\n      <div class=\"observer-principle\"><strong>Cuanto más fuerte se vuelve la voz del exigente, más difícil puede resultar escuchar al exigido.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {
-        "kicker": "07 · LA TRANSFORMACIÓN EN COACHING",
-        "title": "Del Tirano al Mentor de Excelencia",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habilitar el NO:</span><span class=\"croquis-desc\">Enseñar al exigido a declarar un NO sano para recuperar su dignidad y poner límites a la autoexigencia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Celebrar el Aprendizaje:</span><span class=\"croquis-desc\">Transformar al exigente interno en un facilitador que otorgue recursos y acompañe al realizador.</span></div>\n          </div>\n        ",
+        "kicker": "07 · DE LA EXIGENCIA A LA EXCELENCIA",
+        "title": "La justa tensión",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>La alternativa a la exigencia <strong>no es abandonar la meta</strong>.</p>\n      <p>Tampoco es dejar de esforzarnos.</p>\n      <p>La parábola del laúd propone una imagen:</p>\n      <div class=\"trust-dimensions tension-options\"><p><strong>DEMASIADA TENSIÓN</strong><span>La cuerda no suena adecuadamente.</span></p><p><strong>DEMASIADO FLOJA</strong><span>Tampoco.</span></p><p><strong>JUSTA TENSIÓN</strong><span>Permite producir el sonido buscado.</span></p></div>\n      <p>El aprendizaje está en encontrar:</p>\n      <div class=\"lesson-emphasis\">META + ESCUCHA + RECURSOS + COMPROMISO + ACCIÓN</div>\n      <p>No:</p>\n      <div class=\"muted-emphasis\">META + PRESIÓN + MÁS PRESIÓN</div>\n      <div class=\"observer-principle\"><strong>La excelencia no requiere maltratar al exigido. Requiere aprender a coordinar con él.</strong></div>\n    </div>",
         "source": "18) Exigencia – Autoexigencia"
       },
       {

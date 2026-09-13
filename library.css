@@ -848,6 +848,12 @@ body.micro-reel-open { overflow: hidden; }
   font-size: .78rem;
   line-height: 1.4;
 }
+.tension-options p:last-child {
+  grid-column: 1 / -1;
+  justify-self: center;
+  max-width: 50%;
+  text-align: center;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
