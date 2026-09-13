@@ -702,53 +702,83 @@
     "domain": "Emoción",
     "color": "#f72585",
     "hook": "Las emociones gatillan acciones; los estados de ánimo constituyen el clima desde donde habitás la vida.",
-    "minutes": 7,
+    "minutes": 13,
     "slides": [
       {
-        "kicker": "01 · ENFOQUE ONTOLÓGICO Y MATURANA",
-        "title": "Ni Buenas ni Malas",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Fundamento Maturana:</span><span class=\"croquis-desc\">El prejuicio cultural de \"controlar o reprimir\" emociones genera ceguera. Las emociones no son buenas ni malas: son señales biológico-relacionales.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Espacio Reflexivo:</span><span class=\"croquis-desc\">En lugar de juzgar la emoción, la propuesta ontológica de ELAC es: <em>\"Mirá tu emocionar y actuá consciente de él\"</em>.</span></div>\n          </div>\n        ",
+        "kicker": "01 · DOMINIO EMOCIONAL",
+        "title": "Siempre estamos en una emocionalidad",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>No existe acción humana sin una emocionalidad desde la cual actuamos.</p>\n      <p>Las emociones y los estados de ánimo nos predisponen para determinadas acciones y no para otras.</p>\n      <p>Por eso, según nuestra emocionalidad, cambia:</p>\n      <div class=\"declaration-list\"><strong>LO QUE OBSERVAMOS</strong><strong>LAS POSIBILIDADES QUE DISTINGUIMOS</strong><strong>LAS ACCIONES QUE PODEMOS REALIZAR</strong></div>\n      <div class=\"flow-formula\">EMOCIONALIDAD → OBSERVADOR → POSIBILIDADES → ACCIÓN</div>\n      <div class=\"observer-principle\"><strong>Nuestra emocionalidad participa del observador que estamos siendo.</strong></div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "02 · LA EMOCIÓN (E-MOVERE)",
-        "title": "Impulso Transitorio a la Acción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Gatillador Concreto:</span><span class=\"croquis-desc\">La emoción (del latín <em>e-movere</em>) nace como respuesta a un acontecimiento específico e identificable del presente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Temporalidad Corta:</span><span class=\"croquis-desc\">Es un impulso biológico transitorio que altera puntualmente nuestra predisposición a la acción.</span></div>\n          </div>\n        ",
+        "kicker": "02 · EMOCIONES",
+        "title": "¿Qué es una emoción?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Una emoción es una predisposición para la acción que aparece frente a un acontecimiento que modifica nuestro espacio de posibilidades.</p>\n      <div class=\"future-flow compact-flow\">\n        <p><strong>ALGO OCURRE</strong></p><b>↓</b><p><strong>NOS EMOCIONAMOS</strong></p><b>↓</b><p><strong>CAMBIA NUESTRA PREDISPOSICIÓN</strong></p><b>↓</b><p><strong>CAMBIAN NUESTRAS POSIBILIDADES DE ACCIÓN</strong></p>\n      </div>\n      <p>La palabra emoción proviene de <em>emovere</em>:</p>\n      <div class=\"observer-principle\"><strong>“Impulso que nos invita a actuar.”</strong></div>\n      <div class=\"lesson-emphasis\">ACONTECIMIENTO → EMOCIÓN → ACCIÓN</div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "03 · EL ESTADO DE ÁNIMO",
-        "title": "El Clima Emocional de Trasfondo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transparencia Recurrente:</span><span class=\"croquis-desc\">No \"tenemos\" un estado de ánimo: <strong>el estado de ánimo nos tiene</strong>. Vivimos habitando en él sin notarlo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Horizonte de Posibilidades:</span><span class=\"croquis-desc\">Determina el tipo de Observador que estamos siendo y limita o expande lo que juzgamos posible a futuro.</span></div>\n          </div>\n        ",
+        "kicker": "03 · RECONOCER UNA EMOCIÓN",
+        "title": "Algo la gatilló",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Podemos distinguir una emoción porque:</p>\n      <div class=\"lesson-list emotional-signs\">\n        <p><strong>01 · EXISTE UN GATILLADOR</strong><span>Podemos identificar un acontecimiento que la desencadenó.<br><b>¿Qué pasó?</b></span></p>\n        <p><strong>02 · ES TRANSITORIA</strong><span>Tiene una temporalidad relativamente breve.<br><b>¿Cuándo apareció?</b></span></p>\n        <p><strong>03 · NOS PREDISPONE</strong><span>Nos orienta hacia determinadas acciones.<br><b>¿Qué me dan ganas de hacer?</b></span></p>\n      </div>\n      <div class=\"observer-principle\"><strong>Distinguir la emoción es comenzar a observar cómo está interviniendo en nuestra manera de actuar.</strong></div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "04 · LA MATRIZ DE LOS 4 ESTADOS BÁSICOS",
-        "title": "Facticidad y Posibilidad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ante la Facticidad (Lo inmodificable):</span><span class=\"croquis-desc\"><strong>Resentimiento</strong> (oponerse a lo que fue) VS. <strong>Paz / Aceptación</strong> (aceptar lo dado).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ante la Posibilidad (Lo futuro):</span><span class=\"croquis-desc\"><strong>Resignación</strong> (juzgar que nada cambiará) VS. <strong>Serena Ambición / Entusiasmo</strong> (apertura a crear).</span></div>\n          </div>\n        ",
+        "kicker": "04 · ESTADOS DE ÁNIMO",
+        "title": "El trasfondo desde donde observo",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>A diferencia de una emoción, en un estado de ánimo muchas veces no podemos identificar qué acontecimiento lo gatilló.</p>\n      <p>Tiene una temporalidad mayor y puede convertirse en una predisposición recurrente para la acción.</p>\n      <p>Funciona como una interpretación de trasfondo desde la cual observamos:</p>\n      <div class=\"sensory-cloud\"><strong>EL PRESENTE</strong><strong>EL FUTURO</strong><strong>A NOSOTROS MISMOS</strong><strong>A LOS DEMÁS</strong><strong>NUESTRAS POSIBILIDADES</strong></div>\n      <div class=\"observer-principle\"><strong>No solamente observamos nuestro estado de ánimo.</strong><strong>Observamos el mundo desde él.</strong></div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "05 · LOS 4 PASOS DE GESTIÓN EN ELAC",
-        "title": "Ruta de Aprendizaje Emocional",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Distinguir:</span><span class=\"croquis-desc\">Identificar si estás habitando una emoción puntual o un estado de ánimo recurrente.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Aceptar:</span><span class=\"croquis-desc\">Alojar el sentir sin culparte ni resistir lo que estás sintiendo en tu cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Intervenir Lenguaje y Cuerpo:</span><span class=\"croquis-desc\">Fundamentar los juicios de trasfondo y modificar la postura física y respiratoria.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">4. Generar la Emocionalidad Requerida:</span><span class=\"croquis-desc\">Comprometerte con la emoción que abre el futuro que declaraste.</span></div>\n          </div>\n        ",
+        "kicker": "05 · EMOCIÓN VS. ESTADO DE ÁNIMO",
+        "title": "¿Cómo los distinguimos?",
+        "body": "\n    <div class=\"mood-comparison\">\n      <section><strong>EMOCIÓN</strong><p><b>GATILLADOR</b><span>Identificable.</span></p><p><b>TEMPORALIDAD</b><span>Transitoria.</span></p><p><b>PREDISPOSICIÓN</b><span>Momentánea.</span></p><p><b>PREGUNTA</b><span>¿Qué ocurrió que me emocionó?</span></p></section>\n      <section><strong>ESTADO DE ÁNIMO</strong><p><b>GATILLADOR</b><span>No necesariamente identificable.</span></p><p><b>TEMPORALIDAD</b><span>Más extensa.</span></p><p><b>PREDISPOSICIÓN</b><span>Recurrente.</span></p><p><b>PREGUNTA</b><span>¿Desde qué emocionalidad estoy observando mi mundo?</span></p></section>\n      <div class=\"lesson-emphasis\">AMBOS NOS PREDISPONEN PARA LA ACCIÓN</div>\n      <div class=\"flow-formula\">CUERPO ↔ EMOCIÓN ↔ LENGUAJE</div>\n      <p>Los estados de ánimo, además, pueden ser contagiosos, transportables y constituirse colectivamente.</p>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "06 · CONTAGIO Y CLIMA COLECTIVO",
-        "title": "La Emocionalidad de los Equipos",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Phenómeno Social:</span><span class=\"croquis-desc\">Los estados de ánimo son altamente contagiosos. Una familia, empresa o país comparte climas emocionales invisibles.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Liderazgo Emocional:</span><span class=\"croquis-desc\">El líder transformacional no cambia a la gente: cambia las conversaciones de trasfondo para transformar el clima grupal.</span></div>\n          </div>\n        ",
+        "kicker": "06 · NO SON BUENAS NI MALAS",
+        "title": "¿Qué posibilidades me abre?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Desde este enfoque no buscamos clasificar las emociones simplemente como:</p>\n      <div class=\"muted-emphasis\">BUENAS · MALAS</div>\n      <p>Buscamos distinguir:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ ESTOY SINTIENDO?</strong><strong>¿A QUÉ ACCIÓN ME PREDISPONE?</strong><strong>¿QUÉ POSIBILIDADES ME ABRE?</strong><strong>¿QUÉ POSIBILIDADES ME CIERRA?</strong></div>\n      <p>Una emoción puede ser funcional en determinado contexto y dejar de serlo en otro.</p>\n      <div class=\"observer-principle\"><strong>El desafío no es dejar de sentir, sino aprender a observar desde qué emocionalidad estamos actuando.</strong></div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
-        "kicker": "07 · RECONSTRUCCIÓN LINGÜÍSTICA",
-        "title": "Cambiar la Historia de Trasfondo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Desarmar la Narrativa:</span><span class=\"croquis-desc\">Todo estado de ánimo se sostiene en juicios sobre el pasado o el futuro. Al fundamentar o disolver esos juicios, el clima cambia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseñar Nuevas Emociones:</span><span class=\"croquis-desc\">Generar declaraciones, promesas y acciones concretas para salir del resentimiento o la resignación.</span></div>\n          </div>\n        ",
+        "kicker": "07 · ESTADOS DE ÁNIMO BÁSICOS",
+        "title": "¿Qué juzgo que puedo cambiar?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Podemos observar nuestros estados de ánimo desde dos distinciones:</p>\n      <div class=\"language-acts plain-acts\"><section><strong>FACTICIDAD</strong><p>Aquello que ya ocurrió y no puede ser modificado.</p></section><section><strong>POSIBILIDAD</strong><p>Aquello que puede ser modificado mediante nuestra acción.</p></section></div>\n      <p>Y frente a ello podemos encontrarnos en <strong>aceptación</strong> u <strong>oposición</strong>.</p>\n      <div class=\"mood-matrix\"><span></span><strong>ACEPTO</strong><strong>ME OPONGO</strong><b>No puedo modificarlo</b><em>ACEPTACIÓN</em><em>RESENTIMIENTO</em><b>Puedo modificarlo</b><em>SERENA AMBICIÓN</em><em>RESIGNACIÓN</em></div>\n    </div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "08 · RESENTIMIENTO → ACEPTACIÓN",
+        "title": "Cuando me opongo a lo que ya pasó",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"lesson-emphasis\">RESENTIMIENTO</div>\n      <p>Nos oponemos a una facticidad: algo ocurrió y ya no puede ser modificado.</p>\n      <p>Podemos quedar ligados a:</p>\n      <div class=\"muted-emphasis\">QUEJA · CULPA · RECLAMO NO REALIZADO · EXPECTATIVAS NO CHEQUEADAS</div>\n      <p>El trabajo comienza distinguiendo:</p>\n      <div class=\"lesson-question\"><strong>¿Qué ocurrió?</strong><strong>¿Qué esperaba que ocurriera?</strong><strong>¿Existió realmente una promesa?</strong><strong>¿Hubo incumplimiento?</strong><strong>¿Qué necesito aceptar, reclamar o perdonar?</strong></div>\n      <div class=\"flow-formula\">RESENTIMIENTO → DISTINCIÓN → ACCIÓN → ACEPTACIÓN</div>\n      <p>Aceptar no cambia lo ocurrido. Cambia nuestra relación con lo ocurrido.</p>\n    </div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "09 · RESIGNACIÓN → SERENA AMBICIÓN",
+        "title": "“Las cosas son así”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"lesson-emphasis\">RESIGNACIÓN</div>\n      <p>Aparece cuando tratamos como inmodificable algo sobre lo cual todavía podríamos intervenir.</p>\n      <div class=\"muted-emphasis\">“NO PUEDO.” · “ES IMPOSIBLE.” · “SIEMPRE FUE ASÍ.” · “NO HAY NADA QUE HACER.”</div>\n      <p>La pregunta del coach cambia:</p>\n      <div class=\"lesson-question\"><strong>¿ES UN HECHO O ES UN JUICIO?</strong><strong>¿QUÉ POSIBILIDADES NO ESTOY VIENDO?</strong><strong>¿QUÉ ACCIONES NO ESTOY INTENTANDO?</strong><strong>¿QUÉ AYUDA PODRÍA PEDIR?</strong></div>\n      <p>Cuando volvemos a distinguir posibilidades aparece la <strong>serena ambición</strong>: una disposición desde la cual aceptamos lo que es y accionamos sobre aquello que todavía podemos transformar.</p>\n    </div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "10 · GESTIÓN PRODUCTIVA",
+        "title": "No elegimos qué sentir. Podemos elegir qué hacer.",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Gestionar una emoción o estado de ánimo no significa negarlo, reprimirlo ni reemplazarlo rápidamente por otro.</p>\n      <p>El primer movimiento es:</p>\n      <div class=\"lesson-list management-steps\"><p><strong>01 · DISTINGUIR</strong><span>¿Qué emocionalidad estoy habitando?</span></p><p><strong>02 · ACEPTAR</strong><span>Reconocer que esto es lo que estoy sintiendo ahora.</span></p><p><strong>03 · ESCUCHAR</strong><span>¿A qué está comprometida esta emocionalidad?</span></p></div>\n      <div class=\"lesson-emphasis\">DISTINGUIR → ACEPTAR → ESCUCHAR</div>\n      <div class=\"observer-principle\"><strong>Antes de transformar nuestra emocionalidad necesitamos poder observarla.</strong></div>\n    </div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "11 · ¿QUÉ QUIERO GENERAR?",
+        "title": "Del presente al futuro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Una vez distinguida y aceptada nuestra emocionalidad podemos volver a preguntarnos:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ QUIERO QUE PASE?</strong></div>\n      <div class=\"lesson-list management-steps\"><p><strong>04 · DECLARAR FUTURO</strong><span>Recordar o crear nuestra visión.</span></p><p><strong>05 · RECREAR</strong><span>¿Qué emocionalidad necesito para accionar hacia ella?</span></p><p><strong>06 · ACCIONAR</strong><span>Realizar acciones coherentes con ese futuro.</span></p></div>\n      <div class=\"future-flow compact-flow\"><p><strong>EMOCIONALIDAD ACTUAL</strong></p><b>↓</b><p><strong>VISIÓN</strong></p><b>↓</b><p><strong>EMOCIONALIDAD NECESARIA</strong></p><b>↓</b><p><strong>ACCIÓN</strong></p></div>\n      <p>No gestionamos nuestra emocionalidad para “sentirnos bien”. La gestionamos en función de aquello que estamos comprometidos a generar.</p>\n    </div>",
+        "source": "15) Emociones y Estados de ánimo"
+      },
+      {
+        "kicker": "12 · EMOCIONALIDAD Y FUTURO",
+        "title": "Gestionar para crear",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Nuestra emocionalidad:</p>\n      <div class=\"future-flow paradigm-flow\"><p><strong>MODIFICA AL OBSERVADOR</strong></p><b>↓</b><p><strong>MODIFICA LO QUE DISTINGUIMOS</strong></p><b>↓</b><p><strong>MODIFICA NUESTRAS POSIBILIDADES</strong></p><b>↓</b><p><strong>MODIFICA NUESTRAS ACCIONES</strong></p><b>↓</b><p><strong>PARTICIPA EN LOS RESULTADOS QUE GENERAMOS</strong></p></div>\n      <p>Y cuando coordinamos con otros, nuestra emocionalidad también puede contagiarse y participar de la emocionalidad de un equipo.</p>\n      <div class=\"observer-principle\"><strong>No se trata de controlar lo que sentimos.</strong><strong>Se trata de distinguirlo, aceptarlo y elegir cómo queremos accionar.</strong></div>\n      <div class=\"lesson-emphasis\">OBSERVAR → DISTINGUIR → ELEGIR → ACCIONAR</div>\n    </div>",
         "source": "15) Emociones y Estados de ánimo"
       },
       {
         "type": "reflection",
-        "kicker": "08 · REGISTRO DE REFLEXIÓN",
+        "kicker": "13 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "15) Emociones y Estados de ánimo"

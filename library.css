@@ -761,6 +761,76 @@ body.micro-reel-open { overflow: hidden; }
 .paradigm-comparison .lesson-emphasis {
   grid-column: 1 / -1;
 }
+.mood-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 8px;
+}
+.mood-comparison section {
+  display: grid;
+  align-content: start;
+  gap: 8px;
+}
+.mood-comparison section > strong {
+  color: var(--micro-color);
+  font-size: .78rem;
+}
+.mood-comparison section p {
+  display: grid;
+  gap: 1px;
+  margin: 0;
+}
+.mood-comparison section b {
+  color: #fff;
+  font-size: .66rem;
+}
+.mood-comparison section span {
+  color: #b9bec8;
+  font-size: .75rem;
+  line-height: 1.3;
+}
+.mood-comparison > .lesson-emphasis,
+.mood-comparison > .flow-formula,
+.mood-comparison > p {
+  grid-column: 1 / -1;
+}
+.mood-comparison > p {
+  margin: 0;
+  color: #d1d5db;
+  font-size: .84rem;
+  line-height: 1.45;
+}
+.mood-matrix {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 1fr;
+  gap: 2px;
+  font-size: .68rem;
+  line-height: 1.25;
+  text-align: center;
+}
+.mood-matrix > * {
+  display: grid;
+  place-items: center;
+  min-height: 38px;
+  padding: 5px;
+  background: rgba(255, 255, 255, .04);
+}
+.mood-matrix strong {
+  color: var(--micro-color);
+}
+.mood-matrix b {
+  color: #fff;
+  font-weight: 700;
+}
+.mood-matrix em {
+  color: #d1d5db;
+  font-style: normal;
+}
+.management-steps {
+  gap: 11px;
+  margin-top: 0;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
