@@ -1386,62 +1386,62 @@
     "domain": "Ontología",
     "color": "#e07a5f",
     "hook": "La víctima busca excusas tranquilizadoras para justificar su impotencia; el responsable responde desde su visión para hacer que las cosas pasen.",
-    "minutes": 8,
+    "minutes": 9,
     "slides": [
       {
-        "kicker": "01 · LA DECISIÓN EXISTENCIAL",
-        "title": "Elección de una Forma de Vida",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Filosofía de Vida:</span><span class=\"croquis-desc\">Víctima o Responsable no son rasgos de personalidad fijos: son <strong>posiciones del Observador</strong> que elegimos habitar a cada momento.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Soberanía Ontológica:</span><span class=\"croquis-desc\">Frente a cada brecha insatisfactoria de la vida, podés elegir la inocencia impotente o el poder de acción.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "01 · DOS MANERAS DE OBSERVAR",
+        "title": "Frente a lo que pasa…",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>No siempre elegimos lo que sucede.</p>\n      <p>Sí podemos observar desde dónde respondemos a lo que sucede.</p>\n      <div class=\"dimension-grid paradigm-options\"><section><strong>VÍCTIMA</strong><em>¿POR QUÉ ME PASA ESTO?</em><p>Pone las causas de sus resultados principalmente en las circunstancias, los otros o aquello que debería ser diferente.</p></section><section><strong>RESPONSABLE</strong><em>¿QUÉ PUEDO HACER FRENTE A ESTO?</em><p>Observa las circunstancias y busca qué posibilidades de acción tiene frente a ellas.</p></section></div>\n      <div class=\"observer-principle\"><strong>La distinción no está en lo que pasó.</strong><strong>Está en cómo me posiciono frente a lo que pasó.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
         "kicker": "02 · EL OBSERVADOR VÍCTIMA",
-        "title": "Explicaciones Tranquilizadoras",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Culpas Afuera:</span><span class=\"croquis-desc\">Pone las razones de su inefectividad en las circunstancias, el clima, el gobierno o las acciones ajenas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Trampa del 'No Pude':</span><span class=\"croquis-desc\">Transforma el pasado en sentencia: <em>\"No pude = No puedo\"</em>. Gana la comodidad de ser inocente, pero paga con su poder.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Emocionalidad:</span><span class=\"croquis-desc\">Vive a la deriva, sumergido en la resignación, la queja impotente y el resentimiento acumulativo.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "title": "La explicación está afuera",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Cuando estoy siendo Víctima:</p>\n      <div class=\"lesson-emphasis\">EXPLICO LA BRECHA ENTRE LO QUE QUIERO Y LO QUE LOGRO</div>\n      <p>Pero encuentro las razones de mi inefectividad afuera.</p>\n      <p class=\"editorial-statement\"><strong>“NO PUDE PORQUE…”</strong></p>\n      <div class=\"guilt-examples\"><span>El otro no cambió.</span><span>Las circunstancias no ayudaron.</span><span>No me dieron la oportunidad.</span><span>Siempre me pasa lo mismo.</span></div>\n      <div class=\"observer-principle\"><strong>Para que cambie mi resultado, primero debe cambiar algo afuera.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "03 · EL OBSERVADOR RESPONSABLE",
-        "title": "Responsa-Habilidad y Protagonismo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Habilidad de Responder:</span><span class=\"croquis-desc\">Comprende que no controla los sucesos externos, pero es 100% dueño de la respuesta que elige dar.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">La Pregunta Protagonista:</span><span class=\"croquis-desc\">En lugar de preguntar por qué, se interroga: <em>\"¿Quién necesito SER y qué me faltó aportar a MÍ para lograr el resultado?\"</em>.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "03 · CUANDO EL PASADO SE VUELVE DESTINO",
+        "title": "“No pude = No puedo”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Desde Víctima puedo utilizar mi historia para justificar mi futuro.</p>\n      <div class=\"flow-formula\">NO PUDE → NO PUEDO</div>\n      <p>Mis juicios empiezan a cerrar posibilidades:</p>\n      <div class=\"guilt-examples\"><span>“YO SOY ASÍ.”</span><span>“ESTO SIEMPRE TERMINA IGUAL.”</span><span>“CON ESTA GENTE NO SE PUEDE.”</span><span>“A MÍ NUNCA ME SALE.”</span></div>\n      <div class=\"observer-principle\"><strong>Una explicación puede explicar mi pasado y, al mismo tiempo, limitar mi futuro.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "04 · EXPLICACIONES GENERATIVAS",
-        "title": "El Poder del Compromiso",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Visión sobre Resultados:</span><span class=\"croquis-desc\">Lo que determina el accionar del Protagonista es su <strong>VISIÓN DECLARADA</strong>, no los tropiezos del camino.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar el Pasado:</span><span class=\"croquis-desc\">Toma el pasado como recurso de aprendizaje: <em>\"No pude = Algo me faltó. ¿Qué necesito y qué voy a hacer ahora?\"</em>.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "04 · RESPONSABILIDAD",
+        "title": "Habilidad para responder",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Ser Responsable no significa:</p>\n      <div class=\"muted-emphasis\">CULPARME DE TODO · NEGAR LO QUE EL OTRO HIZO · CREER QUE TODO DEPENDE DE MÍ</div>\n      <p>Significa observar:</p>\n      <div class=\"lesson-question\"><strong>¿QUÉ RESPUESTA PUEDO ELEGIR FRENTE A ESTAS CIRCUNSTANCIAS?</strong></div>\n      <div class=\"observer-principle\"><strong>No controlo todo lo que pasa.</strong><strong>Sí puedo hacerme cargo de mi capacidad de respuesta.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "05 · PREGUNTAS TRANSFORMADORAS",
-        "title": "Cuestionario de Impacto Ontológico",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. Respuesta Proactiva:</span><span class=\"croquis-desc\">¿Qué respuesta elegiste ante la circunstancia? ¿Con qué visión estás comprometido?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. Soltar la Razón:</span><span class=\"croquis-desc\">¿Estás dispuesto a soltar tu necesidad de 'tener razón' para abrir espacio a los resultados que anhelás?</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">3. Coordinar Acciones:</span><span class=\"croquis-desc\">¿Qué pedidos, ofertas y promesas necesitás hacer hoy para mover el futuro?</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "05 · CAMBIAR LA PREGUNTA",
+        "title": "Del por qué al para qué y al qué puedo hacer",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Ante la misma situación puedo preguntarme:</p>\n      <div class=\"victim-choice-grid\"><section><strong>VÍCTIMA</strong><span>¿Por qué me hicieron esto?</span><span>¿Por qué siempre me pasa?</span><span>¿Quién tiene la culpa?</span><span>¿Por qué las cosas no son como deberían?</span></section><section><strong>RESPONSABLE</strong><span>¿Qué quiero que pase?</span><span>¿Qué me falta?</span><span>¿Qué otra acción puedo realizar?</span><span>¿Qué puedo aprender?</span><span>¿Qué puedo pedir?</span><span>¿Qué puedo ofrecer?</span><span>¿Qué compromiso puedo asumir?</span></section></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "06 · MODELO LINGÜÍSTICO EN COACHING",
-        "title": "Del Huevo Derecho al Huevo Izquierdo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Derecho (Víctima):</span><span class=\"croquis-desc\">Habita el colapso de juicios y afirmaciones justificatorias, victimizándose en la historia.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Huevo Izquierdo (Protagonista):</span><span class=\"croquis-desc\">Activa declaraciones de quiebre, pedidos transparentes, ofertas atractivas y promesas impecables.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "06 · EL RESPONSABLE GENERA POSIBILIDADES",
+        "title": "“No pude. Algo me faltó.”",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <div class=\"statement-contrast\"><p><span>Una posibilidad:</span><strong>“NO PUDE, POR LO TANTO NO PUEDO.”</strong></p><p><span>Otra posibilidad:</span><strong>“NO PUDE. ¿QUÉ ME FALTÓ?”</strong></p></div>\n      <p>El pasado deja de ser una condena y puede convertirse en aprendizaje.</p>\n      <div class=\"sensory-cloud\"><strong>ACEPTA ERRORES Y DESVÍOS</strong><strong>APRENDE</strong><strong>DECLARA</strong><strong>PIDE</strong><strong>OFRECE</strong><strong>PROMETE</strong><strong>ACCIONA</strong></div>\n      <div class=\"observer-principle\"><strong>¿Qué quiero?</strong><strong>¿Qué necesito?</strong><strong>¿Qué puedo ofrecer?</strong><strong>Voy por ello.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "07 · INTERVENCIÓN DE COACHING",
-        "title": "Desarticular la Historia de la Víctima",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">No Comprar la Historia:</span><span class=\"croquis-desc\">El coach no valida las quejas pasivas ni la búsqueda de compasión estéril.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Invitar al Poder:</span><span class=\"croquis-desc\">Desafía los juicios de inmovilidad y acompaña al coachee a asumir la soberanía sobre su futuro.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "07 · TODO EL RECORRIDO APARECE ACÁ",
+        "title": "Ser Responsable no es una técnica",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Es una manera de observar y actuar.</p>\n      <p>Cuando elijo hacerme responsable puedo:</p>\n      <div class=\"responsibility-path\"><span>Observar al observador que estoy siendo</span><span>Distinguir hechos de juicios</span><span>Fundamentar mis juicios</span><span>Declarar un quiebre</span><span>Aceptar lo que no puedo cambiar</span><span>Declarar lo que quiero</span><span>Pedir lo que me falta</span><span>Ofrecer lo que puedo dar</span><span>Hacer y honrar promesas</span><span>Escuchar al otro</span><span>Gestionar mis emociones</span><span>Observar mi corporalidad</span><span>Elegir cómo quiero accionar</span></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
-        "kicker": "08 · CULMINACIÓN DEL COLOQUIO 2025",
-        "title": "La Promesa de Transformación",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Síntesis Ontológica:</span><span class=\"croquis-desc\">Integrar las 26 distinciones para vivir con coherencia en el Lenguaje, la Emoción y el Cuerpo.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ser la Posibilidad:</span><span class=\"croquis-desc\">Elegir diariamente ser una oferta poderosa para vos mismo, para tus consultantes y para la comunidad.</span></div>\n          </div>\n        ",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "kicker": "08 · CIERRE",
+        "title": "¿Y ahora qué elegís?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack final-choice-slide\">\n      <p>No elegimos todas las circunstancias.</p>\n      <p>No siempre obtenemos el resultado que queremos.</p>\n      <p>No podemos controlar a los demás.</p>\n      <p>Pero podemos observar:</p>\n      <div class=\"lesson-question\"><strong>¿QUIÉN ESTOY SIENDO FRENTE A LO QUE PASA?</strong><strong>¿QUÉ QUIERO QUE PASE?</strong><strong>¿QUÉ ME FALTA?</strong><strong>¿QUÉ PUEDO HACER?</strong></div>\n      <p>Y entonces elegir.</p>\n      <div class=\"final-choice\"><strong>VÍCTIMA</strong><span>o</span><strong>RESPONSABLE</strong></div>\n      <div class=\"observer-principle\"><strong>Una elección sobre cómo quiero vivir.</strong></div>\n    </div>",
+        "source": "26) Víctima – Responsable"
       },
       {
         "type": "reflection",
         "kicker": "09 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
-        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción final del Coloquio.",
-        "source": "26) Elección de una forma de vida: ¿Víctima o Responsable?"
+        "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción final.",
+        "source": "26) Víctima – Responsable"
       }
     ]
   }

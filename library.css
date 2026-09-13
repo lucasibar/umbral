@@ -960,6 +960,51 @@ body.micro-reel-open { overflow: hidden; }
   gap: 8px;
   font-size: 1.05rem;
 }
+.victim-choice-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  text-align: center;
+}
+.victim-choice-grid section {
+  display: grid;
+  align-content: start;
+  gap: 5px;
+}
+.victim-choice-grid strong {
+  color: var(--micro-color);
+  font-size: .75rem;
+}
+.victim-choice-grid span {
+  color: #e9ebef;
+  font-size: .67rem;
+  line-height: 1.25;
+}
+.responsibility-path {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px 14px;
+}
+.responsibility-path span {
+  color: #e9ebef;
+  font-size: .67rem;
+  line-height: 1.25;
+  text-align: center;
+}
+.final-choice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+.final-choice strong {
+  color: var(--micro-color);
+  font-size: 1rem;
+}
+.final-choice span {
+  color: #b9bec8;
+  font-size: .72rem;
+}
 
 /* Pantalla Completa para Anotaciones de Reflexión */
 .reel-slide-reflection article {
