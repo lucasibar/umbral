@@ -171,44 +171,38 @@
     "minutes": 6,
     "slides": [
       {
-        "kicker": "01 · PODER DECLARATIVO",
-        "title": "La Palabra Antecede al Mundo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Creación de Realidad:</span><span class=\"croquis-desc\">La declaración es la acción lingüística que transforma el mundo y genera realidades que antes no existían.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Giro del Lenguaje:</span><span class=\"croquis-desc\">A diferencia del lenguaje descriptivo, en la declaración <strong>la palabra antecede al mundo</strong> (el mundo se somete al habla).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ruptura de Inercia:</span><span class=\"croquis-desc\">Pronunciar una declaración quiebra la inercia del pasado y abre una línea de tiempo totalmente nueva.</span></div>\n          </div>\n        ",
+        "kicker": "01 · ACTO LINGÜÍSTICO",
+        "title": "Declaraciones",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>Cuando declaramos, <strong>no describimos un mundo que ya existe</strong>.</p>\n      <p>A través de nuestras palabras <strong>generamos una nueva realidad</strong> y modificamos el espacio de posibilidades.</p>\n      <div class=\"lesson-emphasis\">PALABRA → MUNDO</div>\n      <div class=\"declaration-examples\"><strong>“Sí.”</strong><strong>“No.”</strong><strong>“Renuncio.”</strong><strong>“Acepto.”</strong></div>\n      <p>Antes y después de una declaración, <strong>el mundo ya no es el mismo.</strong></p>\n      <div class=\"observer-principle\"><strong>DECLARAR ES ACTUAR</strong></div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "02 · GESTIÓN DE POSIBILIDAD",
-        "title": "Declarar sin Saber el Cómo",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Ver la Posibilidad:</span><span class=\"croquis-desc\">Declaramos cuando <em>\"vemos\"</em> la posibilidad, aunque en el momento inicial no sepamos <em>\"cómo lograrlo\"</em>.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Subjetividad del Observador:</span><span class=\"croquis-desc\">Las posibilidades no están flotando afuera: remiten a un Observador que las distingue y declara.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Conversación Generadora:</span><span class=\"croquis-desc\">Nacen en las conversaciones profundas del Observador consigo mismo o con su entorno.</span></div>\n          </div>\n        ",
+        "kicker": "02 · VALIDEZ",
+        "title": "¿Toda declaración genera realidad?",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Para que una declaración tenga validez, quien la emite debe contar con <strong>autoridad</strong> dentro del dominio correspondiente.</p>\n      <p class=\"editorial-statement\"><strong>“Los declaro casados.”</strong></p>\n      <p>No produce el mismo efecto si lo dice:</p>\n      <div class=\"validity-comparison\"><span>una persona cualquiera</span><b>que</b><strong>una autoridad habilitada.</strong></div>\n      <div class=\"lesson-emphasis\">AUTORIDAD → DECLARACIÓN → NUEVA REALIDAD</div>\n      <div class=\"validity-result\"><p><span>Las declaraciones no son:</span><del>VERDADERAS · FALSAS</del></p><p><span>Son:</span><strong>VÁLIDAS · INVÁLIDAS</strong></p></div>\n      <p>Según la autoridad reconocida para realizarlas.</p>\n      <p class=\"lesson-note\">En las declaraciones, la autoridad cumple una función diferente de la fundamentación de un juicio.</p>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "03 · EVALUACIÓN Y AUTORIDAD",
-        "title": "Válidas vs. Inválidas",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Nunca V/F:</span><span class=\"croquis-desc\">Las declaraciones no son verdaderas ni falsas: se evalúan como <strong>Válidas</strong> o <strong>Inválidas</strong> según la autoridad.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Autoridad Social:</span><span class=\"croquis-desc\">Poder concedido por la comunidad (ej: un juez declara un matrimonio o sentencia).</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Auto-Autoridad Personal:</span><span class=\"croquis-desc\">Dignidad y poder propio que te concedés para decidir y declarar el rumbo de tu propia vida.</span></div>\n          </div>\n        ",
+        "kicker": "03 · DECLARACIONES FUNDAMENTALES",
+        "title": "Declaraciones que abren posibilidades",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Hay declaraciones que forman parte de nuestra capacidad de <strong>intervenir en nuestra propia vida y nuestras relaciones</strong>.</p>\n      <div class=\"fundamental-list\">\n        <p><strong>SÍ</strong><span>Acepto y asumo un compromiso.</span></p>\n        <p><strong>NO</strong><span>Establezco límites y cierro posibilidades.</span></p>\n        <p><strong>NO SÉ</strong><span>Reconozco aquello que no sé y abro la posibilidad de aprender.</span></p>\n        <p><strong>GRACIAS</strong><span>Reconozco aquello que otro hizo por mí.</span></p>\n        <p><strong>PERDÓN</strong><span>Asumo responsabilidad frente al daño que juzgo haber producido.</span></p>\n        <p><strong>AMOR</strong><span>Declaro y hago pública una relación afectiva con otro.</span></p>\n      </div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "04 · EL COMPROMISO SOCIAL",
-        "title": "Coherencia en la Acción",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Acción Consistente:</span><span class=\"croquis-desc\">Declarar te compromete a accionar de manera 100% consistente con la palabra pronunciada.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Transformar en Hechos:</span><span class=\"croquis-desc\">El valor de una declaración se consolida cuando la transformás en afirmaciones comprobables.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Declarar sin Accionar:</span><span class=\"croquis-desc\">Quedarse solo en la palabra sin acción erosiona la autoconfianza y destruye la credibilidad pública.</span></div>\n          </div>\n        ",
+        "kicker": "04 · DISEÑO DE FUTURO",
+        "title": "Declarar un futuro",
+        "body": "\n    <div class=\"editorial-stack lesson-stack\">\n      <p>También podemos declarar <strong>aquello que todavía no existe</strong> pero que nos comprometemos a construir.</p>\n      <div class=\"statement-contrast\"><p><span>No estamos prediciendo:</span><strong>“Esto va a suceder.”</strong></p><p><span>Estamos declarando:</span><strong>“Esto es lo que quiero que suceda.”</strong></p></div>\n      <p>La declaración establece un <strong>futuro deseado</strong> desde el cual podemos comenzar a orientar nuestras acciones.</p>\n      <div class=\"lesson-emphasis\">PRESENTE → DECLARACIÓN → FUTURO DESEADO</div>\n      <div class=\"observer-principle\"><strong>La declaración abre una posibilidad.</strong><strong>La acción comienza a construirla.</strong></div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
-        "kicker": "05 · ORIGEN DE INTERVENCIÓN",
-        "title": "Las 2 Preguntas Maestras",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">1. ¿Qué quiero que pase?:</span><span class=\"croquis-desc\">Declaración de visión, metas y nuevos compromisos para crear el futuro deseado.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">2. ¿Qué NO permito más?:</span><span class=\"croquis-desc\">Declaración de basta, límites y quiebre con patrones tóxicos del pasado.</span></div>\n          </div>\n        ",
-        "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
-      },
-      {
-        "kicker": "06 · LIDERAZGO ONTOLÓGICO",
-        "title": "El Poder de la Voluntad",
-        "body": "\n          <div class=\"croquis-container\">\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Definición de Líder:</span><span class=\"croquis-desc\">Los líderes son observadores capaces de declarar posibilidades donde otros solo ven problemas.</span></div>\n            <div class=\"croquis-item\"><span class=\"croquis-term\">Diseño de Futuro:</span><span class=\"croquis-desc\">Tu futuro no es una consecuencia pasiva del pasado, sino la creación activa de tus declaraciones.</span></div>\n          </div>\n        ",
+        "kicker": "05 · DE LA DECLARACIÓN A LA ACCIÓN",
+        "title": "Declarar no alcanza",
+        "body": "\n    <div class=\"editorial-stack lesson-stack lesson-stack-compact\">\n      <p>Declarar un futuro <strong>abre una posibilidad</strong>, pero no garantiza su realización.</p>\n      <p>Para comenzar a construirlo necesitamos generar <strong>acciones y compromisos</strong> coherentes con aquello que declaramos.</p>\n      <div class=\"future-flow\">\n        <p><strong>DECLARACIÓN</strong><span>¿Qué quiero que pase?</span></p><b>↓</b>\n        <p><strong>ACCIÓN</strong><span>¿Qué necesito hacer para que pase?</span></p><b>↓</b>\n        <p><strong>COORDINACIÓN</strong><span>¿Qué necesito de otros?</span></p><b>↓</b>\n        <p><strong>RESULTADO</strong><span>¿Qué futuro estamos construyendo?</span></p>\n      </div>\n      <div class=\"observer-principle\"><strong>DECLARAR ABRE EL FUTURO.</strong><strong>NUESTRAS ACCIONES LO CONSTRUYEN.</strong></div>\n    </div>",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
       },
       {
         "type": "reflection",
-        "kicker": "07 · REGISTRO DE REFLEXIÓN",
+        "kicker": "06 · REGISTRO DE REFLEXIÓN",
         "title": "Reflexión",
         "body": "Espacio para registrar tus pensamientos y aprendizajes sobre esta distinción.",
         "source": "4) El diseño de futuro como acción declarativa – La declaración como acto lingüístico."
